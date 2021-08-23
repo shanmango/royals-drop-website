@@ -7,7 +7,7 @@
  * 5000000 - 5999999  cash
  * @returns {string} corresponding item table name
 */
-const findItemTable = (id, items) => {
+const findItemTable = (id) => {
   id = parseInt(id)
   let tableToSearch = ''
   if (id < 2000000) {

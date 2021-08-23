@@ -14,8 +14,8 @@ const formatMonsterBookObject = (monsterBook) => {
     // Trim unnecessary field
     delete mob.string
     // Format map and drops to root level
-    infoPartOne = mob.info[0]
-    infoPartTwo = mob.info[1]
+    let infoPartOne = mob.info[0]
+    let infoPartTwo = mob.info[1]
     if (infoPartOne.name === 'map') {
       delete infoPartOne.name
       delete infoPartTwo.name

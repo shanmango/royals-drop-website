@@ -1,4 +1,4 @@
-fs = require('fs')
+const fs = require('fs')
 const parser = require('xml2json')
 const { promisify } = require('util')
 const monsterBookFormatter = require('./src/formatters/MonsterBookFormatter')
