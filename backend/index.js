@@ -1,5 +1,8 @@
 const express = require('express')
+const http = require('http')
 const app = express()
+
+app.use(express.json())
 
 let mobs = [
   {
@@ -394,3 +397,13 @@ let mobs = [
 app.get('/api/mobs', (req, res) => {
   res.json(mobs)
 })
+
+app.get('/api/mobs/:id', (req, res) => {
+  const id = req.params.id
+  const mob = mobs.find(mob => mob.id === id)
+  res.json(mob)
+})
+
+const PORT = 3001
+app.listen(PORT)
+console.log(`Server running on port ${PORT}`)
