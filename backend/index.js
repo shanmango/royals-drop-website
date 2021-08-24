@@ -1,8 +1,7 @@
 const express = require('express')
-const http = require('http')
+// const http = require('http')
 const app = express()
 
-app.use(express.json())
 
 let mobs = [
   {
@@ -394,6 +393,20 @@ let mobs = [
   }
 ]
 
+/* -------- Middleware ----------- */
+const requestLogger = (req, res, next) => {
+  console.log('Method:', req.method)
+  console.log('Path:  ', req.path)
+  console.log('Body:  ', req.body)
+  console.log('---')
+  next()
+}
+
+const unknownEndpoint = (request, response) => {
+  response.status(404).send({ error: 'unknown endpoint' })
+}
+
+/* ------------ Mock endpoints --------------- */
 app.get('/api/mobs', (req, res) => {
   res.json(mobs)
 })
@@ -404,6 +417,10 @@ app.get('/api/mobs/:id', (req, res) => {
   res.json(mob)
 })
 
+
+app.use(express.json())
+app.use(requestLogger)
+app.use(unknownEndpoint)
 const PORT = 3001
 app.listen(PORT)
 console.log(`Server running on port ${PORT}`)
