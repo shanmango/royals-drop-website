@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "dev": "nodemon index.js"
   },
   "author": "Mark Shan",
   "license": "ISC",
@@ -14,6 +15,7 @@
     "express": "^4.17.1"
   },
   "devDependencies": {
-    "eslint": "^7.32.0"
+    "eslint": "^7.32.0",
+    "nodemon": "^2.0.12"
   }
 }

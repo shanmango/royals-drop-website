@@ -390,3 +390,7 @@ let mobs = [
     'name': 'Green Mushroom'
   }
 ]
+
+app.get('/api/mobs', (req, res) => {
+  res.json(mobs)
+})
