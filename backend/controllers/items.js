@@ -19,13 +19,4 @@ itemsRouter.get('/:id', async (req, res) => {
   }
 })
 
-itemsRouter.post('/', async (req, res) => {
-  const body = req.body
-  console.log(body)
-  const item = new Item({...body})
-
-  const savedItem = await item.save()
-  res.json(savedItem)
-})
-
 module.exports = itemsRouter
