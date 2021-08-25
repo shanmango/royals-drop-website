@@ -27,7 +27,7 @@ itemsRouter.post('/', async (req, res) => {
   const body = req.body
   const response = await Item.insertMany(body)
   console.log('mass insertion of items complete')
-  res.status(200).statusMessage('mass insertion of items complete')
+  res.status(200).send('mass insertion of items complete')
 
 })
 

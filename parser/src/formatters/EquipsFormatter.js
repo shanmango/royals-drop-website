@@ -8,6 +8,10 @@ const formatEquipsObject = (equips) => {
   })
   // Flatten arrays into one array
   equips = equips.flat()
+  // Remove cosmetics (unnecessary data)
+  equips = equips.filter(eq => {
+    return parseInt(eq.name) >= 1000000
+  })
   // Place names into object
   let result = itemFormatter.formatItems(equips)
   return result

@@ -27,7 +27,7 @@ mobsRouter.post('/', async (req, res) => {
   console.log(body)
   const response = await Mob.insertMany(body)
   console.log('mass insertion of mobs complete')
-  res.json(response.data)
+  res.status(200).send('mass insertion of mobs complete')
 })
 
 
