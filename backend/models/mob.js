@@ -14,7 +14,7 @@ const dropSchema = new mongoose.Schema({
     type: String,
     required: true
   },
-  _id: {
+  id: {
     type: String,
     required: true,
     unique: true
@@ -22,7 +22,7 @@ const dropSchema = new mongoose.Schema({
 })
 
 const mobSchema = new mongoose.Schema({
-  _id: {
+  id: {
     type: String,
     required: true,
     unique: true
@@ -41,7 +41,6 @@ const mobSchema = new mongoose.Schema({
 
 mobSchema.set('toJSON', {
   transform: (document, returnedObject) => {
-    returnedObject.id = returnedObject._id.toString()
     delete returnedObject._id
     delete returnedObject.__v
     returnedObject.drops.map(drop => {

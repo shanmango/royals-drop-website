@@ -32,19 +32,16 @@ const itemSchema = new mongoose.Schema({
     required: true  
   },
   desc: String,
-  mobs: [
-    {
-      type: mongoose.Schema.Types.ObjectId,
-      ref: 'Mob'
-    }
-  ]
+  mobs: [dropperSchema]
 })
 
 itemSchema.set('toJSON', {
   transform: (document, returnedObject) => {
-    returnedObject.id = returnedObject._id.toString()
     delete returnedObject._id
     delete returnedObject.__v
+    returnedObject.mobs.map(mob => {
+      delete mob._id
+    })
   }
 })
 

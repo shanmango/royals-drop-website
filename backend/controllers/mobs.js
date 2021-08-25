@@ -11,7 +11,8 @@ mobsRouter.get('/', async (req, res) => {
 })
 
 mobsRouter.get('/:id', async (req, res) => {
-  const mob = await Mob.find({ id: req.params.id })
+  // Unique validation done in schema, game ID should be unique
+  const mob = await Mob.findOne({id: req.params.id})
   if (mob) {
     res.json(mob)
   } else {
