@@ -41,6 +41,9 @@ mobSchema.set('toJSON', {
   transform: (document, returnedObject) => {
     delete returnedObject._id
     delete returnedObject.__v
+    returnedObject.drops.map(drop => {
+      delete drop._id
+    })
   }
 })
 

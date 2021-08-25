@@ -2,6 +2,10 @@ GET http://localhost:3001/api/mobs/
 
 ###
 
+GET http://localhost:3001/api/mobs/100100
+
+###
+
 POST http://localhost:3001/api/mobs/
 content-type: application/json
 
