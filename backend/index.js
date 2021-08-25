@@ -1,8 +1,14 @@
-const express = require('express')
-// const http = require('http')
-const app = express()
+const app = require('./app')
+const http = require('http')
+const config = require('./utils/config')
+const logger = require('./utils/logger')
 
+const server = http.createServer(app)
 
+server.listen(config.PORT, () => {
+  logger.info(`Server running on port ${config.PORT}`)
+})
+/*
 let mobs = [
   {
     'id': '100100',
@@ -393,34 +399,4 @@ let mobs = [
   }
 ]
 
-/* -------- Middleware ----------- */
-const requestLogger = (req, res, next) => {
-  console.log('Method:', req.method)
-  console.log('Path:  ', req.path)
-  console.log('Body:  ', req.body)
-  console.log('---')
-  next()
-}
-
-const unknownEndpoint = (request, response) => {
-  response.status(404).send({ error: 'unknown endpoint' })
-}
-
-/* ------------ Mock endpoints --------------- */
-app.get('/api/mobs', (req, res) => {
-  res.json(mobs)
-})
-
-app.get('/api/mobs/:id', (req, res) => {
-  const id = req.params.id
-  const mob = mobs.find(mob => mob.id === id)
-  res.json(mob)
-})
-
-
-app.use(express.json())
-app.use(requestLogger)
-app.use(unknownEndpoint)
-const PORT = 3001
-app.listen(PORT)
-console.log(`Server running on port ${PORT}`)
+*/
