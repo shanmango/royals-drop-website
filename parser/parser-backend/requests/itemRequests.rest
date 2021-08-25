@@ -1,0 +1,41 @@
+GET http://localhost:3001/api/items/
+
+###
+
+GET http://localhost:3001/api/items/2290000
+###
+POST http://localhost:3001/api/items/
+content-type: application/json
+
+{
+    "id": "2290000",
+    "itemType": "use",
+    "name": "[Mastery Book] Monster Magnet",
+    "desc": "This increases master level of the  #cMonster Magnet# skill up to 20 with 70% chance of success.\\nJob : 4th Advancement Warrior\\nCondition : Skill level above 5",
+    "mobs": [
+      {
+        "id": "8190002",
+        "name": "Nest Golem"
+      },
+      {
+        "id": "8520000",
+        "name": "Pianus"
+      },
+      {
+        "id": "9420517",
+        "name": "Petrifighter"
+      },
+      {
+        "id": "9420522",
+        "name": "Krexel"
+      },
+      {
+        "id": "5250005",
+        "name": "Ancient Fairy"
+      },
+      {
+        "id": "8210002",
+        "name": "Blood Reindeer"
+      }
+    ]
+  }
