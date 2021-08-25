@@ -2,8 +2,7 @@ GET http://localhost:3001/api/items/
 
 ###
 
-GET http://localhost:3001/api/items/100100
-
+GET http://localhost:3001/api/items/2290000
 ###
 POST http://localhost:3001/api/items/
 content-type: application/json
