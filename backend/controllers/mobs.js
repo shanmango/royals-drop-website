@@ -23,12 +23,7 @@ mobsRouter.get('/:id', async (req, res) => {
 mobsRouter.post('/', async (req, res) => {
   const body = req.body
   console.log(body)
-  const mob = new Mob({
-    id: body.id,
-    name: body.name,
-    maps: body.maps,
-    drops: body.drops
-  })
+  const mob = new Mob({...body})
 
   const savedMob = await mob.save()
   res.json(savedMob)
