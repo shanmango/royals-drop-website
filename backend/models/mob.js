@@ -4,6 +4,21 @@
 const mongoose = require('mongoose')
 const uniqueValidator = require('mongoose-unique-validator')
 
+const dropSchema = new mongoose.Schema({
+  name: {
+    type: String,
+    required: true
+  },
+  desc: {
+    type: String,
+    required: true
+  },
+  id: {
+    type: String,
+    required: true
+  }
+})
+
 const mobSchema = new mongoose.Schema({
   id: {
     type: String,
@@ -18,18 +33,12 @@ const mobSchema = new mongoose.Schema({
     type: [String],
     required: true
   },
-  drops: [
-    {
-      type: mongoose.Schema.Types.ObjectId,
-      ref: 'Item'
-    }
-  ]
+  drops: [dropSchema]
 
 })
 
 mobSchema.set('toJSON', {
   transform: (document, returnedObject) => {
-    returnedObject.id = returnedObject._id.toString()
     delete returnedObject._id
     delete returnedObject.__v
   }

@@ -1,0 +1,52 @@
+GET http://localhost:3001/api/mobs/
+
+###
+
+POST http://localhost:3001/api/mobs/
+content-type: application/json
+
+{
+    "id": "100100",
+    "maps": [
+      "40000",
+      "40001",
+      "40002",
+      "50000",
+      "1000000",
+      "1000002",
+      "1000003",
+      "1000004",
+      "1010004",
+      "1020001",
+      "104000100",
+      "104000200"
+    ],
+    "drops": [
+      {
+        "name": "Snail Shell",
+        "desc": "Shell removed from a snail",
+        "id": "4000019"
+      },
+      {
+        "name": "Red Potion",
+        "desc": "A potion made out of red herbs.\\nRecovers 50 HP.",
+        "id": "2000000"
+      },
+      {
+        "name": "Scroll for Helmet for DEF 10%",
+        "desc": "Improves helmet def.\\nSuccess Rate:10%, weapon def.+5, magic def.+3, accuracy+1. ",
+        "id": "2040002"
+      },
+      {
+        "name": "Scroll for Cape for Magic Def. 60%",
+        "desc": "Improves magic def. on the cape.\\nSuccess rate:60%, magic def.+3, weapon def.+1. ",
+        "id": "2041001"
+      },
+      {
+        "name": "Arrow for Bow",
+        "desc": "A barrel full of arrows. Only usable with bows.\\nAttack +1",
+        "id": "2060000"
+      }
+    ],
+    "name": "Snail"
+  }
