@@ -10,11 +10,8 @@ const dropSchema = new mongoose.Schema({
     type: String,
     required: true
   },
-  desc: {
-    type: String,
-    required: true
-  },
-  id: {
+  desc: String,
+  itemid: {
     type: String,
     required: true
   }

@@ -21,12 +21,13 @@ mobsRouter.get('/:id', async (req, res) => {
 })
 
 mobsRouter.post('/', async (req, res) => {
+  // Delete old data first
+  await Mob.collection.drop()
   const body = req.body
   console.log(body)
-  const mob = new Mob({...body})
-
-  const savedMob = await mob.save()
-  res.json(savedMob)
+  const response = await Mob.insertMany(body)
+  console.log('mass insertion of mobs complete')
+  res.json(response.data)
 })
 
 

@@ -6,7 +6,7 @@ const uniqueValidator = require('mongoose-unique-validator')
 
 /* Schema for list of mobs */
 const dropperSchema = new mongoose.Schema({
-  id: {
+  mobid: {
     type: String,
     required: true
   },
