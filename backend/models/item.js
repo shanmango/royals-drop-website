@@ -8,8 +8,7 @@ const uniqueValidator = require('mongoose-unique-validator')
 const dropperSchema = new mongoose.Schema({
   id: {
     type: String,
-    required: true,
-    unique: true
+    required: true
   },
   name: {
     type: String,
