@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const baseUrl = 'http://localhost:3001/api/mobs'
+const baseUrl = '/api/mobs'
 
 // Returns only mob name and game id
 const getSearchList = async () => {

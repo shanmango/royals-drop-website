@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const baseUrl = 'http://localhost:3001/api/items'
+const baseUrl = '/api/items'
 
 // Returns only item name and game id
 const getSearchList = async () => {
