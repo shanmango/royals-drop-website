@@ -2,6 +2,7 @@ import React from 'react'
 import Mob from './components/Mob'
 import TypeSelector from './components/TypeSelector'
 import Search from './components/Search'
+
 function App() {
   return (
     <div>
