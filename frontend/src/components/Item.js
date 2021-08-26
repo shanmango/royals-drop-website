@@ -1,21 +1,20 @@
 import React from 'react'
 import { useSelector, useDispatch } from 'react-redux'
-const Mob = () => {
+const Item = () => {
   const dispatch = useDispatch()
   const category = useSelector(state => state.search.category)
-  
 
-  const MobDisplay = () => {
+  const ItemDisplay = () => {
     return (
       <div></div>
     )
   }
-
+  
   return (
     <div>
-      {category === 'mobs' && MobDisplay}
+      {category === 'items' && ItemDisplay}
     </div>
   )
 }
 
-export default Mob
+export default Item

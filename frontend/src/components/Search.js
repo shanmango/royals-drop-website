@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { useSelector, useDispatch } from 'react-redux'
 import WindowedSelect, { createFilter } from 'react-windowed-select'
-import { setSelected } from '../reducers/selectedReducer'
+import { setSelected } from '../reducers/searchReducer'
 
 /**
  * Search bar component
@@ -14,7 +14,7 @@ const Search = () => {
   // Select dataset based on type state
   let options = useSelector((state) => {
     let data = []
-    if (state.category === 'mobs') {
+    if (state.search.category === 'mobs') {
       data = state.mobs
     } else {
       data = state.items
