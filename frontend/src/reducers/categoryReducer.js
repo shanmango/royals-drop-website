@@ -1,4 +1,4 @@
-const searchReducer = (state = {category: 'mobs', selected: null}, action) => {
+const searchReducer = (state = 'mobs', action) => {
   switch (action.type) {
     case 'SEARCH_BY':
       return action.category

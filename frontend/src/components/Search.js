@@ -1,17 +1,20 @@
 import React, { useState } from 'react'
-import { useSelector } from 'react-redux'
+import { useSelector, useDispatch } from 'react-redux'
 import WindowedSelect, { createFilter } from 'react-windowed-select'
+import { test } from '../reducers/mobReducer' 
+
 /**
  * Search bar component
  */
 const Search = () => {
+  const dispatch = useDispatch()
   const style = {
     'maxWidth': '200pt'
   }
 
   // Select dataset based on type state
   const data = useSelector((state) => {
-    if (state.type === 'mobs') {
+    if (state.category === 'mobs') {
       return state.mobs
     } else {
       return state.items
@@ -41,6 +44,7 @@ const Search = () => {
 
   const setSelected = (event) => {
     console.log(event)
+    dispatch(test([]))
   }
 
   // Only open menu if text input has text in it

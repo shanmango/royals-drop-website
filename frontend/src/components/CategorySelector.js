@@ -1,5 +1,5 @@
 import React from 'react'
-import { searchBy } from '../reducers/searchReducer'
+import { searchBy } from '../reducers/categoryReducer'
 import { useSelector, useDispatch } from 'react-redux'
 
 const CategorySelector = () => {
@@ -9,9 +9,8 @@ const CategorySelector = () => {
   }
 
   // Fix re-render clicking issue with radio buttons
-  const type = useSelector(state => state.search)
+  const type = useSelector(state => state.category)
   const mobSelected = type === 'mobs'
-  
 
   return (
     <div>

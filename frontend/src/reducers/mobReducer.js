@@ -4,6 +4,8 @@ const reducer = (state = [], action) => {
   switch (action.type) {
     case ('INIT_MOBS'):
       return action.data
+    case ('test'):
+      return action.e
     default:
       return state
   }
@@ -17,6 +19,13 @@ export const initializeMobs = () => {
       type: 'INIT_MOBS',
       data: mobs
     })
+  }
+}
+
+export const test = e => {
+  return {
+    type: 'test',
+    e
   }
 }
 
