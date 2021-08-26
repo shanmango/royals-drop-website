@@ -52,18 +52,30 @@ const Search = () => {
       setMenuIsOpen(false)
     }
   }
-  
+
+  // select bar
+  const selectBar = () => (
+      <div style={style}>
+        <WindowedSelect
+          style={style}
+          isClearable
+          escapeClearsValue='true'
+          menuIsOpen={menuIsOpen}
+          filterOption={createFilter(filterConfig)}
+          options={options}
+          onChange={setSelected} 
+          onInputChange={onInputChange}/>
+      </div> 
+    )
+  const loadingMessage = () => (
+    <p>
+      Drop data is loading...
+    </p>
+  )
   return (
-    <div style={style}>
-      <WindowedSelect
-        style={style}
-        isClearable
-        escapeClearsValue='true'
-        menuIsOpen={menuIsOpen}
-        filterOption={createFilter(filterConfig)}
-        options={options}
-        onChange={setSelected} 
-        onInputChange={onInputChange}/>
+    <div>
+      {options.length > 0 && selectBar()}
+      {options.length < 1 && loadingMessage()}
     </div>
   )
 }

@@ -1,4 +1,4 @@
-const typeSelectorReducer = (state = {category: 'mobs', selected: null}, action) => {
+const searchReducer = (state = {category: 'mobs', selected: null}, action) => {
   switch (action.type) {
     case 'SEARCH_BY':
       return action.category
@@ -14,4 +14,4 @@ export const searchBy = category => {
   }
 }
 
-export default typeSelectorReducer
+export default searchReducer
