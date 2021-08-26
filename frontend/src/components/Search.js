@@ -64,8 +64,7 @@ const Search = () => {
         filterOption={createFilter(filterConfig)}
         options={options}
         onChange={onChange}
-        value={searchItem}
-        onInputChange={onInputChange} />
+        value={searchItem} />
     </div>
   )
 
