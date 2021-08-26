@@ -39,9 +39,10 @@ const Search = () => {
     trim: true,
     matchFrom: 'start'
   }
-
+  
+  let category = useSelector(state => state.search.category)
   const onChange = (event) => {
-    dispatch(setSelected(event))
+    dispatch(setSelected(event, category))
   }
 
   // Only open menu if text input has text in it

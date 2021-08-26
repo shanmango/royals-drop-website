@@ -1,7 +1,6 @@
 import React from 'react'
-import { useSelector, useDispatch } from 'react-redux'
+import { useSelector } from 'react-redux'
 const Mob = () => {
-  const dispatch = useDispatch()
   const category = useSelector(state => state.search.category)
   
 

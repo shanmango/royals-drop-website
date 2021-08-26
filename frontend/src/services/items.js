@@ -12,11 +12,16 @@ const getSearchList = async () => {
     return item
   })
   return items
+}
 
+const getById = async (id) => {
+  const response = await axios.get(`${baseUrl}/${id}`)
+  return response.data
 }
 
 const exportedObject = {
-  getSearchList
+  getSearchList,
+  getById
 }
 
 export default exportedObject

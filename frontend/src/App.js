@@ -1,9 +1,10 @@
 import React, { useEffect } from 'react'
-import Mob from './components/Mob'
 import { useDispatch } from 'react-redux'
 
 import CategorySelector from './components/CategorySelector'
 import Search from './components/Search'
+import Mob from './components/Mob'
+import Item from './components/Item'
 
 import { initializeMobs } from './reducers/mobReducer'
 import { initializeItems } from './reducers/itemReducer'
@@ -25,6 +26,7 @@ function App() {
       <CategorySelector />
       <Search />
       <Mob />
+      <Item />
     </div>
 
   )
