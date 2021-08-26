@@ -22,8 +22,7 @@ const Search = () => {
     if (data) {
       return data.map(x => {
         let object = {
-          id: x.id,
-          value: x.name,
+          value: x.id,
           label: x.name
         }
         return object
