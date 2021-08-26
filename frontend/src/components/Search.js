@@ -1,8 +1,9 @@
 import React, { useState } from 'react'
 import { useSelector, useDispatch } from 'react-redux'
 import WindowedSelect, { createFilter } from 'react-windowed-select'
-import { test } from '../reducers/mobReducer' 
+import { setSelected } from '../reducers/selectedReducer' 
 
+import Form from 'react-bootstrap/Form'
 /**
  * Search bar component
  */
@@ -11,7 +12,6 @@ const Search = () => {
   const style = {
     'maxWidth': '200pt'
   }
-
   // Select dataset based on type state
   const data = useSelector((state) => {
     if (state.category === 'mobs') {
@@ -43,8 +43,9 @@ const Search = () => {
   }
 
   const setSelected = (event) => {
+    event.preventDefault()
     console.log(event)
-    dispatch(test([]))
+    // dispatch(setSelected(''))
   }
 
   // Only open menu if text input has text in it
@@ -59,17 +60,17 @@ const Search = () => {
 
   // select bar
   const selectBar = () => (
-      <div style={style}>
+      <Form style={style} onSubmit={setSelected}>
         <WindowedSelect
           style={style}
+          placeholder='Search for a mob or item'
           isClearable
           escapeClearsValue='true'
           menuIsOpen={menuIsOpen}
           filterOption={createFilter(filterConfig)}
           options={options}
-          onChange={setSelected} 
           onInputChange={onInputChange}/>
-      </div> 
+      </Form> 
     )
   const loadingMessage = () => (
     <p>
