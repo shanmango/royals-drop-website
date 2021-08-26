@@ -1,9 +1,8 @@
 import React, { useState } from 'react'
 import { useSelector, useDispatch } from 'react-redux'
 import WindowedSelect, { createFilter } from 'react-windowed-select'
-import { setSelected } from '../reducers/selectedReducer' 
+import { setSelected } from '../reducers/selectedReducer'
 
-import Form from 'react-bootstrap/Form'
 /**
  * Search bar component
  */
@@ -13,26 +12,26 @@ const Search = () => {
     'maxWidth': '200pt'
   }
   // Select dataset based on type state
-  const data = useSelector((state) => {
+  let options = useSelector((state) => {
+    let data = []
     if (state.category === 'mobs') {
-      return state.mobs
+      data = state.mobs
     } else {
-      return state.items
+      data = state.items
+    }
+    if (data) {
+      return data.map(x => {
+        let object = {
+          id: x.id,
+          value: x.name,
+          label: x.name
+        }
+        return object
+      })
+    } else {
+      return []
     }
   })
-
-  let options = []
-
-  if (data) {
-    options = data.map(x => {
-      let object = {
-        id: x.id,
-        value: x.name,
-        label: x.name
-      }
-      return object
-    })
-  }
 
   // Search by beginning of string
   const filterConfig = {
@@ -42,10 +41,8 @@ const Search = () => {
     matchFrom: 'start'
   }
 
-  const setSelected = (event) => {
-    event.preventDefault()
-    console.log(event)
-    // dispatch(setSelected(''))
+  const onChange = (event) => {
+    dispatch(setSelected(event))
   }
 
   // Only open menu if text input has text in it
@@ -60,23 +57,27 @@ const Search = () => {
 
   // select bar
   const selectBar = () => (
-      <Form style={style} onSubmit={setSelected}>
-        <WindowedSelect
-          style={style}
-          placeholder='Search for a mob or item'
-          isClearable
-          escapeClearsValue='true'
-          menuIsOpen={menuIsOpen}
-          filterOption={createFilter(filterConfig)}
-          options={options}
-          onInputChange={onInputChange}/>
-      </Form> 
-    )
+    <div style={style}>
+      <WindowedSelect
+        components={{ DropdownIndicator: () => null, IndicatorSeparator: () => null }}
+        style={style}
+        placeholder='Search for a mob or item'
+        isClearable
+        escapeClearsValue='true'
+        menuIsOpen={menuIsOpen}
+        filterOption={createFilter(filterConfig)}
+        options={options}
+        onChange={onChange}
+        onInputChange={onInputChange} />
+    </div>
+  )
+
   const loadingMessage = () => (
     <p>
       Drop data is loading...
     </p>
   )
+
   return (
     <div>
       {options.length > 0 && selectBar()}
