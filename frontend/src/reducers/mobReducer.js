@@ -11,7 +11,6 @@ const reducer = (state = [], action) => {
 
 export const initializeMobs = () => {
   return async dispatch => {
-    // TODO: Add MongoDB Call
     const mobs = await mobService.getSearchList()
     dispatch({
       type: 'INIT_MOBS',
