@@ -42,7 +42,7 @@ const Search = () => {
     matchFrom: 'start'
   }
 
-  const change = (event) => {
+  const setSelected = (event) => {
     console.log(event)
   }
 
@@ -52,9 +52,8 @@ const Search = () => {
     } else {
       setMenuIsOpen(false)
     }
-
   }
-
+  
   return (
     <div style={style}>
       <WindowedSelect
@@ -64,7 +63,7 @@ const Search = () => {
         menuIsOpen={menuIsOpen}
         filterOption={createFilter(filterConfig)}
         options={options}
-        onChange={change} 
+        onChange={setSelected} 
         onInputChange={onInputChange}/>
     </div>
   )
