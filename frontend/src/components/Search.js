@@ -1,23 +1,19 @@
 import React, { useState } from 'react'
 import { useSelector } from 'react-redux'
 import WindowedSelect, { createFilter } from 'react-windowed-select'
-
 /**
  * Search bar component
  */
 const Search = () => {
-  const [menuIsOpen, setMenuIsOpen] = useState(false)
   const style = {
     'max-width': '200pt'
   }
 
   // Select dataset based on type state
   const data = useSelector((state) => {
-
     if (state.type === 'mobs') {
       return state.mobs
     } else {
-      // TODO: add item support
       return state.items
     }
   })
@@ -35,6 +31,7 @@ const Search = () => {
     })
   }
 
+  // Search by beginning of string
   const filterConfig = {
     ignoreCase: true,
     ignoreAccents: true,
@@ -46,6 +43,8 @@ const Search = () => {
     console.log(event)
   }
 
+  // Only open menu if text input has text in it
+  const [menuIsOpen, setMenuIsOpen] = useState(false)
   const onInputChange = (event) => {
     if (event) {
       setMenuIsOpen(true)
