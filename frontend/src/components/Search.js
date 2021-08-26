@@ -45,7 +45,6 @@ const Search = () => {
     console.log(event)
   }
 
-
   return (
     <div style={style}>
       <WindowedSelect
