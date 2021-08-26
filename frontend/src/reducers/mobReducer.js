@@ -12,9 +12,12 @@ const reducer = (state = [], action) => {
 export const initializeMobs = () => {
   return async dispatch => {
     const mobs = await mobService.getSearchList()
+    console.log('initialize mobs')
     dispatch({
       type: 'INIT_MOBS',
       data: mobs
     })
   }
 }
+
+export default reducer

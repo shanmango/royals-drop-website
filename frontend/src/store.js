@@ -3,13 +3,13 @@ import thunk from 'redux-thunk'
 import { composeWithDevTools } from 'redux-devtools-extension'
 
 import typeSelectorReducer from './reducers/typeSelectorReducer'
+import mobReducer from './reducers/mobReducer'
 
-/*
 const reducer = combineReducers({
-  typeSelector: typeSelectorReducer
+  type: typeSelectorReducer,
+  mobs: mobReducer
 })
-*/
-const reducer = typeSelectorReducer
+
 
 const store = createStore(
   reducer,

@@ -9,7 +9,7 @@ const TypeSelector = () => {
   }
 
   // Fix re-render clicking issue with radio buttons
-  const type = useSelector(state => state)
+  const type = useSelector(state => state.type)
   const mobSelected = type === 'mobs'
   
 
