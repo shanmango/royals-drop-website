@@ -6,13 +6,14 @@ import WindowedSelect, { createFilter } from 'react-windowed-select'
  * Search bar component
  */
 const Search = () => {
-
+  const [menuIsOpen, setMenuIsOpen] = useState(false)
   const style = {
     'max-width': '200pt'
   }
 
   // Select dataset based on type state
   const data = useSelector((state) => {
+
     if (state.type === 'mobs') {
       return state.mobs
     } else {
@@ -45,14 +46,26 @@ const Search = () => {
     console.log(event)
   }
 
+  const onInputChange = (event) => {
+    if (event) {
+      setMenuIsOpen(true)
+    } else {
+      setMenuIsOpen(false)
+    }
+
+  }
+
   return (
     <div style={style}>
       <WindowedSelect
         style={style}
         isClearable
+        escapeClearsValue='true'
+        menuIsOpen={menuIsOpen}
         filterOption={createFilter(filterConfig)}
         options={options}
-        onChange={change} />
+        onChange={change} 
+        onInputChange={onInputChange}/>
     </div>
   )
 }
