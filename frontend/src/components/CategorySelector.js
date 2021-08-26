@@ -1,10 +1,13 @@
 import React from 'react'
-import { searchBy } from '../reducers/searchReducer'
+import { searchBy, clearSelected } from '../reducers/searchReducer'
 import { useSelector, useDispatch } from 'react-redux'
 
-const CategorySelector = () => {
+const CategorySelector = (props) => {
   const dispatch = useDispatch()
+  // Clear selected if category type changed
   const changeSearchType = (event, category) => {
+    props.setSearchItem(null)
+    dispatch(clearSelected())
     dispatch(searchBy(category))
   }
 

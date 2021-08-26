@@ -6,6 +6,8 @@ const searchReducer = (state = { category: 'mobs', selected: null }, action) => 
       return { ...state, category: action.category}
     case 'SET_SELECTED':
       return { ...state, selected: action.data }
+    case 'CLEAR_SELECTED':
+      return { ...state, selected: null }
     default:
       return state
   }
@@ -20,16 +22,24 @@ export const searchBy = category => {
 
 export const setSelected = (selected, category) => {
   return async dispatch => {
-    console.log(selected)
-    console.log(category)
-    let data = category === 'mobs' 
-    ? await mobService.getById(selected.value) 
-    : await itemService.getById(selected.value)
-    console.log(data)
+    let data = null
+    if (selected) {
+      data = category === 'mobs' 
+      ? await mobService.getById(selected.value) 
+      : await itemService.getById(selected.value)
+      console.log(data)
+    }
+
     dispatch({
       type: 'SET_SELECTED',
       data
     })
+  }
+}
+
+export const clearSelected = () => {
+  return {
+    type: 'CLEAR_SELECTED'
   }
 }
 

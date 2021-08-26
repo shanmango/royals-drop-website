@@ -1,18 +1,11 @@
 import React from 'react'
 import { useSelector } from 'react-redux'
 const Mob = () => {
-  const category = useSelector(state => state.search.category)
-  
-
-  const MobDisplay = () => {
-    return (
-      <div></div>
-    )
-  }
+  const search = useSelector(state => state.search)
 
   return (
     <div>
-      {category === 'mobs' && MobDisplay}
+      mob
     </div>
   )
 }

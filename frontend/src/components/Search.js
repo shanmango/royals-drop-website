@@ -1,7 +1,8 @@
-import React, { useState } from 'react'
+import React, { useState, useRef } from 'react'
 import { useSelector, useDispatch } from 'react-redux'
 import WindowedSelect, { createFilter } from 'react-windowed-select'
 import { setSelected } from '../reducers/searchReducer'
+import CategorySelector from './CategorySelector'
 
 /**
  * Search bar component
@@ -11,6 +12,11 @@ const Search = () => {
   const style = {
     'maxWidth': '200pt'
   }
+
+  // Functionality to clear search on category change click
+  const [searchItem, setSearchItem] = useState(null)
+
+
   // Select dataset based on type state
   let options = useSelector((state) => {
     let data = []
@@ -42,6 +48,7 @@ const Search = () => {
   
   let category = useSelector(state => state.search.category)
   const onChange = (event) => {
+    setSearchItem(event)
     dispatch(setSelected(event, category))
   }
 
@@ -68,6 +75,7 @@ const Search = () => {
         filterOption={createFilter(filterConfig)}
         options={options}
         onChange={onChange}
+        value={searchItem}
         onInputChange={onInputChange} />
     </div>
   )
@@ -80,6 +88,9 @@ const Search = () => {
 
   return (
     <div>
+      <CategorySelector 
+        setSearchItem={setSearchItem}
+      />
       {options.length > 0 && selectBar()}
       {options.length < 1 && loadingMessage()}
     </div>
