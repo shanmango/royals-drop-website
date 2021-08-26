@@ -1,7 +1,7 @@
 import mobService from '../services/mobs'
 
 const reducer = (state = [], action) => {
-  switch(action.type) {
+  switch (action.type) {
     case ('INIT_MOBS'):
       return action.data
     default:
