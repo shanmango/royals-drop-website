@@ -21,6 +21,8 @@ function App() {
   return (
     <div>
       <h1>MapleRoyals Drop Tracker</h1>
+      Version: 73.4
+      <hr></hr>
       <Search />
       <Info />
     </div>

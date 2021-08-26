@@ -17,9 +17,10 @@ const CategorySelector = (props) => {
 
   return (
     <div>
-      Search by:
+      Search by: &nbsp;
       Mob <input type="radio" name="typeselector" checked={mobSelected}
         onChange={(event) => changeSearchType(event, 'mobs')}/>
+        &nbsp;
       Item <input type="radio" name="typeselector" checked={!mobSelected}
         onChange={(event) => changeSearchType(event, 'items')} />
     </div>
