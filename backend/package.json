@@ -7,7 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
     "lint": "eslint .",
-    "dev": "nodemon index.js"
+    "dev": "nodemon index.js",
+    "build:ui": "rm -rf build && cd ../frontend/ && npm run build --prod && cp -r build ../backend/build",
+    "deploy": "cd .. && git subtree push --prefix backend heroku master",
+    "deploy:full": "npm run build:ui && npm run deploy"
+
   },
   "author": "Mark Shan",
   "license": "ISC",
