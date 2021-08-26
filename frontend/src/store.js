@@ -2,11 +2,11 @@ import { createStore, combineReducers, applyMiddleware } from 'redux'
 import thunk from 'redux-thunk'
 import { composeWithDevTools } from 'redux-devtools-extension'
 
-import typeSelectorReducer from './reducers/typeSelectorReducer'
+import searchReducer from './reducers/searchReducer'
 import mobReducer from './reducers/mobReducer'
 import itemReducer from './reducers/itemReducer'
 const reducer = combineReducers({
-  type: typeSelectorReducer,
+  search: searchReducer,
   mobs: mobReducer,
   items: itemReducer
 })

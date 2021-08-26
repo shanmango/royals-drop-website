@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react'
 import Mob from './components/Mob'
-import TypeSelector from './components/TypeSelector'
+import CategorySelector from './components/CategorySelector'
 import Search from './components/Search'
 import { useDispatch } from 'react-redux'
 import { initializeMobs } from './reducers/mobReducer'
@@ -20,7 +20,7 @@ function App() {
   return (
     <div>
       <h1>MapleRoyals Drop Tracker</h1>
-      <TypeSelector />
+      <CategorySelector />
       <Search />
       <Mob />
     </div>

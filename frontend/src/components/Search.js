@@ -6,7 +6,7 @@ import WindowedSelect, { createFilter } from 'react-windowed-select'
  */
 const Search = () => {
   const style = {
-    'max-width': '200pt'
+    'maxWidth': '200pt'
   }
 
   // Select dataset based on type state
