@@ -5,10 +5,13 @@ import { composeWithDevTools } from 'redux-devtools-extension'
 import categoryReducer from './reducers/categoryReducer'
 import mobReducer from './reducers/mobReducer'
 import itemReducer from './reducers/itemReducer'
+import selectedReducer from './reducers/selectedReducer'
+
 const reducer = combineReducers({
   category: categoryReducer,
   mobs: mobReducer,
-  items: itemReducer
+  items: itemReducer,
+  selected: selectedReducer
 })
 
 const store = createStore(
