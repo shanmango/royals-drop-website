@@ -52,16 +52,6 @@ const Search = () => {
     dispatch(setSelected(event, category))
   }
 
-  // Only open menu if text input has text in it
-  const [menuIsOpen, setMenuIsOpen] = useState(false)
-  const onInputChange = (event) => {
-    if (event) {
-      setMenuIsOpen(true)
-    } else {
-      setMenuIsOpen(false)
-    }
-  }
-
   // select bar
   const selectBar = () => (
     <div style={style}>
@@ -71,7 +61,6 @@ const Search = () => {
         placeholder='Search for a mob or item'
         isClearable
         escapeClearsValue='true'
-        menuIsOpen={menuIsOpen}
         filterOption={createFilter(filterConfig)}
         options={options}
         onChange={onChange}
