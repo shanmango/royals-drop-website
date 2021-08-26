@@ -4,12 +4,12 @@ import { composeWithDevTools } from 'redux-devtools-extension'
 
 import typeSelectorReducer from './reducers/typeSelectorReducer'
 import mobReducer from './reducers/mobReducer'
-
+import itemReducer from './reducers/itemReducer'
 const reducer = combineReducers({
   type: typeSelectorReducer,
-  mobs: mobReducer
+  mobs: mobReducer,
+  items: itemReducer
 })
-
 
 const store = createStore(
   reducer,

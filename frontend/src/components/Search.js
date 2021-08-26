@@ -5,21 +5,17 @@ import Select from 'react-select'
 
 
 const Search = () => {
-
-  const searchBar = () => {
-
-  }
   const style = {
     'background-color': '#234234'
   }
-  // const type = useSelector(state => state.type)
+
   // Select dataset based on type state
   const data = useSelector((state) => {
     if (state.type === 'mobs') {
       return state.mobs
     } else {
       // TODO: add item support
-      return []
+      return state.items
     }
   })
 
