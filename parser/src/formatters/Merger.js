@@ -48,6 +48,7 @@ const mergeItemsIntoMobs = (mobs, items) => {
       mob.drops.push({ ...itemObject, itemid: id })
     })
   })
+  mobs = mobs.sort((a, b) => a.name.toLowerCase().compareLocale(b.name.toLowerCase()))
   return mobs
 }
 

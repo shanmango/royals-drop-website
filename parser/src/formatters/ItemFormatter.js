@@ -48,6 +48,7 @@ const formatObjectsToArray = (items) => {
       result.push(itemToPush)
     })
   })
+  result = result.sort((a, b) => a.name.toLowerCase().compareLocale(b.name.toLowerCase()))
   return result
 }
 
