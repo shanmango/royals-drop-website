@@ -47,7 +47,7 @@ const Search = () => {
     trim: true,
     matchFrom: 'start'
   }
-  
+
   let category = useSelector(state => state.search.category)
   const onChange = (event) => {
     setSearchItem(event)
