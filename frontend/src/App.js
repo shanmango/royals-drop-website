@@ -24,7 +24,6 @@ function App() {
       <Header />
       <hr></hr>
       <Search />
-      <Info />
     </div>
 
   )

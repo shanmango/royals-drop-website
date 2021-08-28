@@ -1,6 +1,8 @@
 import React from 'react'
 import { Table } from 'react-bootstrap'
 import { useDispatch, useSelector } from 'react-redux'
+import { clearSelected, searchBy, setSelected } from '../reducers/searchReducer'
+
 const ListItem = ({listItem}) => {
   const dispatch = useDispatch()
 
@@ -9,19 +11,20 @@ const ListItem = ({listItem}) => {
   let imgUrl = category === 'mobs'
   ? `https://maplestory.io/api/GMS/210.1.1/item/${listItem.id}/icon?resize=1.5`
   : `https://maplestory.io/api/GMS/210.1.1/mob/${listItem.id}/render/stand`
-  /*
-  if (category === 'mobs') {
-    imgUrl = `https://maplestory.io/api/GMS/210.1.1/item/${listItem.id}/icon?resize=1.5`
-  } else {
-    imgUrl = `https://maplestory.io/api/GMS/210.1.1/mob/${listItem.id}/render/stand`
+
+  
+  const handleClick = (listItem, category) => {
+    category = category === 'mobs' ? 'items' : 'mobs'
+    // Search by clicked item
+    dispatch(clearSelected())
+    dispatch(searchBy(category))
+    dispatch(setSelected({value: listItem.id}, category))
+    
   }
-*/
-  const handleClick = (listItem) => {
-    console.log(listItem)
-  }
+  
 
   return (
-    <tr onClick={() => handleClick(listItem)}>
+    <tr onClick={() => handleClick(listItem, category)}>
       <td>
         <div>{listItem.name}</div>
         {listItem.desc && <div>{listItem.desc}</div>}

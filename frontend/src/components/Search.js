@@ -1,8 +1,10 @@
-import React, { useState, useRef } from 'react'
+import React, { useState } from 'react'
 import { useSelector, useDispatch } from 'react-redux'
 import WindowedSelect, { createFilter } from 'react-windowed-select'
 import { setSelected } from '../reducers/searchReducer'
+
 import CategorySelector from './CategorySelector'
+import Info from './Info'
 
 /**
  * Search bar component
@@ -81,6 +83,7 @@ const Search = () => {
       />
       {options.length > 0 && selectBar()}
       {options.length < 1 && loadingMessage()}
+      {searchItem && <Info />}
     </div>
   )
 }
