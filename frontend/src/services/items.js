@@ -5,12 +5,16 @@ const baseUrl = '/api/items'
 // Returns only item name and game id
 const getSearchList = async () => {
   const response = await axios.get(baseUrl)
-  const items = response.data.map(item => {
+  let items = response.data.filter(item => {
+    return item.mobs.length
+  })
+  items = items.map(item => {
     delete item.itemType
     delete item.desc
     delete item.mobs
     return item
   })
+
   return items
 }
 

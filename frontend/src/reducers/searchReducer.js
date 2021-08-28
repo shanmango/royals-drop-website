@@ -27,7 +27,6 @@ export const setSelected = (selected, category) => {
       data = category === 'mobs' 
       ? await mobService.getById(selected.value) 
       : await itemService.getById(selected.value)
-      console.log(data)
     }
 
     dispatch({

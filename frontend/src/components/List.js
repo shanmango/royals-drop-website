@@ -1,27 +1,32 @@
 import React from 'react'
 import { Table } from 'react-bootstrap'
-import { useSelector } from 'react-redux'
+import { useDispatch, useSelector } from 'react-redux'
 const ListItem = ({listItem}) => {
+  const dispatch = useDispatch()
+
   // Set right image source url
   const category = useSelector(state => state.search.category)
-  let imgUrl
-  
+  let imgUrl = category === 'mobs'
+  ? `https://maplestory.io/api/GMS/210.1.1/item/${listItem.id}/icon?resize=1.5`
+  : `https://maplestory.io/api/GMS/210.1.1/mob/${listItem.id}/render/stand`
+  /*
   if (category === 'mobs') {
-    imgUrl = `https://maplestory.io/api/EMS/92/item/${listItem.itemid}/icon?resize=1.5`
+    imgUrl = `https://maplestory.io/api/GMS/210.1.1/item/${listItem.id}/icon?resize=1.5`
   } else {
-    imgUrl = `https://maplestory.io/api/EMS/92/mob/${listItem.mobid}/render/stand`
+    imgUrl = `https://maplestory.io/api/GMS/210.1.1/mob/${listItem.id}/render/stand`
+  }
+*/
+  const handleClick = (listItem) => {
+    console.log(listItem)
   }
 
-  const handleClick =  (event) => {
-    console.log(event)
-  }
   return (
-    <tr onClick={handleClick} key={listItem.id}>
+    <tr onClick={() => handleClick(listItem)}>
       <td>
         <div>{listItem.name}</div>
         {listItem.desc && <div>{listItem.desc}</div>}
       </td>
-      <td>
+      <td key="1">
         <img src={imgUrl} alt='img'/>
       </td>
     </tr>
@@ -30,7 +35,6 @@ const ListItem = ({listItem}) => {
 
 
 const List = ({ list }) => {
-
   if (list.length === 0) {
     return (
       <div>Either this data isn't available, or this item isn't dropped by any mob :(</div>
@@ -43,7 +47,7 @@ const List = ({ list }) => {
           {
             list.map((listItem) => {
               return (
-                <ListItem listItem={listItem} />
+                <ListItem listItem={listItem} key={listItem.id} />
               )
             })
           }

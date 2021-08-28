@@ -3,7 +3,6 @@ import { useSelector } from 'react-redux'
 import List from './List'
 const Mob = () => {
   const mob = useSelector(state => state.search.selected)
-  console.log(mob)
   return (
     <div>
       <h4>{mob.name}</h4>

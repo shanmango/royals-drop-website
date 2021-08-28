@@ -59,7 +59,6 @@ const mergeMobsIntoItems = (mobs, items) => {
     droplist.forEach(id => {
       const itemTable = findItemTable(id, items)
       let mobCopy = { ...mob }
-      delete mobCopy.id
       delete mobCopy.drops
       delete mobCopy.maps
       items[itemTable][id]['mobs'].push(mobCopy)
