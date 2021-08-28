@@ -4,21 +4,25 @@ import { useSelector } from 'react-redux'
 const ListItem = ({listItem}) => {
   // Set right image source url
   const category = useSelector(state => state.search.category)
-  console.log(listItem)
   let imgUrl
+  
   if (category === 'mobs') {
     imgUrl = `https://maplestory.io/api/EMS/92/item/${listItem.itemid}/icon?resize=1.5`
   } else {
     imgUrl = `https://maplestory.io/api/EMS/92/mob/${listItem.mobid}/render/stand`
   }
+
+  const handleClick =  (event) => {
+    console.log(event)
+  }
   return (
-    <tr>
+    <tr onClick={handleClick} key={listItem.id}>
       <td>
         <div>{listItem.name}</div>
-        <div>{listItem.desc}</div>
+        {listItem.desc && <div>{listItem.desc}</div>}
       </td>
       <td>
-        <img src={imgUrl} alt='image' />
+        <img src={imgUrl} alt='img'/>
       </td>
     </tr>
   )
