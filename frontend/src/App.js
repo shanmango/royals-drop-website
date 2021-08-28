@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react'
 import { useDispatch } from 'react-redux'
 
+import Header from './components/Header'
 import Search from './components/Search'
 import Info from './components/Info'
 
@@ -19,15 +20,8 @@ function App() {
   }, [dispatch])
 
   return (
-    <div>
-      <h1>MapleRoyals Drop Tracker</h1>
-
-      <div style={{display: 'inline'}}>
-        Game Version: 73.4
-      </div>
-      <div style={{display: 'inline'}}>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Created By: Shanmango
-      </div>
+    <div className="container">
+      <Header />
       <hr></hr>
       <Search />
       <Info />
