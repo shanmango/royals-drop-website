@@ -3,7 +3,6 @@ import { useDispatch } from 'react-redux'
 
 import Header from './components/Header'
 import Search from './components/Search'
-import Info from './components/Info'
 
 import { initializeMobs } from './reducers/mobReducer'
 import { initializeItems } from './reducers/itemReducer'
