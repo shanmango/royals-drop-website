@@ -78,7 +78,7 @@ const Search = () => {
 
   return (
     <div>
-      <CategorySelector 
+      <CategorySelector
         setSearchItem={setSearchItem}
       />
       {options.length > 0 && selectBar()}
