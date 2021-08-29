@@ -16,7 +16,7 @@ const Search = () => {
   }
 
   // Select dataset based on type state
-  let options = useSelector((state) => {
+  const options = useSelector((state) => {
     let data = []
     if (state.search.category === 'mobs') {
       data = state.mobs
