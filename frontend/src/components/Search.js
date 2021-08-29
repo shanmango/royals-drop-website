@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React from 'react'
 import { useSelector, useDispatch } from 'react-redux'
 import WindowedSelect, { createFilter } from 'react-windowed-select'
 import { setSelected } from '../reducers/searchReducer'
