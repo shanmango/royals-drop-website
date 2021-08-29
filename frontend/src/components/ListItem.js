@@ -8,8 +8,8 @@ const ListItem = ({listItem}) => {
   // Set right image source url
   const category = useSelector(state => state.search.category)
   let imgUrl = category === 'mobs'
-  ? `https://maplestory.io/api/GMS/210.1.1/item/${listItem.id}/icon?resize=1.5`
-  : `https://maplestory.io/api/GMS/210.1.1/mob/${listItem.id}/render/stand`
+  ? `https://maplestory.io/api/SEA/198/item/${listItem.id}/icon?resize=1.5`
+  : `https://maplestory.io/api/SEA/198/mob/${listItem.id}/render/stand`
 
   const searchClickedItem = (listItem, category) => {
     category = category === 'mobs' ? 'items' : 'mobs'

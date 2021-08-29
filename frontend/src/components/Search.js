@@ -3,7 +3,7 @@ import { useSelector, useDispatch } from 'react-redux'
 import Select, { createFilter } from 'react-select'
 import { setSelected } from '../reducers/searchReducer'
 import CategorySelector from './CategorySelector'
-import Info from './Info'
+import InfoDisplay from './InfoDisplay'
 
 /**
  * Search bar component
@@ -43,9 +43,9 @@ const Search = () => {
     matchFrom: 'start'
   }
 
-  let category = useSelector(state => state.search.category)
+  let search = useSelector(state => state.search)
   const onChange = (event) => {
-    dispatch(setSelected(event, category))
+    dispatch(setSelected(event, search.category))
   }
 
   // select bar
@@ -75,7 +75,7 @@ const Search = () => {
       <CategorySelector />
       {options.length > 0 && selectBar()}
       {options.length < 1 && loadingMessage()}
-      <Info />
+      {search.selected && <InfoDisplay />}
     </div>
   )
 }
