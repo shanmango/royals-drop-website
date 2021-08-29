@@ -17,12 +17,19 @@ function App() {
   useEffect(() => {
     dispatch(initializeItems())
   }, [dispatch])
-
+  const padding = '25%'
+  const style = {
+    'padding-left': padding,
+    'padding-right': padding,
+    'border-style': 'solid'
+  }
   return (
     <div className="container">
       <Header />
-      <hr></hr>
-      <Search />
+      <div style={style}>
+        <hr></hr>
+        <Search />
+      </div>
     </div>
 
   )
