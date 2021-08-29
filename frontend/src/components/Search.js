@@ -15,10 +15,6 @@ const Search = () => {
     'maxWidth': '200pt'
   }
 
-  // Functionality to clear search on category change click
-  const [searchItem, setSearchItem] = useState(null)
-
-
   // Select dataset based on type state
   let options = useSelector((state) => {
     let data = []
@@ -50,7 +46,6 @@ const Search = () => {
 
   let category = useSelector(state => state.search.category)
   const onChange = (event) => {
-    setSearchItem(event)
     dispatch(setSelected(event, category))
   }
 
@@ -66,7 +61,7 @@ const Search = () => {
         filterOption={createFilter(filterConfig)}
         options={options}
         onChange={onChange}
-        value={searchItem} />
+        value={''} />
     </div>
   )
 
@@ -78,12 +73,10 @@ const Search = () => {
 
   return (
     <div>
-      <CategorySelector
-        setSearchItem={setSearchItem}
-      />
+      <CategorySelector />
       {options.length > 0 && selectBar()}
       {options.length < 1 && loadingMessage()}
-      {searchItem && <Info />}
+      <Info />
     </div>
   )
 }

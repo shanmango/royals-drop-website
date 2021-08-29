@@ -2,11 +2,10 @@ import React from 'react'
 import { searchBy, clearSelected } from '../reducers/searchReducer'
 import { useSelector, useDispatch } from 'react-redux'
 
-const CategorySelector = (props) => {
+const CategorySelector = () => {
   const dispatch = useDispatch()
   // Clear selected if category type changed
-  const changeSearchType = (event, category) => {
-    props.setSearchItem(null)
+  const changeSearchType = (category) => {
     dispatch(clearSelected())
     dispatch(searchBy(category))
   }
@@ -19,10 +18,10 @@ const CategorySelector = (props) => {
     <div>
       Search by: &nbsp;
       Mob <input type="radio" name="typeselector" checked={mobSelected}
-        onChange={(event) => changeSearchType(event, 'mobs')}/>
+        onChange={(event) => changeSearchType('mobs')}/>
         &nbsp;
       Item <input type="radio" name="typeselector" checked={!mobSelected}
-        onChange={(event) => changeSearchType(event, 'items')} />
+        onChange={(event) => changeSearchType('items')} />
     </div>
   )
 }
