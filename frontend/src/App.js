@@ -1,5 +1,6 @@
 import React, { useEffect } from 'react'
 import { useDispatch } from 'react-redux'
+import './App.css'
 
 import Header from './components/Header'
 import Search from './components/Search'
@@ -17,18 +18,15 @@ function App() {
   useEffect(() => {
     dispatch(initializeItems())
   }, [dispatch])
-  const padding = '25%'
-  const style = {
-    'padding-left': padding,
-    'padding-right': padding,
-    'border-style': 'solid'
-  }
+
   return (
-    <div className="container">
-      <Header />
-      <div style={style}>
-        <hr></hr>
-        <Search />
+    <div className="App">
+      <div className="container" style={{'padding':'0', 'background-color':'white', 'height':'100%'}}>
+        <Header />
+        <div style={{ 'padding': '0 25%' }}>
+          <hr></hr>
+          <Search />
+        </div>
       </div>
     </div>
 

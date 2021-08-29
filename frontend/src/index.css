@@ -1,0 +1,13 @@
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+#root{
+  height: 100%;
+  background-image: url(../src/img/hhg1.png);
+  background-position: 50% 80%;
+  background-repeat: no-repeat;
+  background-size: cover; 
+  background-color: rgba(37, 193, 255, 0.1);
+}
