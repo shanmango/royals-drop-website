@@ -11,10 +11,8 @@ const ListItem = ({listItem}) => {
   ? `https://maplestory.io/api/GMS/210.1.1/item/${listItem.id}/icon?resize=1.5`
   : `https://maplestory.io/api/GMS/210.1.1/mob/${listItem.id}/render/stand`
 
-  
-  const handleClick = (listItem, category) => {
+  const searchClickedItem = (listItem, category) => {
     category = category === 'mobs' ? 'items' : 'mobs'
-    // Search by clicked item
     dispatch(clearSelected())
     dispatch(searchBy(category))
     dispatch(setSelected({value: listItem.id}, category))
@@ -22,12 +20,12 @@ const ListItem = ({listItem}) => {
   }
 
   return (
-    <tr onClick={() => handleClick(listItem, category)}>
+    <tr onClick={() => searchClickedItem(listItem, category)}>
       <td>
         <div>{listItem.name}</div>
         {listItem.desc && <div>{listItem.desc}</div>}
       </td>
-      <td key="1">
+      <td>
         <img src={imgUrl} alt='img'/>
       </td>
     </tr>
