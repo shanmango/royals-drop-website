@@ -2,7 +2,7 @@ import React from 'react'
 import ToggleButtonGroup from 'react-bootstrap/ToggleButtonGroup'
 import ToggleButton from 'react-bootstrap/ToggleButton'
 import { searchBy, clearSelected } from '../reducers/searchReducer'
-import { useDispatch } from 'react-redux'
+import { useSelector, useDispatch } from 'react-redux'
 import '../styles/CategorySelector.scss'
 
 const CategorySelector = () => {
@@ -12,6 +12,8 @@ const CategorySelector = () => {
     dispatch(clearSelected())
     dispatch(searchBy(category))
   }
+  
+  const type = useSelector(state => state.search.category)
 
   return (
     <div className="buttons">
@@ -19,7 +21,7 @@ const CategorySelector = () => {
       <ToggleButtonGroup
         type="radio"
         name="type-selector"
-        defaultValue="mobs"
+        value={type}
         onChange={(event) => changeSearchType(event, 'items')}>
         <ToggleButton id="mobs-radio" value="mobs" variant="outline-dark">Mobs</ToggleButton>
         <ToggleButton id="items-radio" value="items" variant="outline-dark">Items</ToggleButton>
