@@ -4,9 +4,9 @@ import List from './List'
 const Mob = () => {
   const data = useSelector(state => state.search.selected)
   const category = useSelector(state => state.search.category)
-  let imgUrl = category === 'mobs'
-    ? `https://maplestory.io/api/GMS/210.1.1/item/${data.id}/icon?resize=1.5`
-    : `https://maplestory.io/api/GMS/210.1.1/mob/${data.id}/render/stand`
+  let imgUrl = category === 'items'
+    ? `https://maplestory.io/api/SEA/198/item/${data.id}/icon?resize=1.5`
+    : `https://maplestory.io/api/SEA/198/mob/${data.id}/render/stand`
 
   return (
     <div >
