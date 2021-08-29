@@ -16,7 +16,7 @@ const Mob = () => {
           <h5>Drops:</h5>
         </div>
         <div>
-          <img style={{"max-height":"200px"}} src={imgUrl} alt='img' />
+          <img style={{"maxHeight":"200px"}} src={imgUrl} alt='img' />
 
         </div>
 

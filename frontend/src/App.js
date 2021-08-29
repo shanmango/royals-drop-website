@@ -24,7 +24,6 @@ function App() {
       <div className="container">
         <Header />
         <div className="info-display">
-          <hr></hr>
           <Search />
         </div>
       </div>
