@@ -1,8 +1,7 @@
 import React from 'react'
 import { useSelector, useDispatch } from 'react-redux'
-import WindowedSelect, { createFilter } from 'react-windowed-select'
+import Select, { createFilter } from 'react-select'
 import { setSelected } from '../reducers/searchReducer'
-
 import CategorySelector from './CategorySelector'
 import Info from './Info'
 
@@ -52,7 +51,7 @@ const Search = () => {
   // select bar
   const selectBar = () => (
     <div style={style}>
-      <WindowedSelect
+      <Select
         components={{ DropdownIndicator: () => null, IndicatorSeparator: () => null }}
         style={style}
         placeholder='Search for a mob or item'
