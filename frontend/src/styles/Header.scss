@@ -1,0 +1,26 @@
+.banner {
+  color: white;
+  text-shadow: 0 0 1rem #000000;
+  padding: 2rem 0;
+  background-image: url(../img/maplestorybanner.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
+  .title {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+    #royals {
+      color: black;
+      max-height: 5em;
+    }
+
+    h1 {
+      padding: 0 0.2em;
+      margin-top: auto;
+
+    }
+  }
+}

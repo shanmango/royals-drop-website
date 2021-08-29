@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react'
 import { useDispatch } from 'react-redux'
-import './App.css'
+import './styles/App.scss'
 
 import Header from './components/Header'
 import Search from './components/Search'
@@ -21,9 +21,9 @@ function App() {
 
   return (
     <div className="App">
-      <div className="container" style={{'padding':'0', 'background-color':'white', 'height':'100%'}}>
+      <div className="container">
         <Header />
-        <div style={{ 'padding': '0 25%' }}>
+        <div className="info-display">
           <hr></hr>
           <Search />
         </div>
