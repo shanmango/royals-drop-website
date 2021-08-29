@@ -4,8 +4,8 @@ import logo from '../img/mr.png'
 const Header = () => {
 
   return (
-    <div className="text-center banner">
-      <div className="title">
+    <div className="text-center" id="banner">
+      <div id="title">
         <h1>The Unofficial</h1>
         <img id="royals" src={logo} alt="MapleRoyals"/>
         <h1>Drop Tracker</h1>

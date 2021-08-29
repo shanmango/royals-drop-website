@@ -1,0 +1,24 @@
+#info-display {
+  border-style: dashed;
+}
+
+#selected-item {
+  display: flex;
+
+  .title-caption-pair {
+    flex: 1;
+  }
+
+  #search-image {
+    display: flex;
+    align-items: center;
+    height: 150px;
+    width: 150px;
+
+    img {
+
+      max-width: 150px;
+      height: auto;
+    }
+  }
+}

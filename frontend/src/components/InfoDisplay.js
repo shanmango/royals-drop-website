@@ -1,7 +1,7 @@
 import React from 'react'
 import { useSelector } from 'react-redux'
 import List from './List'
-
+import '../styles/InfoDisplay.scss'
 const InfoDisplay = () => {
   const data = useSelector(state => state.search.selected)
   const category = useSelector(state => state.search.category)
@@ -19,17 +19,15 @@ const InfoDisplay = () => {
   }
 
   return (
-    <div >
-      <div style={{ display: 'flex' }}>
-        <div style={{ flex: 1 }}>
+    <div id="info-display">
+      <div id="selected-item">
+        <div className="title-caption-pair">
           <h4>{data.name}</h4>
           <h5>{caption}</h5>
         </div>
-        <div>
-          <img style={{ "maxHeight": "200px" }} src={imgUrl} alt='img' />
-
+        <div id="search-image">
+          <img src={imgUrl} alt='img' />
         </div>
-
       </div>
       <List list={list} />
     </div>

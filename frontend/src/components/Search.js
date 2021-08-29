@@ -4,15 +4,12 @@ import Select, { createFilter } from 'react-select'
 import { setSelected } from '../reducers/searchReducer'
 import CategorySelector from './CategorySelector'
 import InfoDisplay from './InfoDisplay'
-
+import '../styles/Search.scss'
 /**
  * Search bar component
  */
 const Search = () => {
   const dispatch = useDispatch()
-  const style = {
-    'maxWidth': '200pt'
-  }
 
   // Select dataset based on type state
   const options = useSelector((state) => {
@@ -50,34 +47,33 @@ const Search = () => {
 
   // select bar
   const selectBar = () => (
-    <div style={style}>
-      <Select
-        components={{ DropdownIndicator: () => null, IndicatorSeparator: () => null }}
-        style={style}
-        placeholder='Search for a mob or item'
-        isClearable
-        escapeClearsValue='true'
-        filterOption={createFilter(filterConfig)}
-        options={options}
-        onChange={onChange}
-        value={''} />
-    </div>
+    <Select
+      components={{ DropdownIndicator: () => null, IndicatorSeparator: () => null }}
+      placeholder='Search for a mob or item'
+      isClearable
+      escapeClearsValue='true'
+      filterOption={createFilter(filterConfig)}
+      options={options}
+      onChange={onChange}
+      value={''} />
   )
 
-  const loadingMessage = () => (
-    <p>
-      Drop data is loading...
-    </p>
-  )
+const loadingMessage = () => (
+  <p>
+    Drop data is loading...
+  </p>
+)
 
-  return (
+return (
+  <div id="search-body">
     <div>
       <CategorySelector />
       {options.length > 0 && selectBar()}
       {options.length < 1 && loadingMessage()}
-      {search.selected && <InfoDisplay />}
     </div>
-  )
+    {search.selected && <InfoDisplay />}
+  </div>
+)
 }
 
 export default Search

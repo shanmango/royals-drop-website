@@ -2,7 +2,7 @@ import React from 'react'
 import ToggleButtonGroup from 'react-bootstrap/ToggleButtonGroup'
 import ToggleButton from 'react-bootstrap/ToggleButton'
 import { searchBy, clearSelected } from '../reducers/searchReducer'
-import { useSelector, useDispatch } from 'react-redux'
+import { useDispatch } from 'react-redux'
 import '../styles/CategorySelector.scss'
 
 const CategorySelector = () => {
@@ -12,10 +12,6 @@ const CategorySelector = () => {
     dispatch(clearSelected())
     dispatch(searchBy(category))
   }
-
-  // Fix re-render clicking issue with radio buttons
-  const type = useSelector(state => state.search.category)
-  const mobSelected = type === 'mobs'
 
   return (
     <div className="buttons">
