@@ -23,7 +23,7 @@ function App() {
     <div className="App">
       <div className="container">
         <Header />
-        <div className="info-display">
+        <div>
           <Search />
         </div>
       </div>
