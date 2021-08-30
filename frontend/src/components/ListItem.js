@@ -26,8 +26,10 @@ const ListItem = ({ listItem }) => {
         <div className="info-name">{listItem.name}</div>
         {listItem.desc && <div className="info-desc">{listItem.desc}</div>}
       </td>
-      <td className="image-column-container">
+      <td className="image-column">
+        <div className="image-column-container">
           <img src={imgUrl} alt='img' />
+        </div>
       </td>
     </tr>
   )

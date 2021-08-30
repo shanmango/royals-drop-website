@@ -1,11 +1,25 @@
 .info-row {
-  .image-column-container {
-    text-align: right;
+  .image-column {
     vertical-align: middle;
+    display: table-cell;
+    
+    .image-column-container {
+      display: flex;
+
+      img {
+        margin: auto;
+        max-height: 120px;
+        max-width: 120px;
+        height: auto;
+        width: auto;
+      }
+    }
 
   }
-
+ 
   .info-name {
     font-weight: bold;
   }
+
 }
+
