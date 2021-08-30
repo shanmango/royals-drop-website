@@ -2,11 +2,11 @@
   .image-column {
     vertical-align: middle;
     display: table-cell;
-    
+
     .image-column-container {
       display: flex;
       max-height: 120px;
-      width: 120px;
+      max-width: 120px;
       float: right;
       img {
         margin: auto;
