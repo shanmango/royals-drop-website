@@ -2,6 +2,7 @@ import React from 'react'
 import { useSelector } from 'react-redux'
 import List from './List'
 import '../styles/InfoDisplay.scss'
+
 const InfoDisplay = () => {
   const data = useSelector(state => state.search.selected)
   const category = useSelector(state => state.search.category)
@@ -14,21 +15,21 @@ const InfoDisplay = () => {
     list = data.mobs
   } else {
     imgUrl = `https://maplestory.io/api/SEA/198/mob/${data.id}/render/stand`
-    caption = 'Drops:'
+    caption = 'Items That This Mob Drops:'
     list = data.drops
   }
 
   return (
-    <div id="info-display">
+    <div id="info-display" className="card">
       <div id="selected-item">
-        <div className="title-caption-pair">
-          <h4>{data.name}</h4>
-          <h5>{caption}</h5>
+        <div id="selected-name">
+          <h2>{data.name}</h2>
         </div>
-        <div id="search-image">
+        <div id="search-image-container" className="card">
           <img src={imgUrl} alt='img' />
         </div>
       </div>
+      <h4 id="caption">{caption}</h4>
       <List list={list} />
     </div>
   )
