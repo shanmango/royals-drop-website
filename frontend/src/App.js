@@ -4,6 +4,7 @@ import './styles/App.scss'
 
 import Header from './components/Header'
 import Search from './components/Search'
+import Footer from './components/Footer'
 
 import { initializeMobs } from './reducers/mobReducer'
 import { initializeItems } from './reducers/itemReducer'
@@ -23,9 +24,9 @@ function App() {
     <div className="App">
       <div className="container">
         <Header />
-        <div>
-          <Search />
-        </div>
+        <Search />
+        <Footer />
+
       </div>
     </div>
 
