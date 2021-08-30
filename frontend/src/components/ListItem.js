@@ -23,8 +23,8 @@ const ListItem = ({ listItem }) => {
   return (
     <tr className="info-row" onClick={() => searchClickedItem(listItem, category)}>
       <td>
-        <div>{listItem.name}</div>
-        {listItem.desc && <div>{listItem.desc}</div>}
+        <div className="info-name">{listItem.name}</div>
+        {listItem.desc && <div className="info-desc">{listItem.desc}</div>}
       </td>
       <td className="image-column-container">
           <img src={imgUrl} alt='img' />
