@@ -5,7 +5,9 @@
     
     .image-column-container {
       display: flex;
-
+      max-height: 120px;
+      width: 120px;
+      float: right;
       img {
         margin: auto;
         max-height: 120px;
