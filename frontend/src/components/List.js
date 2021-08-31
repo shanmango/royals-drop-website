@@ -11,7 +11,7 @@ const List = ({ list }) => {
   }
   return (
     <div>
-      <Table striped style={{"marginBottom":"0"}}>
+      <Table hover striped style={{"marginBottom":"0"}}>
         <tbody>
           {
             list.map((listItem) => {
