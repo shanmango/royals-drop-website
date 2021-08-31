@@ -1,16 +1,16 @@
 import React from 'react'
 import { useSelector, useDispatch } from 'react-redux'
 import Select, { createFilter } from 'react-select'
+import { useHistory } from 'react-router-dom'
 import { setSelected } from '../reducers/searchReducer'
 import CategorySelector from './CategorySelector'
-import InfoDisplay from './InfoDisplay'
 import '../styles/Search.scss'
 /**
  * Search bar component
  */
 const Search = () => {
   const dispatch = useDispatch()
-
+  const history = useHistory()
   // Select dataset based on type state
   const options = useSelector((state) => {
     let data = []
@@ -42,7 +42,7 @@ const Search = () => {
 
   let search = useSelector(state => state.search)
   const onChange = (event) => {
-    dispatch(setSelected(event, search.category))
+    history.push(`/search/${search.category}/${event.value}`)
   }
 
   // select bar
@@ -58,22 +58,21 @@ const Search = () => {
       value={''} />
   )
 
-const loadingMessage = () => (
-  <p>
-    Drop data is loading...
-  </p>
-)
+  const loadingMessage = () => (
+    <p>
+      Drop data is loading...
+    </p>
+  )
 
-return (
-  <div id="search-body">
-    <div>
-      <CategorySelector />
-      {options.length > 0 && selectBar()}
-      {options.length < 1 && loadingMessage()}
+  return (
+    <div id="search-body">
+      <div>
+        <CategorySelector />
+        {options.length > 0 && selectBar()}
+        {options.length < 1 && loadingMessage()}
+      </div>
     </div>
-    {search.selected && <InfoDisplay />}
-  </div>
-)
+  )
 }
 
 export default Search
