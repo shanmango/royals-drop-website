@@ -9,6 +9,9 @@ const List = ({ list }) => {
       <div>Either this data isn't available, or this item isn't dropped by any mob :(</div>
     )
   }
+  
+  list.sort((a, b) => a.name.toLowerCase().localeCompare(b.name.toLowerCase()))
+
   return (
     <div>
       <Table hover striped style={{"marginBottom":"0"}}>
