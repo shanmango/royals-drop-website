@@ -1,7 +1,7 @@
 import React from 'react'
 import { useSelector, useDispatch } from 'react-redux'
 import Select, { createFilter } from 'react-select'
-import { useHistory } from 'react-router-dom'
+import { useHistory, useParams } from 'react-router-dom'
 import { setSelected } from '../reducers/searchReducer'
 import CategorySelector from './CategorySelector'
 import '../styles/Search.scss'
@@ -11,10 +11,12 @@ import '../styles/Search.scss'
 const Search = () => {
   const dispatch = useDispatch()
   const history = useHistory()
+  let category = useParams().category
+  category = category ? category : 'mobs'
   // Select dataset based on type state
   const options = useSelector((state) => {
     let data = []
-    if (state.search.category === 'mobs') {
+    if (category === 'mobs') {
       data = state.mobs
     } else {
       data = state.items
@@ -40,10 +42,9 @@ const Search = () => {
     matchFrom: 'start'
   }
 
-  let search = useSelector(state => state.search)
   const onChange = (event) => {
-    dispatch(setSelected(event, search.category))
-    history.push(`/search/${search.category}/${event.value}`)
+    // dispatch(setSelected(event, category))
+    history.push(`/search/${category}/${event.value}`)
   }
 
   // select bar

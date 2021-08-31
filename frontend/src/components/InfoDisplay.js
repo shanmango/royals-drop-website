@@ -15,7 +15,7 @@ const InfoDisplay = () => {
   const [data, setData] = useState(null)
   const service = category === 'mobs' ? mobService : itemService
   // TODO: setSelected necessary?
-  dispatch(setSelected({value: id}, category))
+  // dispatch(setSelected({value: id}, category))
   
   useEffect(() => {
     service.getById(id).then(response =>

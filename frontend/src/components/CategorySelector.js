@@ -1,19 +1,21 @@
 import React from 'react'
 import ToggleButtonGroup from 'react-bootstrap/ToggleButtonGroup'
 import ToggleButton from 'react-bootstrap/ToggleButton'
+import { useHistory, useParams } from "react-router-dom"
 import { searchBy, clearSelected } from '../reducers/searchReducer'
 import { useSelector, useDispatch } from 'react-redux'
 import '../styles/CategorySelector.scss'
 
 const CategorySelector = () => {
   const dispatch = useDispatch()
+  const history = useHistory()
   // Clear selected if category type changed
-  const changeSearchType = (category) => {
-    dispatch(clearSelected())
-    dispatch(searchBy(category))
+  let category = useParams().category
+  category = category ? category : 'mobs'
+  const changeSearchType = (event) => {
+    history.push(`/search/${event}`)
   }
   
-  const type = useSelector(state => state.search.category)
 
   return (
     <div className="buttons">
@@ -21,8 +23,8 @@ const CategorySelector = () => {
       <ToggleButtonGroup
         type="radio"
         name="type-selector"
-        value={type}
-        onChange={(event) => changeSearchType(event, 'items')}>
+        value={category}
+        onChange={(event) => changeSearchType(event)}>
         <ToggleButton id="mobs-radio" value="mobs" variant="outline-dark">Mobs</ToggleButton>
         <ToggleButton id="items-radio" value="items" variant="outline-dark">Items</ToggleButton>
 
