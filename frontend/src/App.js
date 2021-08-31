@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react'
 import { useDispatch } from 'react-redux'
 import './styles/App.scss'
-import { BrowserRouter as Router } from "react-router-dom"
+import { BrowserRouter as Router, Route, Redirect } from "react-router-dom"
 
 import Header from './components/Header'
 import Search from './components/Search'
@@ -23,11 +23,17 @@ function App() {
 
   return (
     <Router>
+      <Route exact path="/">
+        <Redirect to="/search" />
+      </Route>
+
       <div className="App">
         <div className="container">
-          <Header />
-          <Search />
-          <Footer />
+          <Route path="/search">
+            <Header />
+            <Search />
+            <Footer />
+          </ Route>
         </div>
       </div>
     </Router>
