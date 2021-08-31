@@ -1,11 +1,11 @@
 import React from 'react'
 import { useSelector, useDispatch } from 'react-redux'
 import Select, { createFilter } from 'react-select'
-import { useHistory, useParams } from 'react-router-dom'
+import { useHistory, useParams, Route } from 'react-router-dom'
 import { setSelected } from '../reducers/searchReducer'
 import CategorySelector from './CategorySelector'
 import { useCategory } from '../utils/helpers.js'
-
+import InfoDisplay from './InfoDisplay'
 import '../styles/Search.scss'
 /**
  * Search bar component
@@ -74,6 +74,8 @@ const Search = () => {
         {options.length > 0 && selectBar()}
         {options.length < 1 && loadingMessage()}
       </div>
+      <Route path='/search/:category/:id' component={InfoDisplay} />
+
     </div>
   )
 }

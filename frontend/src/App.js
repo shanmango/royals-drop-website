@@ -31,7 +31,6 @@ function App() {
         <div className="container">
           <Header />
           <Search />
-          <Route path='/search/:category/:id' component={InfoDisplay} />
           <Footer />
         </div>
       </div>
