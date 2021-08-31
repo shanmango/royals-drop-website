@@ -5,13 +5,13 @@ import { useHistory, useParams } from "react-router-dom"
 import { searchBy, clearSelected } from '../reducers/searchReducer'
 import { useSelector, useDispatch } from 'react-redux'
 import '../styles/CategorySelector.scss'
+import { useCategory } from '../utils/helpers.js'
 
 const CategorySelector = () => {
   const dispatch = useDispatch()
   const history = useHistory()
-  // Clear selected if category type changed
-  let category = useParams().category
-  category = category ? category : 'mobs'
+  let category = useCategory()
+
   const changeSearchType = (event) => {
     history.push(`/search/${event}`)
   }
