@@ -1,17 +1,14 @@
 import React from 'react'
-import { useSelector, useDispatch } from 'react-redux'
+import { useSelector } from 'react-redux'
 import Select, { createFilter } from 'react-select'
-import { useHistory, useParams, Route } from 'react-router-dom'
-import { setSelected } from '../reducers/searchReducer'
+import { useHistory, Route } from 'react-router-dom'
 import CategorySelector from './CategorySelector'
 import { useCategory } from '../utils/helpers.js'
 import InfoDisplay from './InfoDisplay'
 import '../styles/Search.scss'
-/**
- * Search bar component
- */
+
+
 const Search = () => {
-  const dispatch = useDispatch()
   const history = useHistory()
   let category = useCategory()
   // Select dataset based on type state
@@ -44,7 +41,6 @@ const Search = () => {
   }
 
   const onChange = (event) => {
-    // dispatch(setSelected(event, category))
     history.push(`/search/${category}/${event.value}`)
   }
 

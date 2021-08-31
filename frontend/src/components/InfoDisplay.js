@@ -1,7 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import { useDispatch } from 'react-redux'
 import { useParams } from "react-router-dom"
-import { setSelected } from '../reducers/searchReducer'
 import itemService from '../services/items'
 import mobService from '../services/mobs'
 
@@ -10,12 +8,9 @@ import '../styles/InfoDisplay.scss'
 
 const InfoDisplay = () => {
   const id = useParams().id
-  const dispatch = useDispatch()
   const category = useParams().category
   const [data, setData] = useState(null)
   const service = category === 'mobs' ? mobService : itemService
-  // TODO: setSelected necessary?
-  // dispatch(setSelected({value: id}, category))
   
   useEffect(() => {
     service.getById(id).then(response =>

@@ -1,11 +1,8 @@
 import React from 'react'
-import { useDispatch, useSelector } from 'react-redux'
 import { useHistory, useParams } from "react-router-dom"
-import { clearSelected, searchBy, setSelected } from '../reducers/searchReducer'
 import '../styles/ListItem.scss'
 
 const ListItem = ({ listItem }) => {
-  const dispatch = useDispatch()
   const history = useHistory()
   // Set right image source url
   const category = useParams().category
@@ -15,9 +12,6 @@ const ListItem = ({ listItem }) => {
 
   const searchClickedItem = async (listItem, category) => {
     category = category === 'mobs' ? 'items' : 'mobs'
-    //await dispatch(clearSelected())
-    //await dispatch(searchBy(category))
-    //await dispatch(setSelected({ value: listItem.id }, category))
     history.push(`/search/${category}/${listItem.id}`)
 
   }

@@ -1,14 +1,10 @@
 import React, { useEffect } from 'react'
 import { useDispatch } from 'react-redux'
 import './styles/App.scss'
-import {
-  BrowserRouter as Router,
-  Switch, Route, Link
-} from "react-router-dom"
+import { BrowserRouter as Router } from "react-router-dom"
 
 import Header from './components/Header'
 import Search from './components/Search'
-import InfoDisplay from './components/InfoDisplay'
 import Footer from './components/Footer'
 
 import { initializeMobs } from './reducers/mobReducer'

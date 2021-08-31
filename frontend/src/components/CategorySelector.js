@@ -1,14 +1,11 @@
 import React from 'react'
 import ToggleButtonGroup from 'react-bootstrap/ToggleButtonGroup'
 import ToggleButton from 'react-bootstrap/ToggleButton'
-import { useHistory, useParams } from "react-router-dom"
-import { searchBy, clearSelected } from '../reducers/searchReducer'
-import { useSelector, useDispatch } from 'react-redux'
+import { useHistory } from "react-router-dom"
 import '../styles/CategorySelector.scss'
 import { useCategory } from '../utils/helpers.js'
 
 const CategorySelector = () => {
-  const dispatch = useDispatch()
   const history = useHistory()
   let category = useCategory()
 
