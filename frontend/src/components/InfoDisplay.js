@@ -14,12 +14,10 @@ const InfoDisplay = () => {
   const category = useParams().category
   const [data, setData] = useState(null)
   const service = category === 'mobs' ? mobService : itemService
-
   // TODO: setSelected necessary?
   dispatch(setSelected({value: id}, category))
-
+  
   useEffect(() => {
-    
     service.getById(id).then(response =>
       setData(response)
     )
@@ -55,7 +53,7 @@ const InfoDisplay = () => {
       )
   }
   return (
-    <div>{data && <Display />}</div>
+    <div>{data && data.id === id && <Display />}</div>
   )
   
 

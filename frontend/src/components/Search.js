@@ -42,6 +42,7 @@ const Search = () => {
 
   let search = useSelector(state => state.search)
   const onChange = (event) => {
+    dispatch(setSelected(event, search.category))
     history.push(`/search/${search.category}/${event.value}`)
   }
 
