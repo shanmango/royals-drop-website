@@ -10,3 +10,10 @@ export const useCategory = () => {
     return 'mobs'
 
 }
+
+export const parseDesc = (desc) => {
+  desc = desc.replaceAll('\\n', ' <br> ')
+  desc = desc.replace('#c', '<b>')
+  desc = desc.replace('#', '</b>')
+  return desc
+}
