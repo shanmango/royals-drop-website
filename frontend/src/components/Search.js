@@ -41,7 +41,9 @@ const Search = () => {
   }
 
   const onChange = (event) => {
+    event ?
     history.push(`/search/${category}/${event.value}`)
+    : history.push(`/search/${category}`)
   }
 
   // select bar
