@@ -10,6 +10,13 @@
     flex-direction: column;    
     background-color: rgba(255, 255, 255, 0.85);
 
+    #back-to-top {
+      position: absolute;
+      bottom: 0;
+      width: 120px;
+      left:50%;
+      margin-left:-60px;
+    }
   }
   
   ::-webkit-scrollbar {

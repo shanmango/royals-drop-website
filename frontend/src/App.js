@@ -3,9 +3,8 @@ import { useDispatch } from 'react-redux'
 import './styles/App.scss'
 import { HashRouter as Router } from "react-router-dom"
 
-import Header from './components/Header'
-import Search from './components/Search'
-import Footer from './components/Footer'
+
+import AppContainer from './components/AppContainer'
 
 import { initializeMobs } from './reducers/mobReducer'
 import { initializeItems } from './reducers/itemReducer'
@@ -21,14 +20,12 @@ function App() {
     dispatch(initializeItems())
   }, [dispatch])
 
+
+
   return (
     <Router>
       <div className="App">
-        <div className="container">
-          <Header />
-          <Search />
-          <Footer />
-        </div>
+          <AppContainer />
       </div>
     </Router>
   )
