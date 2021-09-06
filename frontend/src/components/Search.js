@@ -36,8 +36,7 @@ const Search = () => {
   const filterConfig = {
     ignoreCase: true,
     ignoreAccents: true,
-    trim: true,
-    matchFrom: 'start'
+    trim: true
   }
 
   const onChange = (event) => {
