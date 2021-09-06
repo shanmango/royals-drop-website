@@ -10,7 +10,7 @@ const Header = () => {
   return (
     <div className="text-center" id="banner">
       <div id="title" onClick={handleClick}>
-        <h1>The Unofficial</h1>
+        <h1>An Unofficial</h1>
         <img id="royals" src={logo} alt="MapleRoyals"/>
         <h1>Drop Tracker</h1>
       </div>
