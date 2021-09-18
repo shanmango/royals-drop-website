@@ -3241,6 +3241,12 @@
             <imgdir name="1022144">
                 <string name="name" value="Cloudy Swimming Goggles"/>
             </imgdir>
+            <imgdir name="1022283">
+                <string name="name" value="Street Smart Sunglasses"/>
+            </imgdir>
+            <imgdir name="1022292">
+                <string name="name" value="Lovely Round Glasses"/>
+            </imgdir>
         </imgdir>
         <imgdir name="Cap">
             <imgdir name="1003022">
@@ -8355,6 +8361,45 @@
                 <string name="name" value="Ocean Princess Hat (F)"/>
                 <string name="desc" value="An Ocean Princess Hat (F) designed by China MapleStory player xiaoma."/>
             </imgdir>
+            <imgdir name="1005560">
+                <string name="name" value="Autumn Morning Hat"/>
+            </imgdir>
+            <imgdir name="1005231">
+                <string name="name" value="Detective Chappeau"/>
+            </imgdir>
+            <imgdir name="1005232">
+                <string name="name" value="Detective Millinery"/>
+            </imgdir>
+            <imgdir name="1004828">
+                <string name="name" value="Green Beret"/>
+            </imgdir>
+            <imgdir name="1004829">
+                <string name="name" value="Red Beret"/>
+            </imgdir>
+            <imgdir name="1004952">
+                <string name="name" value="Foxy Teacher Hat"/>
+                <string name="desc" value="A Foxy Teacher Hat designed by the MapleStory China player bingxingbuyue."/>
+            </imgdir>
+            <imgdir name="1005577">
+                <string name="name" value="Night Glimmerfox Hat"/>
+                <string name="desc" value="A Night Glimmerfox Hat designed by MapleStorySEA player belpjegor."/>
+            </imgdir>
+            <imgdir name="1005576">
+                <string name="name" value="Forest Glimmerfox Hat"/>
+                <string name="desc" value="A Forest Glimmerfox Hat designed by MapleStorySEA player belpjegor."/>
+            </imgdir>
+            <imgdir name="1005493">
+                <string name="name" value="Goateed Beanie"/>
+            </imgdir>
+            <imgdir name="1005514">
+                <string name="name" value="Love Mouse Hat"/>
+            </imgdir>
+            <imgdir name="1005296">
+                <string name="name" value="Mustachioed Beanie"/>
+            </imgdir>
+            <imgdir name="1004973">
+                <string name="name" value="Steely Meow Helmet"/>
+            </imgdir>
         </imgdir>
         <imgdir name="Cape">
             <imgdir name="1102000">
@@ -9660,6 +9705,23 @@
             <imgdir name="1102939">
                 <string name="name" value="Red Cloud Cape"/>
                 <string name="desc" value="A Red Cloud cape. Designed by the China MapleStory player Kiilia."/>
+            </imgdir>
+            <imgdir name="1103265">
+                <string name="name" value="Autumn Morning Cape"/>
+            </imgdir>
+            <imgdir name="1102917">
+                <string name="name" value="Angel&apos;s Cookie Backpack"/>
+            </imgdir>
+            <imgdir name="1103276">
+                <string name="name" value="Night Glimmerfox Cape"/>
+                <string name="desc" value="A Night Glimmerfox Cape designed by MapleStorySEA player belpjegor."/>
+            </imgdir>
+            <imgdir name="1103275">
+                <string name="name" value="Forest Glimmerfox Cape"/>
+                <string name="desc" value="A the Forest Glimmerfox Cape designed by MapleStorySEA player belpjegor."/>
+            </imgdir>
+            <imgdir name="1103222">
+                <string name="name" value="Falling Leaves"/>
             </imgdir>
         </imgdir>
         <imgdir name="Coat">
@@ -19742,6 +19804,1221 @@
             </imgdir>
             <imgdir name="24852">
                 <string name="name" value="Futuroid Face (White)"/>
+            </imgdir>
+            <imgdir name="23070">
+                <string name="name" value="Black Heartbreaker Face"/>
+            </imgdir>
+            <imgdir name="23072">
+                <string name="name" value="Pure Beauty Face"/>
+            </imgdir>
+            <imgdir name="23073">
+                <string name="name" value="Magnus Face"/>
+            </imgdir>
+            <imgdir name="23074">
+                <string name="name" value="Beautiful Face"/>
+            </imgdir>
+            <imgdir name="23075">
+                <string name="name" value="Devilish Face"/>
+            </imgdir>
+            <imgdir name="23076">
+                <string name="name" value="Heartbroken Face"/>
+            </imgdir>
+            <imgdir name="23079">
+                <string name="name" value="Jay Face"/>
+            </imgdir>
+            <imgdir name="23080">
+                <string name="name" value="Power Dude Face"/>
+            </imgdir>
+            <imgdir name="23081">
+                <string name="name" value="Futuristic Face"/>
+            </imgdir>
+            <imgdir name="23083">
+                <string name="name" value="Insomnia Face"/>
+            </imgdir>
+            <imgdir name="23084">
+                <string name="name" value="Doll Face"/>
+            </imgdir>
+            <imgdir name="23085">
+                <string name="name" value="Vacant Face"/>
+            </imgdir>
+            <imgdir name="23086">
+                <string name="name" value="Sparkling Face"/>
+            </imgdir>
+            <imgdir name="23087">
+                <string name="name" value="Phantom Face"/>
+            </imgdir>
+            <imgdir name="23088">
+                <string name="name" value="Heterochromia Face"/>
+            </imgdir>
+            <imgdir name="23089">
+                <string name="name" value="Dragon Master Face"/>
+            </imgdir>
+            <imgdir name="23090">
+                <string name="name" value="Forgotten Hero Face"/>
+            </imgdir>
+            <imgdir name="23092">
+                <string name="name" value="Disinterested Heterochromia Face"/>
+            </imgdir>
+            <imgdir name="23094">
+                <string name="name" value="Louie Face"/>
+            </imgdir>
+            <imgdir name="23095">
+                <string name="name" value="Bellicose Face"/>
+            </imgdir>
+            <imgdir name="23096">
+                <string name="name" value="Polearm Warrior Face"/>
+            </imgdir>
+            <imgdir name="23097">
+                <string name="name" value="Elf King Face"/>
+            </imgdir>
+            <imgdir name="23170">
+                <string name="name" value="Blue Heartbreaker Face"/>
+            </imgdir>
+            <imgdir name="23172">
+                <string name="name" value="Pure Beauty Face (Blue)"/>
+            </imgdir>
+            <imgdir name="23173">
+                <string name="name" value="Magnus Face (Blue)"/>
+            </imgdir>
+            <imgdir name="23174">
+                <string name="name" value="Beautiful Face (Blue)"/>
+            </imgdir>
+            <imgdir name="23175">
+                <string name="name" value="Devilish Face (Blue)"/>
+            </imgdir>
+            <imgdir name="23176">
+                <string name="name" value="Heartbroken Face (Blue)"/>
+            </imgdir>
+            <imgdir name="23179">
+                <string name="name" value="Jay Face (Blue)"/>
+            </imgdir>
+            <imgdir name="23180">
+                <string name="name" value="Power Dude Face (Blue)"/>
+            </imgdir>
+            <imgdir name="23181">
+                <string name="name" value="Futuristic Face (Blue)"/>
+            </imgdir>
+            <imgdir name="23183">
+                <string name="name" value="Insomnia Face (Blue)"/>
+            </imgdir>
+            <imgdir name="23184">
+                <string name="name" value="Doll Face (Blue)"/>
+            </imgdir>
+            <imgdir name="23185">
+                <string name="name" value="Vacant Face (Blue)"/>
+            </imgdir>
+            <imgdir name="23186">
+                <string name="name" value="Sparkling Face (Blue)"/>
+            </imgdir>
+            <imgdir name="23187">
+                <string name="name" value="Phantom Face (Blue)"/>
+            </imgdir>
+            <imgdir name="23188">
+                <string name="name" value="Heterochromia Face (Blue)"/>
+            </imgdir>
+            <imgdir name="23189">
+                <string name="name" value="Dragon Master Face (Blue)"/>
+            </imgdir>
+            <imgdir name="23190">
+                <string name="name" value="Forgotten Hero Face (Blue)"/>
+            </imgdir>
+            <imgdir name="23192">
+                <string name="name" value="Disinterested Heterochromia Face (Blue)"/>
+            </imgdir>
+            <imgdir name="23194">
+                <string name="name" value="Louie Face (Blue)"/>
+            </imgdir>
+            <imgdir name="23195">
+                <string name="name" value="Bellicose Face (Blue)"/>
+            </imgdir>
+            <imgdir name="23196">
+                <string name="name" value="Polearm Warrior Face (Blue)"/>
+            </imgdir>
+            <imgdir name="23197">
+                <string name="name" value="Elf King Face (Blue)"/>
+            </imgdir>
+            <imgdir name="23270">
+                <string name="name" value="Red Heartbreaker Face"/>
+            </imgdir>
+            <imgdir name="23272">
+                <string name="name" value="Pure Beauty Face (Red)"/>
+            </imgdir>
+            <imgdir name="23273">
+                <string name="name" value="Magnus Face (Red)"/>
+            </imgdir>
+            <imgdir name="23274">
+                <string name="name" value="Beautiful Face (Red)"/>
+            </imgdir>
+            <imgdir name="23275">
+                <string name="name" value="Devilish Face (Red)"/>
+            </imgdir>
+            <imgdir name="23276">
+                <string name="name" value="Heartbroken Face (Red)"/>
+            </imgdir>
+            <imgdir name="23279">
+                <string name="name" value="Jay Face (Red)"/>
+            </imgdir>
+            <imgdir name="23280">
+                <string name="name" value="Power Dude Face (Red)"/>
+            </imgdir>
+            <imgdir name="23281">
+                <string name="name" value="Futuristic Face (Red)"/>
+            </imgdir>
+            <imgdir name="23283">
+                <string name="name" value="Insomnia Face (Red)"/>
+            </imgdir>
+            <imgdir name="23284">
+                <string name="name" value="Doll Face (Red)"/>
+            </imgdir>
+            <imgdir name="23285">
+                <string name="name" value="Vacant Face (Red)"/>
+            </imgdir>
+            <imgdir name="23286">
+                <string name="name" value="Sparkling Face (Red)"/>
+            </imgdir>
+            <imgdir name="23287">
+                <string name="name" value="Phantom Face (Red)"/>
+            </imgdir>
+            <imgdir name="23288">
+                <string name="name" value="Heterochromia Face (Red)"/>
+            </imgdir>
+            <imgdir name="23289">
+                <string name="name" value="Dragon Master Face (Red)"/>
+            </imgdir>
+            <imgdir name="23290">
+                <string name="name" value="Forgotten Hero Face (Red)"/>
+            </imgdir>
+            <imgdir name="23292">
+                <string name="name" value="Disinterested Heterochromia Face (Red)"/>
+            </imgdir>
+            <imgdir name="23294">
+                <string name="name" value="Louie Face (Red)"/>
+            </imgdir>
+            <imgdir name="23295">
+                <string name="name" value="Bellicose Face (Red)"/>
+            </imgdir>
+            <imgdir name="23296">
+                <string name="name" value="Polearm Warrior Face (Red)"/>
+            </imgdir>
+            <imgdir name="23297">
+                <string name="name" value="Elf King Face (Red)"/>
+            </imgdir>
+            <imgdir name="23370">
+                <string name="name" value="Green Heartbreaker Face"/>
+            </imgdir>
+            <imgdir name="23372">
+                <string name="name" value="Pure Beauty Face (Green)"/>
+            </imgdir>
+            <imgdir name="23373">
+                <string name="name" value="Magnus Face (Green)"/>
+            </imgdir>
+            <imgdir name="23374">
+                <string name="name" value="Beautiful Face (Green)"/>
+            </imgdir>
+            <imgdir name="23375">
+                <string name="name" value="Devilish Face (Green)"/>
+            </imgdir>
+            <imgdir name="23376">
+                <string name="name" value="Heartbroken Face (Green)"/>
+            </imgdir>
+            <imgdir name="23379">
+                <string name="name" value="Jay Face (Green)"/>
+            </imgdir>
+            <imgdir name="23380">
+                <string name="name" value="Power Dude Face (Green)"/>
+            </imgdir>
+            <imgdir name="23381">
+                <string name="name" value="Futuristic Face (Green)"/>
+            </imgdir>
+            <imgdir name="23383">
+                <string name="name" value="Insomnia Face (Green)"/>
+            </imgdir>
+            <imgdir name="23384">
+                <string name="name" value="Doll Face (Green)"/>
+            </imgdir>
+            <imgdir name="23385">
+                <string name="name" value="Vacant Face (Green)"/>
+            </imgdir>
+            <imgdir name="23386">
+                <string name="name" value="Sparkling Face (Green)"/>
+            </imgdir>
+            <imgdir name="23387">
+                <string name="name" value="Phantom Face (Green)"/>
+            </imgdir>
+            <imgdir name="23388">
+                <string name="name" value="Heterochromia Face (Green)"/>
+            </imgdir>
+            <imgdir name="23389">
+                <string name="name" value="Dragon Master Face (Green)"/>
+            </imgdir>
+            <imgdir name="23390">
+                <string name="name" value="Forgotten Hero Face (Green)"/>
+            </imgdir>
+            <imgdir name="23392">
+                <string name="name" value="Disinterested Heterochromia Face (Green)"/>
+            </imgdir>
+            <imgdir name="23394">
+                <string name="name" value="Louie Face (Green)"/>
+            </imgdir>
+            <imgdir name="23395">
+                <string name="name" value="Bellicose Face (Green)"/>
+            </imgdir>
+            <imgdir name="23396">
+                <string name="name" value="Polearm Warrior Face (Green)"/>
+            </imgdir>
+            <imgdir name="23397">
+                <string name="name" value="Elf King Face (Green)"/>
+            </imgdir>
+            <imgdir name="23470">
+                <string name="name" value="Brown Heartbreaker Face"/>
+            </imgdir>
+            <imgdir name="23472">
+                <string name="name" value="Pure Beauty Face (Hazel)"/>
+            </imgdir>
+            <imgdir name="23473">
+                <string name="name" value="Magnus Face (Hazel)"/>
+            </imgdir>
+            <imgdir name="23474">
+                <string name="name" value="Beautiful Face (Hazel)"/>
+            </imgdir>
+            <imgdir name="23475">
+                <string name="name" value="Devilish Face"/>
+            </imgdir>
+            <imgdir name="23476">
+                <string name="name" value="Heartbroken Face (Hazel)"/>
+            </imgdir>
+            <imgdir name="23479">
+                <string name="name" value="Jay Face (Hazel)"/>
+            </imgdir>
+            <imgdir name="23480">
+                <string name="name" value="Power Dude Face (Hazel)"/>
+            </imgdir>
+            <imgdir name="23481">
+                <string name="name" value="Futuristic Face (Brown)"/>
+            </imgdir>
+            <imgdir name="23483">
+                <string name="name" value="Insomnia Face (Hazel)"/>
+            </imgdir>
+            <imgdir name="23484">
+                <string name="name" value="Doll Face (Hazel)"/>
+            </imgdir>
+            <imgdir name="23485">
+                <string name="name" value="Vacant Face (Hazel)"/>
+            </imgdir>
+            <imgdir name="23486">
+                <string name="name" value="Sparkling Face (Hazel)"/>
+            </imgdir>
+            <imgdir name="23487">
+                <string name="name" value="Phantom Face (Hazel)"/>
+            </imgdir>
+            <imgdir name="23488">
+                <string name="name" value="Heterochromia Face (Hazel)"/>
+            </imgdir>
+            <imgdir name="23489">
+                <string name="name" value="Dragon Master Face (Hazel)"/>
+            </imgdir>
+            <imgdir name="23490">
+                <string name="name" value="Forgotten Hero Face (Hazel)"/>
+            </imgdir>
+            <imgdir name="23492">
+                <string name="name" value="Disinterested Heterochromia Face (Hazel)"/>
+            </imgdir>
+            <imgdir name="23494">
+                <string name="name" value="Louie Face (Hazel)"/>
+            </imgdir>
+            <imgdir name="23495">
+                <string name="name" value="Bellicose Face (Hazel)"/>
+            </imgdir>
+            <imgdir name="23496">
+                <string name="name" value="Polearm Warrior Face (Hazel)"/>
+            </imgdir>
+            <imgdir name="23497">
+                <string name="name" value="Elf King Face (Hazel)"/>
+            </imgdir>
+            <imgdir name="23570">
+                <string name="name" value="Sapphire Heartbreaker Face"/>
+            </imgdir>
+            <imgdir name="23572">
+                <string name="name" value="Pure Beauty Face (Sapphire)"/>
+            </imgdir>
+            <imgdir name="23573">
+                <string name="name" value="Magnus Face (Sapphire)"/>
+            </imgdir>
+            <imgdir name="23574">
+                <string name="name" value="Beautiful Face (Sapphire)"/>
+            </imgdir>
+            <imgdir name="23575">
+                <string name="name" value="Devilish Face (Sapphire)"/>
+            </imgdir>
+            <imgdir name="23576">
+                <string name="name" value="Heartbroken Face (Sapphire)"/>
+            </imgdir>
+            <imgdir name="23579">
+                <string name="name" value="Jay Face (Sapphire)"/>
+            </imgdir>
+            <imgdir name="23580">
+                <string name="name" value="Power Dude Face (Emerald)"/>
+            </imgdir>
+            <imgdir name="23581">
+                <string name="name" value="Futuristic Face (Sapphire)"/>
+            </imgdir>
+            <imgdir name="23583">
+                <string name="name" value="Insomnia Face (Sapphire)"/>
+            </imgdir>
+            <imgdir name="23584">
+                <string name="name" value="Doll Face (Sapphire)"/>
+            </imgdir>
+            <imgdir name="23585">
+                <string name="name" value="Vacant Face (Sapphire)"/>
+            </imgdir>
+            <imgdir name="23586">
+                <string name="name" value="Sparkling Face (Sapphire)"/>
+            </imgdir>
+            <imgdir name="23587">
+                <string name="name" value="Phantom Face (Sapphire)"/>
+            </imgdir>
+            <imgdir name="23588">
+                <string name="name" value="Heterochromia Face (Sapphire)"/>
+            </imgdir>
+            <imgdir name="23589">
+                <string name="name" value="Dragon Master Face (Sapphire)"/>
+            </imgdir>
+            <imgdir name="23590">
+                <string name="name" value="Forgotten Hero Face (Sapphire)"/>
+            </imgdir>
+            <imgdir name="23592">
+                <string name="name" value="Disinterested Heterochromia Face (Sapphire)"/>
+            </imgdir>
+            <imgdir name="23594">
+                <string name="name" value="Louie Face (Sapphire)"/>
+            </imgdir>
+            <imgdir name="23595">
+                <string name="name" value="Bellicose Face (Sapphire)"/>
+            </imgdir>
+            <imgdir name="23596">
+                <string name="name" value="Polearm Warrior Face (Sapphire)"/>
+            </imgdir>
+            <imgdir name="23597">
+                <string name="name" value="Elf King Face (Sapphire)"/>
+            </imgdir>
+            <imgdir name="23670">
+                <string name="name" value="Violet Heartbreaker Face"/>
+            </imgdir>
+            <imgdir name="23672">
+                <string name="name" value="Pure Beauty Face (Violet)"/>
+            </imgdir>
+            <imgdir name="23673">
+                <string name="name" value="Magnus Face (Violet)"/>
+            </imgdir>
+            <imgdir name="23674">
+                <string name="name" value="Beautiful Face (Violet)"/>
+            </imgdir>
+            <imgdir name="23675">
+                <string name="name" value="Devilish Face (Violet)"/>
+            </imgdir>
+            <imgdir name="23676">
+                <string name="name" value="Heartbroken Face (Violet)"/>
+            </imgdir>
+            <imgdir name="23679">
+                <string name="name" value="Jay Face (Violet)"/>
+            </imgdir>
+            <imgdir name="23680">
+                <string name="name" value="Power Dude Face (Violet)"/>
+            </imgdir>
+            <imgdir name="23681">
+                <string name="name" value="Futuristic Face (Violet)"/>
+            </imgdir>
+            <imgdir name="23683">
+                <string name="name" value="Insomnia Face (Violet)"/>
+            </imgdir>
+            <imgdir name="23684">
+                <string name="name" value="Doll Face (Violet)"/>
+            </imgdir>
+            <imgdir name="23685">
+                <string name="name" value="Vacant Face (Violet)"/>
+            </imgdir>
+            <imgdir name="23686">
+                <string name="name" value="Sparkling Face (Violet)"/>
+            </imgdir>
+            <imgdir name="23687">
+                <string name="name" value="Phantom Face (Violet)"/>
+            </imgdir>
+            <imgdir name="23688">
+                <string name="name" value="Heterochromia Face (Violet)"/>
+            </imgdir>
+            <imgdir name="23689">
+                <string name="name" value="Dragon Master Face (Violet)"/>
+            </imgdir>
+            <imgdir name="23690">
+                <string name="name" value="Forgotten Hero Face (Violet)"/>
+            </imgdir>
+            <imgdir name="23692">
+                <string name="name" value="Disinterested Heterochromia Face (Violet)"/>
+            </imgdir>
+            <imgdir name="23694">
+                <string name="name" value="Louie Face (Violet)"/>
+            </imgdir>
+            <imgdir name="23695">
+                <string name="name" value="Bellicose Face (Violet)"/>
+            </imgdir>
+            <imgdir name="23696">
+                <string name="name" value="Polearm Warrior Face (Violet)"/>
+            </imgdir>
+            <imgdir name="23697">
+                <string name="name" value="Elf King Face (Violet)"/>
+            </imgdir>
+            <imgdir name="23770">
+                <string name="name" value="Amethyst Heartbreaker Face"/>
+            </imgdir>
+            <imgdir name="23772">
+                <string name="name" value="Pure Beauty Face (Amethyst)"/>
+            </imgdir>
+            <imgdir name="23773">
+                <string name="name" value="Magnus Face (Amethyst)"/>
+            </imgdir>
+            <imgdir name="23774">
+                <string name="name" value="Beautiful Face (Amethyst)"/>
+            </imgdir>
+            <imgdir name="23775">
+                <string name="name" value="Devilish Face (Amethyst)"/>
+            </imgdir>
+            <imgdir name="23776">
+                <string name="name" value="Heartbroken Face (Amethyst)"/>
+            </imgdir>
+            <imgdir name="23779">
+                <string name="name" value="Jay Face (Amethyst)"/>
+            </imgdir>
+            <imgdir name="23780">
+                <string name="name" value="Power Dude Face (Amethyst)"/>
+            </imgdir>
+            <imgdir name="23781">
+                <string name="name" value="Futuristic Face (Amethyst)"/>
+            </imgdir>
+            <imgdir name="23783">
+                <string name="name" value="Insomnia Face (Amethyst)"/>
+            </imgdir>
+            <imgdir name="23784">
+                <string name="name" value="Doll Face (Amethyst)"/>
+            </imgdir>
+            <imgdir name="23785">
+                <string name="name" value="Vacant Face (Amethyst)"/>
+            </imgdir>
+            <imgdir name="23786">
+                <string name="name" value="Sparkling Face (Amethyst)"/>
+            </imgdir>
+            <imgdir name="23787">
+                <string name="name" value="Phantom Face (Amethyst)"/>
+            </imgdir>
+            <imgdir name="23788">
+                <string name="name" value="Heterochromia Face (Amethyst)"/>
+            </imgdir>
+            <imgdir name="23789">
+                <string name="name" value="Dragon Master Face (Amethyst)"/>
+            </imgdir>
+            <imgdir name="23790">
+                <string name="name" value="Forgotten Hero Face (Amethyst)"/>
+            </imgdir>
+            <imgdir name="23792">
+                <string name="name" value="Disinterested Heterochromia Face (Amethyst)"/>
+            </imgdir>
+            <imgdir name="23794">
+                <string name="name" value="Louie Face (Amethyst)"/>
+            </imgdir>
+            <imgdir name="23795">
+                <string name="name" value="Bellicose Face (Amethyst)"/>
+            </imgdir>
+            <imgdir name="23796">
+                <string name="name" value="Polearm Warrior Face (Amethyst)"/>
+            </imgdir>
+            <imgdir name="23797">
+                <string name="name" value="Elf King Face (Amethyst)"/>
+            </imgdir>
+            <imgdir name="23870">
+                <string name="name" value="White Heartbreaker Face"/>
+            </imgdir>
+            <imgdir name="23872">
+                <string name="name" value="Pure Beauty Face (White)"/>
+            </imgdir>
+            <imgdir name="23873">
+                <string name="name" value="Magnus Face (White)"/>
+            </imgdir>
+            <imgdir name="23874">
+                <string name="name" value="Beautiful Face (White)"/>
+            </imgdir>
+            <imgdir name="23875">
+                <string name="name" value="Devilish Face (White)"/>
+            </imgdir>
+            <imgdir name="23876">
+                <string name="name" value="Heartbroken Face (White)"/>
+            </imgdir>
+            <imgdir name="23879">
+                <string name="name" value="Jay Face (White)"/>
+            </imgdir>
+            <imgdir name="23880">
+                <string name="name" value="Power Dude Face"/>
+            </imgdir>
+            <imgdir name="23881">
+                <string name="name" value="Futuristic Face (White)"/>
+            </imgdir>
+            <imgdir name="23884">
+                <string name="name" value="Doll Face (White)"/>
+            </imgdir>
+            <imgdir name="23885">
+                <string name="name" value="Vacant Face (White)"/>
+            </imgdir>
+            <imgdir name="23886">
+                <string name="name" value="Sparkling Face (White)"/>
+            </imgdir>
+            <imgdir name="23887">
+                <string name="name" value="Phantom Face (White)"/>
+            </imgdir>
+            <imgdir name="23889">
+                <string name="name" value="Dragon Master Face (White)"/>
+            </imgdir>
+            <imgdir name="23888">
+                <string name="name" value="Heterochromia Face (White)"/>
+            </imgdir>
+            <imgdir name="23890">
+                <string name="name" value="Forgotten Hero Face (White)"/>
+            </imgdir>
+            <imgdir name="23892">
+                <string name="name" value="Disinterested Heterochromia Face (White)"/>
+            </imgdir>
+            <imgdir name="23894">
+                <string name="name" value="Louie Face (White)"/>
+            </imgdir>
+            <imgdir name="23883">
+                <string name="name" value="Insomnia Face (White)"/>
+            </imgdir>
+            <imgdir name="23895">
+                <string name="name" value="Bellicose Face (White)"/>
+            </imgdir>
+            <imgdir name="23896">
+                <string name="name" value="Polearm Warrior Face (White)"/>
+            </imgdir>
+            <imgdir name="23897">
+                <string name="name" value="Elf King Face (White)"/>
+            </imgdir>
+            <imgdir name="24055">
+                <string name="name" value="Sesame Face"/>
+            </imgdir>
+            <imgdir name="24058">
+                <string name="name" value="Lily Face"/>
+            </imgdir>
+            <imgdir name="24059">
+                <string name="name" value="Friendly Friend Face"/>
+            </imgdir>
+            <imgdir name="24060">
+                <string name="name" value="Soulful Face"/>
+            </imgdir>
+            <imgdir name="24061">
+                <string name="name" value="Soft Smirk Face"/>
+            </imgdir>
+            <imgdir name="24068">
+                <string name="name" value="Raised Eyebrows Face"/>
+            </imgdir>
+            <imgdir name="24071">
+                <string name="name" value="Heartbroken Face"/>
+            </imgdir>
+            <imgdir name="24073">
+                <string name="name" value="Hilla Face"/>
+            </imgdir>
+            <imgdir name="24075">
+                <string name="name" value="Devilish Face"/>
+            </imgdir>
+            <imgdir name="24078">
+                <string name="name" value="Black Futuristic Face"/>
+            </imgdir>
+            <imgdir name="24079">
+                <string name="name" value="Sparkling Face"/>
+            </imgdir>
+            <imgdir name="24081">
+                <string name="name" value="Insomnia Face"/>
+            </imgdir>
+            <imgdir name="24082">
+                <string name="name" value="Doll Face"/>
+            </imgdir>
+            <imgdir name="24083">
+                <string name="name" value="Vacant Face"/>
+            </imgdir>
+            <imgdir name="24084">
+                <string name="name" value="Elf Queen Face"/>
+            </imgdir>
+            <imgdir name="24085">
+                <string name="name" value="Polearm Warrior Face"/>
+            </imgdir>
+            <imgdir name="24086">
+                <string name="name" value="Heartless Face"/>
+            </imgdir>
+            <imgdir name="24087">
+                <string name="name" value="Sleepy Heterochromia Face"/>
+            </imgdir>
+            <imgdir name="24091">
+                <string name="name" value="Calm Face"/>
+            </imgdir>
+            <imgdir name="24092">
+                <string name="name" value="Phantom Face"/>
+            </imgdir>
+            <imgdir name="24093">
+                <string name="name" value="Heterochromia Face"/>
+            </imgdir>
+            <imgdir name="24094">
+                <string name="name" value="Dragon Master Face"/>
+            </imgdir>
+            <imgdir name="24095">
+                <string name="name" value="Forgotten Hero Face"/>
+            </imgdir>
+            <imgdir name="24155">
+                <string name="name" value="Sesame Face (Blue)"/>
+            </imgdir>
+            <imgdir name="24158">
+                <string name="name" value="Lily Face (Blue)"/>
+            </imgdir>
+            <imgdir name="24159">
+                <string name="name" value="Friendly Friend Face (Blue)"/>
+            </imgdir>
+            <imgdir name="24160">
+                <string name="name" value="Soulful Face (Blue)"/>
+            </imgdir>
+            <imgdir name="24161">
+                <string name="name" value="Soft Smirk Face (Blue)"/>
+            </imgdir>
+            <imgdir name="24168">
+                <string name="name" value="Raised Eyebrows Face (Blue)"/>
+            </imgdir>
+            <imgdir name="24171">
+                <string name="name" value="Heartbroken Face (Blue)"/>
+            </imgdir>
+            <imgdir name="24173">
+                <string name="name" value="Hilla Face (Blue)"/>
+            </imgdir>
+            <imgdir name="24175">
+                <string name="name" value="Devilish Face (Blue)"/>
+            </imgdir>
+            <imgdir name="24178">
+                <string name="name" value="Blue Futuristic Face"/>
+            </imgdir>
+            <imgdir name="24179">
+                <string name="name" value="Sparkling Face (Blue)"/>
+            </imgdir>
+            <imgdir name="24181">
+                <string name="name" value="Insomnia Face (Blue)"/>
+            </imgdir>
+            <imgdir name="24182">
+                <string name="name" value="Doll Face (Blue)"/>
+            </imgdir>
+            <imgdir name="24183">
+                <string name="name" value="Vacant Face (Blue)"/>
+            </imgdir>
+            <imgdir name="24184">
+                <string name="name" value="Elf Queen Face (Blue)"/>
+            </imgdir>
+            <imgdir name="24185">
+                <string name="name" value="Polearm Warrior Face (Blue)"/>
+            </imgdir>
+            <imgdir name="24186">
+                <string name="name" value="Heartless Face (Blue)"/>
+            </imgdir>
+            <imgdir name="24187">
+                <string name="name" value="Sleepy Heterochromia Face (Blue)"/>
+            </imgdir>
+            <imgdir name="24191">
+                <string name="name" value="Calm Face (Blue)"/>
+            </imgdir>
+            <imgdir name="24192">
+                <string name="name" value="Phantom Face (Blue)"/>
+            </imgdir>
+            <imgdir name="24193">
+                <string name="name" value="Heterochromia Face (Blue)"/>
+            </imgdir>
+            <imgdir name="24194">
+                <string name="name" value="Dragon Master Face (Blue)"/>
+            </imgdir>
+            <imgdir name="24195">
+                <string name="name" value="Forgotten Hero Face (Blue)"/>
+            </imgdir>
+            <imgdir name="24255">
+                <string name="name" value="Sesame Face (Red)"/>
+            </imgdir>
+            <imgdir name="24258">
+                <string name="name" value="Lily Face (Red)"/>
+            </imgdir>
+            <imgdir name="24259">
+                <string name="name" value="Friendly Friend Face (Red)"/>
+            </imgdir>
+            <imgdir name="24260">
+                <string name="name" value="Soulful Face (Red)"/>
+            </imgdir>
+            <imgdir name="24261">
+                <string name="name" value="Soft Smirk Face (Red)"/>
+            </imgdir>
+            <imgdir name="24268">
+                <string name="name" value="Raised Eyebrows Face (Red)"/>
+            </imgdir>
+            <imgdir name="24271">
+                <string name="name" value="Heartbroken Face (Red)"/>
+            </imgdir>
+            <imgdir name="24273">
+                <string name="name" value="Hilla Face (Red)"/>
+            </imgdir>
+            <imgdir name="24275">
+                <string name="name" value="Devilish Face (Red)"/>
+            </imgdir>
+            <imgdir name="24278">
+                <string name="name" value="Red Futuristic Face"/>
+            </imgdir>
+            <imgdir name="24279">
+                <string name="name" value="Sparkling Face (Red)"/>
+            </imgdir>
+            <imgdir name="24281">
+                <string name="name" value="Insomnia Face (Red)"/>
+            </imgdir>
+            <imgdir name="24282">
+                <string name="name" value="Doll Face (Red)"/>
+            </imgdir>
+            <imgdir name="24283">
+                <string name="name" value="Vacant Face (Red)"/>
+            </imgdir>
+            <imgdir name="24284">
+                <string name="name" value="Elf Queen Face (Red)"/>
+            </imgdir>
+            <imgdir name="24285">
+                <string name="name" value="Polearm Warrior Face (Red)"/>
+            </imgdir>
+            <imgdir name="24286">
+                <string name="name" value="Heartless Face (Red)"/>
+            </imgdir>
+            <imgdir name="24287">
+                <string name="name" value="Sleepy Heterochromia Face (Red)"/>
+            </imgdir>
+            <imgdir name="24291">
+                <string name="name" value="Calm Face (Red)"/>
+            </imgdir>
+            <imgdir name="24292">
+                <string name="name" value="Phantom Face (Red)"/>
+            </imgdir>
+            <imgdir name="24293">
+                <string name="name" value="Heterochromia Face (Red)"/>
+            </imgdir>
+            <imgdir name="24294">
+                <string name="name" value="Dragon Master Face (Red)"/>
+            </imgdir>
+            <imgdir name="24295">
+                <string name="name" value="Forgotten Hero Face (Red)"/>
+            </imgdir>
+            <imgdir name="24355">
+                <string name="name" value="Sesame Face (Green)"/>
+            </imgdir>
+            <imgdir name="24358">
+                <string name="name" value="Lily Face (Green)"/>
+            </imgdir>
+            <imgdir name="24359">
+                <string name="name" value="Friendly Friend Face (Green)"/>
+            </imgdir>
+            <imgdir name="24360">
+                <string name="name" value="Soulful Face (Green)"/>
+            </imgdir>
+            <imgdir name="24361">
+                <string name="name" value="Soft Smirk Face (Green)"/>
+            </imgdir>
+            <imgdir name="24368">
+                <string name="name" value="Raised Eyebrows Face (Green)"/>
+            </imgdir>
+            <imgdir name="24371">
+                <string name="name" value="Heartbroken Face (Green)"/>
+            </imgdir>
+            <imgdir name="24373">
+                <string name="name" value="Hilla Face (Green)"/>
+            </imgdir>
+            <imgdir name="24375">
+                <string name="name" value="Devilish Face (Green)"/>
+            </imgdir>
+            <imgdir name="24378">
+                <string name="name" value="Green Futuristic Face"/>
+            </imgdir>
+            <imgdir name="24379">
+                <string name="name" value="Sparkling Face (Green)"/>
+            </imgdir>
+            <imgdir name="24381">
+                <string name="name" value="Insomnia Face (Green)"/>
+            </imgdir>
+            <imgdir name="24382">
+                <string name="name" value="Doll Face (Green)"/>
+            </imgdir>
+            <imgdir name="24383">
+                <string name="name" value="Vacant Face (Green)"/>
+            </imgdir>
+            <imgdir name="24384">
+                <string name="name" value="Elf Queen Face (Green)"/>
+            </imgdir>
+            <imgdir name="24385">
+                <string name="name" value="Polearm Warrior Face (Green)"/>
+            </imgdir>
+            <imgdir name="24386">
+                <string name="name" value="Heartless Face (Green)"/>
+            </imgdir>
+            <imgdir name="24387">
+                <string name="name" value="Sleepy Heterochromia Face (Green)"/>
+            </imgdir>
+            <imgdir name="24391">
+                <string name="name" value="Calm Face (Green)"/>
+            </imgdir>
+            <imgdir name="24392">
+                <string name="name" value="Phantom Face (Green)"/>
+            </imgdir>
+            <imgdir name="24393">
+                <string name="name" value="Heterochromia Face (Green)"/>
+            </imgdir>
+            <imgdir name="24394">
+                <string name="name" value="Dragon Master Face (Green)"/>
+            </imgdir>
+            <imgdir name="24395">
+                <string name="name" value="Forgotten Hero Face (Green)"/>
+            </imgdir>
+            <imgdir name="24455">
+                <string name="name" value="Sesame Face (Hazel)"/>
+            </imgdir>
+            <imgdir name="24458">
+                <string name="name" value="Lily Face (Hazel)"/>
+            </imgdir>
+            <imgdir name="24459">
+                <string name="name" value="Friendly Friend Face (Hazel)"/>
+            </imgdir>
+            <imgdir name="24460">
+                <string name="name" value="Soulful Face (Hazel)"/>
+            </imgdir>
+            <imgdir name="24461">
+                <string name="name" value="Soft Smirk Face (Hazel)"/>
+            </imgdir>
+            <imgdir name="24468">
+                <string name="name" value="Raised Eyebrows Face (Hazel)"/>
+            </imgdir>
+            <imgdir name="24471">
+                <string name="name" value="Heartbroken Face (Hazel)"/>
+            </imgdir>
+            <imgdir name="24473">
+                <string name="name" value="Hilla Face (Hazel)"/>
+            </imgdir>
+            <imgdir name="24475">
+                <string name="name" value="Devilish Face (Hazel)"/>
+            </imgdir>
+            <imgdir name="24478">
+                <string name="name" value="Hazel Futuristic Face"/>
+            </imgdir>
+            <imgdir name="24479">
+                <string name="name" value="Sparkling Face (Hazel)"/>
+            </imgdir>
+            <imgdir name="24481">
+                <string name="name" value="Insomnia Face (Hazel)"/>
+            </imgdir>
+            <imgdir name="24482">
+                <string name="name" value="Doll Face (Hazel)"/>
+            </imgdir>
+            <imgdir name="24483">
+                <string name="name" value="Vacant Face (Hazel)"/>
+            </imgdir>
+            <imgdir name="24484">
+                <string name="name" value="Elf Queen Face (Hazel)"/>
+            </imgdir>
+            <imgdir name="24485">
+                <string name="name" value="Polearm Warrior Face (Hazel)"/>
+            </imgdir>
+            <imgdir name="24486">
+                <string name="name" value="Heartless Face (Hazel)"/>
+            </imgdir>
+            <imgdir name="24487">
+                <string name="name" value="Sleepy Heterochromia Face (Hazel)"/>
+            </imgdir>
+            <imgdir name="24491">
+                <string name="name" value="Calm Face (Hazel)"/>
+            </imgdir>
+            <imgdir name="24492">
+                <string name="name" value="Phantom Face (Hazel)"/>
+            </imgdir>
+            <imgdir name="24493">
+                <string name="name" value="Heterochromia Face (Hazel)"/>
+            </imgdir>
+            <imgdir name="24494">
+                <string name="name" value="Dragon Master Face (Hazel)"/>
+            </imgdir>
+            <imgdir name="24495">
+                <string name="name" value="Forgotten Hero Face (Hazel)"/>
+            </imgdir>
+            <imgdir name="24555">
+                <string name="name" value="Sesame Face (Sapphire) "/>
+            </imgdir>
+            <imgdir name="24558">
+                <string name="name" value="Lily Face (Sapphire) "/>
+            </imgdir>
+            <imgdir name="24559">
+                <string name="name" value="Friendly Friend Face (Sapphire)"/>
+            </imgdir>
+            <imgdir name="24560">
+                <string name="name" value="Soulful Face (Sapphire)"/>
+            </imgdir>
+            <imgdir name="24561">
+                <string name="name" value="Soft Smirk Face (Sapphire)"/>
+            </imgdir>
+            <imgdir name="24568">
+                <string name="name" value="Raised Eyebrows Face (Sapphire)"/>
+            </imgdir>
+            <imgdir name="24571">
+                <string name="name" value="Heartbroken Face (Sapphire)"/>
+            </imgdir>
+            <imgdir name="24573">
+                <string name="name" value="Hilla Face (Sapphire)"/>
+            </imgdir>
+            <imgdir name="24575">
+                <string name="name" value="Devilish Face (Sapphire)"/>
+            </imgdir>
+            <imgdir name="24578">
+                <string name="name" value="Sapphire Futuristic Face"/>
+            </imgdir>
+            <imgdir name="24579">
+                <string name="name" value="Sparkling Face (Sapphire)"/>
+            </imgdir>
+            <imgdir name="24581">
+                <string name="name" value="Insomnia Face (Sapphire)"/>
+            </imgdir>
+            <imgdir name="24582">
+                <string name="name" value="Doll Face (Sapphire)"/>
+            </imgdir>
+            <imgdir name="24583">
+                <string name="name" value="Vacant Face (Sapphire)"/>
+            </imgdir>
+            <imgdir name="24584">
+                <string name="name" value="Elf Queen Face (Sapphire)"/>
+            </imgdir>
+            <imgdir name="24585">
+                <string name="name" value="Polearm Warrior Face (Sapphire)"/>
+            </imgdir>
+            <imgdir name="24586">
+                <string name="name" value="Heartless Face (Sapphire)"/>
+            </imgdir>
+            <imgdir name="24587">
+                <string name="name" value="Sleepy Heterochromia Face (Sapphire)"/>
+            </imgdir>
+            <imgdir name="24591">
+                <string name="name" value="Calm Face (Sapphire)"/>
+            </imgdir>
+            <imgdir name="24592">
+                <string name="name" value="Phantom Face (Sapphire)"/>
+            </imgdir>
+            <imgdir name="24593">
+                <string name="name" value="Heterochromia Face (Sapphire)"/>
+            </imgdir>
+            <imgdir name="24594">
+                <string name="name" value="Dragon Master Face (Sapphire)"/>
+            </imgdir>
+            <imgdir name="24595">
+                <string name="name" value="Forgotten Hero Face (Sapphire)"/>
+            </imgdir>
+            <imgdir name="24655">
+                <string name="name" value="Sesame Face (Violet)"/>
+            </imgdir>
+            <imgdir name="24658">
+                <string name="name" value="Lily Face (Violet)"/>
+            </imgdir>
+            <imgdir name="24659">
+                <string name="name" value="Friendly Friend Face (Violet)"/>
+            </imgdir>
+            <imgdir name="24660">
+                <string name="name" value="Soulful Face (Violet)"/>
+            </imgdir>
+            <imgdir name="24661">
+                <string name="name" value="Soft Smirk Face (Violet)"/>
+            </imgdir>
+            <imgdir name="24668">
+                <string name="name" value="Raised Eyebrows Face (Violet)"/>
+            </imgdir>
+            <imgdir name="24671">
+                <string name="name" value="Heartbroken Face (Violet)"/>
+            </imgdir>
+            <imgdir name="24673">
+                <string name="name" value="Hilla Face (Violet)"/>
+            </imgdir>
+            <imgdir name="24675">
+                <string name="name" value="Devilish Face (Violet)"/>
+            </imgdir>
+            <imgdir name="24678">
+                <string name="name" value="Violet Futuristic Face"/>
+            </imgdir>
+            <imgdir name="24679">
+                <string name="name" value="Sparkling Face (Violet)"/>
+            </imgdir>
+            <imgdir name="24681">
+                <string name="name" value="Insomnia Face (Violet)"/>
+            </imgdir>
+            <imgdir name="24682">
+                <string name="name" value="Doll Face (Violet)"/>
+            </imgdir>
+            <imgdir name="24683">
+                <string name="name" value="Vacant Face (Violet)"/>
+            </imgdir>
+            <imgdir name="24684">
+                <string name="name" value="Elf Queen Face (Violet)"/>
+            </imgdir>
+            <imgdir name="24685">
+                <string name="name" value="Polearm Warrior Face (Violet)"/>
+            </imgdir>
+            <imgdir name="24686">
+                <string name="name" value="Heartless Face (Violet)"/>
+            </imgdir>
+            <imgdir name="24687">
+                <string name="name" value="Sleepy Heterochromia Face (Violet)"/>
+            </imgdir>
+            <imgdir name="24691">
+                <string name="name" value="Calm Face (Violet)"/>
+            </imgdir>
+            <imgdir name="24692">
+                <string name="name" value="Phantom Face (Violet)"/>
+            </imgdir>
+            <imgdir name="24693">
+                <string name="name" value="Heterochromia Face (Violet)"/>
+            </imgdir>
+            <imgdir name="24694">
+                <string name="name" value="Dragon Master Face (Violet)"/>
+            </imgdir>
+            <imgdir name="24695">
+                <string name="name" value="Forgotten Hero Face (Violet)"/>
+            </imgdir>
+            <imgdir name="24755">
+                <string name="name" value="Sesame Face (Amethyst)"/>
+            </imgdir>
+            <imgdir name="24758">
+                <string name="name" value="Lily Face (Amethyst)"/>
+            </imgdir>
+            <imgdir name="24759">
+                <string name="name" value="Friendly Friend Face (Amethyst)"/>
+            </imgdir>
+            <imgdir name="24760">
+                <string name="name" value="Soulful Face (Amethyst)"/>
+            </imgdir>
+            <imgdir name="24761">
+                <string name="name" value="Soft Smirk Face (Amethyst)"/>
+            </imgdir>
+            <imgdir name="24768">
+                <string name="name" value="Raised Eyebrows Face (Amethyst)"/>
+            </imgdir>
+            <imgdir name="24771">
+                <string name="name" value="Heartbroken Face (Amethyst)"/>
+            </imgdir>
+            <imgdir name="24773">
+                <string name="name" value="Hilla Face (Amethyst)"/>
+            </imgdir>
+            <imgdir name="24775">
+                <string name="name" value="Devilish Face (Amethyst)"/>
+            </imgdir>
+            <imgdir name="24778">
+                <string name="name" value="Amethyst Futuristic Face"/>
+            </imgdir>
+            <imgdir name="24779">
+                <string name="name" value="Sparkling Face (Amethyst)"/>
+            </imgdir>
+            <imgdir name="24781">
+                <string name="name" value="Insomnia Face (Amethyst)"/>
+            </imgdir>
+            <imgdir name="24782">
+                <string name="name" value="Doll Face (Amethyst)"/>
+            </imgdir>
+            <imgdir name="24783">
+                <string name="name" value="Vacant Face (Amethyst)"/>
+            </imgdir>
+            <imgdir name="24784">
+                <string name="name" value="Elf Queen Face (Amethyst)"/>
+            </imgdir>
+            <imgdir name="24785">
+                <string name="name" value="Polearm Warrior Face (Amethyst)"/>
+            </imgdir>
+            <imgdir name="24786">
+                <string name="name" value="Heartless Face (Amethyst)"/>
+            </imgdir>
+            <imgdir name="24787">
+                <string name="name" value="Sleepy Heterochromia Face (Amethyst)"/>
+            </imgdir>
+            <imgdir name="24791">
+                <string name="name" value="Calm Face (Amethyst)"/>
+            </imgdir>
+            <imgdir name="24792">
+                <string name="name" value="Phantom Face (Amethyst)"/>
+            </imgdir>
+            <imgdir name="24793">
+                <string name="name" value="Heterochromia Face (Amethyst)"/>
+            </imgdir>
+            <imgdir name="24794">
+                <string name="name" value="Dragon Master Face (Amethyst)"/>
+            </imgdir>
+            <imgdir name="24795">
+                <string name="name" value="Forgotten Hero Face (Amethyst)"/>
+            </imgdir>
+            <imgdir name="24855">
+                <string name="name" value="Sesame Face (White)"/>
+            </imgdir>
+            <imgdir name="24858">
+                <string name="name" value="Lily Face (White)"/>
+            </imgdir>
+            <imgdir name="24859">
+                <string name="name" value="Friendly Friend Face (White)"/>
+            </imgdir>
+            <imgdir name="24860">
+                <string name="name" value="Soulful Face (White)"/>
+            </imgdir>
+            <imgdir name="24861">
+                <string name="name" value="Soft Smirk Face (White)"/>
+            </imgdir>
+            <imgdir name="24868">
+                <string name="name" value="Raised Eyebrows Face (White)"/>
+            </imgdir>
+            <imgdir name="24871">
+                <string name="name" value="Heartbroken Face (White)"/>
+            </imgdir>
+            <imgdir name="24873">
+                <string name="name" value="Hilla Android Face (White)"/>
+            </imgdir>
+            <imgdir name="24875">
+                <string name="name" value="Devilish Face (White)"/>
+            </imgdir>
+            <imgdir name="24878">
+                <string name="name" value="White Futuristic Face"/>
+            </imgdir>
+            <imgdir name="24879">
+                <string name="name" value="Sparkling Face (White)"/>
+            </imgdir>
+            <imgdir name="24881">
+                <string name="name" value="Insomnia Face (White)"/>
+            </imgdir>
+            <imgdir name="24882">
+                <string name="name" value="Doll Face (White)"/>
+            </imgdir>
+            <imgdir name="24883">
+                <string name="name" value="Vacant Face (White)"/>
+            </imgdir>
+            <imgdir name="24884">
+                <string name="name" value="Elf Queen Face (White)"/>
+            </imgdir>
+            <imgdir name="24885">
+                <string name="name" value="Polearm Warrior Face (White)"/>
+            </imgdir>
+            <imgdir name="24886">
+                <string name="name" value="Heartless Face (White)"/>
+            </imgdir>
+            <imgdir name="24887">
+                <string name="name" value="Sleepy Heterochromia Face (White)"/>
+            </imgdir>
+            <imgdir name="24891">
+                <string name="name" value="Calm Face (White)"/>
+            </imgdir>
+            <imgdir name="24892">
+                <string name="name" value="Phantom Face (White)"/>
+            </imgdir>
+            <imgdir name="24893">
+                <string name="name" value="Heterochromia Face (White)"/>
+            </imgdir>
+            <imgdir name="24894">
+                <string name="name" value="Dragon Master Face (White)"/>
+            </imgdir>
+            <imgdir name="24895">
+                <string name="name" value="Forgotten Hero Face (White)"/>
             </imgdir>
         </imgdir>
         <imgdir name="Glove">
@@ -34282,150 +35559,6 @@
             <imgdir name="37797">
                 <string name="name" value="Nautilus Hair"/>
             </imgdir>
-            <imgdir name="37800">
-                <string name="name" value="Black Pippi Longstocking Hair"/>
-            </imgdir>
-            <imgdir name="37801">
-                <string name="name" value="Red Pippi Longstocking Hair"/>
-            </imgdir>
-            <imgdir name="37802">
-                <string name="name" value="Orange Pippi Longstocking Hair"/>
-            </imgdir>
-            <imgdir name="37803">
-                <string name="name" value="Yellow Pippi Longstocking Hair"/>
-            </imgdir>
-            <imgdir name="37804">
-                <string name="name" value="Green Pippi Longstocking Hair"/>
-            </imgdir>
-            <imgdir name="37805">
-                <string name="name" value="Blue Pippi Longstocking Hair"/>
-            </imgdir>
-            <imgdir name="37806">
-                <string name="name" value="Purple Pippi Longstocking Hair"/>
-            </imgdir>
-            <imgdir name="37807">
-                <string name="name" value="Brown Pippi Longstocking Hair"/>
-            </imgdir>
-            <imgdir name="37810">
-                <string name="name" value="Black Daisy Bun"/>
-            </imgdir>
-            <imgdir name="37811">
-                <string name="name" value="Red Daisy Bun"/>
-            </imgdir>
-            <imgdir name="37812">
-                <string name="name" value="Orange Daisy Bun"/>
-            </imgdir>
-            <imgdir name="37813">
-                <string name="name" value="Yellow Daisy Bun"/>
-            </imgdir>
-            <imgdir name="37814">
-                <string name="name" value="Green Daisy Bun"/>
-            </imgdir>
-            <imgdir name="37815">
-                <string name="name" value="Blue Daisy Bun"/>
-            </imgdir>
-            <imgdir name="37816">
-                <string name="name" value="Purple Daisy Bun"/>
-            </imgdir>
-            <imgdir name="37817">
-                <string name="name" value="Brown Daisy Bun"/>
-            </imgdir>
-            <imgdir name="37820">
-                <string name="name" value="Black Aurora Hair"/>
-            </imgdir>
-            <imgdir name="37821">
-                <string name="name" value="Red Aurora Hair"/>
-            </imgdir>
-            <imgdir name="37822">
-                <string name="name" value="Orange Aurora Hair"/>
-            </imgdir>
-            <imgdir name="37823">
-                <string name="name" value="Yellow Aurora Hair"/>
-            </imgdir>
-            <imgdir name="37824">
-                <string name="name" value="Green Aurora Hair"/>
-            </imgdir>
-            <imgdir name="37825">
-                <string name="name" value="Blue Aurora Hair"/>
-            </imgdir>
-            <imgdir name="37826">
-                <string name="name" value="Purple Aurora Hair"/>
-            </imgdir>
-            <imgdir name="37827">
-                <string name="name" value="Brown Aurora Hair"/>
-            </imgdir>
-            <imgdir name="37830">
-                <string name="name" value="White Lavender Hair"/>
-            </imgdir>
-            <imgdir name="37831">
-                <string name="name" value="Red Lavender Hair"/>
-            </imgdir>
-            <imgdir name="37832">
-                <string name="name" value="Orange Lavender Hair"/>
-            </imgdir>
-            <imgdir name="37833">
-                <string name="name" value="Yellow Lavender Hair"/>
-            </imgdir>
-            <imgdir name="37834">
-                <string name="name" value="Green Lavender Hair"/>
-            </imgdir>
-            <imgdir name="37835">
-                <string name="name" value="Blue Lavender Hair"/>
-            </imgdir>
-            <imgdir name="37836">
-                <string name="name" value="Purple Lavender Hair"/>
-            </imgdir>
-            <imgdir name="37837">
-                <string name="name" value="Brown Lavender Hair"/>
-            </imgdir>
-            <imgdir name="37840">
-                <string name="name" value="Black Sugar Hair"/>
-            </imgdir>
-            <imgdir name="37841">
-                <string name="name" value="Red Sugar Hair"/>
-            </imgdir>
-            <imgdir name="37842">
-                <string name="name" value="Orange Sugar Hair"/>
-            </imgdir>
-            <imgdir name="37843">
-                <string name="name" value="Blonde Sugar Hair"/>
-            </imgdir>
-            <imgdir name="37844">
-                <string name="name" value="Green Sugar Hair"/>
-            </imgdir>
-            <imgdir name="37845">
-                <string name="name" value="Blue Sugar Hair"/>
-            </imgdir>
-            <imgdir name="37846">
-                <string name="name" value="Purple Sugar Hair"/>
-            </imgdir>
-            <imgdir name="37847">
-                <string name="name" value="Brown Sugar Hair"/>
-            </imgdir>
-            <imgdir name="37850">
-                <string name="name" value="Black Olive Hair"/>
-            </imgdir>
-            <imgdir name="37851">
-                <string name="name" value="Red Olive Hair"/>
-            </imgdir>
-            <imgdir name="37852">
-                <string name="name" value="Orange Olive Hair"/>
-            </imgdir>
-            <imgdir name="37853">
-                <string name="name" value="Yellow Olive Hair"/>
-            </imgdir>
-            <imgdir name="37854">
-                <string name="name" value="Green Olive Hair"/>
-            </imgdir>
-            <imgdir name="37855">
-                <string name="name" value="Blue Olive Hair"/>
-            </imgdir>
-            <imgdir name="37856">
-                <string name="name" value="Purple Olive Hair"/>
-            </imgdir>
-            <imgdir name="37857">
-                <string name="name" value="Brown Olive Hair"/>
-            </imgdir>
             <imgdir name="37860">
                 <string name="name" value="Black Fluffy Cloud Hair"/>
             </imgdir>
@@ -34449,30 +35582,6 @@
             </imgdir>
             <imgdir name="37867">
                 <string name="name" value="Brown Fluffy Cloud Hair"/>
-            </imgdir>
-            <imgdir name="37880">
-                <string name="name" value="Black Dahlia Hair"/>
-            </imgdir>
-            <imgdir name="37881">
-                <string name="name" value="Red Dahlia Hair"/>
-            </imgdir>
-            <imgdir name="37882">
-                <string name="name" value="Orange Dahlia Hair"/>
-            </imgdir>
-            <imgdir name="37883">
-                <string name="name" value="Yellow Dahlia Hair"/>
-            </imgdir>
-            <imgdir name="37884">
-                <string name="name" value="Green Dahlia Hair"/>
-            </imgdir>
-            <imgdir name="37885">
-                <string name="name" value="Blue Dahlia Hair"/>
-            </imgdir>
-            <imgdir name="37886">
-                <string name="name" value="Purple Dahlia Hair"/>
-            </imgdir>
-            <imgdir name="37887">
-                <string name="name" value="Brown Dahlia Hair"/>
             </imgdir>
             <imgdir name="37900">
                 <string name="name" value="Black Heroine Ponytail"/>
@@ -34570,54 +35679,6 @@
             <imgdir name="37937">
                 <string name="name" value="Brown Future LLoyd (Female)"/>
             </imgdir>
-            <imgdir name="37950">
-                <string name="name" value="Black Beta Hair"/>
-            </imgdir>
-            <imgdir name="37951">
-                <string name="name" value="Red Beta Hair"/>
-            </imgdir>
-            <imgdir name="37952">
-                <string name="name" value="Orange Beta Hair"/>
-            </imgdir>
-            <imgdir name="37953">
-                <string name="name" value="Yellow Beta Hair"/>
-            </imgdir>
-            <imgdir name="37954">
-                <string name="name" value="Green Beta Hair"/>
-            </imgdir>
-            <imgdir name="37955">
-                <string name="name" value="Blue Beta Hair"/>
-            </imgdir>
-            <imgdir name="37956">
-                <string name="name" value="Purple Beta Hair"/>
-            </imgdir>
-            <imgdir name="37957">
-                <string name="name" value="Brown Beta Hair"/>
-            </imgdir>
-            <imgdir name="37960">
-                <string name="name" value="White Fairy Queen Titania Hair"/>
-            </imgdir>
-            <imgdir name="37961">
-                <string name="name" value="Red Fairy Queen Titania Hair"/>
-            </imgdir>
-            <imgdir name="37962">
-                <string name="name" value="Orange Fairy Queen Titania Hair"/>
-            </imgdir>
-            <imgdir name="37963">
-                <string name="name" value="Yellow Fairy Queen Titania Hair"/>
-            </imgdir>
-            <imgdir name="37964">
-                <string name="name" value="Green Fairy Queen Titania Hair"/>
-            </imgdir>
-            <imgdir name="37965">
-                <string name="name" value="Blue Fairy Queen Titania Hair"/>
-            </imgdir>
-            <imgdir name="37966">
-                <string name="name" value="Purple Fairy Queen Titania Hair"/>
-            </imgdir>
-            <imgdir name="37967">
-                <string name="name" value="Pink Fairy Queen Titania Hair"/>
-            </imgdir>
             <imgdir name="37970">
                 <string name="name" value="Olive Hair"/>
             </imgdir>
@@ -34641,54 +35702,6 @@
             </imgdir>
             <imgdir name="37977">
                 <string name="name" value="Olive Hair"/>
-            </imgdir>
-            <imgdir name="37980">
-                <string name="name" value="Black Jubilee Hair"/>
-            </imgdir>
-            <imgdir name="37981">
-                <string name="name" value="Red Jubilee Hair"/>
-            </imgdir>
-            <imgdir name="37982">
-                <string name="name" value="Orange Jubilee Hair"/>
-            </imgdir>
-            <imgdir name="37983">
-                <string name="name" value="Blonde Jubilee Hair"/>
-            </imgdir>
-            <imgdir name="37984">
-                <string name="name" value="Green Jubilee Hair"/>
-            </imgdir>
-            <imgdir name="37985">
-                <string name="name" value="Blue Jubilee Hair"/>
-            </imgdir>
-            <imgdir name="37986">
-                <string name="name" value="Purple Jubilee Hair"/>
-            </imgdir>
-            <imgdir name="37987">
-                <string name="name" value="Brown Jubilee Hair"/>
-            </imgdir>
-            <imgdir name="37990">
-                <string name="name" value="Black Apple Tea Hair"/>
-            </imgdir>
-            <imgdir name="37991">
-                <string name="name" value="Red Apple Tea Hair"/>
-            </imgdir>
-            <imgdir name="37992">
-                <string name="name" value="Orange Apple Tea Hair"/>
-            </imgdir>
-            <imgdir name="37993">
-                <string name="name" value="Yellow Apple Tea Hair"/>
-            </imgdir>
-            <imgdir name="37994">
-                <string name="name" value="Green Apple Tea Hair"/>
-            </imgdir>
-            <imgdir name="37995">
-                <string name="name" value="Blue Apple Tea Hair"/>
-            </imgdir>
-            <imgdir name="37996">
-                <string name="name" value="Purple Apple Tea Hair"/>
-            </imgdir>
-            <imgdir name="37997">
-                <string name="name" value="Brown Apple Tea Hair"/>
             </imgdir>
             <imgdir name="38000">
                 <string name="name" value="Black Harmony Hair"/>
@@ -35218,30 +36231,6 @@
             <imgdir name="38317">
                 <string name="name" value="Brown Wonder Bunny"/>
             </imgdir>
-            <imgdir name="38390">
-                <string name="name" value="Black Super Cutie Hair"/>
-            </imgdir>
-            <imgdir name="38391">
-                <string name="name" value="Red Super Cutie Hair"/>
-            </imgdir>
-            <imgdir name="38392">
-                <string name="name" value="Orange Super Cutie Hair"/>
-            </imgdir>
-            <imgdir name="38393">
-                <string name="name" value="Yellow Super Cutie Hair"/>
-            </imgdir>
-            <imgdir name="38394">
-                <string name="name" value="Green Super Cutie Hair"/>
-            </imgdir>
-            <imgdir name="38395">
-                <string name="name" value="Blue Super Cutie Hair"/>
-            </imgdir>
-            <imgdir name="38396">
-                <string name="name" value="Purple Super Cutie Hair"/>
-            </imgdir>
-            <imgdir name="38397">
-                <string name="name" value="Brown Super Cutie Hair"/>
-            </imgdir>
             <imgdir name="38410">
                 <string name="name" value="Black Natural Hair"/>
             </imgdir>
@@ -35313,78 +36302,6 @@
             </imgdir>
             <imgdir name="38447">
                 <string name="name" value="Brown Elsa Hair"/>
-            </imgdir>
-            <imgdir name="38450">
-                <string name="name" value="Krinkle Cut Hair"/>
-            </imgdir>
-            <imgdir name="38451">
-                <string name="name" value="Krinkle Cut Hair"/>
-            </imgdir>
-            <imgdir name="38452">
-                <string name="name" value="Krinkle Cut Hair"/>
-            </imgdir>
-            <imgdir name="38453">
-                <string name="name" value="Krinkle Cut Hair"/>
-            </imgdir>
-            <imgdir name="38454">
-                <string name="name" value="Krinkle Cut Hair"/>
-            </imgdir>
-            <imgdir name="38455">
-                <string name="name" value="Krinkle Cut Hair"/>
-            </imgdir>
-            <imgdir name="38456">
-                <string name="name" value="Krinkle Cut Hair"/>
-            </imgdir>
-            <imgdir name="38457">
-                <string name="name" value="Krinkle Cut Hair"/>
-            </imgdir>
-            <imgdir name="38460">
-                <string name="name" value="Black Twinny Hair"/>
-            </imgdir>
-            <imgdir name="38461">
-                <string name="name" value="Red Twinny Hair"/>
-            </imgdir>
-            <imgdir name="38462">
-                <string name="name" value="Orange Twinny Hair"/>
-            </imgdir>
-            <imgdir name="38463">
-                <string name="name" value="Yellow Twinny Hair"/>
-            </imgdir>
-            <imgdir name="38464">
-                <string name="name" value="Green Twinny Hair"/>
-            </imgdir>
-            <imgdir name="38465">
-                <string name="name" value="Blue Twinny Hair"/>
-            </imgdir>
-            <imgdir name="38466">
-                <string name="name" value="Purple Twinny Hair"/>
-            </imgdir>
-            <imgdir name="38467">
-                <string name="name" value="Brown Twinny Hair"/>
-            </imgdir>
-            <imgdir name="38470">
-                <string name="name" value="Black Long &apos;n&apos; Lovely Hair"/>
-            </imgdir>
-            <imgdir name="38471">
-                <string name="name" value="Red Long &apos;n&apos; Lovely Hair"/>
-            </imgdir>
-            <imgdir name="38472">
-                <string name="name" value="Orange Long &apos;n&apos; Lovely Hair"/>
-            </imgdir>
-            <imgdir name="38473">
-                <string name="name" value="Yellow Long &apos;n&apos; Lovely Hair"/>
-            </imgdir>
-            <imgdir name="38474">
-                <string name="name" value="Green Long &apos;n&apos; Lovely Hair"/>
-            </imgdir>
-            <imgdir name="38475">
-                <string name="name" value="Blue Long &apos;n&apos; Lovely Hair"/>
-            </imgdir>
-            <imgdir name="38476">
-                <string name="name" value="Purple Long &apos;n&apos; Lovely Hair"/>
-            </imgdir>
-            <imgdir name="38477">
-                <string name="name" value="Brown Long &apos;n&apos; Lovely Hair"/>
             </imgdir>
             <imgdir name="38490">
                 <string name="name" value="Black Sugarbong Hair"/>
@@ -42802,6 +43719,894 @@
             <imgdir name="43657">
                 <string name="name" value="Kitten Hair"/>
             </imgdir>
+            <imgdir name="40410">
+                <string name="name" value="Black Elf King Hair"/>
+            </imgdir>
+            <imgdir name="40411">
+                <string name="name" value="Red Elf King Hair"/>
+            </imgdir>
+            <imgdir name="40412">
+                <string name="name" value="Orange Elf King Hair"/>
+            </imgdir>
+            <imgdir name="40413">
+                <string name="name" value="Yellow Elf King Hair"/>
+            </imgdir>
+            <imgdir name="40414">
+                <string name="name" value="Green Elf King Hair"/>
+            </imgdir>
+            <imgdir name="40415">
+                <string name="name" value="Blue Elf King Hair"/>
+            </imgdir>
+            <imgdir name="40416">
+                <string name="name" value="Purple Elf King Hair"/>
+            </imgdir>
+            <imgdir name="40417">
+                <string name="name" value="Brown Elf King Hair"/>
+            </imgdir>
+            <imgdir name="40420">
+                <string name="name" value="Black Polearm Warrior Hair"/>
+            </imgdir>
+            <imgdir name="40421">
+                <string name="name" value="Red Polearm Warrior Hair"/>
+            </imgdir>
+            <imgdir name="40422">
+                <string name="name" value="Orange Polearm Warrior Hair"/>
+            </imgdir>
+            <imgdir name="40423">
+                <string name="name" value="Yellow Polearm Warrior Hair"/>
+            </imgdir>
+            <imgdir name="40424">
+                <string name="name" value="Green Polearm Warrior Hair"/>
+            </imgdir>
+            <imgdir name="40425">
+                <string name="name" value="Blue Polearm Warrior Hair"/>
+            </imgdir>
+            <imgdir name="40426">
+                <string name="name" value="Purple Polearm Warrior Hair"/>
+            </imgdir>
+            <imgdir name="40427">
+                <string name="name" value="Brown Polearm Warrior Hair"/>
+            </imgdir>
+            <imgdir name="40440">
+                <string name="name" value="Black Sherbet Hair"/>
+            </imgdir>
+            <imgdir name="40441">
+                <string name="name" value="Red Sherbet Hair"/>
+            </imgdir>
+            <imgdir name="40442">
+                <string name="name" value="Orange Sherbet Hair"/>
+            </imgdir>
+            <imgdir name="40443">
+                <string name="name" value="Yellow Sherbet Hair"/>
+            </imgdir>
+            <imgdir name="40444">
+                <string name="name" value="Green Sherbet Hair"/>
+            </imgdir>
+            <imgdir name="40445">
+                <string name="name" value="Blue Sherbet Hair"/>
+            </imgdir>
+            <imgdir name="40446">
+                <string name="name" value="Purple Sherbet Hair"/>
+            </imgdir>
+            <imgdir name="40447">
+                <string name="name" value="Brown Sherbet Hair"/>
+            </imgdir>
+            <imgdir name="40450">
+                <string name="name" value="Black King Hair"/>
+            </imgdir>
+            <imgdir name="40451">
+                <string name="name" value="Red King Hair"/>
+            </imgdir>
+            <imgdir name="40452">
+                <string name="name" value="Orange King Hair"/>
+            </imgdir>
+            <imgdir name="40453">
+                <string name="name" value="Yellow King Hair"/>
+            </imgdir>
+            <imgdir name="40454">
+                <string name="name" value="Green King Hair"/>
+            </imgdir>
+            <imgdir name="40455">
+                <string name="name" value="Blue King Hair"/>
+            </imgdir>
+            <imgdir name="40456">
+                <string name="name" value="Purple King Hair"/>
+            </imgdir>
+            <imgdir name="40457">
+                <string name="name" value="Brown King Hair"/>
+            </imgdir>
+            <imgdir name="40460">
+                <string name="name" value="Damien Hair"/>
+            </imgdir>
+            <imgdir name="40461">
+                <string name="name" value="Damien Hair"/>
+            </imgdir>
+            <imgdir name="40462">
+                <string name="name" value="Damien Hair"/>
+            </imgdir>
+            <imgdir name="40463">
+                <string name="name" value="Damien Hair"/>
+            </imgdir>
+            <imgdir name="40464">
+                <string name="name" value="Damien Hair"/>
+            </imgdir>
+            <imgdir name="40465">
+                <string name="name" value="Damien Hair"/>
+            </imgdir>
+            <imgdir name="40466">
+                <string name="name" value="Damien Hair"/>
+            </imgdir>
+            <imgdir name="40467">
+                <string name="name" value="Damien Hair"/>
+            </imgdir>
+            <imgdir name="40470">
+                <string name="name" value="Black Commence Hair"/>
+            </imgdir>
+            <imgdir name="40471">
+                <string name="name" value="Red Commence Hair"/>
+            </imgdir>
+            <imgdir name="40472">
+                <string name="name" value="Orange Commence Hair"/>
+            </imgdir>
+            <imgdir name="40473">
+                <string name="name" value="Yellow Commence Hair"/>
+            </imgdir>
+            <imgdir name="40474">
+                <string name="name" value="Green Commence Hair"/>
+            </imgdir>
+            <imgdir name="40475">
+                <string name="name" value="Blue Commence Hair"/>
+            </imgdir>
+            <imgdir name="40476">
+                <string name="name" value="Purple Commence Hair"/>
+            </imgdir>
+            <imgdir name="40477">
+                <string name="name" value="Brown Commence Hair"/>
+            </imgdir>
+            <imgdir name="40500">
+                <string name="name" value="Black Sosom Hair"/>
+            </imgdir>
+            <imgdir name="40501">
+                <string name="name" value="Red Sosom Hair"/>
+            </imgdir>
+            <imgdir name="40502">
+                <string name="name" value="Orange Sosom Hair"/>
+            </imgdir>
+            <imgdir name="40503">
+                <string name="name" value="Yellow Sosom Hair"/>
+            </imgdir>
+            <imgdir name="40504">
+                <string name="name" value="Green Sosom Hair"/>
+            </imgdir>
+            <imgdir name="40505">
+                <string name="name" value="Blue Sosom Hair"/>
+            </imgdir>
+            <imgdir name="40506">
+                <string name="name" value="Purple Sosom Hair"/>
+            </imgdir>
+            <imgdir name="40507">
+                <string name="name" value="Brown Sosom Hair"/>
+            </imgdir>
+            <imgdir name="40570">
+                <string name="name" value="Black Latte Bubble Hair"/>
+            </imgdir>
+            <imgdir name="40571">
+                <string name="name" value="Red Latte Bubble Hair"/>
+            </imgdir>
+            <imgdir name="40572">
+                <string name="name" value="Orange Latte Bubble Hair"/>
+            </imgdir>
+            <imgdir name="40573">
+                <string name="name" value="Yellow Latte Bubble Hair"/>
+            </imgdir>
+            <imgdir name="40574">
+                <string name="name" value="Green Latte Bubble Hair"/>
+            </imgdir>
+            <imgdir name="40575">
+                <string name="name" value="Blue Latte Bubble Hair"/>
+            </imgdir>
+            <imgdir name="40576">
+                <string name="name" value="Purple Latte Bubble Hair"/>
+            </imgdir>
+            <imgdir name="40577">
+                <string name="name" value="Brown Latte Bubble Hair"/>
+            </imgdir>
+            <imgdir name="40580">
+                <string name="name" value="Black Tony Hair"/>
+            </imgdir>
+            <imgdir name="40581">
+                <string name="name" value="Red Tony Hair"/>
+            </imgdir>
+            <imgdir name="40582">
+                <string name="name" value="Orange Tony Hair"/>
+            </imgdir>
+            <imgdir name="40583">
+                <string name="name" value="Yellow Tony Hair"/>
+            </imgdir>
+            <imgdir name="40584">
+                <string name="name" value="Green Tony Hair"/>
+            </imgdir>
+            <imgdir name="40585">
+                <string name="name" value="Blue Tony Hair"/>
+            </imgdir>
+            <imgdir name="40586">
+                <string name="name" value="Purple Tony Hair"/>
+            </imgdir>
+            <imgdir name="40587">
+                <string name="name" value="Brown Tony Hair"/>
+            </imgdir>
+            <imgdir name="40610">
+                <string name="name" value="Black Tied Two-Tone Hair"/>
+            </imgdir>
+            <imgdir name="40611">
+                <string name="name" value="Red Tied Two-Tone Hair"/>
+            </imgdir>
+            <imgdir name="40612">
+                <string name="name" value="Orange Tied Two-Tone Hair"/>
+            </imgdir>
+            <imgdir name="40613">
+                <string name="name" value="Yellow Tied Two-Tone Hair"/>
+            </imgdir>
+            <imgdir name="40614">
+                <string name="name" value="Green Tied Two-Tone Hair"/>
+            </imgdir>
+            <imgdir name="40615">
+                <string name="name" value="Blue Tied Two-Tone Hair"/>
+            </imgdir>
+            <imgdir name="40616">
+                <string name="name" value="Purple Tied Two-Tone Hair"/>
+            </imgdir>
+            <imgdir name="40617">
+                <string name="name" value="Brown Tied Two-Tone Hair"/>
+            </imgdir>
+            <imgdir name="40620">
+                <string name="name" value="Black Spiky Mess Hair"/>
+            </imgdir>
+            <imgdir name="40621">
+                <string name="name" value="Red Spiky Mess Hair"/>
+            </imgdir>
+            <imgdir name="40622">
+                <string name="name" value="Orange Spiky Mess Hair"/>
+            </imgdir>
+            <imgdir name="40623">
+                <string name="name" value="Yellow Spiky Mess Hair"/>
+            </imgdir>
+            <imgdir name="40624">
+                <string name="name" value="Green Spiky Mess Hair"/>
+            </imgdir>
+            <imgdir name="40625">
+                <string name="name" value="Blue Spiky Mess Hair"/>
+            </imgdir>
+            <imgdir name="40626">
+                <string name="name" value="Purple Spiky Mess Hair"/>
+            </imgdir>
+            <imgdir name="40627">
+                <string name="name" value="Brown Spiky Mess Hair"/>
+            </imgdir>
+            <imgdir name="40630">
+                <string name="name" value="Black Bandana Hair"/>
+            </imgdir>
+            <imgdir name="40631">
+                <string name="name" value="Red Bandana Hair"/>
+            </imgdir>
+            <imgdir name="40632">
+                <string name="name" value="Orange Bandana Hair"/>
+            </imgdir>
+            <imgdir name="40633">
+                <string name="name" value="Yellow Bandana Hair"/>
+            </imgdir>
+            <imgdir name="40634">
+                <string name="name" value="Green Bandana Hair"/>
+            </imgdir>
+            <imgdir name="40635">
+                <string name="name" value="Blue Bandana Hair"/>
+            </imgdir>
+            <imgdir name="40636">
+                <string name="name" value="Purple Bandana Hair"/>
+            </imgdir>
+            <imgdir name="40637">
+                <string name="name" value="Brown Bandana Hair"/>
+            </imgdir>
+            <imgdir name="40640">
+                <string name="name" value="Black Multi Hair"/>
+            </imgdir>
+            <imgdir name="40641">
+                <string name="name" value="Red Multi Hair"/>
+            </imgdir>
+            <imgdir name="40642">
+                <string name="name" value="Orange Multi Hair"/>
+            </imgdir>
+            <imgdir name="40643">
+                <string name="name" value="Yellow Multi Hair"/>
+            </imgdir>
+            <imgdir name="40644">
+                <string name="name" value="Green Multi Hair"/>
+            </imgdir>
+            <imgdir name="40645">
+                <string name="name" value="Blue Multi Hair"/>
+            </imgdir>
+            <imgdir name="40646">
+                <string name="name" value="Purple Multi Hair"/>
+            </imgdir>
+            <imgdir name="40647">
+                <string name="name" value="Brown Multi Hair"/>
+            </imgdir>
+            <imgdir name="40800">
+                <string name="name" value="Black Balding Manager Hair"/>
+            </imgdir>
+            <imgdir name="40801">
+                <string name="name" value="Red Balding Manager Hair"/>
+            </imgdir>
+            <imgdir name="40802">
+                <string name="name" value="Orange Balding Manager Hair"/>
+            </imgdir>
+            <imgdir name="40803">
+                <string name="name" value="Yellow Balding Manager Hair"/>
+            </imgdir>
+            <imgdir name="40804">
+                <string name="name" value="Green Balding Manager Hair"/>
+            </imgdir>
+            <imgdir name="40805">
+                <string name="name" value="Blue Balding Manager Hair"/>
+            </imgdir>
+            <imgdir name="40806">
+                <string name="name" value="Purple Balding Manager Hair"/>
+            </imgdir>
+            <imgdir name="40807">
+                <string name="name" value="Brown Balding Manager Hair"/>
+            </imgdir>
+            <imgdir name="40810">
+                <string name="name" value="Black Scraggly Hair"/>
+            </imgdir>
+            <imgdir name="40811">
+                <string name="name" value="Red Scraggly Hair"/>
+            </imgdir>
+            <imgdir name="40812">
+                <string name="name" value="Orange Scraggly Hair"/>
+            </imgdir>
+            <imgdir name="40813">
+                <string name="name" value="Yellow Scraggly Hair"/>
+            </imgdir>
+            <imgdir name="40814">
+                <string name="name" value="Green Scraggly Hair"/>
+            </imgdir>
+            <imgdir name="40815">
+                <string name="name" value="Blue Scraggly Hair"/>
+            </imgdir>
+            <imgdir name="40816">
+                <string name="name" value="Purple Scraggly Hair"/>
+            </imgdir>
+            <imgdir name="40817">
+                <string name="name" value="Brown Scraggly Hair"/>
+            </imgdir>
+            <imgdir name="40820">
+                <string name="name" value="Black Wavy Ombre Hair"/>
+            </imgdir>
+            <imgdir name="40821">
+                <string name="name" value="Red Wavy Ombre Hair"/>
+            </imgdir>
+            <imgdir name="40822">
+                <string name="name" value="Orange Wavy Ombre Hair"/>
+            </imgdir>
+            <imgdir name="40824">
+                <string name="name" value="Green Wavy Ombre Hair"/>
+            </imgdir>
+            <imgdir name="40823">
+                <string name="name" value="Blonde Wavy Ombre Hair"/>
+            </imgdir>
+            <imgdir name="40825">
+                <string name="name" value="Blue Wavy Ombre Hair"/>
+            </imgdir>
+            <imgdir name="40826">
+                <string name="name" value="Purple Wavy Ombre Hair"/>
+            </imgdir>
+            <imgdir name="40827">
+                <string name="name" value="Brown Wavy Ombre Hair"/>
+            </imgdir>
+            <imgdir name="40830">
+                <string name="name" value="Black Cool Kid Hair"/>
+            </imgdir>
+            <imgdir name="40831">
+                <string name="name" value="Red Cool Kid Hair"/>
+            </imgdir>
+            <imgdir name="40832">
+                <string name="name" value="Orange Cool Kid Hair"/>
+            </imgdir>
+            <imgdir name="40833">
+                <string name="name" value="Yellow Cool Kid Hair"/>
+            </imgdir>
+            <imgdir name="40834">
+                <string name="name" value="Green Cool Kid Hair"/>
+            </imgdir>
+            <imgdir name="40835">
+                <string name="name" value="Blue Cool Kid Hair"/>
+            </imgdir>
+            <imgdir name="40836">
+                <string name="name" value="Purple Cool Kid Hair"/>
+            </imgdir>
+            <imgdir name="40837">
+                <string name="name" value="Brown Cool Kid Hair"/>
+            </imgdir>
+            <imgdir name="37800">
+                <string name="name" value="Black Upturned Pigtails Hair"/>
+            </imgdir>
+            <imgdir name="37801">
+                <string name="name" value="Red Upturned Pigtails Hair"/>
+            </imgdir>
+            <imgdir name="37802">
+                <string name="name" value="Orange Upturned Pigtails Hair"/>
+            </imgdir>
+            <imgdir name="37803">
+                <string name="name" value="Yellow Upturned Pigtails Hair"/>
+            </imgdir>
+            <imgdir name="37804">
+                <string name="name" value="Green Upturned Pigtails Hair"/>
+            </imgdir>
+            <imgdir name="37805">
+                <string name="name" value="Blue Upturned Pigtails Hair"/>
+            </imgdir>
+            <imgdir name="37806">
+                <string name="name" value="Purple Upturned Pigtails Hair"/>
+            </imgdir>
+            <imgdir name="37807">
+                <string name="name" value="Brown Upturned Pigtails Hair"/>
+            </imgdir>
+            <imgdir name="37810">
+                <string name="name" value="Black Daisy Bun"/>
+            </imgdir>
+            <imgdir name="37811">
+                <string name="name" value="Red Daisy Bun"/>
+            </imgdir>
+            <imgdir name="37812">
+                <string name="name" value="Orange Daisy Bun"/>
+            </imgdir>
+            <imgdir name="37813">
+                <string name="name" value="Yellow Daisy Bun"/>
+            </imgdir>
+            <imgdir name="37814">
+                <string name="name" value="Green Daisy Bun"/>
+            </imgdir>
+            <imgdir name="37815">
+                <string name="name" value="Blue Daisy Bun"/>
+            </imgdir>
+            <imgdir name="37816">
+                <string name="name" value="Purple Daisy Bun"/>
+            </imgdir>
+            <imgdir name="37817">
+                <string name="name" value="Brown Daisy Bun"/>
+            </imgdir>
+            <imgdir name="37820">
+                <string name="name" value="Black Aurora Hair"/>
+            </imgdir>
+            <imgdir name="37821">
+                <string name="name" value="Red Aurora Hair"/>
+            </imgdir>
+            <imgdir name="37822">
+                <string name="name" value="Orange Aurora Hair"/>
+            </imgdir>
+            <imgdir name="37823">
+                <string name="name" value="Yellow Aurora Hair"/>
+            </imgdir>
+            <imgdir name="37824">
+                <string name="name" value="Green Aurora Hair"/>
+            </imgdir>
+            <imgdir name="37825">
+                <string name="name" value="Blue Aurora Hair"/>
+            </imgdir>
+            <imgdir name="37826">
+                <string name="name" value="Purple Aurora Hair"/>
+            </imgdir>
+            <imgdir name="37827">
+                <string name="name" value="Brown Aurora Hair"/>
+            </imgdir>
+            <imgdir name="37830">
+                <string name="name" value="White Lavender Hair"/>
+            </imgdir>
+            <imgdir name="37831">
+                <string name="name" value="Red Lavender Hair"/>
+            </imgdir>
+            <imgdir name="37832">
+                <string name="name" value="Orange Lavender Hair"/>
+            </imgdir>
+            <imgdir name="37833">
+                <string name="name" value="Yellow Lavender Hair"/>
+            </imgdir>
+            <imgdir name="37834">
+                <string name="name" value="Green Lavender Hair"/>
+            </imgdir>
+            <imgdir name="37835">
+                <string name="name" value="Blue Lavender Hair"/>
+            </imgdir>
+            <imgdir name="37836">
+                <string name="name" value="Purple Lavender Hair"/>
+            </imgdir>
+            <imgdir name="37837">
+                <string name="name" value="Brown Lavender Hair"/>
+            </imgdir>
+            <imgdir name="37840">
+                <string name="name" value="Black Sugar Hair"/>
+            </imgdir>
+            <imgdir name="37841">
+                <string name="name" value="Red Sugar Hair"/>
+            </imgdir>
+            <imgdir name="37842">
+                <string name="name" value="Orange Sugar Hair"/>
+            </imgdir>
+            <imgdir name="37843">
+                <string name="name" value="Blonde Sugar Hair"/>
+            </imgdir>
+            <imgdir name="37844">
+                <string name="name" value="Green Sugar Hair"/>
+            </imgdir>
+            <imgdir name="37845">
+                <string name="name" value="Blue Sugar Hair"/>
+            </imgdir>
+            <imgdir name="37846">
+                <string name="name" value="Purple Sugar Hair"/>
+            </imgdir>
+            <imgdir name="37847">
+                <string name="name" value="Brown Sugar Hair"/>
+            </imgdir>
+            <imgdir name="37850">
+                <string name="name" value="Black Olive Hair"/>
+            </imgdir>
+            <imgdir name="37851">
+                <string name="name" value="Red Olive Hair"/>
+            </imgdir>
+            <imgdir name="37852">
+                <string name="name" value="Orange Olive Hair"/>
+            </imgdir>
+            <imgdir name="37853">
+                <string name="name" value="Yellow Olive Hair"/>
+            </imgdir>
+            <imgdir name="37854">
+                <string name="name" value="Green Olive Hair"/>
+            </imgdir>
+            <imgdir name="37855">
+                <string name="name" value="Blue Olive Hair"/>
+            </imgdir>
+            <imgdir name="37856">
+                <string name="name" value="Purple Olive Hair"/>
+            </imgdir>
+            <imgdir name="37857">
+                <string name="name" value="Brown Olive Hair"/>
+            </imgdir>
+            <imgdir name="37880">
+                <string name="name" value="Black Dahlia Hair"/>
+            </imgdir>
+            <imgdir name="37881">
+                <string name="name" value="Red Dahlia Hair"/>
+            </imgdir>
+            <imgdir name="37882">
+                <string name="name" value="Orange Dahlia Hair"/>
+            </imgdir>
+            <imgdir name="37883">
+                <string name="name" value="Yellow Dahlia Hair"/>
+            </imgdir>
+            <imgdir name="37884">
+                <string name="name" value="Green Dahlia Hair"/>
+            </imgdir>
+            <imgdir name="37885">
+                <string name="name" value="Blue Dahlia Hair"/>
+            </imgdir>
+            <imgdir name="37886">
+                <string name="name" value="Purple Dahlia Hair"/>
+            </imgdir>
+            <imgdir name="37887">
+                <string name="name" value="Brown Dahlia Hair"/>
+            </imgdir>
+            <imgdir name="37950">
+                <string name="name" value="Black Beta Hair"/>
+            </imgdir>
+            <imgdir name="37951">
+                <string name="name" value="Red Beta Hair"/>
+            </imgdir>
+            <imgdir name="37952">
+                <string name="name" value="Orange Beta Hair"/>
+            </imgdir>
+            <imgdir name="37953">
+                <string name="name" value="Yellow Beta Hair"/>
+            </imgdir>
+            <imgdir name="37954">
+                <string name="name" value="Green Beta Hair"/>
+            </imgdir>
+            <imgdir name="37955">
+                <string name="name" value="Blue Beta Hair"/>
+            </imgdir>
+            <imgdir name="37956">
+                <string name="name" value="Purple Beta Hair"/>
+            </imgdir>
+            <imgdir name="37957">
+                <string name="name" value="Brown Beta Hair"/>
+            </imgdir>
+            <imgdir name="37960">
+                <string name="name" value="White Fairy Queen Titania Hair"/>
+            </imgdir>
+            <imgdir name="37961">
+                <string name="name" value="Red Fairy Queen Titania Hair"/>
+            </imgdir>
+            <imgdir name="37962">
+                <string name="name" value="Orange Fairy Queen Titania Hair"/>
+            </imgdir>
+            <imgdir name="37963">
+                <string name="name" value="Yellow Fairy Queen Titania Hair"/>
+            </imgdir>
+            <imgdir name="37964">
+                <string name="name" value="Green Fairy Queen Titania Hair"/>
+            </imgdir>
+            <imgdir name="37965">
+                <string name="name" value="Blue Fairy Queen Titania Hair"/>
+            </imgdir>
+            <imgdir name="37966">
+                <string name="name" value="Purple Fairy Queen Titania Hair"/>
+            </imgdir>
+            <imgdir name="37967">
+                <string name="name" value="Brown Fairy Queen Titania Hair"/>
+            </imgdir>
+            <imgdir name="37980">
+                <string name="name" value="Black Jubilee Hair"/>
+            </imgdir>
+            <imgdir name="37981">
+                <string name="name" value="Red Jubilee Hair"/>
+            </imgdir>
+            <imgdir name="37982">
+                <string name="name" value="Orange Jubilee Hair"/>
+            </imgdir>
+            <imgdir name="37983">
+                <string name="name" value="Blonde Jubilee Hair"/>
+            </imgdir>
+            <imgdir name="37984">
+                <string name="name" value="Green Jubilee Hair"/>
+            </imgdir>
+            <imgdir name="37985">
+                <string name="name" value="Blue Jubilee Hair"/>
+            </imgdir>
+            <imgdir name="37986">
+                <string name="name" value="Purple Jubilee Hair"/>
+            </imgdir>
+            <imgdir name="37987">
+                <string name="name" value="Brown Jubilee Hair"/>
+            </imgdir>
+            <imgdir name="37990">
+                <string name="name" value="Black Apple Tea Hair"/>
+            </imgdir>
+            <imgdir name="37991">
+                <string name="name" value="Red Apple Tea Hair"/>
+            </imgdir>
+            <imgdir name="37992">
+                <string name="name" value="Orange Apple Tea Hair"/>
+            </imgdir>
+            <imgdir name="37993">
+                <string name="name" value="Yellow Apple Tea Hair"/>
+            </imgdir>
+            <imgdir name="37994">
+                <string name="name" value="Green Apple Tea Hair"/>
+            </imgdir>
+            <imgdir name="37995">
+                <string name="name" value="Blue Apple Tea Hair"/>
+            </imgdir>
+            <imgdir name="37996">
+                <string name="name" value="Purple Apple Tea Hair"/>
+            </imgdir>
+            <imgdir name="37997">
+                <string name="name" value="Brown Apple Tea Hair"/>
+            </imgdir>
+            <imgdir name="38320">
+                <string name="name" value="Black Lovely Lass Hair"/>
+            </imgdir>
+            <imgdir name="38321">
+                <string name="name" value="Red Lovely Lass Hair"/>
+            </imgdir>
+            <imgdir name="38322">
+                <string name="name" value="Orange Lovely Lass Hair"/>
+            </imgdir>
+            <imgdir name="38323">
+                <string name="name" value="Blonde Lovely Lass Hair"/>
+            </imgdir>
+            <imgdir name="38324">
+                <string name="name" value="Green Lovely Lass Hair"/>
+            </imgdir>
+            <imgdir name="38325">
+                <string name="name" value="Blue Lovely Lass Hair"/>
+            </imgdir>
+            <imgdir name="38326">
+                <string name="name" value="Purple Lovely Lass Hair"/>
+            </imgdir>
+            <imgdir name="38327">
+                <string name="name" value="Brown Lovely Lass Hair"/>
+            </imgdir>
+            <imgdir name="38330">
+                <string name="name" value="Black Pinned Wave Hair"/>
+            </imgdir>
+            <imgdir name="38331">
+                <string name="name" value="Red Pinned Wave Hair"/>
+            </imgdir>
+            <imgdir name="38332">
+                <string name="name" value="Orange Pinned Wave Hair"/>
+            </imgdir>
+            <imgdir name="38333">
+                <string name="name" value="Blonde Pinned Wave Hair"/>
+            </imgdir>
+            <imgdir name="38334">
+                <string name="name" value="Green Pinned Wave Hair"/>
+            </imgdir>
+            <imgdir name="38335">
+                <string name="name" value="Blue Pinned Wave Hair"/>
+            </imgdir>
+            <imgdir name="38336">
+                <string name="name" value="Purple Pinned Wave Hair"/>
+            </imgdir>
+            <imgdir name="38337">
+                <string name="name" value="Brown Pinned Wave Hair"/>
+            </imgdir>
+            <imgdir name="38350">
+                <string name="name" value="Black Half Up Ponytail"/>
+            </imgdir>
+            <imgdir name="38351">
+                <string name="name" value="Red Half Up Ponytail"/>
+            </imgdir>
+            <imgdir name="38352">
+                <string name="name" value="Orange Half Up Ponytail"/>
+            </imgdir>
+            <imgdir name="38353">
+                <string name="name" value="Blonde Half Up Ponytail"/>
+            </imgdir>
+            <imgdir name="38354">
+                <string name="name" value="Green Half Up Ponytail"/>
+            </imgdir>
+            <imgdir name="38355">
+                <string name="name" value="Blue Half Up Ponytail"/>
+            </imgdir>
+            <imgdir name="38356">
+                <string name="name" value="Purple Half Up Ponytail"/>
+            </imgdir>
+            <imgdir name="38357">
+                <string name="name" value="Brown Half Up Ponytail"/>
+            </imgdir>
+            <imgdir name="38380">
+                <string name="name" value="Black Soft Curl Hair"/>
+            </imgdir>
+            <imgdir name="38381">
+                <string name="name" value="Red Soft Curl Hair"/>
+            </imgdir>
+            <imgdir name="38382">
+                <string name="name" value="Orange Soft Curl Hair"/>
+            </imgdir>
+            <imgdir name="38383">
+                <string name="name" value="Yellow Soft Curl Hair"/>
+            </imgdir>
+            <imgdir name="38384">
+                <string name="name" value="Green Soft Curl Hair"/>
+            </imgdir>
+            <imgdir name="38385">
+                <string name="name" value="Blue Soft Curl Hair"/>
+            </imgdir>
+            <imgdir name="38386">
+                <string name="name" value="Purple Soft Curl Hair"/>
+            </imgdir>
+            <imgdir name="38387">
+                <string name="name" value="Brown Soft Curl Hair"/>
+            </imgdir>
+            <imgdir name="38390">
+                <string name="name" value="Black Super Cutie Hair"/>
+            </imgdir>
+            <imgdir name="38391">
+                <string name="name" value="Red Super Cutie Hair"/>
+            </imgdir>
+            <imgdir name="38392">
+                <string name="name" value="Orange Super Cutie Hair"/>
+            </imgdir>
+            <imgdir name="38393">
+                <string name="name" value="Yellow Super Cutie Hair"/>
+            </imgdir>
+            <imgdir name="38394">
+                <string name="name" value="Green Super Cutie Hair"/>
+            </imgdir>
+            <imgdir name="38395">
+                <string name="name" value="Blue Super Cutie Hair"/>
+            </imgdir>
+            <imgdir name="38396">
+                <string name="name" value="Purple Super Cutie Hair"/>
+            </imgdir>
+            <imgdir name="38397">
+                <string name="name" value="Brown Super Cutie Hair"/>
+            </imgdir>
+            <imgdir name="38450">
+                <string name="name" value="Black Krinkle Cut  Hair"/>
+            </imgdir>
+            <imgdir name="38451">
+                <string name="name" value="Red Krinkle Cut  Hair"/>
+            </imgdir>
+            <imgdir name="38452">
+                <string name="name" value="Orange Krinkle Cut  Hair"/>
+            </imgdir>
+            <imgdir name="38453">
+                <string name="name" value="Yellow Krinkle Cut  Hair"/>
+            </imgdir>
+            <imgdir name="38454">
+                <string name="name" value="Green Krinkle Cut  Hair"/>
+            </imgdir>
+            <imgdir name="38455">
+                <string name="name" value="Blue Krinkle Cut  Hair"/>
+            </imgdir>
+            <imgdir name="38456">
+                <string name="name" value="Purple Krinkle Cut  Hair"/>
+            </imgdir>
+            <imgdir name="38457">
+                <string name="name" value="Brown Krinkle Cut  Hair"/>
+            </imgdir>
+            <imgdir name="38460">
+                <string name="name" value="Black Twinny Hair"/>
+            </imgdir>
+            <imgdir name="38461">
+                <string name="name" value="Red Twinny Hair"/>
+            </imgdir>
+            <imgdir name="38462">
+                <string name="name" value="Orange Twinny Hair"/>
+            </imgdir>
+            <imgdir name="38463">
+                <string name="name" value="Yellow Twinny Hair"/>
+            </imgdir>
+            <imgdir name="38464">
+                <string name="name" value="Green Twinny Hair"/>
+            </imgdir>
+            <imgdir name="38465">
+                <string name="name" value="Blue Twinny Hair"/>
+            </imgdir>
+            <imgdir name="38466">
+                <string name="name" value="Purple Twinny Hair"/>
+            </imgdir>
+            <imgdir name="38467">
+                <string name="name" value="Brown Twinny Hair"/>
+            </imgdir>
+            <imgdir name="38470">
+                <string name="name" value="Black Loverly Hair"/>
+            </imgdir>
+            <imgdir name="38471">
+                <string name="name" value="Red Loverly Hair"/>
+            </imgdir>
+            <imgdir name="38472">
+                <string name="name" value="Orange Loverly Hair"/>
+            </imgdir>
+            <imgdir name="38473">
+                <string name="name" value="Yellow Loverly Hair"/>
+            </imgdir>
+            <imgdir name="38474">
+                <string name="name" value="Green Loverly Hair"/>
+            </imgdir>
+            <imgdir name="38475">
+                <string name="name" value="Blue Loverly Hair"/>
+            </imgdir>
+            <imgdir name="38476">
+                <string name="name" value="Purple Loverly Hair"/>
+            </imgdir>
+            <imgdir name="38477">
+                <string name="name" value="Brown Loverly Hair"/>
+            </imgdir>
+            <imgdir name="38480">
+                <string name="name" value="Black Mermaid Curl Hair"/>
+            </imgdir>
+            <imgdir name="38481">
+                <string name="name" value="Red Mermaid Curl Hair"/>
+            </imgdir>
+            <imgdir name="38482">
+                <string name="name" value="Orange Mermaid Curl Hair"/>
+            </imgdir>
+            <imgdir name="38483">
+                <string name="name" value="Blonde Mermaid Curl Hair"/>
+            </imgdir>
+            <imgdir name="38484">
+                <string name="name" value="Green Mermaid Curl Hair"/>
+            </imgdir>
+            <imgdir name="38485">
+                <string name="name" value="Blue Mermaid Curl Hair"/>
+            </imgdir>
+            <imgdir name="38486">
+                <string name="name" value="Purple Mermaid Curl Hair"/>
+            </imgdir>
+            <imgdir name="38487">
+                <string name="name" value="Brown Mermaid Curl Hair"/>
+            </imgdir>
         </imgdir>
         <imgdir name="Longcoat">
             <imgdir name="1050000">
@@ -45936,6 +47741,48 @@
             <imgdir name="1051434">
                 <string name="name" value="Blooming Leafy Love Outfit"/>
             </imgdir>
+            <imgdir name="1053597">
+                <string name="name" value="Autumn Morning Suit"/>
+            </imgdir>
+            <imgdir name="1053598">
+                <string name="name" value="Autumn Morning Dress"/>
+            </imgdir>
+            <imgdir name="1050374">
+                <string name="name" value="School for the Gifted Uniform"/>
+            </imgdir>
+            <imgdir name="1051443">
+                <string name="name" value="School for the Gifted Uniform"/>
+            </imgdir>
+            <imgdir name="1051399">
+                <string name="name" value="Funky School Uniform"/>
+            </imgdir>
+            <imgdir name="1050329">
+                <string name="name" value="Funky School Uniform"/>
+            </imgdir>
+            <imgdir name="1053088">
+                <string name="name" value="Formal Brown Skirt"/>
+            </imgdir>
+            <imgdir name="1053087">
+                <string name="name" value="Formal Brown Shorts"/>
+            </imgdir>
+            <imgdir name="1053164">
+                <string name="name" value="Foxy Teacher Outfit"/>
+                <string name="desc" value="A Foxy Teacher Outfit designed by the MapleStory China player bingxingbuyue."/>
+            </imgdir>
+            <imgdir name="1053611">
+                <string name="name" value="Night Glimmerfox Outfit"/>
+                <string name="desc" value="Night Glimmerfox Outfit designed by MapleStorySEA player belpjegor."/>
+            </imgdir>
+            <imgdir name="1053610">
+                <string name="name" value="Forest Glimmerfox Outfit"/>
+                <string name="desc" value="A Forest Glimmerfox Outfit designed by MapleStorySEA player belpjegor."/>
+            </imgdir>
+            <imgdir name="1053247">
+                <string name="name" value="Fall Oversized Jacket"/>
+            </imgdir>
+            <imgdir name="1053563">
+                <string name="name" value="Love Mouse Outfit"/>
+            </imgdir>
         </imgdir>
         <imgdir name="Pants">
             <imgdir name="1060000">
@@ -47356,6 +49203,24 @@
             <imgdir name="1062173">
                 <string name="name" value="Funky Shorts"/>
             </imgdir>
+            <imgdir name="1062265">
+                <string name="name" value="Passionate Thermal Bottom"/>
+            </imgdir>
+            <imgdir name="1062266">
+                <string name="name" value="Radiant Thermal Bottom"/>
+            </imgdir>
+            <imgdir name="1062267">
+                <string name="name" value="Fresh Thermal Bottom"/>
+            </imgdir>
+            <imgdir name="1062268">
+                <string name="name" value="Cool-Headed Thermal Bottom"/>
+            </imgdir>
+            <imgdir name="1062269">
+                <string name="name" value="Mysterious Thermal Bottom"/>
+            </imgdir>
+            <imgdir name="1062270">
+                <string name="name" value="Dark Thermal Bottom"/>
+            </imgdir>
         </imgdir>
         <imgdir name="Ring">
             <imgdir name="1112000">
@@ -48430,6 +50295,16 @@
             </imgdir>
             <imgdir name="1112408">
                 <string name="name" value="Circle of Ancient Strength"/>
+            </imgdir>
+            <imgdir name="1115301">
+                <string name="desc" value="A Bubble Label Ring designed by MapleStory China player Tony."/>
+                <string name="name" value="Bubble Label Ring"/>
+            </imgdir>
+            <imgdir name="1115206">
+                <string name="name" value="Autumn Leaves Chat Ring"/>
+            </imgdir>
+            <imgdir name="1115307">
+                <string name="name" value="Autumn Leaves Label Ring"/>
             </imgdir>
         </imgdir>
         <imgdir name="Shield">
@@ -50560,6 +52435,23 @@
             </imgdir>
             <imgdir name="1072635">
                 <string name="name" value="Beach Slippers"/>
+            </imgdir>
+            <imgdir name="1073453">
+                <string name="name" value="Autumn Morning Shoes"/>
+            </imgdir>
+            <imgdir name="1073081">
+                <string name="name" value="School for the Gifted Shoes"/>
+            </imgdir>
+            <imgdir name="1073461">
+                <string name="name" value="Night Glimmerfox Shoes"/>
+                <string name="desc" value="A pair of Night Glimmerfox Shoes designed by MapleStorySEA player belpjegor."/>
+            </imgdir>
+            <imgdir name="1073460">
+                <string name="name" value="Forest Glimmerfox Shoes"/>
+                <string name="desc" value="A pair of Forest Glimmerfox Shoes designed by MapleStorySEA player belpjegor."/>
+            </imgdir>
+            <imgdir name="1073321">
+                <string name="name" value="Throwback Loafers"/>
             </imgdir>
         </imgdir>
         <imgdir name="Taming">
@@ -54962,6 +56854,34 @@
             <imgdir name="1705025">
                 <string name="name" value="Red Gun"/>
                 <string name="desc" value="A weapon skin that can be equipped over a #cGun.#"/>
+            </imgdir>
+            <imgdir name="1702730">
+                <string name="desc" value="An Owl Spellbook weapon skin that can be equipped over#c any weapon.#"/>
+                <string name="name" value="Owl Spellbook"/>
+            </imgdir>
+            <imgdir name="1703012">
+                <string name="name" value="Autumn Morning Weapon"/>
+                <string name="desc" value="An Autumn Morning weapon skin that can be equipped over#c any weapon.#"/>
+            </imgdir>
+            <imgdir name="1702690">
+                <string name="name" value="Noble Maple Rod"/>
+                <string name="desc" value="A commemorative Maple 12th Anniversary weapon skin that can be equipped over #call weapons#.\n#c\nThis item cannot be moved to the Cash inventory.#"/>
+            </imgdir>
+            <imgdir name="1703020">
+                <string name="name" value="Night Glimmerfox Weapon"/>
+                <string name="desc" value="A Night Glimmerfox weapon skin that can be equipped over#c any weapon.# Designed by MapleStorySEA player belpjegor."/>
+            </imgdir>
+            <imgdir name="1703019">
+                <string name="name" value="Forest Glimmerfox Weapon"/>
+                <string name="desc" value="A Forest Glimmerfox weapon skin that can be equipped over#c any weapon.# Designed by MapleStorySEA player belpjegor."/>
+            </imgdir>
+            <imgdir name="1702982">
+                <string name="name" value="Puppy Cushion"/>
+                <string name="desc" value="A weapon skin that can be equipped over#c any weapon.#"/>
+            </imgdir>
+            <imgdir name="1702769">
+                <string name="name" value="Maple Galaxy Laser Gun"/>
+                <string name="desc" value="A commemorative Maple 13th Anniversary weapon skin that can be equipped over#c any weapon.#"/>
             </imgdir>
         </imgdir>
         <imgdir name="PetEquip">

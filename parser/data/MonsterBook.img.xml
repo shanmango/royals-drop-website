@@ -11175,41 +11175,42 @@
         <imgdir name="reward">
             <int name="0" value="4031530"/>
             <int name="1" value="4031531"/>
-            <int name="2" value="2020013"/>
-            <int name="3" value="2000006"/>
-            <int name="4" value="4031532"/>
+            <int name="2" value="2000006"/>
+            <int name="3" value="2020013"/>
+            <int name="4" value="4031533"/>
             <int name="5" value="2048015"/>
-            <int name="6" value="2290006"/>
-            <int name="7" value="2290031"/>
-            <int name="8" value="2290033"/>
-            <int name="9" value="2290061"/>
-            <int name="10" value="2290077"/>
-            <int name="11" value="2290105"/>
-            <int name="12" value="2290118"/>
-            <int name="13" value="4000268"/>
-            <int name="14" value="4000269"/>
-            <int name="15" value="4000270"/>
-            <int name="16" value="2000005"/>
-            <int name="17" value="1422027"/>
-            <int name="18" value="1432030"/>
-            <int name="19" value="1442044"/>
-            <int name="20" value="1452019"/>
-            <int name="21" value="1462015"/>
-            <int name="22" value="1332052"/>
-            <int name="23" value="1472053"/>
-            <int name="24" value="1332051"/>
-            <int name="25" value="1382035"/>
-            <int name="26" value="1482012"/>
-            <int name="27" value="1372010"/>
-            <int name="28" value="1492012"/>
-            <int name="29" value="1302056"/>
-            <int name="30" value="1312030"/>
-            <int name="31" value="1312031"/>
-            <int name="32" value="1322045"/>
-            <int name="33" value="1402035"/>
-            <int name="34" value="1412021"/>
-            <int name="35" value="4006001"/>
-            <int name="36" value="4006000"/>
+            <int name="6" value="4031532"/>
+            <int name="7" value="2290118"/>
+            <int name="8" value="4000268"/>
+            <int name="9" value="4000269"/>
+            <int name="10" value="4000270"/>
+            <int name="11" value="2290006"/>
+            <int name="12" value="2290031"/>
+            <int name="13" value="2290033"/>
+            <int name="14" value="2290061"/>
+            <int name="15" value="2290077"/>
+            <int name="16" value="2290105"/>
+            <int name="17" value="2000005"/>
+            <int name="18" value="1332051"/>
+            <int name="19" value="1382035"/>
+            <int name="20" value="1482012"/>
+            <int name="21" value="1372010"/>
+            <int name="22" value="1492012"/>
+            <int name="23" value="1302056"/>
+            <int name="24" value="1312030"/>
+            <int name="25" value="1312031"/>
+            <int name="26" value="1322045"/>
+            <int name="27" value="1402035"/>
+            <int name="28" value="1412021"/>
+            <int name="29" value="1422027"/>
+            <int name="30" value="1432030"/>
+            <int name="31" value="1442044"/>
+            <int name="32" value="1452019"/>
+            <int name="33" value="1462015"/>
+            <int name="34" value="1332052"/>
+            <int name="35" value="1472053"/>
+            <int name="36" value="4006001"/>
+            <int name="37" value="4006000"/>
         </imgdir>
     </imgdir>
     <imgdir name="8220004">
@@ -11222,32 +11223,33 @@
             <int name="1" value="4031531"/>
             <int name="2" value="4000460"/>
             <int name="3" value="2330004"/>
-            <int name="4" value="4006001"/>
-            <int name="5" value="4006000"/>
-            <int name="6" value="1072318"/>
-            <int name="7" value="1051093"/>
-            <int name="8" value="1372010"/>
-            <int name="9" value="1082141"/>
-            <int name="10" value="1332052"/>
-            <int name="11" value="1322045"/>
-            <int name="12" value="1050105"/>
-            <int name="13" value="1002405"/>
-            <int name="14" value="4031532"/>
-            <int name="15" value="2040025"/>
-            <int name="16" value="2040532"/>
-            <int name="17" value="2040029"/>
-            <int name="18" value="2040326"/>
-            <int name="19" value="2040924"/>
-            <int name="20" value="2290018"/>
-            <int name="21" value="2290025"/>
-            <int name="22" value="2290019"/>
-            <int name="23" value="2290059"/>
-            <int name="24" value="2290077"/>
-            <int name="25" value="2290106"/>
-            <int name="26" value="2049000"/>
+            <int name="4" value="4006000"/>
+            <int name="5" value="4006001"/>
+            <int name="6" value="4031533"/>
+            <int name="7" value="1082141"/>
+            <int name="8" value="1332052"/>
+            <int name="9" value="1322045"/>
+            <int name="10" value="1050105"/>
+            <int name="11" value="1002405"/>
+            <int name="12" value="1072318"/>
+            <int name="13" value="1051093"/>
+            <int name="14" value="1372010"/>
+            <int name="15" value="2290018"/>
+            <int name="16" value="2290025"/>
+            <int name="17" value="2290019"/>
+            <int name="18" value="2290059"/>
+            <int name="19" value="2290077"/>
+            <int name="20" value="2290106"/>
+            <int name="21" value="2049000"/>
+            <int name="22" value="2040025"/>
+            <int name="23" value="2040532"/>
+            <int name="24" value="2040029"/>
+            <int name="25" value="2040326"/>
+            <int name="26" value="2040924"/>
             <int name="27" value="2000005"/>
             <int name="28" value="2000006"/>
             <int name="29" value="2020013"/>
+            <int name="30" value="4031532"/>
         </imgdir>
     </imgdir>
     <imgdir name="8220005">
@@ -11261,15 +11263,15 @@
             <int name="2" value="4000461"/>
             <int name="3" value="4006001"/>
             <int name="4" value="4006000"/>
-            <int name="5" value="1051104"/>
-            <int name="6" value="1452021"/>
-            <int name="7" value="1082154"/>
-            <int name="8" value="1050108"/>
-            <int name="9" value="1072222"/>
-            <int name="10" value="1482012"/>
-            <int name="11" value="1002382"/>
-            <int name="12" value="1402035"/>
-            <int name="13" value="4031532"/>
+            <int name="5" value="4031533"/>
+            <int name="6" value="1082154"/>
+            <int name="7" value="1050108"/>
+            <int name="8" value="1072222"/>
+            <int name="9" value="1482012"/>
+            <int name="10" value="1002382"/>
+            <int name="11" value="1402035"/>
+            <int name="12" value="1051104"/>
+            <int name="13" value="1452021"/>
             <int name="14" value="2290003"/>
             <int name="15" value="2290037"/>
             <int name="16" value="2290055"/>
@@ -11278,11 +11280,12 @@
             <int name="19" value="2020013"/>
             <int name="20" value="2000005"/>
             <int name="21" value="2000006"/>
-            <int name="22" value="2049000"/>
-            <int name="23" value="2040317"/>
-            <int name="24" value="2040321"/>
-            <int name="25" value="2040931"/>
-            <int name="26" value="2040927"/>
+            <int name="22" value="4031532"/>
+            <int name="23" value="2049000"/>
+            <int name="24" value="2040927"/>
+            <int name="25" value="2040317"/>
+            <int name="26" value="2040321"/>
+            <int name="27" value="2040931"/>
         </imgdir>
     </imgdir>
     <imgdir name="8220006">
@@ -11293,32 +11296,33 @@
         <imgdir name="reward">
             <int name="0" value="4031530"/>
             <int name="1" value="4031531"/>
-            <int name="2" value="4006001"/>
-            <int name="3" value="4006000"/>
-            <int name="4" value="4000462"/>
-            <int name="5" value="4031532"/>
-            <int name="6" value="1082160"/>
-            <int name="7" value="1050099"/>
-            <int name="8" value="1002646"/>
-            <int name="9" value="1051107"/>
-            <int name="10" value="1432030"/>
-            <int name="11" value="1492012"/>
-            <int name="12" value="1072226"/>
-            <int name="13" value="1462017"/>
-            <int name="14" value="1472053"/>
-            <int name="15" value="2020013"/>
-            <int name="16" value="2290013"/>
-            <int name="17" value="2290061"/>
-            <int name="18" value="2043701"/>
-            <int name="19" value="2290120"/>
-            <int name="20" value="2044701"/>
-            <int name="21" value="2290090"/>
-            <int name="22" value="2044501"/>
-            <int name="23" value="2044901"/>
-            <int name="24" value="2044301"/>
-            <int name="25" value="2044801"/>
-            <int name="26" value="2000005"/>
-            <int name="27" value="2000006"/>
+            <int name="2" value="4031533"/>
+            <int name="3" value="4006001"/>
+            <int name="4" value="4006000"/>
+            <int name="5" value="4000462"/>
+            <int name="6" value="4031532"/>
+            <int name="7" value="1082160"/>
+            <int name="8" value="1050099"/>
+            <int name="9" value="1002646"/>
+            <int name="10" value="1051107"/>
+            <int name="11" value="1432030"/>
+            <int name="12" value="1492012"/>
+            <int name="13" value="1072226"/>
+            <int name="14" value="1462017"/>
+            <int name="15" value="1472053"/>
+            <int name="16" value="2020013"/>
+            <int name="17" value="2290013"/>
+            <int name="18" value="2290061"/>
+            <int name="19" value="2043701"/>
+            <int name="20" value="2290120"/>
+            <int name="21" value="2044701"/>
+            <int name="22" value="2290090"/>
+            <int name="23" value="2044501"/>
+            <int name="24" value="2044901"/>
+            <int name="25" value="2044301"/>
+            <int name="26" value="2044801"/>
+            <int name="27" value="2000005"/>
+            <int name="28" value="2000006"/>
         </imgdir>
     </imgdir>
     <imgdir name="8220009">
@@ -11376,80 +11380,81 @@
             <int name="3" value="2000004"/>
             <int name="4" value="2000005"/>
             <int name="5" value="4031196"/>
-            <int name="6" value="4031532"/>
-            <int name="7" value="2041022"/>
-            <int name="8" value="2041019"/>
-            <int name="9" value="2041016"/>
-            <int name="10" value="2041013"/>
-            <int name="11" value="2022345"/>
-            <int name="12" value="2020015"/>
-            <int name="13" value="2020013"/>
-            <int name="14" value="4031901"/>
-            <int name="15" value="2000006"/>
-            <int name="16" value="2290043"/>
-            <int name="17" value="2290037"/>
-            <int name="18" value="2290028"/>
-            <int name="19" value="2290013"/>
-            <int name="20" value="2290123"/>
-            <int name="21" value="2290011"/>
-            <int name="22" value="2290121"/>
-            <int name="23" value="2290006"/>
-            <int name="24" value="2290107"/>
-            <int name="25" value="2290104"/>
-            <int name="26" value="2290091"/>
-            <int name="27" value="2290089"/>
-            <int name="28" value="2290078"/>
-            <int name="29" value="2290071"/>
-            <int name="30" value="2290066"/>
-            <int name="31" value="2290061"/>
-            <int name="32" value="2290056"/>
-            <int name="33" value="2290051"/>
-            <int name="34" value="1372009"/>
-            <int name="35" value="1072178"/>
-            <int name="36" value="1050095"/>
-            <int name="37" value="1332027"/>
-            <int name="38" value="1072173"/>
-            <int name="39" value="1050094"/>
-            <int name="40" value="1332026"/>
-            <int name="41" value="1061121"/>
-            <int name="42" value="1050090"/>
-            <int name="43" value="1312015"/>
-            <int name="44" value="1061119"/>
-            <int name="45" value="1041122"/>
-            <int name="46" value="1082213"/>
-            <int name="47" value="1060109"/>
-            <int name="48" value="1041120"/>
-            <int name="49" value="1082158"/>
-            <int name="50" value="1060106"/>
-            <int name="51" value="1041118"/>
-            <int name="52" value="1082127"/>
-            <int name="53" value="1060101"/>
-            <int name="54" value="1040120"/>
-            <int name="55" value="1072318"/>
-            <int name="56" value="1052131"/>
-            <int name="57" value="1040117"/>
-            <int name="58" value="1072227"/>
-            <int name="59" value="1051105"/>
-            <int name="60" value="1040112"/>
-            <int name="61" value="1072224"/>
-            <int name="62" value="1051101"/>
-            <int name="63" value="1002646"/>
-            <int name="64" value="1072221"/>
-            <int name="65" value="1051097"/>
-            <int name="66" value="1002405"/>
-            <int name="67" value="1072220"/>
-            <int name="68" value="1051092"/>
-            <int name="69" value="1002377"/>
-            <int name="70" value="1072213"/>
-            <int name="71" value="1051085"/>
-            <int name="72" value="1072211"/>
-            <int name="73" value="1050106"/>
-            <int name="74" value="1482011"/>
-            <int name="75" value="1072198"/>
-            <int name="76" value="1050102"/>
-            <int name="77" value="1462018"/>
-            <int name="78" value="1072183"/>
-            <int name="79" value="1050098"/>
+            <int name="6" value="4031533"/>
+            <int name="7" value="4031532"/>
+            <int name="8" value="2041022"/>
+            <int name="9" value="2041019"/>
+            <int name="10" value="2041016"/>
+            <int name="11" value="2041013"/>
+            <int name="12" value="2022345"/>
+            <int name="13" value="2020015"/>
+            <int name="14" value="2020013"/>
+            <int name="15" value="4031901"/>
+            <int name="16" value="2000006"/>
+            <int name="17" value="2290043"/>
+            <int name="18" value="2290037"/>
+            <int name="19" value="2290028"/>
+            <int name="20" value="2290013"/>
+            <int name="21" value="2290123"/>
+            <int name="22" value="2290011"/>
+            <int name="23" value="2290121"/>
+            <int name="24" value="2290006"/>
+            <int name="25" value="2290107"/>
+            <int name="26" value="2290104"/>
+            <int name="27" value="2290091"/>
+            <int name="28" value="2290089"/>
+            <int name="29" value="2290078"/>
+            <int name="30" value="2290071"/>
+            <int name="31" value="2290066"/>
+            <int name="32" value="2290061"/>
+            <int name="33" value="2290056"/>
+            <int name="34" value="2290051"/>
+            <int name="35" value="1372009"/>
+            <int name="36" value="1072178"/>
+            <int name="37" value="1050095"/>
+            <int name="38" value="1332027"/>
+            <int name="39" value="1072173"/>
+            <int name="40" value="1050094"/>
+            <int name="41" value="1332026"/>
+            <int name="42" value="1061121"/>
+            <int name="43" value="1050090"/>
+            <int name="44" value="1312015"/>
+            <int name="45" value="1061119"/>
+            <int name="46" value="1041122"/>
+            <int name="47" value="1082213"/>
+            <int name="48" value="1060109"/>
+            <int name="49" value="1041120"/>
+            <int name="50" value="1082158"/>
+            <int name="51" value="1060106"/>
+            <int name="52" value="1041118"/>
+            <int name="53" value="1082127"/>
+            <int name="54" value="1060101"/>
+            <int name="55" value="1040120"/>
+            <int name="56" value="1072318"/>
+            <int name="57" value="1052131"/>
+            <int name="58" value="1040117"/>
+            <int name="59" value="1072227"/>
+            <int name="60" value="1051105"/>
+            <int name="61" value="1040112"/>
+            <int name="62" value="1072224"/>
+            <int name="63" value="1051101"/>
+            <int name="64" value="1002646"/>
+            <int name="65" value="1072221"/>
+            <int name="66" value="1051097"/>
+            <int name="67" value="1002405"/>
+            <int name="68" value="1072220"/>
+            <int name="69" value="1051092"/>
+            <int name="70" value="1002377"/>
+            <int name="71" value="1072213"/>
+            <int name="72" value="1051085"/>
+            <int name="73" value="1072211"/>
+            <int name="74" value="1050106"/>
+            <int name="75" value="1482011"/>
+            <int name="76" value="1072198"/>
+            <int name="77" value="1050102"/>
+            <int name="78" value="1462018"/>
+            <int name="79" value="1072183"/>
+            <int name="80" value="1050098"/>
         </imgdir>
     </imgdir>
     <imgdir name="8510000">
@@ -11462,42 +11467,43 @@
             <int name="1" value="4031530"/>
             <int name="2" value="4031531"/>
             <int name="3" value="2022345"/>
-            <int name="4" value="4031532"/>
+            <int name="4" value="4031533"/>
             <int name="5" value="2020013"/>
             <int name="6" value="2020015"/>
-            <int name="7" value="2000005"/>
-            <int name="8" value="2000004"/>
-            <int name="9" value="4000175"/>
-            <int name="10" value="4031905"/>
-            <int name="11" value="1052131"/>
-            <int name="12" value="2290001"/>
-            <int name="13" value="2290005"/>
-            <int name="14" value="2290025"/>
-            <int name="15" value="2290027"/>
-            <int name="16" value="2290053"/>
-            <int name="17" value="2290055"/>
-            <int name="18" value="2290077"/>
-            <int name="19" value="2290083"/>
-            <int name="20" value="1492011"/>
-            <int name="21" value="1051102"/>
-            <int name="22" value="1050103"/>
-            <int name="23" value="1051106"/>
-            <int name="24" value="1050107"/>
-            <int name="25" value="1050097"/>
-            <int name="26" value="1051091"/>
-            <int name="27" value="1040121"/>
-            <int name="28" value="1060110"/>
-            <int name="29" value="1041123"/>
-            <int name="30" value="1061122"/>
-            <int name="31" value="1402005"/>
-            <int name="32" value="1412010"/>
-            <int name="33" value="1302023"/>
-            <int name="34" value="1322029"/>
-            <int name="35" value="2040504"/>
-            <int name="36" value="2040501"/>
-            <int name="37" value="2040513"/>
-            <int name="38" value="2040516"/>
-            <int name="39" value="2040401"/>
+            <int name="7" value="4000175"/>
+            <int name="8" value="4031532"/>
+            <int name="9" value="4031905"/>
+            <int name="10" value="1052131"/>
+            <int name="11" value="2290053"/>
+            <int name="12" value="2290055"/>
+            <int name="13" value="2290077"/>
+            <int name="14" value="2290083"/>
+            <int name="15" value="2290001"/>
+            <int name="16" value="2290005"/>
+            <int name="17" value="2290025"/>
+            <int name="18" value="2290027"/>
+            <int name="19" value="2000005"/>
+            <int name="20" value="2000004"/>
+            <int name="21" value="1492011"/>
+            <int name="22" value="1040121"/>
+            <int name="23" value="1060110"/>
+            <int name="24" value="1041123"/>
+            <int name="25" value="1061122"/>
+            <int name="26" value="1051102"/>
+            <int name="27" value="1050103"/>
+            <int name="28" value="1051106"/>
+            <int name="29" value="1050107"/>
+            <int name="30" value="1050097"/>
+            <int name="31" value="1051091"/>
+            <int name="32" value="1402005"/>
+            <int name="33" value="1412010"/>
+            <int name="34" value="1302023"/>
+            <int name="35" value="1322029"/>
+            <int name="36" value="2040504"/>
+            <int name="37" value="2040501"/>
+            <int name="38" value="2040513"/>
+            <int name="39" value="2040516"/>
+            <int name="40" value="2040401"/>
         </imgdir>
     </imgdir>
     <imgdir name="8520000">
@@ -11510,25 +11516,26 @@
             <int name="1" value="4031530"/>
             <int name="2" value="4031531"/>
             <int name="3" value="2022345"/>
-            <int name="4" value="4031532"/>
+            <int name="4" value="4031533"/>
             <int name="5" value="4000175"/>
-            <int name="6" value="4031905"/>
-            <int name="7" value="2290082"/>
-            <int name="8" value="2290097"/>
-            <int name="9" value="2290099"/>
-            <int name="10" value="2290106"/>
-            <int name="11" value="2290108"/>
-            <int name="12" value="2290112"/>
-            <int name="13" value="2290114"/>
-            <int name="14" value="2290122"/>
-            <int name="15" value="2290124"/>
-            <int name="16" value="2290000"/>
-            <int name="17" value="2290004"/>
-            <int name="18" value="2290024"/>
-            <int name="19" value="2290026"/>
-            <int name="20" value="2290052"/>
-            <int name="21" value="2290054"/>
-            <int name="22" value="2290076"/>
+            <int name="6" value="4031532"/>
+            <int name="7" value="4031905"/>
+            <int name="8" value="2290122"/>
+            <int name="9" value="2290124"/>
+            <int name="10" value="2290000"/>
+            <int name="11" value="2290004"/>
+            <int name="12" value="2290024"/>
+            <int name="13" value="2290026"/>
+            <int name="14" value="2290052"/>
+            <int name="15" value="2290054"/>
+            <int name="16" value="2290076"/>
+            <int name="17" value="2290082"/>
+            <int name="18" value="2290097"/>
+            <int name="19" value="2290099"/>
+            <int name="20" value="2290106"/>
+            <int name="21" value="2290108"/>
+            <int name="22" value="2290112"/>
+            <int name="23" value="2290114"/>
         </imgdir>
     </imgdir>
     <imgdir name="8800002">
@@ -11538,84 +11545,85 @@
         <string name="episode" value="Lv. :  140\nForm : Devil\nSpecial Trait : 1st Body: Vulnerable (+50%) to Electricity Attribute Attacks.\n2nd Body: Vulnerable (+50%) to Ice Attribute Attacks.\n3rd Body: Vulnerable (+50%) to Fire Attribute Attacks.\n\nA dormant spirit of the Zakum tree which previously was without any intellect or malevolent notions. The tree started to show signs of life when it began to be fueled by the greed of the ancient miners who dug into the mountain looking for gold. The ancient town within the lava region, despite being built in the midst of all the darkness, burning flames and scorching heat of the El Nath volcanoes, survived because of the greedy passions of its residents. Apparently, the dark and shady emotions of the humans living in the area were somehow absorbed by Zakum over time. Zakum used to be a small, neglected tree, but has now grown extremely powerful thanks to the darkness, greed and negative energy of the human residents who once lived in the lava region. As its power grew, it began to take control of the miners and townsfolk, forcing them to build a Statue of it and worship it as their God. The spirit of Zakum, now locked inside the giant statue deep in the lava caves, anxiously waits for adventures to challenge it so that it may continue to feed on their desires and greed and become even stronger..."/>
         <imgdir name="reward">
             <int name="0" value="1002357"/>
-            <int name="1" value="2000005"/>
-            <int name="2" value="2000004"/>
+            <int name="1" value="2000004"/>
+            <int name="2" value="2000005"/>
             <int name="3" value="4001083"/>
             <int name="4" value="4031531"/>
             <int name="5" value="4031530"/>
             <int name="6" value="4031532"/>
             <int name="7" value="2022345"/>
             <int name="8" value="2020013"/>
-            <int name="9" value="2020015"/>
-            <int name="10" value="2020014"/>
-            <int name="11" value="2001001"/>
-            <int name="12" value="2000006"/>
-            <int name="13" value="2280007"/>
-            <int name="14" value="2280008"/>
-            <int name="15" value="2280009"/>
-            <int name="16" value="2280010"/>
-            <int name="17" value="1332026"/>
-            <int name="18" value="2290046"/>
-            <int name="19" value="2290048"/>
-            <int name="20" value="2290057"/>
-            <int name="21" value="2290064"/>
-            <int name="22" value="2290067"/>
-            <int name="23" value="2290074"/>
-            <int name="24" value="2290079"/>
-            <int name="25" value="2290084"/>
-            <int name="26" value="2290094"/>
-            <int name="27" value="2290110"/>
-            <int name="28" value="2290007"/>
-            <int name="29" value="2290115"/>
-            <int name="30" value="2290016"/>
-            <int name="31" value="2290020"/>
-            <int name="32" value="2290022"/>
-            <int name="33" value="2290029"/>
-            <int name="34" value="2290040"/>
-            <int name="35" value="1472033"/>
-            <int name="36" value="1372010"/>
-            <int name="37" value="1332027"/>
-            <int name="38" value="1382035"/>
-            <int name="39" value="1412010"/>
-            <int name="40" value="1402035"/>
-            <int name="41" value="1402016"/>
-            <int name="42" value="1412021"/>
-            <int name="43" value="1432011"/>
-            <int name="44" value="1422027"/>
-            <int name="45" value="1302023"/>
-            <int name="46" value="1332022"/>
-            <int name="47" value="1432030"/>
-            <int name="48" value="1442020"/>
-            <int name="49" value="1442044"/>
-            <int name="50" value="1422013"/>
-            <int name="51" value="1452019"/>
-            <int name="52" value="1322029"/>
-            <int name="53" value="1452020"/>
-            <int name="54" value="1312015"/>
-            <int name="55" value="1462015"/>
-            <int name="56" value="1442002"/>
-            <int name="57" value="1462016"/>
-            <int name="58" value="1382008"/>
-            <int name="59" value="1302056"/>
-            <int name="60" value="1472053"/>
-            <int name="61" value="1372009"/>
-            <int name="62" value="1312030"/>
-            <int name="63" value="1482012"/>
-            <int name="64" value="1462018"/>
-            <int name="65" value="1322045"/>
-            <int name="66" value="1492012"/>
-            <int name="67" value="1452017"/>
-            <int name="68" value="1332051"/>
-            <int name="69" value="1472031"/>
-            <int name="70" value="1332052"/>
-            <int name="71" value="4006000"/>
-            <int name="72" value="4006001"/>
-            <int name="73" value="2049100"/>
-            <int name="75" value="2041102"/>
-            <int name="76" value="2041108"/>
-            <int name="77" value="2041105"/>
-            <int name="78" value="2041111"/>
-            <int name="74" value="3010127"/>
+            <int name="9" value="4031533"/>
+            <int name="10" value="2020015"/>
+            <int name="11" value="2020014"/>
+            <int name="12" value="2001001"/>
+            <int name="13" value="2000006"/>
+            <int name="14" value="2280007"/>
+            <int name="15" value="2280008"/>
+            <int name="16" value="2280009"/>
+            <int name="17" value="2280010"/>
+            <int name="18" value="1332026"/>
+            <int name="19" value="2290046"/>
+            <int name="20" value="2290048"/>
+            <int name="21" value="2290057"/>
+            <int name="22" value="2290064"/>
+            <int name="23" value="2290067"/>
+            <int name="24" value="2290074"/>
+            <int name="25" value="2290079"/>
+            <int name="26" value="2290084"/>
+            <int name="27" value="2290094"/>
+            <int name="28" value="2290110"/>
+            <int name="29" value="2290007"/>
+            <int name="30" value="2290115"/>
+            <int name="31" value="2290016"/>
+            <int name="32" value="2290020"/>
+            <int name="33" value="2290022"/>
+            <int name="34" value="2290029"/>
+            <int name="35" value="2290040"/>
+            <int name="36" value="1472033"/>
+            <int name="37" value="1372010"/>
+            <int name="38" value="1332027"/>
+            <int name="39" value="1382035"/>
+            <int name="40" value="1412010"/>
+            <int name="41" value="1402035"/>
+            <int name="42" value="1402016"/>
+            <int name="43" value="1412021"/>
+            <int name="44" value="1432011"/>
+            <int name="45" value="1422027"/>
+            <int name="46" value="1302023"/>
+            <int name="47" value="1332022"/>
+            <int name="48" value="1432030"/>
+            <int name="49" value="1442020"/>
+            <int name="50" value="1442044"/>
+            <int name="51" value="1422013"/>
+            <int name="52" value="1452019"/>
+            <int name="53" value="1322029"/>
+            <int name="54" value="1452020"/>
+            <int name="55" value="1312015"/>
+            <int name="56" value="1462015"/>
+            <int name="57" value="1442002"/>
+            <int name="58" value="1462016"/>
+            <int name="59" value="1382008"/>
+            <int name="60" value="1302056"/>
+            <int name="61" value="1472053"/>
+            <int name="62" value="1372009"/>
+            <int name="63" value="1312030"/>
+            <int name="64" value="1482012"/>
+            <int name="65" value="1462018"/>
+            <int name="66" value="1322045"/>
+            <int name="67" value="1492012"/>
+            <int name="68" value="1452017"/>
+            <int name="69" value="1332051"/>
+            <int name="70" value="1472031"/>
+            <int name="71" value="1332052"/>
+            <int name="72" value="4006000"/>
+            <int name="73" value="4006001"/>
+            <int name="74" value="2049100"/>
+            <int name="75" value="3010127"/>
+            <int name="76" value="2041111"/>
+            <int name="77" value="2041102"/>
+            <int name="78" value="2041108"/>
+            <int name="79" value="2041105"/>
         </imgdir>
     </imgdir>
     <imgdir name="8810018">
@@ -12366,16 +12374,17 @@
             <int name="0" value="4031530"/>
             <int name="1" value="4031531"/>
             <int name="2" value="4000224"/>
-            <int name="3" value="4031902"/>
-            <int name="4" value="2048018"/>
-            <int name="5" value="2041030"/>
-            <int name="6" value="2040716"/>
-            <int name="7" value="1032027"/>
-            <int name="8" value="2041039"/>
-            <int name="9" value="2041031"/>
-            <int name="10" value="2040715"/>
-            <int name="11" value="4031532"/>
+            <int name="3" value="4031533"/>
+            <int name="4" value="4031902"/>
+            <int name="5" value="2048018"/>
+            <int name="6" value="2041030"/>
+            <int name="7" value="2040716"/>
+            <int name="8" value="1032027"/>
+            <int name="9" value="2041039"/>
+            <int name="10" value="2041031"/>
+            <int name="11" value="2040715"/>
             <int name="12" value="1402037"/>
+            <int name="13" value="4031532"/>
         </imgdir>
     </imgdir>
     <imgdir name="9400100">
@@ -12621,26 +12630,27 @@
             <int name="4" value="2040717"/>
             <int name="5" value="2040908"/>
             <int name="6" value="2040509"/>
-            <int name="7" value="2048017"/>
-            <int name="8" value="1032023"/>
-            <int name="9" value="4010006"/>
-            <int name="10" value="4031532"/>
-            <int name="11" value="1082085"/>
-            <int name="12" value="1072239"/>
-            <int name="13" value="1382010"/>
-            <int name="14" value="1372009"/>
-            <int name="15" value="1452026"/>
-            <int name="16" value="1332027"/>
-            <int name="17" value="1472033"/>
-            <int name="18" value="1462021"/>
-            <int name="19" value="1422013"/>
-            <int name="20" value="1432011"/>
-            <int name="21" value="1332022"/>
-            <int name="22" value="1402016"/>
-            <int name="23" value="1442020"/>
-            <int name="24" value="2000006"/>
-            <int name="25" value="2000011"/>
-            <int name="26" value="2022024"/>
+            <int name="7" value="4031533"/>
+            <int name="8" value="2048017"/>
+            <int name="9" value="1032023"/>
+            <int name="10" value="4010006"/>
+            <int name="11" value="4031532"/>
+            <int name="12" value="1082085"/>
+            <int name="13" value="1072239"/>
+            <int name="14" value="1422013"/>
+            <int name="15" value="1432011"/>
+            <int name="16" value="1332022"/>
+            <int name="17" value="1402016"/>
+            <int name="18" value="1442020"/>
+            <int name="19" value="1382010"/>
+            <int name="20" value="1372009"/>
+            <int name="21" value="1452026"/>
+            <int name="22" value="1332027"/>
+            <int name="23" value="1472033"/>
+            <int name="24" value="1462021"/>
+            <int name="25" value="2000006"/>
+            <int name="26" value="2000011"/>
+            <int name="27" value="2022024"/>
         </imgdir>
     </imgdir>
     <imgdir name="9400205">
@@ -12803,36 +12813,37 @@
             <int name="0" value="4032181"/>
             <int name="1" value="2000004"/>
             <int name="2" value="2000005"/>
-            <int name="3" value="4031532"/>
-            <int name="4" value="2022345"/>
-            <int name="5" value="4039025"/>
-            <int name="6" value="2000006"/>
-            <int name="7" value="2050004"/>
-            <int name="8" value="2049000"/>
-            <int name="9" value="1052134"/>
-            <int name="10" value="1322045"/>
-            <int name="11" value="1332051"/>
-            <int name="12" value="1332052"/>
-            <int name="13" value="4006000"/>
-            <int name="14" value="1372010"/>
-            <int name="15" value="4006001"/>
-            <int name="16" value="1382035"/>
-            <int name="17" value="1402035"/>
-            <int name="18" value="1412021"/>
-            <int name="19" value="1422027"/>
-            <int name="20" value="1432030"/>
-            <int name="21" value="1442044"/>
-            <int name="22" value="1452021"/>
-            <int name="23" value="1462017"/>
-            <int name="24" value="1472053"/>
-            <int name="25" value="1092049"/>
-            <int name="26" value="1482012"/>
-            <int name="27" value="1302056"/>
-            <int name="28" value="1492012"/>
-            <int name="29" value="1312030"/>
+            <int name="3" value="4031533"/>
+            <int name="4" value="4039025"/>
+            <int name="5" value="2022345"/>
+            <int name="6" value="4031532"/>
+            <int name="7" value="2000006"/>
+            <int name="8" value="2050004"/>
+            <int name="9" value="2049000"/>
+            <int name="10" value="1052134"/>
+            <int name="11" value="1302056"/>
+            <int name="12" value="1492012"/>
+            <int name="13" value="1312030"/>
+            <int name="14" value="1322045"/>
+            <int name="15" value="1332051"/>
+            <int name="16" value="1332052"/>
+            <int name="17" value="4006000"/>
+            <int name="18" value="1372010"/>
+            <int name="19" value="4006001"/>
+            <int name="20" value="1382035"/>
+            <int name="21" value="1402035"/>
+            <int name="22" value="1412021"/>
+            <int name="23" value="1422027"/>
+            <int name="24" value="1432030"/>
+            <int name="25" value="1442044"/>
+            <int name="26" value="1452021"/>
+            <int name="27" value="1462017"/>
+            <int name="28" value="1472053"/>
+            <int name="29" value="1092049"/>
+            <int name="30" value="1482012"/>
             <int name="31" value="2290005"/>
             <int name="32" value="2290069"/>
-            <int name="30" value="3010124"/>
+            <int name="33" value="3010124"/>
         </imgdir>
     </imgdir>
     <imgdir name="9400296">
@@ -13182,26 +13193,27 @@
             <int name="0" value="4000384"/>
             <int name="1" value="4000385"/>
             <int name="2" value="4031530"/>
-            <int name="3" value="2020015"/>
-            <int name="4" value="2000006"/>
-            <int name="5" value="4031531"/>
-            <int name="6" value="2020013"/>
-            <int name="7" value="2041022"/>
-            <int name="8" value="1072178"/>
-            <int name="9" value="1040112"/>
-            <int name="10" value="1041120"/>
-            <int name="11" value="1061119"/>
-            <int name="12" value="1051097"/>
-            <int name="13" value="1060106"/>
-            <int name="14" value="1041118"/>
-            <int name="15" value="1072198"/>
-            <int name="16" value="1312015"/>
-            <int name="17" value="1332026"/>
-            <int name="18" value="1462018"/>
-            <int name="19" value="1372009"/>
-            <int name="20" value="2290100"/>
+            <int name="3" value="4031531"/>
+            <int name="4" value="2020013"/>
+            <int name="5" value="2020015"/>
+            <int name="6" value="2000006"/>
+            <int name="7" value="4031533"/>
+            <int name="8" value="2041022"/>
+            <int name="9" value="1332026"/>
+            <int name="10" value="1462018"/>
+            <int name="11" value="1372009"/>
+            <int name="12" value="1072178"/>
+            <int name="13" value="1040112"/>
+            <int name="14" value="1041120"/>
+            <int name="15" value="1061119"/>
+            <int name="16" value="1051097"/>
+            <int name="17" value="1060106"/>
+            <int name="18" value="1041118"/>
+            <int name="19" value="1072198"/>
+            <int name="20" value="1312015"/>
             <int name="21" value="2290118"/>
-            <int name="22" value="4031532"/>
+            <int name="22" value="2290100"/>
+            <int name="23" value="4031532"/>
         </imgdir>
     </imgdir>
     <imgdir name="9420514">
@@ -13389,7 +13401,7 @@
             <int name="5" value="2000005"/>
             <int name="6" value="2020013"/>
             <int name="7" value="2020015"/>
-            <int name="8" value="4031532"/>
+            <int name="8" value="4031533"/>
             <int name="9" value="1302056"/>
             <int name="10" value="1442044"/>
             <int name="11" value="1432030"/>
@@ -13404,15 +13416,16 @@
             <int name="20" value="1332052"/>
             <int name="21" value="1472053"/>
             <int name="22" value="1492012"/>
-            <int name="23" value="2290091"/>
-            <int name="24" value="2290011"/>
-            <int name="25" value="2290025"/>
-            <int name="26" value="2290000"/>
-            <int name="27" value="2290001"/>
-            <int name="28" value="2290082"/>
-            <int name="29" value="2290083"/>
-            <int name="30" value="2290043"/>
-            <int name="31" value="2290035"/>
+            <int name="23" value="4031532"/>
+            <int name="24" value="2290091"/>
+            <int name="25" value="2290011"/>
+            <int name="26" value="2290025"/>
+            <int name="27" value="2290000"/>
+            <int name="28" value="2290001"/>
+            <int name="29" value="2290082"/>
+            <int name="30" value="2290083"/>
+            <int name="31" value="2290043"/>
+            <int name="32" value="2290035"/>
         </imgdir>
     </imgdir>
     <imgdir name="9420527">
@@ -13923,71 +13936,70 @@
             <int name="4" value="2020014"/>
             <int name="5" value="4031530"/>
             <int name="6" value="4031531"/>
-            <int name="7" value="4031532"/>
-            <int name="8" value="4031875"/>
-            <int name="9" value="4031878"/>
-            <int name="10" value="1422027"/>
-            <int name="11" value="1412021"/>
-            <int name="12" value="1432030"/>
-            <int name="13" value="1452020"/>
-            <int name="14" value="1032070"/>
-            <int name="15" value="1462015"/>
-            <int name="16" value="1462016"/>
-            <int name="17" value="1472053"/>
-            <int name="18" value="1452019"/>
-            <int name="19" value="1302056"/>
-            <int name="20" value="1442044"/>
-            <int name="21" value="1312030"/>
-            <int name="22" value="1492012"/>
-            <int name="23" value="1322045"/>
-            <int name="24" value="1482012"/>
-            <int name="25" value="1332051"/>
-            <int name="26" value="1332052"/>
-            <int name="27" value="1372010"/>
-            <int name="28" value="1382035"/>
-            <int name="29" value="1402035"/>
-            <int name="30" value="2290034"/>
-            <int name="31" value="2290105"/>
-            <int name="32" value="2290110"/>
-            <int name="33" value="2290094"/>
-            <int name="34" value="2290052"/>
-            <int name="35" value="2290098"/>
-            <int name="36" value="2290015"/>
-            <int name="37" value="2290027"/>
-            <int name="38" value="2290089"/>
-            <int name="39" value="2290054"/>
-            <int name="40" value="2290119"/>
-            <int name="41" value="2290002"/>
-            <int name="42" value="2290022"/>
-            <int name="43" value="2043801"/>
-            <int name="44" value="2040516"/>
-            <int name="45" value="2044001"/>
-            <int name="46" value="2040513"/>
-            <int name="47" value="2044101"/>
-            <int name="48" value="2040601"/>
-            <int name="49" value="2044301"/>
-            <int name="50" value="2040701"/>
-            <int name="51" value="2044201"/>
-            <int name="52" value="2040704"/>
-            <int name="53" value="2044401"/>
-            <int name="54" value="2040707"/>
-            <int name="55" value="2044501"/>
-            <int name="56" value="2040801"/>
-            <int name="57" value="2044601"/>
-            <int name="58" value="2040901"/>
-            <int name="59" value="2044701"/>
-            <int name="60" value="2040804"/>
-            <int name="61" value="2040001"/>
-            <int name="62" value="2043001"/>
-            <int name="63" value="2040004"/>
-            <int name="64" value="2043101"/>
-            <int name="65" value="2040301"/>
-            <int name="66" value="2043201"/>
-            <int name="67" value="2040401"/>
-            <int name="68" value="2043301"/>
-            <int name="69" value="2040501"/>
-            <int name="70" value="2043701"/>
-            <int name="71" value="2040504"/>
+            <int name="7" value="4031533"/>
+            <int name="8" value="4031532"/>
+            <int name="9" value="1432030"/>
+            <int name="10" value="1452020"/>
+            <int name="11" value="1032070"/>
+            <int name="12" value="1462015"/>
+            <int name="13" value="1462016"/>
+            <int name="14" value="1472053"/>
+            <int name="15" value="1452019"/>
+            <int name="16" value="1302056"/>
+            <int name="17" value="1442044"/>
+            <int name="18" value="1312030"/>
+            <int name="19" value="1492012"/>
+            <int name="20" value="1322045"/>
+            <int name="21" value="1482012"/>
+            <int name="22" value="1332051"/>
+            <int name="23" value="1332052"/>
+            <int name="24" value="1372010"/>
+            <int name="25" value="1382035"/>
+            <int name="26" value="1402035"/>
+            <int name="27" value="1422027"/>
+            <int name="28" value="1412021"/>
+            <int name="29" value="2290110"/>
+            <int name="30" value="2290094"/>
+            <int name="31" value="2290052"/>
+            <int name="32" value="2290098"/>
+            <int name="33" value="2290015"/>
+            <int name="34" value="2290027"/>
+            <int name="35" value="2290089"/>
+            <int name="36" value="2290054"/>
+            <int name="37" value="2290119"/>
+            <int name="38" value="2290002"/>
+            <int name="39" value="2290022"/>
+            <int name="40" value="2290034"/>
+            <int name="41" value="2290105"/>
+            <int name="42" value="2044101"/>
+            <int name="43" value="2040601"/>
+            <int name="44" value="2044301"/>
+            <int name="45" value="2040701"/>
+            <int name="46" value="2044201"/>
+            <int name="47" value="2040704"/>
+            <int name="48" value="2044401"/>
+            <int name="49" value="2040707"/>
+            <int name="50" value="2044501"/>
+            <int name="51" value="2040801"/>
+            <int name="52" value="2044601"/>
+            <int name="53" value="2040901"/>
+            <int name="54" value="2044701"/>
+            <int name="55" value="2040804"/>
+            <int name="56" value="2040001"/>
+            <int name="57" value="2043001"/>
+            <int name="58" value="2040004"/>
+            <int name="59" value="2043101"/>
+            <int name="60" value="2040301"/>
+            <int name="61" value="2043201"/>
+            <int name="62" value="2040401"/>
+            <int name="63" value="2043301"/>
+            <int name="64" value="2040501"/>
+            <int name="65" value="2043701"/>
+            <int name="66" value="2040504"/>
+            <int name="67" value="2043801"/>
+            <int name="68" value="2040516"/>
+            <int name="69" value="2044001"/>
+            <int name="70" value="2040513"/>
         </imgdir>
     </imgdir>
     <imgdir name="9420549">
@@ -14234,26 +14246,27 @@
             <int name="0" value="4000342"/>
             <int name="1" value="4031530"/>
             <int name="2" value="4031531"/>
-            <int name="3" value="2000005"/>
-            <int name="4" value="2000004"/>
-            <int name="5" value="2060003"/>
-            <int name="6" value="4130000"/>
-            <int name="7" value="4031532"/>
+            <int name="3" value="4031533"/>
+            <int name="4" value="2000005"/>
+            <int name="5" value="2000004"/>
+            <int name="6" value="2060003"/>
+            <int name="7" value="4130000"/>
             <int name="8" value="4130001"/>
             <int name="9" value="1402029"/>
             <int name="10" value="2048015"/>
             <int name="11" value="1102034"/>
-            <int name="12" value="1002405"/>
+            <int name="12" value="4031532"/>
             <int name="13" value="1462018"/>
             <int name="14" value="1422031"/>
             <int name="15" value="2070006"/>
-            <int name="16" value="2040108"/>
+            <int name="16" value="1002405"/>
             <int name="17" value="1452017"/>
             <int name="18" value="2040208"/>
-            <int name="19" value="2040203"/>
-            <int name="20" value="1442020"/>
-            <int name="21" value="1122005"/>
-            <int name="22" value="2040103"/>
+            <int name="19" value="2040108"/>
+            <int name="20" value="2040203"/>
+            <int name="21" value="1442020"/>
+            <int name="22" value="1122005"/>
+            <int name="23" value="2040103"/>
         </imgdir>
     </imgdir>
     <imgdir name="9400253">
@@ -14570,73 +14583,74 @@
             <int name="1" value="4032181"/>
             <int name="2" value="2000004"/>
             <int name="3" value="2000005"/>
-            <int name="4" value="4031532"/>
+            <int name="4" value="4031533"/>
             <int name="5" value="4039023"/>
             <int name="6" value="2022345"/>
             <int name="7" value="2000006"/>
             <int name="8" value="2050004"/>
-            <int name="9" value="1052072"/>
-            <int name="10" value="1092049"/>
-            <int name="11" value="1482012"/>
-            <int name="12" value="1302056"/>
-            <int name="13" value="1492012"/>
-            <int name="14" value="1312030"/>
-            <int name="15" value="1322045"/>
-            <int name="16" value="4004004"/>
-            <int name="17" value="1332051"/>
-            <int name="18" value="4005000"/>
-            <int name="19" value="1332052"/>
-            <int name="20" value="4005001"/>
-            <int name="21" value="1372010"/>
-            <int name="22" value="4005002"/>
-            <int name="23" value="1382035"/>
-            <int name="24" value="4005003"/>
-            <int name="25" value="1402035"/>
-            <int name="26" value="4006000"/>
-            <int name="27" value="1412021"/>
-            <int name="28" value="4006001"/>
-            <int name="29" value="1422027"/>
-            <int name="30" value="4020011"/>
-            <int name="31" value="1432030"/>
-            <int name="32" value="4020012"/>
-            <int name="33" value="1442044"/>
-            <int name="34" value="4032168"/>
-            <int name="35" value="1452021"/>
-            <int name="36" value="1462017"/>
-            <int name="37" value="1472053"/>
-            <int name="38" value="2290027"/>
-            <int name="39" value="2290055"/>
-            <int name="41" value="2043701"/>
-            <int name="42" value="2043801"/>
-            <int name="43" value="2044001"/>
-            <int name="44" value="2044101"/>
-            <int name="45" value="2044201"/>
-            <int name="46" value="2040106"/>
-            <int name="47" value="2044301"/>
-            <int name="48" value="2040301"/>
-            <int name="49" value="2044401"/>
-            <int name="50" value="2040321"/>
-            <int name="51" value="2044501"/>
-            <int name="52" value="2041111"/>
-            <int name="53" value="2040613"/>
-            <int name="54" value="2044601"/>
-            <int name="55" value="2041102"/>
-            <int name="56" value="2040805"/>
-            <int name="57" value="2044701"/>
-            <int name="58" value="2041308"/>
-            <int name="59" value="2040914"/>
-            <int name="60" value="2044801"/>
-            <int name="61" value="2041305"/>
-            <int name="62" value="2040919"/>
-            <int name="63" value="2044901"/>
-            <int name="64" value="2040344"/>
-            <int name="65" value="2043001"/>
-            <int name="66" value="4130016"/>
-            <int name="67" value="2043101"/>
-            <int name="68" value="4130017"/>
-            <int name="69" value="2043201"/>
-            <int name="70" value="2043301"/>
-            <int name="40" value="3019913"/>
+            <int name="9" value="4031532"/>
+            <int name="10" value="1052072"/>
+            <int name="11" value="1322045"/>
+            <int name="12" value="4004004"/>
+            <int name="13" value="1332051"/>
+            <int name="14" value="4005000"/>
+            <int name="15" value="1332052"/>
+            <int name="16" value="4005001"/>
+            <int name="17" value="1372010"/>
+            <int name="18" value="4005002"/>
+            <int name="19" value="1382035"/>
+            <int name="20" value="4005003"/>
+            <int name="21" value="1402035"/>
+            <int name="22" value="4006000"/>
+            <int name="23" value="1412021"/>
+            <int name="24" value="4006001"/>
+            <int name="25" value="1422027"/>
+            <int name="26" value="4020011"/>
+            <int name="27" value="1432030"/>
+            <int name="28" value="4020012"/>
+            <int name="29" value="1442044"/>
+            <int name="30" value="4032168"/>
+            <int name="31" value="1452021"/>
+            <int name="32" value="1462017"/>
+            <int name="33" value="1472053"/>
+            <int name="34" value="1092049"/>
+            <int name="35" value="1482012"/>
+            <int name="36" value="1302056"/>
+            <int name="37" value="1492012"/>
+            <int name="38" value="1312030"/>
+            <int name="39" value="2290027"/>
+            <int name="40" value="2290055"/>
+            <int name="41" value="3019913"/>
+            <int name="42" value="2044101"/>
+            <int name="43" value="2044201"/>
+            <int name="44" value="2040106"/>
+            <int name="45" value="2044301"/>
+            <int name="46" value="2040301"/>
+            <int name="47" value="2044401"/>
+            <int name="48" value="2040321"/>
+            <int name="49" value="2044501"/>
+            <int name="50" value="2041111"/>
+            <int name="51" value="2040613"/>
+            <int name="52" value="2044601"/>
+            <int name="53" value="2041102"/>
+            <int name="54" value="2040805"/>
+            <int name="55" value="2044701"/>
+            <int name="56" value="2041308"/>
+            <int name="57" value="2040914"/>
+            <int name="58" value="2044801"/>
+            <int name="59" value="2041305"/>
+            <int name="60" value="2040919"/>
+            <int name="61" value="2044901"/>
+            <int name="62" value="2040344"/>
+            <int name="63" value="2043001"/>
+            <int name="64" value="4130016"/>
+            <int name="65" value="2043101"/>
+            <int name="66" value="4130017"/>
+            <int name="67" value="2043201"/>
+            <int name="68" value="2043301"/>
+            <int name="69" value="2043701"/>
+            <int name="70" value="2043801"/>
+            <int name="71" value="2044001"/>
         </imgdir>
     </imgdir>
     <imgdir name="9400266">
@@ -14649,75 +14663,76 @@
             <int name="1" value="4032181"/>
             <int name="2" value="2000004"/>
             <int name="3" value="2000005"/>
-            <int name="4" value="4031532"/>
+            <int name="4" value="4031533"/>
             <int name="5" value="4039023"/>
             <int name="6" value="2022345"/>
-            <int name="7" value="2000006"/>
-            <int name="8" value="2050004"/>
-            <int name="9" value="1052076"/>
-            <int name="10" value="1332052"/>
-            <int name="11" value="4005001"/>
-            <int name="12" value="1372010"/>
-            <int name="13" value="4005002"/>
-            <int name="14" value="1382035"/>
-            <int name="15" value="4005003"/>
-            <int name="16" value="1402035"/>
-            <int name="17" value="4006000"/>
-            <int name="18" value="1412021"/>
-            <int name="19" value="4006001"/>
-            <int name="20" value="1422027"/>
-            <int name="21" value="4020011"/>
-            <int name="22" value="1432030"/>
-            <int name="23" value="4020012"/>
-            <int name="24" value="1442044"/>
-            <int name="25" value="4032167"/>
-            <int name="26" value="1452021"/>
-            <int name="27" value="1462017"/>
-            <int name="28" value="1472053"/>
-            <int name="29" value="1092049"/>
-            <int name="30" value="1482012"/>
-            <int name="31" value="1302056"/>
-            <int name="32" value="1492012"/>
-            <int name="33" value="1312030"/>
-            <int name="34" value="1322045"/>
-            <int name="35" value="4004004"/>
-            <int name="36" value="1332051"/>
-            <int name="37" value="4005000"/>
-            <int name="38" value="2041300"/>
-            <int name="39" value="2041301"/>
-            <int name="40" value="2041303"/>
-            <int name="41" value="2041304"/>
-            <int name="42" value="2041306"/>
-            <int name="43" value="2041307"/>
-            <int name="44" value="2041309"/>
-            <int name="45" value="2041310"/>
-            <int name="46" value="2290003"/>
-            <int name="47" value="2290033"/>
-            <int name="48" value="2040106"/>
-            <int name="49" value="2044301"/>
-            <int name="50" value="2040301"/>
-            <int name="51" value="2044401"/>
-            <int name="52" value="2040321"/>
-            <int name="53" value="2044501"/>
-            <int name="54" value="2040613"/>
-            <int name="55" value="2044601"/>
-            <int name="56" value="2040805"/>
-            <int name="57" value="2044701"/>
-            <int name="58" value="2040914"/>
-            <int name="59" value="2044801"/>
-            <int name="60" value="2040919"/>
-            <int name="61" value="2044901"/>
-            <int name="62" value="2043001"/>
-            <int name="63" value="4130016"/>
-            <int name="64" value="2043101"/>
-            <int name="65" value="4130017"/>
-            <int name="66" value="2043201"/>
-            <int name="67" value="2043301"/>
-            <int name="68" value="2043701"/>
-            <int name="69" value="2043801"/>
-            <int name="70" value="2044001"/>
-            <int name="71" value="2044101"/>
-            <int name="72" value="2044201"/>
+            <int name="7" value="4031532"/>
+            <int name="8" value="2000006"/>
+            <int name="9" value="2050004"/>
+            <int name="10" value="1052076"/>
+            <int name="11" value="1322045"/>
+            <int name="12" value="4004004"/>
+            <int name="13" value="1332051"/>
+            <int name="14" value="4005000"/>
+            <int name="15" value="1332052"/>
+            <int name="16" value="4005001"/>
+            <int name="17" value="1372010"/>
+            <int name="18" value="4005002"/>
+            <int name="19" value="1382035"/>
+            <int name="20" value="4005003"/>
+            <int name="21" value="1402035"/>
+            <int name="22" value="4006000"/>
+            <int name="23" value="1412021"/>
+            <int name="24" value="4006001"/>
+            <int name="25" value="1422027"/>
+            <int name="26" value="4020011"/>
+            <int name="27" value="1432030"/>
+            <int name="28" value="4020012"/>
+            <int name="29" value="1442044"/>
+            <int name="30" value="4032167"/>
+            <int name="31" value="1452021"/>
+            <int name="32" value="1462017"/>
+            <int name="33" value="1472053"/>
+            <int name="34" value="1092049"/>
+            <int name="35" value="1482012"/>
+            <int name="36" value="1302056"/>
+            <int name="37" value="1492012"/>
+            <int name="38" value="1312030"/>
+            <int name="39" value="2041300"/>
+            <int name="40" value="2041301"/>
+            <int name="41" value="2041303"/>
+            <int name="42" value="2041304"/>
+            <int name="43" value="2041306"/>
+            <int name="44" value="2041307"/>
+            <int name="45" value="2041309"/>
+            <int name="46" value="2041310"/>
+            <int name="47" value="2290003"/>
+            <int name="48" value="2290033"/>
+            <int name="49" value="2044101"/>
+            <int name="50" value="2044201"/>
+            <int name="51" value="2040106"/>
+            <int name="52" value="2044301"/>
+            <int name="53" value="2040301"/>
+            <int name="54" value="2044401"/>
+            <int name="55" value="2040321"/>
+            <int name="56" value="2044501"/>
+            <int name="57" value="2040613"/>
+            <int name="58" value="2044601"/>
+            <int name="59" value="2040805"/>
+            <int name="60" value="2044701"/>
+            <int name="61" value="2040914"/>
+            <int name="62" value="2044801"/>
+            <int name="63" value="2040919"/>
+            <int name="64" value="2044901"/>
+            <int name="65" value="2043001"/>
+            <int name="66" value="4130016"/>
+            <int name="67" value="2043101"/>
+            <int name="68" value="4130017"/>
+            <int name="69" value="2043201"/>
+            <int name="70" value="2043301"/>
+            <int name="71" value="2043701"/>
+            <int name="72" value="2043801"/>
+            <int name="73" value="2044001"/>
         </imgdir>
     </imgdir>
     <imgdir name="9400270">
@@ -14726,72 +14741,73 @@
         </imgdir>
         <string name="episode" value="Lv. :  152\nForm : Spirit\nSpecial Trait : Vulnerable (+50%) to Holy Attribute Attacks. Immune to Poison Attribute Attacks.\n\nDunas was one of the early protectors of Zipangu. After finding out Ashray had been trapped at the end of Zipangu&apos;s future, he does everything he can to save her from the purgatory. Unfortunately, she is trapped in the world of nothing that was created after Zipangu&apos;s destruction, so the only way to save her is by changing history. Re-writing history is directly correlated to Zipangu&apos;s destruction, so Asia winds up binding Dunas&apos;s spirit inside the magic monster and placing it in Kamuna, a place where time stands still."/>
         <imgdir name="reward">
-            <int name="0" value="1032062"/>
-            <int name="1" value="4032162"/>
-            <int name="2" value="4032181"/>
-            <int name="3" value="2000004"/>
-            <int name="4" value="2000005"/>
-            <int name="5" value="4031532"/>
-            <int name="6" value="2022345"/>
+            <int name="0" value="4032162"/>
+            <int name="1" value="4032181"/>
+            <int name="2" value="2000004"/>
+            <int name="3" value="2000005"/>
+            <int name="4" value="4031533"/>
+            <int name="5" value="2022345"/>
+            <int name="6" value="4031532"/>
             <int name="7" value="2000006"/>
             <int name="8" value="2050004"/>
             <int name="9" value="1052071"/>
-            <int name="10" value="1472053"/>
-            <int name="11" value="4004004"/>
-            <int name="12" value="1092049"/>
-            <int name="13" value="1482012"/>
-            <int name="14" value="4005000"/>
-            <int name="15" value="1302056"/>
-            <int name="16" value="1492012"/>
-            <int name="17" value="4005001"/>
-            <int name="18" value="1312030"/>
-            <int name="19" value="4005002"/>
-            <int name="20" value="1322045"/>
-            <int name="21" value="4005003"/>
-            <int name="22" value="1332051"/>
-            <int name="23" value="4006000"/>
-            <int name="24" value="1332052"/>
-            <int name="25" value="4006001"/>
-            <int name="26" value="1372010"/>
-            <int name="27" value="4020011"/>
-            <int name="28" value="1382035"/>
-            <int name="29" value="4020012"/>
-            <int name="30" value="1402035"/>
-            <int name="31" value="1412021"/>
-            <int name="32" value="1422027"/>
-            <int name="33" value="4032166"/>
-            <int name="34" value="1432030"/>
-            <int name="35" value="4032167"/>
-            <int name="36" value="1442044"/>
-            <int name="37" value="1452021"/>
-            <int name="38" value="1462017"/>
-            <int name="39" value="2290059"/>
-            <int name="40" value="2290063"/>
-            <int name="41" value="2043701"/>
-            <int name="42" value="2043801"/>
-            <int name="43" value="2044001"/>
-            <int name="44" value="2044101"/>
-            <int name="45" value="2044201"/>
-            <int name="46" value="2040106"/>
-            <int name="47" value="2044301"/>
-            <int name="48" value="2040301"/>
-            <int name="49" value="2044401"/>
-            <int name="50" value="2040321"/>
-            <int name="51" value="2044501"/>
-            <int name="52" value="2040613"/>
-            <int name="53" value="2044601"/>
-            <int name="54" value="2040805"/>
-            <int name="55" value="2044701"/>
-            <int name="56" value="2040914"/>
-            <int name="57" value="2044801"/>
-            <int name="58" value="2040919"/>
-            <int name="59" value="2044901"/>
-            <int name="60" value="2043001"/>
-            <int name="61" value="2043101"/>
-            <int name="62" value="2043201"/>
-            <int name="63" value="4130016"/>
-            <int name="64" value="2043301"/>
-            <int name="65" value="4130017"/>
+            <int name="10" value="1452021"/>
+            <int name="11" value="1462017"/>
+            <int name="12" value="1472053"/>
+            <int name="13" value="4004004"/>
+            <int name="14" value="1092049"/>
+            <int name="15" value="1482012"/>
+            <int name="16" value="4005000"/>
+            <int name="17" value="1302056"/>
+            <int name="18" value="1492012"/>
+            <int name="19" value="4005001"/>
+            <int name="20" value="1312030"/>
+            <int name="21" value="4005002"/>
+            <int name="22" value="1322045"/>
+            <int name="23" value="4005003"/>
+            <int name="24" value="1332051"/>
+            <int name="25" value="4006000"/>
+            <int name="26" value="1332052"/>
+            <int name="27" value="4006001"/>
+            <int name="28" value="1372010"/>
+            <int name="29" value="4020011"/>
+            <int name="30" value="1382035"/>
+            <int name="31" value="4020012"/>
+            <int name="32" value="1402035"/>
+            <int name="33" value="1412021"/>
+            <int name="34" value="1422027"/>
+            <int name="35" value="4032166"/>
+            <int name="36" value="1432030"/>
+            <int name="37" value="4032167"/>
+            <int name="38" value="1442044"/>
+            <int name="39" value="2290063"/>
+            <int name="40" value="1032062"/>
+            <int name="41" value="2290059"/>
+            <int name="42" value="2043201"/>
+            <int name="43" value="4130016"/>
+            <int name="44" value="2043301"/>
+            <int name="45" value="4130017"/>
+            <int name="46" value="2043701"/>
+            <int name="47" value="2043801"/>
+            <int name="48" value="2044001"/>
+            <int name="49" value="2044101"/>
+            <int name="50" value="2044201"/>
+            <int name="51" value="2040106"/>
+            <int name="52" value="2044301"/>
+            <int name="53" value="2040301"/>
+            <int name="54" value="2044401"/>
+            <int name="55" value="2040321"/>
+            <int name="56" value="2044501"/>
+            <int name="57" value="2040613"/>
+            <int name="58" value="2044601"/>
+            <int name="59" value="2040805"/>
+            <int name="60" value="2044701"/>
+            <int name="61" value="2040914"/>
+            <int name="62" value="2044801"/>
+            <int name="63" value="2040919"/>
+            <int name="64" value="2044901"/>
+            <int name="65" value="2043001"/>
+            <int name="66" value="2043101"/>
         </imgdir>
     </imgdir>
     <imgdir name="9400273">
@@ -14804,74 +14820,75 @@
             <int name="1" value="4032181"/>
             <int name="2" value="2000004"/>
             <int name="3" value="2000005"/>
-            <int name="4" value="4031532"/>
+            <int name="4" value="4031533"/>
             <int name="5" value="4039024"/>
             <int name="6" value="2022345"/>
-            <int name="7" value="2000006"/>
-            <int name="8" value="2050004"/>
-            <int name="9" value="1052075"/>
-            <int name="10" value="1092049"/>
-            <int name="11" value="1482012"/>
-            <int name="12" value="1302056"/>
-            <int name="13" value="1492012"/>
-            <int name="14" value="1312030"/>
-            <int name="15" value="1322045"/>
-            <int name="16" value="4004004"/>
-            <int name="17" value="1332051"/>
-            <int name="18" value="4005000"/>
-            <int name="19" value="1332052"/>
-            <int name="20" value="4005001"/>
-            <int name="21" value="1372010"/>
-            <int name="22" value="4005002"/>
-            <int name="23" value="1382035"/>
-            <int name="24" value="4005003"/>
-            <int name="25" value="1402035"/>
-            <int name="26" value="4006000"/>
-            <int name="27" value="1412021"/>
-            <int name="28" value="4006001"/>
-            <int name="29" value="1422027"/>
-            <int name="30" value="4020011"/>
-            <int name="31" value="1432030"/>
-            <int name="32" value="4020012"/>
-            <int name="33" value="1442044"/>
-            <int name="34" value="4032168"/>
-            <int name="35" value="1452021"/>
-            <int name="36" value="1462017"/>
-            <int name="37" value="1472053"/>
-            <int name="38" value="2290045"/>
-            <int name="39" value="2290105"/>
-            <int name="40" value="2048016"/>
-            <int name="42" value="2043701"/>
-            <int name="43" value="2043801"/>
-            <int name="44" value="2044001"/>
-            <int name="45" value="2044101"/>
-            <int name="46" value="2044201"/>
-            <int name="47" value="2040106"/>
-            <int name="48" value="2044301"/>
-            <int name="49" value="2040301"/>
-            <int name="50" value="2044401"/>
-            <int name="51" value="2040321"/>
-            <int name="52" value="2044501"/>
-            <int name="53" value="2040613"/>
-            <int name="54" value="2044601"/>
-            <int name="55" value="2041108"/>
-            <int name="56" value="2040805"/>
-            <int name="57" value="2044701"/>
-            <int name="58" value="2041105"/>
-            <int name="59" value="2040914"/>
-            <int name="60" value="2044801"/>
-            <int name="61" value="2041311"/>
-            <int name="62" value="2040919"/>
-            <int name="63" value="2044901"/>
-            <int name="64" value="2041302"/>
-            <int name="65" value="2043001"/>
-            <int name="66" value="4130016"/>
-            <int name="67" value="2040345"/>
-            <int name="68" value="2043101"/>
-            <int name="69" value="4130017"/>
-            <int name="70" value="2043201"/>
-            <int name="71" value="2043301"/>
-            <int name="41" value="3010125"/>
+            <int name="7" value="4031532"/>
+            <int name="8" value="2000006"/>
+            <int name="9" value="2050004"/>
+            <int name="10" value="1052075"/>
+            <int name="11" value="1322045"/>
+            <int name="12" value="4004004"/>
+            <int name="13" value="1332051"/>
+            <int name="14" value="4005000"/>
+            <int name="15" value="1332052"/>
+            <int name="16" value="4005001"/>
+            <int name="17" value="1372010"/>
+            <int name="18" value="4005002"/>
+            <int name="19" value="1382035"/>
+            <int name="20" value="4005003"/>
+            <int name="21" value="1402035"/>
+            <int name="22" value="4006000"/>
+            <int name="23" value="1412021"/>
+            <int name="24" value="4006001"/>
+            <int name="25" value="1422027"/>
+            <int name="26" value="4020011"/>
+            <int name="27" value="1432030"/>
+            <int name="28" value="4020012"/>
+            <int name="29" value="1442044"/>
+            <int name="30" value="4032168"/>
+            <int name="31" value="1452021"/>
+            <int name="32" value="1462017"/>
+            <int name="33" value="1472053"/>
+            <int name="34" value="1092049"/>
+            <int name="35" value="1482012"/>
+            <int name="36" value="1302056"/>
+            <int name="37" value="1492012"/>
+            <int name="38" value="1312030"/>
+            <int name="39" value="2290045"/>
+            <int name="40" value="2290105"/>
+            <int name="41" value="2048016"/>
+            <int name="42" value="3010125"/>
+            <int name="43" value="2044101"/>
+            <int name="44" value="2044201"/>
+            <int name="45" value="2040106"/>
+            <int name="46" value="2044301"/>
+            <int name="47" value="2040301"/>
+            <int name="48" value="2044401"/>
+            <int name="49" value="2040321"/>
+            <int name="50" value="2044501"/>
+            <int name="51" value="2040613"/>
+            <int name="52" value="2044601"/>
+            <int name="53" value="2041108"/>
+            <int name="54" value="2040805"/>
+            <int name="55" value="2044701"/>
+            <int name="56" value="2041105"/>
+            <int name="57" value="2040914"/>
+            <int name="58" value="2044801"/>
+            <int name="59" value="2041311"/>
+            <int name="60" value="2040919"/>
+            <int name="61" value="2044901"/>
+            <int name="62" value="2041302"/>
+            <int name="63" value="2043001"/>
+            <int name="64" value="4130016"/>
+            <int name="65" value="2040345"/>
+            <int name="66" value="2043101"/>
+            <int name="67" value="4130017"/>
+            <int name="68" value="2043201"/>
+            <int name="69" value="2043301"/>
+            <int name="70" value="2043701"/>
+            <int name="71" value="2043801"/>
+            <int name="72" value="2044001"/>
         </imgdir>
     </imgdir>
     <imgdir name="9400287">
@@ -14921,12 +14938,16 @@
             <int name="0" value="4000141"/>
             <int name="1" value="4031530"/>
             <int name="2" value="4031531"/>
-            <int name="3" value="4031532"/>
-            <int name="4" value="2048018"/>
-            <int name="5" value="1072238"/>
-            <int name="6" value="1032026"/>
-            <int name="7" value="1372011"/>
-            <int name="8" value="1032064"/>
+            <int name="3" value="4031533"/>
+            <int name="4" value="4031532"/>
+            <int name="5" value="2048018"/>
+            <int name="6" value="1072238"/>
+            <int name="7" value="1032026"/>
+            <int name="8" value="1372011"/>
+            <int name="9" value="1032064"/>
+            <int name="10" value="2430010"/>
+            <int name="11" value="4000508"/>
+            <int name="12" value="2430016"/>
         </imgdir>
     </imgdir>
     <imgdir name="9600012">
@@ -15529,86 +15550,87 @@
             <int name="2" value="2022345"/>
             <int name="3" value="2000004"/>
             <int name="4" value="2000005"/>
-            <int name="5" value="4031532"/>
-            <int name="6" value="4021006"/>
-            <int name="7" value="4021007"/>
-            <int name="8" value="4021008"/>
-            <int name="9" value="4006000"/>
-            <int name="10" value="4006001"/>
-            <int name="11" value="4030009"/>
-            <int name="12" value="4021000"/>
-            <int name="13" value="4021001"/>
-            <int name="14" value="4021002"/>
-            <int name="15" value="4021003"/>
-            <int name="16" value="4021004"/>
-            <int name="17" value="4021005"/>
-            <int name="18" value="1472053"/>
-            <int name="19" value="1082140"/>
-            <int name="20" value="1482012"/>
-            <int name="21" value="1082151"/>
-            <int name="22" value="1052131"/>
-            <int name="23" value="1302056"/>
-            <int name="24" value="1082158"/>
-            <int name="25" value="1072318"/>
-            <int name="26" value="1312030"/>
-            <int name="27" value="1092037"/>
-            <int name="28" value="1002646"/>
-            <int name="29" value="1322045"/>
-            <int name="30" value="1072214"/>
-            <int name="31" value="1082213"/>
-            <int name="32" value="1332051"/>
-            <int name="33" value="1072222"/>
-            <int name="34" value="1332052"/>
-            <int name="35" value="1072223"/>
-            <int name="36" value="1372010"/>
-            <int name="37" value="1072227"/>
-            <int name="38" value="1382035"/>
-            <int name="39" value="1060109"/>
-            <int name="40" value="1402035"/>
-            <int name="41" value="1061123"/>
-            <int name="42" value="1412021"/>
-            <int name="43" value="1050097"/>
-            <int name="44" value="1422027"/>
-            <int name="45" value="1051091"/>
-            <int name="46" value="1432030"/>
-            <int name="47" value="1051105"/>
-            <int name="48" value="1442044"/>
-            <int name="49" value="1040120"/>
-            <int name="50" value="1452019"/>
-            <int name="51" value="1041124"/>
-            <int name="52" value="1462015"/>
-            <int name="53" value="1082135"/>
-            <int name="54" value="1492012"/>
-            <int name="55" value="4004002"/>
-            <int name="56" value="4004003"/>
-            <int name="57" value="2290018"/>
-            <int name="58" value="2290019"/>
-            <int name="59" value="2290032"/>
-            <int name="60" value="2290042"/>
-            <int name="61" value="2290059"/>
-            <int name="62" value="2290069"/>
-            <int name="63" value="2290072"/>
-            <int name="64" value="2290092"/>
-            <int name="65" value="2290104"/>
-            <int name="66" value="2290115"/>
-            <int name="67" value="4004001"/>
-            <int name="68" value="2040002"/>
-            <int name="69" value="2040005"/>
-            <int name="70" value="2040302"/>
-            <int name="71" value="2040402"/>
-            <int name="72" value="2040502"/>
-            <int name="73" value="2040505"/>
-            <int name="74" value="2040513"/>
-            <int name="75" value="2040516"/>
-            <int name="76" value="2040602"/>
-            <int name="77" value="2040702"/>
-            <int name="78" value="2040705"/>
-            <int name="79" value="2040708"/>
-            <int name="80" value="2043801"/>
-            <int name="81" value="2040802"/>
-            <int name="82" value="2041023"/>
-            <int name="83" value="2040902"/>
-            <int name="84" value="2040707"/>
+            <int name="5" value="4031533"/>
+            <int name="6" value="4031532"/>
+            <int name="7" value="4021006"/>
+            <int name="8" value="4021007"/>
+            <int name="9" value="4021008"/>
+            <int name="10" value="4006000"/>
+            <int name="11" value="4006001"/>
+            <int name="12" value="4030009"/>
+            <int name="13" value="4021000"/>
+            <int name="14" value="4021001"/>
+            <int name="15" value="4021002"/>
+            <int name="16" value="4021003"/>
+            <int name="17" value="4021004"/>
+            <int name="18" value="4021005"/>
+            <int name="19" value="1472053"/>
+            <int name="20" value="1082140"/>
+            <int name="21" value="1482012"/>
+            <int name="22" value="1082151"/>
+            <int name="23" value="1052131"/>
+            <int name="24" value="1302056"/>
+            <int name="25" value="1082158"/>
+            <int name="26" value="1072318"/>
+            <int name="27" value="1312030"/>
+            <int name="28" value="1092037"/>
+            <int name="29" value="1002646"/>
+            <int name="30" value="1322045"/>
+            <int name="31" value="1072214"/>
+            <int name="32" value="1082213"/>
+            <int name="33" value="1332051"/>
+            <int name="34" value="1072222"/>
+            <int name="35" value="1332052"/>
+            <int name="36" value="1072223"/>
+            <int name="37" value="1372010"/>
+            <int name="38" value="1072227"/>
+            <int name="39" value="1382035"/>
+            <int name="40" value="1060109"/>
+            <int name="41" value="1402035"/>
+            <int name="42" value="1061123"/>
+            <int name="43" value="1412021"/>
+            <int name="44" value="1050097"/>
+            <int name="45" value="1422027"/>
+            <int name="46" value="1051091"/>
+            <int name="47" value="1432030"/>
+            <int name="48" value="1051105"/>
+            <int name="49" value="1442044"/>
+            <int name="50" value="1040120"/>
+            <int name="51" value="1452019"/>
+            <int name="52" value="1041124"/>
+            <int name="53" value="1462015"/>
+            <int name="54" value="1082135"/>
+            <int name="55" value="1492012"/>
+            <int name="56" value="4004002"/>
+            <int name="57" value="4004003"/>
+            <int name="58" value="2290018"/>
+            <int name="59" value="2290019"/>
+            <int name="60" value="2290032"/>
+            <int name="61" value="2290042"/>
+            <int name="62" value="2290059"/>
+            <int name="63" value="2290069"/>
+            <int name="64" value="2290072"/>
+            <int name="65" value="2290092"/>
+            <int name="66" value="2290104"/>
+            <int name="67" value="2290115"/>
+            <int name="68" value="4004001"/>
+            <int name="69" value="2040002"/>
+            <int name="70" value="2040005"/>
+            <int name="71" value="2040302"/>
+            <int name="72" value="2040402"/>
+            <int name="73" value="2040502"/>
+            <int name="74" value="2040505"/>
+            <int name="75" value="2040513"/>
+            <int name="76" value="2040516"/>
+            <int name="77" value="2040602"/>
+            <int name="78" value="2040702"/>
+            <int name="79" value="2040705"/>
+            <int name="80" value="2040708"/>
+            <int name="81" value="2043801"/>
+            <int name="82" value="2040802"/>
+            <int name="83" value="2041023"/>
+            <int name="84" value="2040902"/>
+            <int name="85" value="2040707"/>
         </imgdir>
     </imgdir>
     <imgdir name="9600026">
@@ -16009,10 +16031,11 @@
             <int name="6" value="1472033"/>
             <int name="7" value="1372009"/>
             <int name="8" value="1452015"/>
-            <int name="9" value="4031532"/>
-            <int name="10" value="2002024"/>
-            <int name="11" value="2002023"/>
-            <int name="12" value="2020014"/>
+            <int name="9" value="4031533"/>
+            <int name="10" value="4031532"/>
+            <int name="11" value="2002024"/>
+            <int name="12" value="2002023"/>
+            <int name="13" value="2020014"/>
         </imgdir>
     </imgdir>
     <imgdir name="9400556">
@@ -16207,9 +16230,10 @@
             <int name="5" value="4000109"/>
             <int name="6" value="4031531"/>
             <int name="7" value="1032023"/>
-            <int name="8" value="4031532"/>
+            <int name="8" value="4031533"/>
             <int name="9" value="4032013"/>
-            <int name="10" value="2010000"/>
+            <int name="10" value="4031532"/>
+            <int name="11" value="2010000"/>
         </imgdir>
     </imgdir>
     <imgdir name="9400576">
@@ -16778,7 +16802,7 @@
         </imgdir>
     </imgdir>
     <imgdir name="9420523">
-        <string name="episode" value="Lv. :  80\nForm : Spirit\n\nThe evil of Ulu City, Krexel, summons forth its darkest energies when it is on the brink of defeat. Bacal&amp;apos;s prime directive is to protect Krexel. Its chaotic and unfocused approach can be seen as a representation of the dying tree&amp;apos;s confused and desperate last efforts."/>
+        <string name="episode" value="Lv. :  80\nForm : Spirit\n\nThe evil of Ulu City, Krexel, summons forth its darkest energies when it is on the brink of defeat. Bacal&apos;s prime directive is to protect Krexel. Its chaotic and unfocused approach can be seen as a representation of the dying tree&apos;s confused and desperate last efforts."/>
         <imgdir name="map">
             <int name="0" value="541020800"/>
         </imgdir>
@@ -16986,24 +17010,25 @@
             <int name="0" value="4000674"/>
             <int name="1" value="4031531"/>
             <int name="2" value="2020015"/>
-            <int name="3" value="4031532"/>
+            <int name="3" value="4031533"/>
             <int name="4" value="2000005"/>
-            <int name="5" value="2023139"/>
-            <int name="6" value="1302056"/>
-            <int name="7" value="1472053"/>
-            <int name="8" value="1462016"/>
-            <int name="9" value="1432030"/>
-            <int name="10" value="1422027"/>
-            <int name="11" value="1402029"/>
-            <int name="12" value="4021008"/>
-            <int name="13" value="1312030"/>
-            <int name="14" value="2040345"/>
-            <int name="15" value="2041039"/>
-            <int name="16" value="2044301"/>
-            <int name="17" value="2043301"/>
-            <int name="18" value="2048018"/>
-            <int name="19" value="1072239"/>
-            <int name="20" value="4009903"/>
+            <int name="6" value="2023139"/>
+            <int name="7" value="1302056"/>
+            <int name="8" value="1472053"/>
+            <int name="9" value="1462016"/>
+            <int name="10" value="1432030"/>
+            <int name="11" value="1422027"/>
+            <int name="12" value="1402029"/>
+            <int name="13" value="4021008"/>
+            <int name="14" value="1312030"/>
+            <int name="15" value="2040345"/>
+            <int name="16" value="2041039"/>
+            <int name="17" value="2044301"/>
+            <int name="18" value="2043301"/>
+            <int name="19" value="2048018"/>
+            <int name="20" value="1072239"/>
+            <int name="21" value="4009903"/>
+            <int name="5" value="4031532"/>
         </imgdir>
     </imgdir>
     <imgdir name="5250005">
@@ -17090,23 +17115,24 @@
             <int name="2" value="2000005"/>
             <int name="3" value="2000006"/>
             <int name="4" value="2020013"/>
-            <int name="5" value="4031532"/>
-            <int name="6" value="1452020"/>
-            <int name="7" value="1402005"/>
-            <int name="8" value="1050107"/>
-            <int name="9" value="1051104"/>
-            <int name="10" value="1002383"/>
-            <int name="11" value="1442002"/>
-            <int name="12" value="2040317"/>
-            <int name="13" value="2040321"/>
-            <int name="14" value="2040708"/>
-            <int name="15" value="2048016"/>
-            <int name="16" value="2040901"/>
-            <int name="17" value="2040342"/>
-            <int name="18" value="2290055"/>
-            <int name="19" value="2290099"/>
-            <int name="20" value="1082145"/>
-            <int name="21" value="4009903"/>
+            <int name="6" value="4031532"/>
+            <int name="7" value="1452020"/>
+            <int name="8" value="1402005"/>
+            <int name="9" value="1050107"/>
+            <int name="10" value="1051104"/>
+            <int name="11" value="1002383"/>
+            <int name="12" value="1442002"/>
+            <int name="13" value="2040317"/>
+            <int name="14" value="2040321"/>
+            <int name="15" value="2040708"/>
+            <int name="16" value="2048016"/>
+            <int name="17" value="2040901"/>
+            <int name="18" value="2040342"/>
+            <int name="19" value="2290055"/>
+            <int name="20" value="2290099"/>
+            <int name="21" value="1082145"/>
+            <int name="22" value="4009903"/>
+            <int name="5" value="4031533"/>
         </imgdir>
     </imgdir>
     <imgdir name="9300182">
@@ -17118,7 +17144,7 @@
         </imgdir>
     </imgdir>
     <imgdir name="8210000">
-        <string name="episode" value="Lv. :  125\nForm : Reptile\nSpecial Trait : Vulnerable (+50%) to Fire Attribute Attacks. Resistant (-50%) to Ice Attribute Attacks.\n\nThese crocodile soldiers can be found around the outermost walls of Lionheart Castle. Loyal beyond the grave, they guard the gates to the castle, shackled by a terrible curse, and unaware that the kingdom fell into ruin hundreds of years ago. They will attack anyone, and anything, that trespasses."/>
+        <string name="episode" value="Lv. :  125\nForm : Reptile\nSpecial Trait : Resistant (+50%) to Ice Attribute Attacks. Vulnerable (-50%) to Fire Attribute Attacks.\n\nThese crocodile soldiers can be found around the outermost walls of Lionheart Castle. Loyal beyond the grave, they guard the gates to the castle, shackled by a terrible curse, and unaware that the kingdom fell into ruin hundreds of years ago. They will attack anyone, and anything, that trespasses within the castle."/>
         <imgdir name="map">
             <int name="0" value="270030400"/>
             <int name="1" value="270030500"/>
@@ -17202,7 +17228,7 @@
         </imgdir>
     </imgdir>
     <imgdir name="8210002">
-        <string name="episode" value="Lv. :  141\nForm : Mammal\nSpecial Trait : Vulnerable (+50%) to Ice Attribute Attacks.\n\nClosely related to the Reindeer soldiers, these Elite Soldiers reacted more strongly to the influence of the Black Mage&apos;s curse. They are stronger and meaner than the regular Reindeer, but attack with the same power of thunder and lightning. Be very careful around them."/>
+        <string name="episode" value="Lv. :  141\nForm : Mammal\nSpecial Trait : Vulnerable (+50%) to Ice Attribute Attacks.\n\nClosely related to the Reindeer, these Elite Soldiers reacted more strongly to the influence of the Black Magician&apos;s curse. They attack with the same power of thunder and lightning like the regular Reindeer, but with far stronger power and ferocity. Be very careful around them."/>
         <imgdir name="map">
             <int name="0" value="270030400"/>
             <int name="1" value="270030500"/>
@@ -17295,7 +17321,7 @@
         </imgdir>
     </imgdir>
     <imgdir name="8210004">
-        <string name="episode" value="Lv. :  144\nForm : Reptile\nSpecial Trait : Vulnerable (+50%) to Lightning Attribute Attacks.\n\nThese strange creatures used to roam around the El Nath Mts., preying on any unfortunate adventurers who lost their way. Several hundred years ago, a strange cry echoed between the mountains, which piqued the Vultures interests. No one quite knows what happened thereafter, but ever since, they have served in the army of the Lion King as mindless drones."/>
+        <string name="episode" value="Lv. :  144\nForm : Animal\nSpecial Trait : Vulnerable (+50%) to Lightning Attribute Attacks.\n\nThese strange creatures used to roam around the El Nath Mountains, preying on any unfortunate adventurers who lost their way. Several hundred years ago, a strange cry echoed between the mountains, which piqued the Vultures&apos; interests. No one quite knows what happened thereafter, but ever since, they have served in the army of the Lion King as fierce, mindless drones."/>
         <imgdir name="map">
             <int name="0" value="270030400"/>
             <int name="1" value="270030500"/>

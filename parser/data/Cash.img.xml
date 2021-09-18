@@ -2568,4 +2568,9 @@
         <string name="name" value="Petite Cake"/>
         <string name="desc" value="#cPetite Mario# loves cake!\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
     </imgdir>
+    <imgdir name="5121052">
+        <string name="msg" value="%s"/>
+        <string name="name" value="차원의균열 퀘스트용"/>
+        <string name="desc" value="표지판"/>
+    </imgdir>
 </imgdir>

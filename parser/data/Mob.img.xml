@@ -5268,4 +5268,19 @@
     <imgdir name="8840006">
         <string name="name" value="Von Leon"/>
     </imgdir>
+    <imgdir name="9700054">
+        <string name="name" value="GM Event Mask Fish"/>
+    </imgdir>
+    <imgdir name="9700055">
+        <string name="name" value="GM Event Krappy"/>
+    </imgdir>
+    <imgdir name="9700056">
+        <string name="name" value="GM Event Flower Fish"/>
+    </imgdir>
+    <imgdir name="9700057">
+        <string name="name" value="GM Event Krip"/>
+    </imgdir>
+    <imgdir name="9700058">
+        <string name="name" value="GM Event Bubble Fish"/>
+    </imgdir>
 </imgdir>

@@ -10118,4 +10118,12 @@ Open it to see what&apos;s inside."/>
         <string name="desc" value="Warp all players on current map to Rising Tides event"/>
         <string name="name" value="Start Rising Tides"/>
     </imgdir>
+    <imgdir name="2439009">
+        <string name="name" value="GM Event Dice"/>
+        <string name="desc" value="Broadcast a random number to the map."/>
+    </imgdir>
+    <imgdir name="2439010">
+        <string name="name" value="GM Event Jukebox"/>
+        <string name="desc" value="Broadcast a song to the map."/>
+    </imgdir>
 </imgdir>
