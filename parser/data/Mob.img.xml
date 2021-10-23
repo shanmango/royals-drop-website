@@ -5283,4 +5283,10 @@
     <imgdir name="9700058">
         <string name="name" value="GM Event Bubble Fish"/>
     </imgdir>
+    <imgdir name="8840010">
+        <string name="name" value="Von Leon"/>
+    </imgdir>
+    <imgdir name="9700059">
+        <string name="name" value="Clown Lupin"/>
+    </imgdir>
 </imgdir>

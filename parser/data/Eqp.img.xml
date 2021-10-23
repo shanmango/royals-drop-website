@@ -3247,6 +3247,13 @@
             <imgdir name="1022292">
                 <string name="name" value="Lovely Round Glasses"/>
             </imgdir>
+            <imgdir name="1012723">
+                <string name="name" value="Circus Makeup"/>
+            </imgdir>
+            <imgdir name="1012725">
+                <string name="name" value="Mad Mage Makeup"/>
+                <string name="desc" value="#cFace expressions not possible when wearing this face accessory.#"/>
+            </imgdir>
         </imgdir>
         <imgdir name="Cap">
             <imgdir name="1003022">
@@ -8400,6 +8407,28 @@
             <imgdir name="1004973">
                 <string name="name" value="Steely Meow Helmet"/>
             </imgdir>
+            <imgdir name="1005865">
+                <string name="name" value="Spirit Collector Crown"/>
+                <string name="desc" value="A Spirit Collector Crown designed by Global MapleStory player TsuusT."/>
+            </imgdir>
+            <imgdir name="1005594">
+                <string name="name" value="Blue Circus Hat"/>
+            </imgdir>
+            <imgdir name="1005595">
+                <string name="name" value="Red Circus Hat"/>
+            </imgdir>
+            <imgdir name="1005611">
+                <string name="name" value="Mad Mage Hood"/>
+            </imgdir>
+            <imgdir name="1005634">
+                <string name="name" value="Spooky Hood"/>
+            </imgdir>
+            <imgdir name="1005639">
+                <string name="name" value="Lil Pumpkin Witch Hat"/>
+            </imgdir>
+            <imgdir name="1005640">
+                <string name="name" value="Spiderweb Witch Hat"/>
+            </imgdir>
         </imgdir>
         <imgdir name="Cape">
             <imgdir name="1102000">
@@ -9722,6 +9751,22 @@
             </imgdir>
             <imgdir name="1103222">
                 <string name="name" value="Falling Leaves"/>
+            </imgdir>
+            <imgdir name="1103126">
+                <string name="name" value="Misty Nocturne"/>
+            </imgdir>
+            <imgdir name="1103127">
+                <string name="name" value="Misty Fantasia"/>
+            </imgdir>
+            <imgdir name="1103374">
+                <string name="name" value="Spirit Collector Umbrella"/>
+                <string name="desc" value="A Spirit Collector Umbrella designed by Global MapleStory player TsuusT."/>
+            </imgdir>
+            <imgdir name="1103291">
+                <string name="name" value="Mad Mage Cape"/>
+            </imgdir>
+            <imgdir name="1103293">
+                <string name="name" value="Mysterious Fog"/>
             </imgdir>
         </imgdir>
         <imgdir name="Coat">
@@ -21935,6 +21980,9 @@
             </imgdir>
             <imgdir name="1082703">
                 <string name="name" value="Bichon Gloves"/>
+            </imgdir>
+            <imgdir name="1082750">
+                <string name="name" value="Mad Mage Gloves"/>
             </imgdir>
         </imgdir>
         <imgdir name="Hair">
@@ -47783,6 +47831,45 @@
             <imgdir name="1053563">
                 <string name="name" value="Love Mouse Outfit"/>
             </imgdir>
+            <imgdir name="1053625">
+                <string name="name" value="Blue Circus Fantasy"/>
+            </imgdir>
+            <imgdir name="1053626">
+                <string name="name" value="Red Circus Fantasy"/>
+            </imgdir>
+            <imgdir name="1053757">
+                <string name="name" value="Gloomy Clown"/>
+            </imgdir>
+            <imgdir name="1053758">
+                <string name="name" value="Melancholy Clown"/>
+            </imgdir>
+            <imgdir name="1050598">
+                <string name="name" value="Spirit Collector Robe"/>
+                <string name="desc" value="A Spirit Collector Robe designed by Global MapleStory player TsuusT."/>
+            </imgdir>
+            <imgdir name="1051672">
+                <string name="name" value="Spirit Collector Robe"/>
+                <string name="desc" value="A Spirit Collector Robe designed by Global MapleStory player TsuusT."/>
+            </imgdir>
+            <imgdir name="1053629">
+                <string name="name" value="Mad Mage Suit"/>
+            </imgdir>
+            <imgdir name="1050475">
+                <string name="name" value="Spooky Shorts"/>
+            </imgdir>
+            <imgdir name="1051542">
+                <string name="name" value="Spooky Skirt"/>
+            </imgdir>
+            <imgdir name="1050476">
+                <string name="name" value="Halloween Pumpkin Suit"/>
+            </imgdir>
+            <imgdir name="1051543">
+                <string name="name" value="Halloween Pumpkin Suit"/>
+            </imgdir>
+            <imgdir name="1050351">
+                <string name="name" value="Mad Doctor Gown"/>
+                <string name="desc" value="#cMedical Halloween Set#\nThis doctor&apos;s gown seems a little... off."/>
+            </imgdir>
         </imgdir>
         <imgdir name="Pants">
             <imgdir name="1060000">
@@ -50306,6 +50393,34 @@
             <imgdir name="1115307">
                 <string name="name" value="Autumn Leaves Label Ring"/>
             </imgdir>
+            <imgdir name="1115330">
+                <string name="name" value="Dreamy Unicorn Label Ring"/>
+                <string name="desc" value="Displays your character name with a Dreamy Unicorn name tag. Designed by the China MapleStory player wenwen."/>
+            </imgdir>
+            <imgdir name="1115331">
+                <string name="name" value="Magician of the Sacred Forest Label Ring"/>
+                <string name="desc" value="Displays your character name with a Magician of the Sacred Forest label."/>
+            </imgdir>
+            <imgdir name="1115332">
+                <string name="name" value="Spirit Label Ring"/>
+                <string name="desc" value="Displays your character name with a Spirit label. Designed by Global MapleStory player TsuusT."/>
+            </imgdir>
+            <imgdir name="1115228">
+                <string name="name" value="Dreamy Unicorn Chat Ring"/>
+                <string name="desc" value="Makes your messages appear in Dreamy Unicorn chat bubbles. Designed by the China MapleStory player wenwen."/>
+            </imgdir>
+            <imgdir name="1115229">
+                <string name="name" value="Magician of the Sacred Forest Chat Ring"/>
+                <string name="desc" value="Talk in Magician of the Sacred Forest chat bubbles."/>
+            </imgdir>
+            <imgdir name="1115230">
+                <string name="name" value="Spirit Chat Ring"/>
+                <string name="desc" value="Makes your messages appear in Spirit chat bubbles. Designed by Global MapleStory player TsuusT."/>
+            </imgdir>
+            <imgdir name="1112017">
+                <string name="name" value="Pumpkin Pie Ring"/>
+                <string name="desc" value="Grandma Benson gave you this ring in return for helping her out in the 2021 Thanksgiving Event."/>
+            </imgdir>
         </imgdir>
         <imgdir name="Shield">
             <imgdir name="1092062">
@@ -52452,6 +52567,29 @@
             </imgdir>
             <imgdir name="1073321">
                 <string name="name" value="Throwback Loafers"/>
+            </imgdir>
+            <imgdir name="1070094">
+                <string name="name" value="Spooky Shoes"/>
+            </imgdir>
+            <imgdir name="1070064">
+                <string name="name" value="Mad Doctor Boots"/>
+                <string name="desc" value="#cMedical Halloween Set#\nThese boots have seen better floors."/>
+            </imgdir>
+            <imgdir name="1071111">
+                <string name="name" value="Spooky Heels"/>
+            </imgdir>
+            <imgdir name="1073468">
+                <string name="name" value="Circus Bell Shoes"/>
+            </imgdir>
+            <imgdir name="1073476">
+                <string name="name" value="Mad Mage Shoes"/>
+            </imgdir>
+            <imgdir name="1073475">
+                <string name="name" value="Shoes of Mystery"/>
+            </imgdir>
+            <imgdir name="1073577">
+                <string name="name" value="Spirit Steps"/>
+                <string name="desc" value="A pair of Spirit Steps designed by Global MapleStory player TsuusT."/>
             </imgdir>
         </imgdir>
         <imgdir name="Taming">
@@ -56882,6 +57020,46 @@
             <imgdir name="1702769">
                 <string name="name" value="Maple Galaxy Laser Gun"/>
                 <string name="desc" value="A commemorative Maple 13th Anniversary weapon skin that can be equipped over#c any weapon.#"/>
+            </imgdir>
+            <imgdir name="1703108">
+                <string name="name" value="Cute Rabbit Doll Weapon"/>
+                <string name="desc" value="A Cute Rabbit Doll Weapon. Designed by China MapleStory player Criceto. Can be equipped over #cany weapon.#"/>
+            </imgdir>
+            <imgdir name="1703109">
+                <string name="name" value="Cute Kitty Doll Weapon"/>
+                <string name="desc" value="A Cute Kitty Doll Weapon. Designed by China MapleStory player Criceto. Can be equipped over #cany weapon.#"/>
+            </imgdir>
+            <imgdir name="1703110">
+                <string name="name" value="Cute Fox Doll Weapon"/>
+                <string name="desc" value="A Cute Fox Doll Weapon. Designed by China MapleStory player Criceto. Can be equipped over #cany weapon.#"/>
+            </imgdir>
+            <imgdir name="1703122">
+                <string name="name" value="Clown Certification"/>
+                <string name="desc" value="This weapon skin can be equipped over#c any weapon.#"/>
+            </imgdir>
+            <imgdir name="1703123">
+                <string name="name" value="Omnipotent Power"/>
+                <string name="desc" value="This weapon skin can be equipped over#c any weapon.#"/>
+            </imgdir>
+            <imgdir name="1703126">
+                <string name="name" value="Spirit Collector Lantern"/>
+                <string name="desc" value="A Spirit Collector Lantern weapon skin designed by Global MapleStory player TsuusT. Can be equipped over #cany weapon.#"/>
+            </imgdir>
+            <imgdir name="1703033">
+                <string name="name" value="Mad Mage Staff"/>
+                <string name="desc" value="This weapon skin can be equipped over #cany weapon.#"/>
+            </imgdir>
+            <imgdir name="1703037">
+                <string name="name" value="Mace of Mystery"/>
+                <string name="desc" value="This weapon skin can be equipped over #cany weapon.#"/>
+            </imgdir>
+            <imgdir name="1703047">
+                <string name="name" value="Spooky Wrath"/>
+                <string name="desc" value="This weapon skin can be equipped over #cany weapon.#"/>
+            </imgdir>
+            <imgdir name="1703048">
+                <string name="name" value="Nightmare&apos;s Bloom"/>
+                <string name="desc" value="This weapon skin can be equipped over #cany weapon.#"/>
             </imgdir>
         </imgdir>
         <imgdir name="PetEquip">
