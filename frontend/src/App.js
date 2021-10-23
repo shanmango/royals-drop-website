@@ -3,7 +3,6 @@ import { useDispatch } from 'react-redux'
 import './styles/App.scss'
 import { HashRouter as Router } from "react-router-dom"
 
-
 import AppContainer from './components/AppContainer'
 
 import { initializeMobs } from './reducers/mobReducer'
