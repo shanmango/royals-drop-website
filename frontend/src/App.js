@@ -8,7 +8,15 @@ import AppContainer from './components/AppContainer'
 import { initializeMobs } from './reducers/mobReducer'
 import { initializeItems } from './reducers/itemReducer'
 
+import ReactGA from 'react-ga'
+
 function App() {
+
+  useEffect(() => {
+    ReactGA.initialize('UA-210899650-1')
+    ReactGA.pageview(window.location.pathname + window.location.search)  
+  }, [])
+  
   const dispatch = useDispatch()
 
   useEffect(() => {
