@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.ee1ac88d.chunk.css",
-    "main.js": "/static/js/main.5230cf5f.chunk.js",
-    "main.js.map": "/static/js/main.5230cf5f.chunk.js.map",
+    "main.js": "/static/js/main.d7e9fc16.chunk.js",
+    "main.js.map": "/static/js/main.d7e9fc16.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.83a6cd32.js",
     "runtime-main.js.map": "/static/js/runtime-main.83a6cd32.js.map",
     "static/css/2.818011ed.chunk.css": "/static/css/2.818011ed.chunk.css",
-    "static/js/2.d9019d16.chunk.js": "/static/js/2.d9019d16.chunk.js",
-    "static/js/2.d9019d16.chunk.js.map": "/static/js/2.d9019d16.chunk.js.map",
+    "static/js/2.bcc6465e.chunk.js": "/static/js/2.bcc6465e.chunk.js",
+    "static/js/2.bcc6465e.chunk.js.map": "/static/js/2.bcc6465e.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.818011ed.chunk.css.map": "/static/css/2.818011ed.chunk.css.map",
     "static/css/main.ee1ac88d.chunk.css.map": "/static/css/main.ee1ac88d.chunk.css.map",
-    "static/js/2.d9019d16.chunk.js.LICENSE.txt": "/static/js/2.d9019d16.chunk.js.LICENSE.txt",
+    "static/js/2.bcc6465e.chunk.js.LICENSE.txt": "/static/js/2.bcc6465e.chunk.js.LICENSE.txt",
     "static/media/index.scss": "/static/media/bg.a72d05c4.jpeg",
     "static/media/Header.scss": "/static/media/maplestorybanner.055139ef.jpg",
     "static/media/mr.8c9042d9.png": "/static/media/mr.8c9042d9.png"
@@ -19,8 +19,8 @@
   "entrypoints": [
     "static/js/runtime-main.83a6cd32.js",
     "static/css/2.818011ed.chunk.css",
-    "static/js/2.d9019d16.chunk.js",
+    "static/js/2.bcc6465e.chunk.js",
     "static/css/main.ee1ac88d.chunk.css",
-    "static/js/main.5230cf5f.chunk.js"
+    "static/js/main.d7e9fc16.chunk.js"
   ]
 }
