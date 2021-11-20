@@ -2573,4 +2573,24 @@
         <string name="name" value="차원의균열 퀘스트용"/>
         <string name="desc" value="표지판"/>
     </imgdir>
+    <imgdir name="5240161">
+        <string name="name" value="Nutritious Leaf"/>
+        <string name="desc" value="This nutritious leaf is a favorite snack of #cAlpacas#. Recovers Fullness completely and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240166">
+        <string name="name" value="Polar Cub Pet Food"/>
+        <string name="desc" value="Meat for the #cPolar Cub#. Recovers Fullness completely and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240168">
+        <string name="name" value="Boston Bone Cookie"/>
+        <string name="desc" value="Baked specially for #cBoston#, this bone cookie entirely recovers Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240170">
+        <string name="name" value="Yorkshire Star Cookie"/>
+        <string name="desc" value="Baked specially for #cYorkshire#, this star cookie entirely recovers Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240171">
+        <string name="name" value="Westie Heart Cookie"/>
+        <string name="desc" value="Baked specially for #cWestie#, this heart cookie entirely recovers Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
 </imgdir>

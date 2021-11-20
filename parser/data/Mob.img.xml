@@ -5289,4 +5289,22 @@
     <imgdir name="9700059">
         <string name="name" value="Clown Lupin"/>
     </imgdir>
+    <imgdir name="9700060">
+        <string name="name" value="Xmas Event Slime"/>
+    </imgdir>
+    <imgdir name="9700061">
+        <string name="name" value="Xmas Event Pig"/>
+    </imgdir>
+    <imgdir name="9700062">
+        <string name="name" value="Xmas Event Wraith"/>
+    </imgdir>
+    <imgdir name="9700063">
+        <string name="name" value="Xmas Event Flyeye"/>
+    </imgdir>
+    <imgdir name="9700064">
+        <string name="name" value="Bomb box"/>
+    </imgdir>
+    <imgdir name="9700065">
+        <string name="name" value="bomb2"/>
+    </imgdir>
 </imgdir>

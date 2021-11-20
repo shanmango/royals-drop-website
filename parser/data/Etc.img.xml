@@ -8675,11 +8675,11 @@
         </imgdir>
         <imgdir name="4031885">
             <string name="name" value="Mapler Recommendation"/>
-            <string name="desc" value="Recommendation written by Happyville people."/>
+            <string name="desc" value="Recommendation written by Happyville people. #cItem cannot be dropped.#"/>
         </imgdir>
         <imgdir name="4031886">
             <string name="name" value="Completed Socks"/>
-            <string name="desc" value="Happyville Trend Socks made with skill from Mrs. Santa Claus"/>
+            <string name="desc" value="Happyville Trend Socks made with skill from Mrs. Santa Claus. #cItem cannot be dropped.#"/>
         </imgdir>
         <imgdir name="4220022">
             <string name="name" value="Socks Frame"/>
@@ -10928,6 +10928,54 @@
         <imgdir name="4032859">
             <string name="name" value="Murt&apos;s Letter"/>
             <string name="desc" value="A letter that Murt wrote to his far away family. How does a ghost write a letter...?"/>
+        </imgdir>
+        <imgdir name="4039051">
+            <string name="name" value="Santa&apos;s Sack of Presents"/>
+            <string name="desc" value="A sack full of presents for all citizens of the Maple World. It should contain presents for everyone I have to visit!"/>
+        </imgdir>
+        <imgdir name="4009824">
+            <string name="desc" value="It&apos;s the horn taken from a Birk. It&apos;s very heavy."/>
+            <string name="name" value="Birk Horn"/>
+        </imgdir>
+        <imgdir name="4009825">
+            <string name="desc" value="The hoof from Black Kentaurus."/>
+            <string name="name" value="Black Kentaurus Hoof"/>
+        </imgdir>
+        <imgdir name="4009826">
+            <string name="desc" value="A broken off horn from the giant dragon, Brexton."/>
+            <string name="name" value="Brexton Horn"/>
+        </imgdir>
+        <imgdir name="4009827">
+            <string name="desc" value="A thick slab of scaly skin, cut from a Dragon Turtle."/>
+            <string name="name" value="Dragon Turtle Scales"/>
+        </imgdir>
+        <imgdir name="4009828">
+            <string name="desc" value="A gnarled tooth extracted from the mouth of Hobi."/>
+            <string name="name" value="Hobi Tooth"/>
+        </imgdir>
+        <imgdir name="4009829">
+            <string name="desc" value="One of the wooden horns growing on Rash."/>
+            <string name="name" value="Rash Twig"/>
+        </imgdir>
+        <imgdir name="4160194">
+            <string name="name" value="Pet Command Guide: Polar Cub"/>
+            <string name="desc" value="A guide that contains all the commands for your Polar Cub pet.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160188">
+            <string name="name" value="Pet Command Guide: Alpaca"/>
+            <string name="desc" value="A guide that contains all the commands for your Alpaca.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160511">
+            <string name="desc" value="A guide that contains all the commands for Boston.\n#cDouble-click on the item to open the guide.#"/>
+            <string name="name" value="Pet Command Guide: Boston"/>
+        </imgdir>
+        <imgdir name="4160512">
+            <string name="desc" value="A guide that contains all the commands for Yorkshire.\n#cDouble-click on the item to open the guide.#"/>
+            <string name="name" value="Pet Command Guide: Yorkshire"/>
+        </imgdir>
+        <imgdir name="4160513">
+            <string name="desc" value="A guide that contains all the commands for Westie.\n#cDouble-click on the item to open the guide.#"/>
+            <string name="name" value="Pet Command Guide: Westie"/>
         </imgdir>
     </imgdir>
 </imgdir>
