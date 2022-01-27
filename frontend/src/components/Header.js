@@ -14,7 +14,7 @@ const Header = () => {
         <img id="royals" src={logo} alt="MapleRoyals"/>
         <h1>Drop Tracker</h1>
       </div>
-      <h6> Game Version: 75 </h6>
+      <h6> Game Version: 76.1 </h6>
     </div>
   )
 }

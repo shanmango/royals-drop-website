@@ -2593,4 +2593,12 @@
         <string name="name" value="Westie Heart Cookie"/>
         <string name="desc" value="Baked specially for #cWestie#, this heart cookie entirely recovers Fullness and #cincreases Closeness by 100#."/>
     </imgdir>
+    <imgdir name="5010063">
+        <string name="name" value="Wanna Get Married Effect"/>
+        <string name="desc" value="A wanna get married effect. #cDouble-click# to toggle the effect, or set up a hotkey for it in your Key Config."/>
+    </imgdir>
+    <imgdir name="5240308">
+        <string name="name" value="Tubby Tiger&apos;s Drink"/>
+        <string name="desc" value="A refreshing bowl of water for #cTubby Tiger#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
 </imgdir>

@@ -3258,6 +3258,18 @@
                 <string name="name" value="Christmas Miracle 2021"/>
                 <string name="desc" value="A medal obtained from participating in the 2021 Christmas event."/>
             </imgdir>
+            <imgdir name="1012562">
+                <string name="name" value="Heartbeam Face"/>
+            </imgdir>
+            <imgdir name="1012682">
+                <string name="name" value="Googly Face Accessory"/>
+            </imgdir>
+            <imgdir name="1012660">
+                <string name="name" value="Naturally Luminous"/>
+            </imgdir>
+            <imgdir name="1012566">
+                <string name="name" value="Pretty Pretty Smile"/>
+            </imgdir>
         </imgdir>
         <imgdir name="Cap">
             <imgdir name="1003022">
@@ -7948,7 +7960,7 @@
                 <string name="desc" value="Designed by the China MapleStory player Weiying."/>
             </imgdir>
             <imgdir name="1005119">
-                <string name="name" value="Girlfriend Hat (M)"/>
+                <string name="name" value="Boyfriend Hat"/>
                 <string name="desc" value="Designed by MapleStory China player weiying. "/>
             </imgdir>
             <imgdir name="1005122">
@@ -8477,6 +8489,26 @@
             </imgdir>
             <imgdir name="1005501">
                 <string name="name" value="Winter Plush Hat"/>
+            </imgdir>
+            <imgdir name="1005413">
+                <string name="name" value="Purrfect White Tiger Pajama Hood"/>
+            </imgdir>
+            <imgdir name="1004485">
+                <string name="name" value="Couples Army Helm"/>
+            </imgdir>
+            <imgdir name="1005120">
+                <string name="name" value="Girlfriend Hat"/>
+                <string name="desc" value="Designed by MapleStory China player weiying. "/>
+            </imgdir>
+            <imgdir name="1005673">
+                <string name="name" value="My Beating Heart Hat"/>
+                <string name="desc" value="Designed by the China MapleStory player Tony."/>
+            </imgdir>
+            <imgdir name="1005747">
+                <string name="name" value="Yam-Yum Hairband"/>
+            </imgdir>
+            <imgdir name="1005748">
+                <string name="name" value="Yam-Yum Ribbon"/>
             </imgdir>
         </imgdir>
         <imgdir name="Cape">
@@ -9841,6 +9873,34 @@
             </imgdir>
             <imgdir name="1103161">
                 <string name="name" value="Plaid Pashmina (Purple)"/>
+            </imgdir>
+            <imgdir name="1103393">
+                <string name="name" value="Faithful Tiger&apos;s Blessing"/>
+            </imgdir>
+            <imgdir name="1102821">
+                <string name="name" value="Couples Army Cape"/>
+            </imgdir>
+            <imgdir name="1102923">
+                <string name="name" value="Singles Army Combat Cape"/>
+            </imgdir>
+            <imgdir name="1103084">
+                <string name="name" value="Boyfriend Cape"/>
+                <string name="desc" value="Designed by MapleStory China player weiying. "/>
+            </imgdir>
+            <imgdir name="1103085">
+                <string name="name" value="Girlfriend Cape"/>
+                <string name="desc" value="Designed by MapleStory China player weiying. "/>
+            </imgdir>
+            <imgdir name="1103312">
+                <string name="name" value="My Beating Heart Cape"/>
+                <string name="desc" value="Designed by the China MapleStory player Tony."/>
+            </imgdir>
+            <imgdir name="1103087">
+                <string name="name" value="Chocoverse"/>
+            </imgdir>
+            <imgdir name="1102236">
+                <string name="name" value="Cupid&apos;s Wings Cape"/>
+                <string name="desc" value="Cupid Wings to help guide the wearer to finding love in the Maple World."/>
             </imgdir>
         </imgdir>
         <imgdir name="Coat">
@@ -11647,6 +11707,9 @@
             </imgdir>
             <imgdir name="1042344">
                 <string name="name" value="Gold Fur-Lined Jacket"/>
+            </imgdir>
+            <imgdir name="1042382">
+                <string name="name" value="Chunky Cable-Knit Top"/>
             </imgdir>
         </imgdir>
         <imgdir name="Face">
@@ -49633,6 +49696,71 @@
             <imgdir name="1053296">
                 <string name="name" value="Pink Bear Winter Padded Coat"/>
             </imgdir>
+            <imgdir name="1053794">
+                <string name="name" value="Heroic Hogul Suit"/>
+            </imgdir>
+            <imgdir name="1053795">
+                <string name="name" value="Heroic Hogul Dress"/>
+            </imgdir>
+            <imgdir name="1050506">
+                <string name="name" value="Romantic Warrior"/>
+            </imgdir>
+            <imgdir name="1051576">
+                <string name="name" value="Romantic Warrior"/>
+            </imgdir>
+            <imgdir name="1053472">
+                <string name="name" value="First Love T-Shirt"/>
+                <string name="desc" value="A First Love T-Shirt designed by MapleStory China player WanQiuXiaoZhen."/>
+            </imgdir>
+            <imgdir name="1053038">
+                <string name="name" value="Singles Army Combat Armor"/>
+            </imgdir>
+            <imgdir name="1053039">
+                <string name="name" value="Couples Army Combat Armor"/>
+            </imgdir>
+            <imgdir name="1053290">
+                <string name="name" value="Boyfriend Pants"/>
+                <string name="desc" value="Designed by MapleStory China player weiying. "/>
+            </imgdir>
+            <imgdir name="1053291">
+                <string name="name" value="Girlfriend Dress"/>
+                <string name="desc" value="Designed by MapleStory China player weiying. "/>
+            </imgdir>
+            <imgdir name="1053654">
+                <string name="name" value="My Beating Heart Outfit"/>
+                <string name="desc" value="Designed by the China MapleStory player Tony."/>
+            </imgdir>
+            <imgdir name="1050581">
+                <string name="name" value="Yam-Yam Time"/>
+            </imgdir>
+            <imgdir name="1050537">
+                <string name="name" value="Soft Lavender Hoodie"/>
+            </imgdir>
+            <imgdir name="1051607">
+                <string name="name" value="Soft Pink Hoodie"/>
+            </imgdir>
+            <imgdir name="1053676">
+                <string name="name" value="Cozy Blue Heart Effect Outfit"/>
+                <string name="desc" value="Designed by the China MapleStory player pipi."/>
+            </imgdir>
+            <imgdir name="1053677">
+                <string name="name" value="Warm &amp; Cozy Blue Heart Effect Overall"/>
+                <string name="desc" value="Designed by China MapleStory player, pipi."/>
+            </imgdir>
+            <imgdir name="1053576">
+                <string name="name" value="Pen Pal Couple (Blue)"/>
+                <string name="desc" value="Equipping this item lets you float when standing still."/>
+            </imgdir>
+            <imgdir name="1053577">
+                <string name="name" value="Pen Pal Couple (Pink)"/>
+                <string name="desc" value="Equipping this item lets you float when standing still."/>
+            </imgdir>
+            <imgdir name="1053146">
+                <string name="name" value="Heart Fur Coat"/>
+            </imgdir>
+            <imgdir name="1051653">
+                <string name="name" value="Yum-Yum Time"/>
+            </imgdir>
         </imgdir>
         <imgdir name="Pants">
             <imgdir name="1060000">
@@ -52206,6 +52334,16 @@
                 <string name="name" value="Moonlight Bunny Chat Ring"/>
                 <string name="desc" value=" A piece of equipment designed by the MapleStory China player pipi."/>
             </imgdir>
+            <imgdir name="1115072">
+                <string name="name" value="&apos;80s Jelly Heart Chat Ring"/>
+            </imgdir>
+            <imgdir name="1115086">
+                <string name="name" value="First Love Chat Ring"/>
+                <string name="desc" value="A First Love Chat Ring designed by MapleStory China player WanQiuXiaoZhen."/>
+            </imgdir>
+            <imgdir name="1115161">
+                <string name="name" value="&apos;80s Jelly Heart Label Ring"/>
+            </imgdir>
         </imgdir>
         <imgdir name="Shield">
             <imgdir name="1092062">
@@ -54411,6 +54549,13 @@
             <imgdir name="1073422">
                 <string name="name" value="Warm Fur-lined Boots"/>
             </imgdir>
+            <imgdir name="1073497">
+                <string name="name" value="My Beating Heart Shoes"/>
+                <string name="desc" value="Designed by the China MapleStory player Tony."/>
+            </imgdir>
+            <imgdir name="1073526">
+                <string name="name" value="Yam-Yum Sneakers"/>
+            </imgdir>
         </imgdir>
         <imgdir name="Taming">
             <imgdir name="1902010">
@@ -54889,6 +55034,42 @@
             </imgdir>
             <imgdir name="1912100">
                 <string name="name" value="Tireless Santa Saddle"/>
+            </imgdir>
+            <imgdir name="1902085">
+                <string name="name" value="Cotton Candy Unicorn"/>
+            </imgdir>
+            <imgdir name="1902086">
+                <string name="name" value="Choco Chip Slime"/>
+            </imgdir>
+            <imgdir name="1902087">
+                <string name="name" value="Love Messenger"/>
+            </imgdir>
+            <imgdir name="1902088">
+                <string name="name" value="Dong Dong Chiang"/>
+            </imgdir>
+            <imgdir name="1902089">
+                <string name="name" value="Bath With Ducky"/>
+            </imgdir>
+            <imgdir name="1902090">
+                <string name="name" value="Mystic Tiger"/>
+            </imgdir>
+            <imgdir name="1912101">
+                <string name="name" value="Cotton Candy Unicorn Saddle"/>
+            </imgdir>
+            <imgdir name="1912102">
+                <string name="name" value="Choco Chip Slime Saddle"/>
+            </imgdir>
+            <imgdir name="1912103">
+                <string name="name" value="Love Messenger Saddle"/>
+            </imgdir>
+            <imgdir name="1912104">
+                <string name="name" value="Dong Dong Chiang Saddle"/>
+            </imgdir>
+            <imgdir name="1912105">
+                <string name="name" value="Bath With Ducky Saddle"/>
+            </imgdir>
+            <imgdir name="1912106">
+                <string name="name" value="Mystic Tiger Saddle"/>
             </imgdir>
         </imgdir>
         <imgdir name="Weapon">
@@ -58939,6 +59120,30 @@
                 <string name="name" value="Squid"/>
                 <string name="desc" value="Can be equipped over #cany weapon.#"/>
             </imgdir>
+            <imgdir name="1702988">
+                <string name="name" value="True Love Chocolate"/>
+                <string name="desc" value="A weapon skin that can be equipped over#c any weapon.#"/>
+            </imgdir>
+            <imgdir name="1702946">
+                <string name="name" value="Dauntless White Tiger"/>
+                <string name="desc" value="I&apos;m a White Tiger. I get scary when I&apos;m mad!\nCan be equipped over#c any weapon.#"/>
+            </imgdir>
+            <imgdir name="1703057">
+                <string name="name" value="Dazzling Weapon"/>
+                <string name="desc" value="A weapon skin that can be equipped over#c any weapon.# Designed by the China MapleStory player qq."/>
+            </imgdir>
+            <imgdir name="1702567">
+                <string name="name" value="Rawrin&apos; Tiger Weapon"/>
+                <string name="desc" value="A Rawrin&apos; Tiger weapon skin that can be equipped over#c any weapon.# Designed by China MapleStory player Yimiao."/>
+            </imgdir>
+            <imgdir name="1703052">
+                <string name="name" value="Heartfelt Sentiments"/>
+                <string name="desc" value="This weapon skin can be equipped over #cany type of weapon.#"/>
+            </imgdir>
+            <imgdir name="1703078">
+                <string name="name" value="Yam-Yum Corn Dog"/>
+                <string name="desc" value="This weapon skin can be equipped over #cany type of weapon.#"/>
+            </imgdir>
         </imgdir>
         <imgdir name="PetEquip">
             <imgdir name="1802000">
@@ -59720,6 +59925,10 @@ Can be equipped by #cToto, Thumpy, Jr. Orchid, Jr. Sierra, Jr. Ryan, Stickman, a
             <imgdir name="1802602">
                 <string name="name" value="Alpaca&apos;s Stylish Fedora"/>
                 <string name="desc" value="It&apos;s a Stylish Fedora suitable for a #cWeird Alpaca#."/>
+            </imgdir>
+            <imgdir name="1802776">
+                <string name="name" value="Tubby Tiger&apos;s Scroll"/>
+                <string name="desc" value="A scroll that #cTubby Tiger# lived in."/>
             </imgdir>
         </imgdir>
     </imgdir>

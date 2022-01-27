@@ -10136,4 +10136,7 @@ Open it to see what&apos;s inside."/>
         <string name="name" value="Christmas Present"/>
         <string name="desc" value="Double-click to receive a gift from the Christmas Present box!"/>
     </imgdir>
+    <imgdir name="2109506">
+        <string name="name" value="Summon Bomb Box"/>
+    </imgdir>
 </imgdir>

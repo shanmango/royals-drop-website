@@ -9132,8 +9132,9 @@
             <string name="desc" value="A sheet of sketch paper that has a rainbow drawing.  \r\n#cYou can open it with your mouse by double-clicking.#"/>
         </imgdir>
         <imgdir name="4310000">
-            <string name="desc" value="A candle for birthday cakes. Used for the MapleRoyals 8th Anniversary Event."/>
-            <string name="name" value="8th Anniversary Candle"/>
+            <string name="desc" value="A nice, shiny coin said to bring good fortune! It is earned by participating in the event, and can be used to get various special items!
+#cExpires when the event is over.#"/>
+            <string name="name" value="Lucky Coin"/>
         </imgdir>
         <imgdir name="4001434">
             <string name="name" value="Gachapon Food Coupon"/>
@@ -10846,7 +10847,7 @@
             <string name="desc" value="A pearl containing mysterious energies. Perhaps these can be used to restore the Maple Leaf?"/>
         </imgdir>
         <imgdir name="4031602">
-            <string name="name" value="[DO NOT USE] 8th Anniversary Candle "/>
+            <string name="name" value="8th Anniversary Candle "/>
             <string name="desc" value="A candle for birthday cakes. Used for the MapleRoyals 8th Anniversary Event."/>
         </imgdir>
         <imgdir name="4039050">
@@ -10976,6 +10977,10 @@
         <imgdir name="4160513">
             <string name="desc" value="A guide that contains all the commands for Westie.\n#cDouble-click on the item to open the guide.#"/>
             <string name="name" value="Pet Command Guide: Westie"/>
+        </imgdir>
+        <imgdir name="4160514">
+            <string name="name" value="Pet Command Guide: Tubby Tiger"/>
+            <string name="desc" value="A guide that contains all the commands for Tubby Tiger.\n#cDouble-click on the item to open the guide.#"/>
         </imgdir>
     </imgdir>
 </imgdir>

@@ -3255,4 +3255,36 @@ Recovers 60 HP and MP every 10 seconds. "/>
         <string name="name" value="Mirror Chair"/>
         <string name="desc" value="#cRestores 100 HP and 100 MP every 10 seconds.#"/>
     </imgdir>
+    <imgdir name="3017046">
+        <string name="name" value="Chinese Zodiac Cube Chair: Tiger"/>
+        <string name="desc" value="A chair commemorating the Zodiac Tiger! #cRestores 50 HP and 50 MP every 10 seconds.#"/>
+    </imgdir>
+    <imgdir name="3017056">
+        <string name="name" value="Lunar New Year Xing Cube Chair"/>
+        <string name="desc" value="This chairs commemorates the Lunar New Year. You can complete the Lunar New Year Anniversary Message by collecting the other 3 chairs in the set. It restores HP +88 and MP +88 every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3017057">
+        <string name="name" value="Lunar New Year Nian Cube Chair"/>
+        <string name="desc" value="This chairs commemorates the Lunar New Year. You can complete the Lunar New Year Anniversary Message by collecting the other 3 chairs in the set. It restores HP +88 and MP +88 every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3017058">
+        <string name="name" value="Lunar New Year Kuai Cube Chair"/>
+        <string name="desc" value="This chairs commemorates the Lunar New Year. You can complete the Lunar New Year Anniversary Message by collecting the other 3 chairs in the set. It restores HP +88 and MP +88 every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3017059">
+        <string name="name" value="Lunar New Year Le Cube Chair"/>
+        <string name="desc" value="This chairs commemorates the Lunar New Year. You can complete the Lunar New Year Anniversary Message by collecting the other 3 chairs in the set. It restores HP +88 and MP +88 every 10 seconds."/>
+    </imgdir>
+    <imgdir name="3010609">
+        <string name="name" value="All the Single Ladies"/>
+        <string name="desc" value="Calling all the single ladies! #cRestores 50 HP and 50 MP every 10 seconds.#"/>
+    </imgdir>
+    <imgdir name="3015092">
+        <string name="name" value="Chocolate Factory Chair"/>
+        <string name="desc" value="Don&apos;t need a golden ticket to enjoy this chair! Recovers 50 HP and 50 MP every 10 seconds. "/>
+    </imgdir>
+    <imgdir name="3015713">
+        <string name="name" value="Choco Syringe Chair"/>
+        <string name="desc" value="True love cannot be expressed through chocolate, but only a confession of the heart! Save the world from the chocolate onslaught by devouring it!\r\nRecovers 200 HP and 200 MP every 10 seconds. "/>
+    </imgdir>
 </imgdir>

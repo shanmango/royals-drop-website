@@ -5307,4 +5307,19 @@
     <imgdir name="9700065">
         <string name="name" value="bomb2"/>
     </imgdir>
+    <imgdir name="9402170">
+        <string name="name" value="Dangerous Rocket"/>
+    </imgdir>
+    <imgdir name="9402171">
+        <string name="name" value="Dangerous Rocket"/>
+    </imgdir>
+    <imgdir name="9402172">
+        <string name="name" value="Dangerous Rocket"/>
+    </imgdir>
+    <imgdir name="9402173">
+        <string name="name" value="Dangerous Rocket"/>
+    </imgdir>
+    <imgdir name="9402174">
+        <string name="name" value="Dangerous Rocket"/>
+    </imgdir>
 </imgdir>
