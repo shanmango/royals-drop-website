@@ -1390,7 +1390,7 @@
     </imgdir>
     <imgdir name="5240004">
         <string name="name" value="Porgy"/>
-        <string name="desc" value="A fresh fish caught off Lith Harbor. Only edible for the pet #cBlack Kitty, Brown Kitty, Black Pig and Penguin#.\nRecovers entire Fullness.\n#cIncrease Closeness by 100#."/>
+        <string name="desc" value="A fresh fish caught off Lith Harbor. Only edible for the pet #cBlack Kitty, Brown Kitty, Black Pig, Penguin, Pudgycat and Dalsoo#.\nRecovers entire Fullness.\n#cIncrease Closeness by 100#."/>
     </imgdir>
     <imgdir name="5240005">
         <string name="name" value="Clover"/>
@@ -1944,7 +1944,7 @@
         <string name="desc" value="Take this Premium Master Key to open the Premium Silver Box and earn a rare item!"/>
     </imgdir>
     <imgdir name="5156000">
-        <string name="name" value="Royal Coupon"/>
+        <string name="name" value="Royal Salon Coupon"/>
         <string name="desc" value="Take this coupon to the #cBig Headward# in Free Market Entrance or Amherst, and you&apos;ll be able to change your #chair# or #cface#."/>
     </imgdir>
     <imgdir name="5010070">
@@ -2442,7 +2442,7 @@
     </imgdir>
     <imgdir name="5240200">
         <string name="name" value="Fish Treat"/>
-        <string name="desc" value="A fish treat that&apos;s a favorite of the #cTabby Boxcat, White Boxcat and Black Boxcat# pets, especially if they don&apos;t have to leave their boxes to get one.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+        <string name="desc" value="A fish treat that&apos;s a favorite of the #cPudgycat, Tabby Boxcat, White Boxcat and Black Boxcat# pets.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
     </imgdir>
     <imgdir name="5240206">
         <string name="name" value="School of Sardines"/>
@@ -2600,5 +2600,41 @@
     <imgdir name="5240308">
         <string name="name" value="Tubby Tiger&apos;s Drink"/>
         <string name="desc" value="A refreshing bowl of water for #cTubby Tiger#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240164">
+        <string name="name" value="Healthy Worm"/>
+        <string name="desc" value="This healthy worm is a favorite snack of #cFish Men#. Recovers Fullness completely and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240158">
+        <string name="name" value="Shrimp&apos;s Sauce"/>
+        <string name="desc" value="Tasty Soy Sauce just for #cFried Shrimp#. Completely recovers Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240144">
+        <string name="name" value="Lingling&apos;s Baby Tiger Milk"/>
+        <string name="desc" value="Sweet milk perfect for little #cLingling#. Recovers Fullness completely and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240309">
+        <string name="name" value="Grasshopper"/>
+        <string name="desc" value="A fresh grasshopper for #cMeerkat Mob#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5240310">
+        <string name="name" value="Banana Milk"/>
+        <string name="desc" value="A tasty juicebox of banana milk for #cMouse Monkey#.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+    </imgdir>
+    <imgdir name="5156001">
+        <string name="name" value="Royal Salon Expansion Coupon"/>
+        <string name="desc" value="A coupon used at #cBig Headward# in the Free Market Entrance or Amherst to #cincrease the amount of saved hair or face slots by 1#. You can change to any saved hair or face style free of charge. #cYou cannot have more than 5 save slots for hair and 5 save slots for faces.#."/>
+    </imgdir>
+    <imgdir name="5240311">
+        <string name="desc" value="A tank of helium to fill up the #cBalloon Dog# pet.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+        <string name="name" value="Helium Tank"/>
+    </imgdir>
+    <imgdir name="5030050">
+        <string name="desc" value="Set up this special store on the Free Market, and this Horse working as the Hired Merchant, will sell the items for the owner, even if the owner does not log on to the game."/>
+        <string name="name" value="Anniversary Mushroom Store"/>
+    </imgdir>
+    <imgdir name="5240312">
+        <string name="desc" value="A raw fish which the #cDalsoo# pet enjoys.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+        <string name="name" value="Raw Fish"/>
     </imgdir>
 </imgdir>

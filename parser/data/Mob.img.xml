@@ -4563,87 +4563,6 @@
     <imgdir name="2230112">
         <string name="name" value="Terrified Wild Boar"/>
     </imgdir>
-    <imgdir name="3400000">
-        <string name="name" value="Cherry Bubble Tea"/>
-    </imgdir>
-    <imgdir name="3400001">
-        <string name="name" value="Mango Bubble Tea"/>
-    </imgdir>
-    <imgdir name="3400002">
-        <string name="name" value="Melon Bubble Tea"/>
-    </imgdir>
-    <imgdir name="3400003">
-        <string name="name" value="Yeti Doll Claw Game"/>
-    </imgdir>
-    <imgdir name="3400004">
-        <string name="name" value="Yeti Doll  "/>
-    </imgdir>
-    <imgdir name="3400005">
-        <string name="name" value="Jr. Pepe Doll Claw Game"/>
-    </imgdir>
-    <imgdir name="3400006">
-        <string name="name" value="Jr. Pepe Doll  "/>
-    </imgdir>
-    <imgdir name="3400007">
-        <string name="name" value="Transformed Doll Claw Game"/>
-    </imgdir>
-    <imgdir name="3400008">
-        <string name="name" value="Transformed Doll Claw Game"/>
-    </imgdir>
-    <imgdir name="4300000">
-        <string name="name" value="Blue Perfume"/>
-    </imgdir>
-    <imgdir name="4300001">
-        <string name="name" value="Blue Perfume"/>
-    </imgdir>
-    <imgdir name="4300002">
-        <string name="name" value="Yellow Perfume"/>
-    </imgdir>
-    <imgdir name="4300003">
-        <string name="name" value="Yellow Perfume"/>
-    </imgdir>
-    <imgdir name="4300004">
-        <string name="name" value="Pink Perfume"/>
-    </imgdir>
-    <imgdir name="4300005">
-        <string name="name" value="Pink Perfume"/>
-    </imgdir>
-    <imgdir name="4300006">
-        <string name="name" value="Kid Mannequin"/>
-    </imgdir>
-    <imgdir name="4300007">
-        <string name="name" value="Female Mannequin"/>
-    </imgdir>
-    <imgdir name="4300008">
-        <string name="name" value="Male Mannequin"/>
-    </imgdir>
-    <imgdir name="4300009">
-        <string name="name" value="Latest Hits Compilation"/>
-    </imgdir>
-    <imgdir name="4300010">
-        <string name="name" value="Greatest Oldies"/>
-    </imgdir>
-    <imgdir name="4300011">
-        <string name="name" value="Cheap Amplifier"/>
-    </imgdir>
-    <imgdir name="4300012">
-        <string name="name" value="Fancy Amplifier "/>
-    </imgdir>
-    <imgdir name="4300013">
-        <string name="name" value="Spirit of Rock"/>
-    </imgdir>
-    <imgdir name="4300014">
-        <string name="name" value="Greatest Oldies"/>
-    </imgdir>
-    <imgdir name="4300015">
-        <string name="name" value="Cheap Amplifier"/>
-    </imgdir>
-    <imgdir name="4300016">
-        <string name="name" value="Fancy Amplifier "/>
-    </imgdir>
-    <imgdir name="4300017">
-        <string name="name" value="Spirit of Rock&apos;s Soul"/>
-    </imgdir>
     <imgdir name="7120103">
         <string name="name" value="Red Slime"/>
     </imgdir>
@@ -5321,5 +5240,14 @@
     </imgdir>
     <imgdir name="9402174">
         <string name="name" value="Dangerous Rocket"/>
+    </imgdir>
+    <imgdir name="9010146">
+        <string name="name" value="Bronze Maple Coin"/>
+    </imgdir>
+    <imgdir name="9010147">
+        <string name="name" value="Silver Maple Coin"/>
+    </imgdir>
+    <imgdir name="9010148">
+        <string name="name" value="Gold Maple Coin"/>
     </imgdir>
 </imgdir>

@@ -9555,7 +9555,7 @@ When consumed, it permanently increases MaxHP by 200."/>
     </imgdir>
     <imgdir name="2388022">
         <string name="name" value="Papulatus Card"/>
-        <string name="desc" value="A card that features Papulatus.\n#cIf hunting at the lower levels of the Clocktower\nItem/Meso drop rate is increased#"/>
+        <string name="desc" value="A card that features Papulatus.\n#cIf hunting at the Clocktower\nItem/Meso drop rate is increased#"/>
     </imgdir>
     <imgdir name="2388023">
         <string name="name" value="Zakum Card"/>
@@ -9659,7 +9659,7 @@ When consumed, it permanently increases MaxHP by 200."/>
     </imgdir>
     <imgdir name="2388060">
         <string name="name" value="Krexel Card"/>
-        <string name="desc" value="A card with a drawing of Krexel."/>
+        <string name="desc" value="A card with a drawing of Krexel.\n#cIf hunting around the Ulu City area\nItem/Meso drop rate is increased#"/>
     </imgdir>
     <imgdir name="2388063">
         <string name="name" value="Furious Targa Card"/>
@@ -10051,7 +10051,7 @@ Open it to see what&apos;s inside."/>
         <string name="name" value="Summon Candles"/>
     </imgdir>
     <imgdir name="2439007">
-        <string name="name" value="8th Anniversary Box"/>
+        <string name="name" value="Maple Tree PQ Gift Box"/>
         <string name="desc" value="A crate containing unknown treasures. Double-click to open!"/>
     </imgdir>
     <imgdir name="2030021">
@@ -10138,5 +10138,9 @@ Open it to see what&apos;s inside."/>
     </imgdir>
     <imgdir name="2109506">
         <string name="name" value="Summon Bomb Box"/>
+    </imgdir>
+    <imgdir name="2431694">
+        <string name="name" value="9th Anniversary Mystery Box"/>
+        <string name="desc" value="A special mystery gift box made just for 9th anniversary. #cDouble-Click# to open."/>
     </imgdir>
 </imgdir>

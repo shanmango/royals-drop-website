@@ -3287,4 +3287,8 @@ Recovers 60 HP and MP every 10 seconds. "/>
         <string name="name" value="Choco Syringe Chair"/>
         <string name="desc" value="True love cannot be expressed through chocolate, but only a confession of the heart! Save the world from the chocolate onslaught by devouring it!\r\nRecovers 200 HP and 200 MP every 10 seconds. "/>
     </imgdir>
+    <imgdir name="3018428">
+        <string name="name" value="Giant Teddy Bear Chair"/>
+        <string name="desc" value="Sink into the soft and comfy security of this Giant Teddy Bear chair. Everyone deserves a break sometimes.\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+    </imgdir>
 </imgdir>

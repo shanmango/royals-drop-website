@@ -9132,9 +9132,9 @@
             <string name="desc" value="A sheet of sketch paper that has a rainbow drawing.  \r\n#cYou can open it with your mouse by double-clicking.#"/>
         </imgdir>
         <imgdir name="4310000">
-            <string name="desc" value="A nice, shiny coin said to bring good fortune! It is earned by participating in the event, and can be used to get various special items!
+            <string name="desc" value="Coin released in celebration of MapleRoyals&apos; 9th Anniversary. Only used during 9th Anniversary, this can be used to purchase special items from Inkie.
 #cExpires when the event is over.#"/>
-            <string name="name" value="Lucky Coin"/>
+            <string name="name" value="9th Anniversary Coin"/>
         </imgdir>
         <imgdir name="4001434">
             <string name="name" value="Gachapon Food Coupon"/>
@@ -9961,8 +9961,8 @@
             <string name="desc" value="A Pumpkin shaped box.\n#cGive it to Witchy Woman for a reward#."/>
         </imgdir>
         <imgdir name="4031532">
-            <string name="name" value="NX Cash Card - 5000 Points"/>
-            <string name="desc" value="An NX cash card worth 5000 points. Redeemable in the Cash Shop."/>
+            <string name="name" value="NX Cash Card - 1000 Points"/>
+            <string name="desc" value="An NX cash card worth 1000 points. Redeemable in the Cash Shop."/>
         </imgdir>
         <imgdir name="4031598">
             <string name="name" value="4th Anniversary Candle"/>
@@ -10475,11 +10475,11 @@
             <string name="desc" value="A guide that contains all the commands for the Yodeling Hen pet. \n#cDouble-click on the item to open the guide.#"/>
         </imgdir>
         <imgdir name="4160170">
-            <string name="name" value="Pet Guide: Lil Tutu"/>
+            <string name="name" value="Pet Command Guide: Lil Tutu"/>
             <string name="desc" value="A guide that contains all the commands for Lil Tutu.\n#cDouble-click on the item to open the guide.#"/>
         </imgdir>
         <imgdir name="4160168">
-            <string name="name" value="Pet Guide: Lil Nenne"/>
+            <string name="name" value="Pet Command Guide: Lil Nenne"/>
             <string name="desc" value="A guide that contains all the commands for Lil Nenne.\n#cDouble-click on the item to open the guide.#"/>
         </imgdir>
         <imgdir name="4160161">
@@ -10855,8 +10855,8 @@
             <string name="desc" value="With this ticket, I can access Maple Hill whenever I want!"/>
         </imgdir>
         <imgdir name="4031533">
-            <string name="desc" value="An NX cash card worth 1000 points. Redeemable in the Cash Shop."/>
-            <string name="name" value="NX Cash Card - 1000 Points"/>
+            <string name="desc" value="An NX cash card worth 5000 points. Redeemable in the Cash Shop."/>
+            <string name="name" value="NX Cash Card - 5000 Points"/>
         </imgdir>
         <imgdir name="4000625">
             <string name="name" value="Crocky&apos;s Helmet"/>
@@ -10981,6 +10981,49 @@
         <imgdir name="4160514">
             <string name="name" value="Pet Command Guide: Tubby Tiger"/>
             <string name="desc" value="A guide that contains all the commands for Tubby Tiger.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160191">
+            <string name="name" value="Pet Command Guide: Fish Men"/>
+            <string name="desc" value="A guide that contains all the commands for your Fish Men pets\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160185">
+            <string name="name" value="Pet Command Guide: Fried Shrimp"/>
+            <string name="desc" value="A guide that contains all the commands for the Fried Shrimp pet. \n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160152">
+            <string name="name" value="Pet Command Guide: Meerkat Mob"/>
+            <string name="desc" value="A guide that has all the commands for the Meerkat Mob. \r\n#cDouble-click on the item to open the guide.# 
+"/>
+        </imgdir>
+        <imgdir name="4160159">
+            <string name="name" value="Pet Command Guide: Mouse Monkey"/>
+            <string name="desc" value="A guide for the Mouse Monkey. \n#cDouble-click the item to open the book."/>
+        </imgdir>
+        <imgdir name="4160169">
+            <string name="name" value="Pet Command Guide: Lil Lingling"/>
+            <string name="desc" value="A guide that contains all the commands for Lil Lingling.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4060000">
+            <string name="name" value="Token of Teamwork"/>
+        </imgdir>
+        <imgdir name="4060001">
+            <string name="name" value="Golden Easter Egg"/>
+        </imgdir>
+        <imgdir name="4039052">
+            <string name="name" value="Guild PQ Icon"/>
+            <string name="desc" value="Just an icon of the PQ."/>
+        </imgdir>
+        <imgdir name="4160515">
+            <string name="desc" value="A guide that contains all the commands for Dalsoo.\n#cDouble-click on the item to open the guide.#"/>
+            <string name="name" value="Pet Command Guide: Dalsoo"/>
+        </imgdir>
+        <imgdir name="4160516">
+            <string name="desc" value="A guide that contains all the commands for Balloon Dog.\n#cDouble-click on the item to open the guide.#"/>
+            <string name="name" value="Pet Command Guide: Balloon Dog"/>
+        </imgdir>
+        <imgdir name="4160517">
+            <string name="desc" value="A guide that contains all the commands for Pudgycat.\n#cDouble-click on the item to open the guide.#"/>
+            <string name="name" value="Pet Command Guide: Pudgycat"/>
         </imgdir>
     </imgdir>
 </imgdir>
