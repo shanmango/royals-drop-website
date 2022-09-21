@@ -983,7 +983,7 @@
     </imgdir>
     <imgdir name="3010020">
         <string name="name" value="Kotatsu"/>
-        <string name="desc" value="Relax and just take a soothing bath."/>
+        <string name="desc" value="Relax and just take a soothing nap."/>
     </imgdir>
     <imgdir name="3010021">
         <string name="name" value="Wooden Tub"/>
@@ -1046,8 +1046,8 @@
         <string name="desc" value="A maple tree with a hanging swing. You can recover 50 HP  every 10 seconds."/>
     </imgdir>
     <imgdir name="3010037">
-        <string name="name" value="Wog"/>
-        <string name="desc" value="Wog Woggg...."/>
+        <string name="name" value="Kayaributa Chair"/>
+        <string name="desc" value="A pig shaped ceramic incense burner! Recovers 20 HP and MP every 10 seconds."/>
     </imgdir>
     <imgdir name="3010038">
         <string name="name" value="Clear Chair"/>
@@ -3290,5 +3290,9 @@ Recovers 60 HP and MP every 10 seconds. "/>
     <imgdir name="3018428">
         <string name="name" value="Giant Teddy Bear Chair"/>
         <string name="desc" value="Sink into the soft and comfy security of this Giant Teddy Bear chair. Everyone deserves a break sometimes.\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+    </imgdir>
+    <imgdir name="3019914">
+        <string name="desc" value="You&apos;ll be on the edge of your seat with this riveting chair! Restores 100 HP and 100 MP every 10 seconds."/>
+        <string name="name" value="Movie Night Chair"/>
     </imgdir>
 </imgdir>

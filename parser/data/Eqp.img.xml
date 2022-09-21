@@ -3313,6 +3313,15 @@
             <imgdir name="1142458">
                 <string name="name" value="Maple 9th Anniversary Medal"/>
             </imgdir>
+            <imgdir name="1012651">
+                <string name="name" value="Teared Up"/>
+            </imgdir>
+            <imgdir name="1022271">
+                <string name="name" value="Oversized Sunglasses"/>
+            </imgdir>
+            <imgdir name="1012718">
+                <string name="name" value="Monochrome Movie Mustache"/>
+            </imgdir>
         </imgdir>
         <imgdir name="Cap">
             <imgdir name="1003022">
@@ -8719,6 +8728,160 @@
                 <string name="name" value="Covered Light"/>
                 <string name="desc" value="Hat of the Golden Hand Item, Garden Sage Outfit Set."/>
             </imgdir>
+            <imgdir name="1005678">
+                <string name="name" value="Dreamy-cute Big Ribbon (Blue)"/>
+            </imgdir>
+            <imgdir name="1005679">
+                <string name="name" value="Dreamy-cute Big Ribbon (Black)"/>
+            </imgdir>
+            <imgdir name="1005681">
+                <string name="name" value="Dreamy-cute Big Ribbon (Green)"/>
+            </imgdir>
+            <imgdir name="1005682">
+                <string name="name" value="Dreamy-cute Big Ribbon (Orange)"/>
+            </imgdir>
+            <imgdir name="1005683">
+                <string name="name" value="Dreamy-cute Big Ribbon (Pink)"/>
+            </imgdir>
+            <imgdir name="1005684">
+                <string name="name" value="Dreamy-cute Big Ribbon (Purple)"/>
+            </imgdir>
+            <imgdir name="1005685">
+                <string name="name" value="Dreamy-cute Headdress (Blue)"/>
+            </imgdir>
+            <imgdir name="1005686">
+                <string name="name" value="Dreamy-cute Headdress (Black Cow)"/>
+            </imgdir>
+            <imgdir name="1005688">
+                <string name="name" value="Dreamy-cute Headdress (Green)"/>
+            </imgdir>
+            <imgdir name="1005689">
+                <string name="name" value="Dreamy-cute Headdress (Orange)"/>
+            </imgdir>
+            <imgdir name="1005690">
+                <string name="name" value="Dreamy-cute Headdress (Pink)"/>
+            </imgdir>
+            <imgdir name="1005691">
+                <string name="name" value="Dreamy-cute Headdress (Purple)"/>
+            </imgdir>
+            <imgdir name="1005692">
+                <string name="name" value="Dreamy-cute Mini Ribbon (Black)"/>
+            </imgdir>
+            <imgdir name="1005693">
+                <string name="name" value="Dreamy-cute Mini Ribbon (Blue)"/>
+            </imgdir>
+            <imgdir name="1005694">
+                <string name="name" value="Dreamy-cute Mini Ribbon (Green)"/>
+            </imgdir>
+            <imgdir name="1005695">
+                <string name="name" value="Dreamy-cute Mini Ribbon (Orange)"/>
+            </imgdir>
+            <imgdir name="1005696">
+                <string name="name" value="Dreamy-cute Mini Ribbon (Pink)"/>
+            </imgdir>
+            <imgdir name="1005697">
+                <string name="name" value="Dreamy-cute Mini Ribbon (Purple)"/>
+            </imgdir>
+            <imgdir name="1005442">
+                <string name="name" value="An Ice Cream Lover Cone"/>
+                <string name="desc" value="An Ice Cream Lover Cone. Designed by the China MapleStory player Pipi."/>
+            </imgdir>
+            <imgdir name="1005443">
+                <string name="name" value="An Ice Cream Lover Ribbon"/>
+                <string name="desc" value="An Ice Cream Lover Ribbon. Designed by the China MapleStory player Pipi."/>
+            </imgdir>
+            <imgdir name="1005499">
+                <string name="name" value="Fog Admiral Hat"/>
+            </imgdir>
+            <imgdir name="1005838">
+                <string name="name" value="Blooming Ocean"/>
+            </imgdir>
+            <imgdir name="1005945">
+                <string name="name" value="Crimson Hush Cap"/>
+            </imgdir>
+            <imgdir name="1006009">
+                <string name="name" value="Black Sheep Bonnet"/>
+                <string name="desc" value="A Black Sheep Bonnet designed by the China MapleStory player criceto."/>
+            </imgdir>
+            <imgdir name="1006010">
+                <string name="name" value="White Sheep Bonnet"/>
+                <string name="desc" value="A White Sheep Bonnet designed by the China MapleStory player criceto."/>
+            </imgdir>
+            <imgdir name="1006022">
+                <string name="name" value="Baby Seal Snapback"/>
+                <string name="desc" value="Designed by the China MapleStory player Criceto."/>
+            </imgdir>
+            <imgdir name="1006023">
+                <string name="name" value="Daisy Vacation Panama Hat"/>
+                <string name="desc" value="Designed by the China MapleStory player xiashengsheng."/>
+            </imgdir>
+            <imgdir name="1006024">
+                <string name="name" value="Daisy Vacation Sunglasses"/>
+                <string name="desc" value="Designed by the China MapleStory player xiashengsheng."/>
+            </imgdir>
+            <imgdir name="1005578">
+                <string name="name" value="Brown Combat Military Academy Hat"/>
+            </imgdir>
+            <imgdir name="1005581">
+                <string name="name" value="Emerald Combat Military Academy Hat"/>
+            </imgdir>
+            <imgdir name="1006033">
+                <string name="name" value="Brown Sporty Baseball Cap"/>
+                <string name="desc" value="A Brown Sporty Baseball Cap designed by the China MapleStory player pipi."/>
+            </imgdir>
+            <imgdir name="1006034">
+                <string name="name" value="Beige Perky Ears Baseball Cap"/>
+                <string name="desc" value="A Beige Perky Ears Baseball Cap designed by the China MapleStory player pipi."/>
+            </imgdir>
+            <imgdir name="1005793">
+                <string name="name" value="Sweetest Dream Hat"/>
+                <string name="desc" value="A Sweetest Dream Hat designed by the China MapleStory player pipi."/>
+            </imgdir>
+            <imgdir name="1005794">
+                <string name="name" value="Sweetest Dream Ribbon Hairband"/>
+                <string name="desc" value="A Sweetest Dream Ribbon Hairband designed by the China MapleStory player pipi."/>
+            </imgdir>
+            <imgdir name="1005990">
+                <string name="name" value="Bear Ears Headband"/>
+                <string name="desc" value="A hat from the Bear Pajama set which won a Silver Hand Award for its design."/>
+            </imgdir>
+            <imgdir name="1005991">
+                <string name="name" value="Bear Ears"/>
+                <string name="desc" value="A hat from the Bear Pajama set which won a Silver Hand Award for its design."/>
+            </imgdir>
+            <imgdir name="1005494">
+                <string name="name" value="Showa Hair Towel"/>
+            </imgdir>
+            <imgdir name="1005973">
+                <string name="name" value="Goddess&apos;s Grace Hat"/>
+            </imgdir>
+            <imgdir name="1005987">
+                <string name="name" value="Starlight Ensemble Hat"/>
+            </imgdir>
+            <imgdir name="1005168">
+                <string name="name" value="Maple Gumshoe&apos;s Fedora"/>
+            </imgdir>
+            <imgdir name="1005534">
+                <string name="name" value="Monochrome Movie Hat"/>
+            </imgdir>
+            <imgdir name="1004123">
+                <string name="name" value="Contemporary Chic Hat"/>
+                <string name="desc" value="Part of an outfit favored by modern gals on the go.  This hat is a perfect partner for any day on the town."/>
+            </imgdir>
+            <imgdir name="1005899">
+                <string name="name" value="Sign of Encroachment"/>
+                <string name="desc" value="Hat of the Golden Hand Item, Revenant Hunter Set."/>
+            </imgdir>
+            <imgdir name="1004122">
+                <string name="name" value="Chef Hat"/>
+            </imgdir>
+            <imgdir name="1004125">
+                <string name="name" value="Pineapple Hat"/>
+                <string name="desc" value="Look so fresh! Designed by the China MapleStory player Xiaoshu."/>
+            </imgdir>
+            <imgdir name="1004136">
+                <string name="name" value="Nurse Cap"/>
+            </imgdir>
         </imgdir>
         <imgdir name="Cape">
             <imgdir name="1102000">
@@ -10198,6 +10361,33 @@
             <imgdir name="1103385">
                 <string name="name" value="Garden Scent"/>
                 <string name="desc" value="Cape of the Golden Hand Item, Garden Sage Outfit Set."/>
+            </imgdir>
+            <imgdir name="1103243">
+                <string name="name" value="Blue Waves"/>
+            </imgdir>
+            <imgdir name="1103359">
+                <string name="name" value="Blooming Bubble"/>
+            </imgdir>
+            <imgdir name="1103412">
+                <string name="name" value="Crimson Hush Cape"/>
+            </imgdir>
+            <imgdir name="1103457">
+                <string name="name" value="Sparkling Dreamland Decoration Cape"/>
+                <string name="desc" value="A Sparkling Dreamland Decoration Cape designed by the China MapleStory player criceto."/>
+            </imgdir>
+            <imgdir name="1103338">
+                <string name="name" value="Sweetest Dream Cape"/>
+                <string name="desc" value="A Sweetest Dream Cape designed by the China MapleStory player pipi."/>
+            </imgdir>
+            <imgdir name="1103103">
+                <string name="name" value="Maple Gumshoe&apos;s File Fairy"/>
+            </imgdir>
+            <imgdir name="1103251">
+                <string name="name" value="Monochrome Movie"/>
+            </imgdir>
+            <imgdir name="1103386">
+                <string name="name" value="Shouldering Nightmare"/>
+                <string name="desc" value="Cape of the Golden Hand Item, Revenant Hunter Set."/>
             </imgdir>
         </imgdir>
         <imgdir name="Coat">
@@ -12010,6 +12200,19 @@
             </imgdir>
             <imgdir name="1042422">
                 <string name="name" value="Purple Poem"/>
+            </imgdir>
+            <imgdir name="1042171">
+                <string name="name" value="Idol Star Vest"/>
+            </imgdir>
+            <imgdir name="1042148">
+                <string name="name" value="Adventurer&apos;s Top"/>
+                <string name="desc" value="It is a top with a bit of awkwardness."/>
+            </imgdir>
+            <imgdir name="1042365">
+                <string name="name" value="Pink Allstar"/>
+            </imgdir>
+            <imgdir name="1042378">
+                <string name="name" value="Tattoo Look"/>
             </imgdir>
         </imgdir>
         <imgdir name="Face">
@@ -24096,6 +24299,897 @@
             </imgdir>
             <imgdir name="50284">
                 <string name="name" value="Puppy-Eyed Face"/>
+            </imgdir>
+            <imgdir name="23023">
+                <string name="name" value="Marron Face"/>
+            </imgdir>
+            <imgdir name="23099">
+                <string name="name" value="He Who Awakened Face"/>
+            </imgdir>
+            <imgdir name="23123">
+                <string name="name" value="Marron Face"/>
+            </imgdir>
+            <imgdir name="23199">
+                <string name="name" value="He Who Awakened Face"/>
+            </imgdir>
+            <imgdir name="23223">
+                <string name="name" value="Marron Face"/>
+            </imgdir>
+            <imgdir name="23299">
+                <string name="name" value="He Who Awakened Face"/>
+            </imgdir>
+            <imgdir name="23323">
+                <string name="name" value="Marron Face"/>
+            </imgdir>
+            <imgdir name="23399">
+                <string name="name" value="He Who Awakened Face"/>
+            </imgdir>
+            <imgdir name="23423">
+                <string name="name" value="Marron Face"/>
+            </imgdir>
+            <imgdir name="23499">
+                <string name="name" value="He Who Awakened Face"/>
+            </imgdir>
+            <imgdir name="23523">
+                <string name="name" value="Marron Face"/>
+            </imgdir>
+            <imgdir name="23599">
+                <string name="name" value="He Who Awakened Face"/>
+            </imgdir>
+            <imgdir name="23623">
+                <string name="name" value="Marron Face"/>
+            </imgdir>
+            <imgdir name="23699">
+                <string name="name" value="He Who Awakened Face"/>
+            </imgdir>
+            <imgdir name="23723">
+                <string name="name" value="Marron Face"/>
+            </imgdir>
+            <imgdir name="23799">
+                <string name="name" value="He Who Awakened Face"/>
+            </imgdir>
+            <imgdir name="23823">
+                <string name="name" value="Marron Face"/>
+            </imgdir>
+            <imgdir name="23899">
+                <string name="name" value="He Who Awakened Face"/>
+            </imgdir>
+            <imgdir name="26032">
+                <string name="name" value="Bunny Nose Face"/>
+            </imgdir>
+            <imgdir name="26132">
+                <string name="name" value="Bunny Nose Face"/>
+            </imgdir>
+            <imgdir name="26232">
+                <string name="name" value="Bunny Nose Face"/>
+            </imgdir>
+            <imgdir name="26332">
+                <string name="name" value="Bunny Nose Face"/>
+            </imgdir>
+            <imgdir name="26432">
+                <string name="name" value="Bunny Nose Face"/>
+            </imgdir>
+            <imgdir name="26532">
+                <string name="name" value="Bunny Nose Face"/>
+            </imgdir>
+            <imgdir name="26632">
+                <string name="name" value="Bunny Nose Face"/>
+            </imgdir>
+            <imgdir name="26732">
+                <string name="name" value="Bunny Nose Face"/>
+            </imgdir>
+            <imgdir name="26832">
+                <string name="name" value="Bunny Nose Face"/>
+            </imgdir>
+            <imgdir name="27068">
+                <string name="name" value="Devious Face"/>
+            </imgdir>
+            <imgdir name="27168">
+                <string name="name" value="Devious Face"/>
+            </imgdir>
+            <imgdir name="27268">
+                <string name="name" value="Devious Face"/>
+            </imgdir>
+            <imgdir name="27368">
+                <string name="name" value="Devious Face"/>
+            </imgdir>
+            <imgdir name="27468">
+                <string name="name" value="Devious Face"/>
+            </imgdir>
+            <imgdir name="27568">
+                <string name="name" value="Devious Face"/>
+            </imgdir>
+            <imgdir name="27668">
+                <string name="name" value="Devious Face"/>
+            </imgdir>
+            <imgdir name="27768">
+                <string name="name" value="Devious Face"/>
+            </imgdir>
+            <imgdir name="27868">
+                <string name="name" value="Devious Face"/>
+            </imgdir>
+            <imgdir name="51051">
+                <string name="name" value="Sullen Face"/>
+            </imgdir>
+            <imgdir name="51062">
+                <string name="name" value="Reluctant Listening Face"/>
+            </imgdir>
+            <imgdir name="51151">
+                <string name="name" value="Sullen Face"/>
+            </imgdir>
+            <imgdir name="51162">
+                <string name="name" value="Reluctant Listening Face"/>
+            </imgdir>
+            <imgdir name="51251">
+                <string name="name" value="Sullen Face"/>
+            </imgdir>
+            <imgdir name="51262">
+                <string name="name" value="Reluctant Listening Face"/>
+            </imgdir>
+            <imgdir name="51351">
+                <string name="name" value="Sullen Face"/>
+            </imgdir>
+            <imgdir name="51362">
+                <string name="name" value="Reluctant Listening Face"/>
+            </imgdir>
+            <imgdir name="51451">
+                <string name="name" value="Sullen Face"/>
+            </imgdir>
+            <imgdir name="51462">
+                <string name="name" value="Reluctant Listening Face"/>
+            </imgdir>
+            <imgdir name="51551">
+                <string name="name" value="Sullen Face"/>
+            </imgdir>
+            <imgdir name="51562">
+                <string name="name" value="Reluctant Listening Face"/>
+            </imgdir>
+            <imgdir name="51651">
+                <string name="name" value="Sullen Face"/>
+            </imgdir>
+            <imgdir name="51662">
+                <string name="name" value="Reluctant Listening Face"/>
+            </imgdir>
+            <imgdir name="51751">
+                <string name="name" value="Sullen Face"/>
+            </imgdir>
+            <imgdir name="51762">
+                <string name="name" value="Reluctant Listening Face"/>
+            </imgdir>
+            <imgdir name="51851">
+                <string name="name" value="Sullen Face"/>
+            </imgdir>
+            <imgdir name="51862">
+                <string name="name" value="Reluctant Listening Face"/>
+            </imgdir>
+            <imgdir name="24097">
+                <string name="name" value="She Who Awakened Face"/>
+            </imgdir>
+            <imgdir name="24197">
+                <string name="name" value="She Who Awakened Face"/>
+            </imgdir>
+            <imgdir name="24297">
+                <string name="name" value="She Who Awakened Face"/>
+            </imgdir>
+            <imgdir name="24397">
+                <string name="name" value="She Who Awakened Face"/>
+            </imgdir>
+            <imgdir name="24497">
+                <string name="name" value="She Who Awakened Face"/>
+            </imgdir>
+            <imgdir name="24597">
+                <string name="name" value="She Who Awakened Face"/>
+            </imgdir>
+            <imgdir name="24697">
+                <string name="name" value="She Who Awakened Face"/>
+            </imgdir>
+            <imgdir name="24797">
+                <string name="name" value="She Who Awakened Face"/>
+            </imgdir>
+            <imgdir name="24897">
+                <string name="name" value="She Who Awakened Face"/>
+            </imgdir>
+            <imgdir name="25027">
+                <string name="name" value="Bunny Nose Face"/>
+            </imgdir>
+            <imgdir name="25127">
+                <string name="name" value="Bunny Nose Face"/>
+            </imgdir>
+            <imgdir name="25227">
+                <string name="name" value="Bunny Nose Face"/>
+            </imgdir>
+            <imgdir name="25327">
+                <string name="name" value="Bunny Nose Face"/>
+            </imgdir>
+            <imgdir name="25427">
+                <string name="name" value="Bunny Nose Face"/>
+            </imgdir>
+            <imgdir name="25527">
+                <string name="name" value="Bunny Nose Face"/>
+            </imgdir>
+            <imgdir name="25627">
+                <string name="name" value="Bunny Nose Face"/>
+            </imgdir>
+            <imgdir name="25727">
+                <string name="name" value="Bunny Nose Face"/>
+            </imgdir>
+            <imgdir name="25827">
+                <string name="name" value="Bunny Nose Face"/>
+            </imgdir>
+            <imgdir name="28072">
+                <string name="name" value="Sleepy Time Face"/>
+            </imgdir>
+            <imgdir name="28074">
+                <string name="name" value="Devious Face"/>
+            </imgdir>
+            <imgdir name="28091">
+                <string name="name" value="Puppy Eyes Face"/>
+            </imgdir>
+            <imgdir name="28172">
+                <string name="name" value="Sleepy Time Face"/>
+            </imgdir>
+            <imgdir name="28174">
+                <string name="name" value="Devious Face"/>
+            </imgdir>
+            <imgdir name="28191">
+                <string name="name" value="Puppy Eyes Face"/>
+            </imgdir>
+            <imgdir name="28272">
+                <string name="name" value="Sleepy Time Face"/>
+            </imgdir>
+            <imgdir name="28274">
+                <string name="name" value="Devious Face"/>
+            </imgdir>
+            <imgdir name="28291">
+                <string name="name" value="Puppy Eyes Face"/>
+            </imgdir>
+            <imgdir name="28372">
+                <string name="name" value="Sleepy Time Face"/>
+            </imgdir>
+            <imgdir name="28374">
+                <string name="name" value="Devious Face"/>
+            </imgdir>
+            <imgdir name="28391">
+                <string name="name" value="Puppy Eyes Face"/>
+            </imgdir>
+            <imgdir name="28472">
+                <string name="name" value="Sleepy Time Face"/>
+            </imgdir>
+            <imgdir name="28474">
+                <string name="name" value="Devious Face"/>
+            </imgdir>
+            <imgdir name="28491">
+                <string name="name" value="Puppy Eyes Face"/>
+            </imgdir>
+            <imgdir name="28572">
+                <string name="name" value="Sleepy Time Face"/>
+            </imgdir>
+            <imgdir name="28574">
+                <string name="name" value="Devious Face"/>
+            </imgdir>
+            <imgdir name="28591">
+                <string name="name" value="Puppy Eyes Face"/>
+            </imgdir>
+            <imgdir name="28672">
+                <string name="name" value="Sleepy Time Face"/>
+            </imgdir>
+            <imgdir name="28674">
+                <string name="name" value="Devious Face"/>
+            </imgdir>
+            <imgdir name="28691">
+                <string name="name" value="Puppy Eyes Face"/>
+            </imgdir>
+            <imgdir name="28772">
+                <string name="name" value="Sleepy Time Face"/>
+            </imgdir>
+            <imgdir name="28774">
+                <string name="name" value="Devious Face"/>
+            </imgdir>
+            <imgdir name="28791">
+                <string name="name" value="Puppy Eyes Face"/>
+            </imgdir>
+            <imgdir name="28872">
+                <string name="name" value="Sleepy Time Face"/>
+            </imgdir>
+            <imgdir name="28874">
+                <string name="name" value="Devious Face"/>
+            </imgdir>
+            <imgdir name="28891">
+                <string name="name" value="Puppydog Eyes Face"/>
+            </imgdir>
+            <imgdir name="50037">
+                <string name="name" value="Sullen Face"/>
+            </imgdir>
+            <imgdir name="50049">
+                <string name="name" value="Reluctant Listening Face"/>
+            </imgdir>
+            <imgdir name="50137">
+                <string name="name" value="Sullen Face"/>
+            </imgdir>
+            <imgdir name="50149">
+                <string name="name" value="Reluctant Listening Face"/>
+            </imgdir>
+            <imgdir name="50237">
+                <string name="name" value="Sullen Face"/>
+            </imgdir>
+            <imgdir name="50249">
+                <string name="name" value="Reluctant Listening Face"/>
+            </imgdir>
+            <imgdir name="50337">
+                <string name="name" value="Sullen Face"/>
+            </imgdir>
+            <imgdir name="50349">
+                <string name="name" value="Reluctant Listening Face"/>
+            </imgdir>
+            <imgdir name="50437">
+                <string name="name" value="Sullen Face"/>
+            </imgdir>
+            <imgdir name="50449">
+                <string name="name" value="Reluctant Listening Face"/>
+            </imgdir>
+            <imgdir name="50537">
+                <string name="name" value="Sullen Face"/>
+            </imgdir>
+            <imgdir name="50549">
+                <string name="name" value="Reluctant Listening Face"/>
+            </imgdir>
+            <imgdir name="50637">
+                <string name="name" value="Sullen Face"/>
+            </imgdir>
+            <imgdir name="50649">
+                <string name="name" value="Reluctant Listening Face"/>
+            </imgdir>
+            <imgdir name="50737">
+                <string name="name" value="Sullen Face"/>
+            </imgdir>
+            <imgdir name="50749">
+                <string name="name" value="Reluctant Listening Face"/>
+            </imgdir>
+            <imgdir name="50837">
+                <string name="name" value="Sullen Face"/>
+            </imgdir>
+            <imgdir name="50849">
+                <string name="name" value="Reluctant Listening Face"/>
+            </imgdir>
+            <imgdir name="27090">
+                <string name="name" value="Puffy Face"/>
+            </imgdir>
+            <imgdir name="27095">
+                <string name="name" value="Confounded Face"/>
+            </imgdir>
+            <imgdir name="27190">
+                <string name="name" value="Puffy Face"/>
+            </imgdir>
+            <imgdir name="27195">
+                <string name="name" value="Confounded Face"/>
+            </imgdir>
+            <imgdir name="27290">
+                <string name="name" value="Puffy Face"/>
+            </imgdir>
+            <imgdir name="27295">
+                <string name="name" value="Confounded Face"/>
+            </imgdir>
+            <imgdir name="27390">
+                <string name="name" value="Puffy Face"/>
+            </imgdir>
+            <imgdir name="27395">
+                <string name="name" value="Confounded Face"/>
+            </imgdir>
+            <imgdir name="27490">
+                <string name="name" value="Puffy Face"/>
+            </imgdir>
+            <imgdir name="27495">
+                <string name="name" value="Confounded Face"/>
+            </imgdir>
+            <imgdir name="27590">
+                <string name="name" value="Puffy Face"/>
+            </imgdir>
+            <imgdir name="27595">
+                <string name="name" value="Confounded Face"/>
+            </imgdir>
+            <imgdir name="27690">
+                <string name="name" value="Puffy Face"/>
+            </imgdir>
+            <imgdir name="27695">
+                <string name="name" value="Confounded Face"/>
+            </imgdir>
+            <imgdir name="27790">
+                <string name="name" value="Puffy Face"/>
+            </imgdir>
+            <imgdir name="27795">
+                <string name="name" value="Confounded Face"/>
+            </imgdir>
+            <imgdir name="27890">
+                <string name="name" value="Puffy Face"/>
+            </imgdir>
+            <imgdir name="27895">
+                <string name="name" value="Confounded Face"/>
+            </imgdir>
+            <imgdir name="50000">
+                <string name="name" value="Sky Face"/>
+            </imgdir>
+            <imgdir name="50001">
+                <string name="name" value="Brooding Face"/>
+            </imgdir>
+            <imgdir name="50002">
+                <string name="name" value="Indignant Face"/>
+            </imgdir>
+            <imgdir name="50003">
+                <string name="name" value="Tired Face"/>
+            </imgdir>
+            <imgdir name="50004">
+                <string name="name" value="Birth of a Warrior Face"/>
+            </imgdir>
+            <imgdir name="50006">
+                <string name="name" value="Aloof Face"/>
+            </imgdir>
+            <imgdir name="50009">
+                <string name="name" value="Antici...pation"/>
+            </imgdir>
+            <imgdir name="50014">
+                <string name="name" value="Bright Smile Face"/>
+            </imgdir>
+            <imgdir name="50100">
+                <string name="name" value="Sky Face"/>
+            </imgdir>
+            <imgdir name="50101">
+                <string name="name" value="Brooding Face"/>
+            </imgdir>
+            <imgdir name="50102">
+                <string name="name" value="Indignant Face"/>
+            </imgdir>
+            <imgdir name="50103">
+                <string name="name" value="Tired Face"/>
+            </imgdir>
+            <imgdir name="50104">
+                <string name="name" value="Birth of a Warrior Face"/>
+            </imgdir>
+            <imgdir name="50106">
+                <string name="name" value="Aloof Face"/>
+            </imgdir>
+            <imgdir name="50109">
+                <string name="name" value="Antici...pation"/>
+            </imgdir>
+            <imgdir name="50114">
+                <string name="name" value="Bright Smile Face"/>
+            </imgdir>
+            <imgdir name="50200">
+                <string name="name" value="Sky Face"/>
+            </imgdir>
+            <imgdir name="50201">
+                <string name="name" value="Brooding Face"/>
+            </imgdir>
+            <imgdir name="50202">
+                <string name="name" value="Indignant Face"/>
+            </imgdir>
+            <imgdir name="50203">
+                <string name="name" value="Tired Face"/>
+            </imgdir>
+            <imgdir name="50204">
+                <string name="name" value="Birth of a Warrior Face"/>
+            </imgdir>
+            <imgdir name="50206">
+                <string name="name" value="Aloof Face"/>
+            </imgdir>
+            <imgdir name="50209">
+                <string name="name" value="Antici...pation"/>
+            </imgdir>
+            <imgdir name="50214">
+                <string name="name" value="Bright Smile Face"/>
+            </imgdir>
+            <imgdir name="50300">
+                <string name="name" value="Sky Face"/>
+            </imgdir>
+            <imgdir name="50301">
+                <string name="name" value="Brooding Face"/>
+            </imgdir>
+            <imgdir name="50302">
+                <string name="name" value="Indignant Face"/>
+            </imgdir>
+            <imgdir name="50303">
+                <string name="name" value="Tired Face"/>
+            </imgdir>
+            <imgdir name="50304">
+                <string name="name" value="Birth of a Warrior Face"/>
+            </imgdir>
+            <imgdir name="50306">
+                <string name="name" value="Aloof Face"/>
+            </imgdir>
+            <imgdir name="50309">
+                <string name="name" value="Antici...pation"/>
+            </imgdir>
+            <imgdir name="50314">
+                <string name="name" value="Bright Smile Face"/>
+            </imgdir>
+            <imgdir name="50400">
+                <string name="name" value="Sky Face"/>
+            </imgdir>
+            <imgdir name="50401">
+                <string name="name" value="Brooding Face"/>
+            </imgdir>
+            <imgdir name="50402">
+                <string name="name" value="Indignant Face"/>
+            </imgdir>
+            <imgdir name="50403">
+                <string name="name" value="Tired Face"/>
+            </imgdir>
+            <imgdir name="50404">
+                <string name="name" value="Birth of a Warrior Face"/>
+            </imgdir>
+            <imgdir name="50406">
+                <string name="name" value="Aloof Face"/>
+            </imgdir>
+            <imgdir name="50409">
+                <string name="name" value="Antici...pation"/>
+            </imgdir>
+            <imgdir name="50414">
+                <string name="name" value="Bright Smile Face"/>
+            </imgdir>
+            <imgdir name="50500">
+                <string name="name" value="Sky Face"/>
+            </imgdir>
+            <imgdir name="50501">
+                <string name="name" value="Brooding Face"/>
+            </imgdir>
+            <imgdir name="50502">
+                <string name="name" value="Indignant Face"/>
+            </imgdir>
+            <imgdir name="50503">
+                <string name="name" value="Tired Face"/>
+            </imgdir>
+            <imgdir name="50504">
+                <string name="name" value="Birth of a Warrior Face"/>
+            </imgdir>
+            <imgdir name="50506">
+                <string name="name" value="Aloof Face"/>
+            </imgdir>
+            <imgdir name="50509">
+                <string name="name" value="Antici...pation"/>
+            </imgdir>
+            <imgdir name="50514">
+                <string name="name" value="Bright Smile Face"/>
+            </imgdir>
+            <imgdir name="50600">
+                <string name="name" value="Sky Face"/>
+            </imgdir>
+            <imgdir name="50601">
+                <string name="name" value="Brooding Face"/>
+            </imgdir>
+            <imgdir name="50602">
+                <string name="name" value="Indignant Face"/>
+            </imgdir>
+            <imgdir name="50603">
+                <string name="name" value="Tired Face"/>
+            </imgdir>
+            <imgdir name="50604">
+                <string name="name" value="Birth of a Warrior Face"/>
+            </imgdir>
+            <imgdir name="50606">
+                <string name="name" value="Aloof Face"/>
+            </imgdir>
+            <imgdir name="50609">
+                <string name="name" value="Antici...pation"/>
+            </imgdir>
+            <imgdir name="50614">
+                <string name="name" value="Bright Smile Face"/>
+            </imgdir>
+            <imgdir name="50700">
+                <string name="name" value="Sky Face"/>
+            </imgdir>
+            <imgdir name="50701">
+                <string name="name" value="Brooding Face"/>
+            </imgdir>
+            <imgdir name="50702">
+                <string name="name" value="Indignant Face"/>
+            </imgdir>
+            <imgdir name="50703">
+                <string name="name" value="Tired Face"/>
+            </imgdir>
+            <imgdir name="50704">
+                <string name="name" value="Birth of a Warrior Face"/>
+            </imgdir>
+            <imgdir name="50706">
+                <string name="name" value="Aloof Face"/>
+            </imgdir>
+            <imgdir name="50709">
+                <string name="name" value="Antici...pation"/>
+            </imgdir>
+            <imgdir name="50714">
+                <string name="name" value="Bright Smile Face"/>
+            </imgdir>
+            <imgdir name="50800">
+                <string name="name" value="Sky Face"/>
+            </imgdir>
+            <imgdir name="50801">
+                <string name="name" value="Brooding Face"/>
+            </imgdir>
+            <imgdir name="50802">
+                <string name="name" value="Indignant Face"/>
+            </imgdir>
+            <imgdir name="50803">
+                <string name="name" value="Tired Face"/>
+            </imgdir>
+            <imgdir name="50804">
+                <string name="name" value="Birth of a Warrior Face"/>
+            </imgdir>
+            <imgdir name="50806">
+                <string name="name" value="Aloof Face"/>
+            </imgdir>
+            <imgdir name="50809">
+                <string name="name" value="Antici...pation"/>
+            </imgdir>
+            <imgdir name="50814">
+                <string name="name" value="Bright Smile Face"/>
+            </imgdir>
+            <imgdir name="51000">
+                <string name="name" value="Naughty Face"/>
+            </imgdir>
+            <imgdir name="51001">
+                <string name="name" value="Uncorrupted Face"/>
+            </imgdir>
+            <imgdir name="51002">
+                <string name="name" value="Adele Face"/>
+            </imgdir>
+            <imgdir name="51006">
+                <string name="name" value="Confounded Face"/>
+            </imgdir>
+            <imgdir name="51009">
+                <string name="name" value="Lania Face"/>
+            </imgdir>
+            <imgdir name="51012">
+                <string name="name" value="Sky Face"/>
+            </imgdir>
+            <imgdir name="51013">
+                <string name="name" value="Brooding Face"/>
+            </imgdir>
+            <imgdir name="51014">
+                <string name="name" value="Indignant Face"/>
+            </imgdir>
+            <imgdir name="51022">
+                <string name="name" value="Antici...pation"/>
+            </imgdir>
+            <imgdir name="51028">
+                <string name="name" value="Bright Smile Face"/>
+            </imgdir>
+            <imgdir name="51100">
+                <string name="name" value="Naughty Face"/>
+            </imgdir>
+            <imgdir name="51101">
+                <string name="name" value="Uncorrupted Face"/>
+            </imgdir>
+            <imgdir name="51102">
+                <string name="name" value="Adele Face"/>
+            </imgdir>
+            <imgdir name="51106">
+                <string name="name" value="Confounded Face"/>
+            </imgdir>
+            <imgdir name="51109">
+                <string name="name" value="Lania Face"/>
+            </imgdir>
+            <imgdir name="51112">
+                <string name="name" value="Sky Face"/>
+            </imgdir>
+            <imgdir name="51113">
+                <string name="name" value="Brooding Face"/>
+            </imgdir>
+            <imgdir name="51114">
+                <string name="name" value="Indignant Face"/>
+            </imgdir>
+            <imgdir name="51122">
+                <string name="name" value="Antici...pation"/>
+            </imgdir>
+            <imgdir name="51128">
+                <string name="name" value="Bright Smile Face"/>
+            </imgdir>
+            <imgdir name="51200">
+                <string name="name" value="Naughty Face"/>
+            </imgdir>
+            <imgdir name="51201">
+                <string name="name" value="Uncorrupted Face"/>
+            </imgdir>
+            <imgdir name="51202">
+                <string name="name" value="Adele Face"/>
+            </imgdir>
+            <imgdir name="51206">
+                <string name="name" value="Confounded Face"/>
+            </imgdir>
+            <imgdir name="51209">
+                <string name="name" value="Lania Face"/>
+            </imgdir>
+            <imgdir name="51212">
+                <string name="name" value="Sky Face"/>
+            </imgdir>
+            <imgdir name="51213">
+                <string name="name" value="Brooding Face"/>
+            </imgdir>
+            <imgdir name="51214">
+                <string name="name" value="Indignant Face"/>
+            </imgdir>
+            <imgdir name="51222">
+                <string name="name" value="Antici...pation"/>
+            </imgdir>
+            <imgdir name="51228">
+                <string name="name" value="Bright Smile Face"/>
+            </imgdir>
+            <imgdir name="51300">
+                <string name="name" value="Naughty Face"/>
+            </imgdir>
+            <imgdir name="51301">
+                <string name="name" value="Uncorrupted Face"/>
+            </imgdir>
+            <imgdir name="51302">
+                <string name="name" value="Adele Face"/>
+            </imgdir>
+            <imgdir name="51306">
+                <string name="name" value="Confounded Face"/>
+            </imgdir>
+            <imgdir name="51309">
+                <string name="name" value="Lania Face"/>
+            </imgdir>
+            <imgdir name="51312">
+                <string name="name" value="Sky Face"/>
+            </imgdir>
+            <imgdir name="51313">
+                <string name="name" value="Brooding Face"/>
+            </imgdir>
+            <imgdir name="51314">
+                <string name="name" value="Indignant Face"/>
+            </imgdir>
+            <imgdir name="51322">
+                <string name="name" value="Antici...pation"/>
+            </imgdir>
+            <imgdir name="51328">
+                <string name="name" value="Bright Smile Face"/>
+            </imgdir>
+            <imgdir name="51400">
+                <string name="name" value="Naughty Face"/>
+            </imgdir>
+            <imgdir name="51401">
+                <string name="name" value="Uncorrupted Face"/>
+            </imgdir>
+            <imgdir name="51402">
+                <string name="name" value="Adele Face"/>
+            </imgdir>
+            <imgdir name="51406">
+                <string name="name" value="Confounded Face"/>
+            </imgdir>
+            <imgdir name="51409">
+                <string name="name" value="Lania Face"/>
+            </imgdir>
+            <imgdir name="51412">
+                <string name="name" value="Sky Face"/>
+            </imgdir>
+            <imgdir name="51413">
+                <string name="name" value="Brooding Face"/>
+            </imgdir>
+            <imgdir name="51414">
+                <string name="name" value="Indignant Face"/>
+            </imgdir>
+            <imgdir name="51422">
+                <string name="name" value="Antici...pation"/>
+            </imgdir>
+            <imgdir name="51428">
+                <string name="name" value="Bright Smile Face"/>
+            </imgdir>
+            <imgdir name="51500">
+                <string name="name" value="Naughty Face"/>
+            </imgdir>
+            <imgdir name="51501">
+                <string name="name" value="Uncorrupted Face"/>
+            </imgdir>
+            <imgdir name="51502">
+                <string name="name" value="Adele Face"/>
+            </imgdir>
+            <imgdir name="51506">
+                <string name="name" value="Confounded Face"/>
+            </imgdir>
+            <imgdir name="51509">
+                <string name="name" value="Lania Face"/>
+            </imgdir>
+            <imgdir name="51512">
+                <string name="name" value="Sky Face"/>
+            </imgdir>
+            <imgdir name="51513">
+                <string name="name" value="Brooding Face"/>
+            </imgdir>
+            <imgdir name="51514">
+                <string name="name" value="Indignant Face"/>
+            </imgdir>
+            <imgdir name="51522">
+                <string name="name" value="Antici...pation"/>
+            </imgdir>
+            <imgdir name="51528">
+                <string name="name" value="Bright Smile Face"/>
+            </imgdir>
+            <imgdir name="51600">
+                <string name="name" value="Naughty Face"/>
+            </imgdir>
+            <imgdir name="51601">
+                <string name="name" value="Uncorrupted Face"/>
+            </imgdir>
+            <imgdir name="51602">
+                <string name="name" value="Adele Face"/>
+            </imgdir>
+            <imgdir name="51606">
+                <string name="name" value="Confounded Face"/>
+            </imgdir>
+            <imgdir name="51609">
+                <string name="name" value="Lania Face"/>
+            </imgdir>
+            <imgdir name="51612">
+                <string name="name" value="Sky Face"/>
+            </imgdir>
+            <imgdir name="51613">
+                <string name="name" value="Brooding Face"/>
+            </imgdir>
+            <imgdir name="51614">
+                <string name="name" value="Indignant Face"/>
+            </imgdir>
+            <imgdir name="51622">
+                <string name="name" value="Antici...pation"/>
+            </imgdir>
+            <imgdir name="51628">
+                <string name="name" value="Bright Smile Face"/>
+            </imgdir>
+            <imgdir name="51700">
+                <string name="name" value="Naughty Face"/>
+            </imgdir>
+            <imgdir name="51701">
+                <string name="name" value="Uncorrupted Face"/>
+            </imgdir>
+            <imgdir name="51702">
+                <string name="name" value="Adele Face"/>
+            </imgdir>
+            <imgdir name="51706">
+                <string name="name" value="Confounded Face"/>
+            </imgdir>
+            <imgdir name="51709">
+                <string name="name" value="Lania Face"/>
+            </imgdir>
+            <imgdir name="51712">
+                <string name="name" value="Sky Face"/>
+            </imgdir>
+            <imgdir name="51713">
+                <string name="name" value="Brooding Face"/>
+            </imgdir>
+            <imgdir name="51714">
+                <string name="name" value="Indignant Face"/>
+            </imgdir>
+            <imgdir name="51722">
+                <string name="name" value="Antici...pation"/>
+            </imgdir>
+            <imgdir name="51728">
+                <string name="name" value="Bright Smile Face"/>
+            </imgdir>
+            <imgdir name="51800">
+                <string name="name" value="Naughty Face"/>
+            </imgdir>
+            <imgdir name="51801">
+                <string name="name" value="Uncorrupted Face"/>
+            </imgdir>
+            <imgdir name="51802">
+                <string name="name" value="Adele Face"/>
+            </imgdir>
+            <imgdir name="51806">
+                <string name="name" value="Confounded Face"/>
+            </imgdir>
+            <imgdir name="51812">
+                <string name="name" value="Sky Face"/>
+            </imgdir>
+            <imgdir name="51813">
+                <string name="name" value="Brooding Face"/>
+            </imgdir>
+            <imgdir name="51814">
+                <string name="name" value="Indignant Face"/>
+            </imgdir>
+            <imgdir name="51822">
+                <string name="name" value="Antici...pation"/>
+            </imgdir>
+            <imgdir name="51828">
+                <string name="name" value="Bright Smile Face"/>
+            </imgdir>
+            <imgdir name="51809">
+                <string name="name" value="Lania Face"/>
             </imgdir>
         </imgdir>
         <imgdir name="Glove">
@@ -40649,30 +41743,6 @@
             <imgdir name="38617">
                 <string name="name" value="Brown Shiny Ribbon Hair"/>
             </imgdir>
-            <imgdir name="38580">
-                <string name="name" value="Black Marigold Hair"/>
-            </imgdir>
-            <imgdir name="38581">
-                <string name="name" value="Red Marigold Hair"/>
-            </imgdir>
-            <imgdir name="38582">
-                <string name="name" value="Orange Marigold Hair"/>
-            </imgdir>
-            <imgdir name="38583">
-                <string name="name" value="Yellow Marigold Hair"/>
-            </imgdir>
-            <imgdir name="38584">
-                <string name="name" value="Green Marigold Hair"/>
-            </imgdir>
-            <imgdir name="38585">
-                <string name="name" value="Blue Marigold Hair"/>
-            </imgdir>
-            <imgdir name="38586">
-                <string name="name" value="Purple Marigold Hair"/>
-            </imgdir>
-            <imgdir name="38587">
-                <string name="name" value="Brown Marigold Hair"/>
-            </imgdir>
             <imgdir name="38900">
                 <string name="name" value="Black Short Swordswoman Hair"/>
             </imgdir>
@@ -50729,6 +51799,1251 @@
             <imgdir name="45497">
                 <string name="name" value="Blossomdew Hair"/>
             </imgdir>
+            <imgdir name="33140">
+                <string name="name" value="Bleached tie-up hair"/>
+            </imgdir>
+            <imgdir name="33141">
+                <string name="name" value="Red Bleached tie-up hair"/>
+            </imgdir>
+            <imgdir name="33142">
+                <string name="name" value="Orange Bleached tie-up hair"/>
+            </imgdir>
+            <imgdir name="33143">
+                <string name="name" value="Blonde Bleached Tie-up Hair"/>
+            </imgdir>
+            <imgdir name="33144">
+                <string name="name" value="Green Bleached tie-up hair"/>
+            </imgdir>
+            <imgdir name="33145">
+                <string name="name" value="Blue Bleached tie-up hair"/>
+            </imgdir>
+            <imgdir name="33146">
+                <string name="name" value="Purple Bleached tie-up hair"/>
+            </imgdir>
+            <imgdir name="33147">
+                <string name="name" value="Brown Bleached tie-up hair"/>
+            </imgdir>
+            <imgdir name="43420">
+                <string name="name" value="Black Cadena Copycat Hair"/>
+            </imgdir>
+            <imgdir name="43421">
+                <string name="name" value="Red Cadena Copycat Hair"/>
+            </imgdir>
+            <imgdir name="43422">
+                <string name="name" value="Orange Cadena Copycat Hair"/>
+            </imgdir>
+            <imgdir name="43423">
+                <string name="name" value="Yellow Cadena Copycat Hair"/>
+            </imgdir>
+            <imgdir name="43424">
+                <string name="name" value="Green Cadena Copycat Hair"/>
+            </imgdir>
+            <imgdir name="43425">
+                <string name="name" value="Blue Cadena Copycat Hair"/>
+            </imgdir>
+            <imgdir name="43426">
+                <string name="name" value="Purple Cadena Copycat Hair"/>
+            </imgdir>
+            <imgdir name="43427">
+                <string name="name" value="Brown Cadena Copycat Hair"/>
+            </imgdir>
+            <imgdir name="43870">
+                <string name="name" value="Summer Story Hair"/>
+            </imgdir>
+            <imgdir name="43871">
+                <string name="name" value="Summer Story Hair"/>
+            </imgdir>
+            <imgdir name="43872">
+                <string name="name" value="Summer Story Hair"/>
+            </imgdir>
+            <imgdir name="43874">
+                <string name="name" value="Summer Story Hair"/>
+            </imgdir>
+            <imgdir name="43873">
+                <string name="name" value="Summer Story Hair"/>
+            </imgdir>
+            <imgdir name="43875">
+                <string name="name" value="Summer Story Hair"/>
+            </imgdir>
+            <imgdir name="43876">
+                <string name="name" value="Summer Story Hair"/>
+            </imgdir>
+            <imgdir name="43877">
+                <string name="name" value="Summer Story Hair"/>
+            </imgdir>
+            <imgdir name="45280">
+                <string name="name" value="Mousse King Hair"/>
+            </imgdir>
+            <imgdir name="45281">
+                <string name="name" value="Mousse King Hair"/>
+            </imgdir>
+            <imgdir name="45282">
+                <string name="name" value="Mousse King Hair"/>
+            </imgdir>
+            <imgdir name="45283">
+                <string name="name" value="Mousse King Hair"/>
+            </imgdir>
+            <imgdir name="45285">
+                <string name="name" value="Mousse King Hair"/>
+            </imgdir>
+            <imgdir name="45284">
+                <string name="name" value="Mousse King Hair"/>
+            </imgdir>
+            <imgdir name="45286">
+                <string name="name" value="Mousse King Hair"/>
+            </imgdir>
+            <imgdir name="45287">
+                <string name="name" value="Mousse King Hair"/>
+            </imgdir>
+            <imgdir name="45320">
+                <string name="name" value="Bad Boy Hair"/>
+            </imgdir>
+            <imgdir name="45321">
+                <string name="name" value="Bad Boy Hair"/>
+            </imgdir>
+            <imgdir name="45322">
+                <string name="name" value="Bad Boy Hair"/>
+            </imgdir>
+            <imgdir name="45323">
+                <string name="name" value="Bad Boy Hair"/>
+            </imgdir>
+            <imgdir name="45324">
+                <string name="name" value="Bad Boy Hair"/>
+            </imgdir>
+            <imgdir name="45326">
+                <string name="name" value="Bad Boy Hair"/>
+            </imgdir>
+            <imgdir name="45325">
+                <string name="name" value="Bad Boy Hair"/>
+            </imgdir>
+            <imgdir name="45327">
+                <string name="name" value="Bad Boy Hair"/>
+            </imgdir>
+            <imgdir name="46510">
+                <string name="name" value="Goggles and Spikes Hair"/>
+            </imgdir>
+            <imgdir name="46511">
+                <string name="name" value="Goggles and Spikes Hair"/>
+            </imgdir>
+            <imgdir name="46512">
+                <string name="name" value="Goggles and Spikes Hair"/>
+            </imgdir>
+            <imgdir name="46513">
+                <string name="name" value="Goggles and Spikes Hair"/>
+            </imgdir>
+            <imgdir name="46514">
+                <string name="name" value="Goggles and Spikes Hair"/>
+            </imgdir>
+            <imgdir name="46515">
+                <string name="name" value="Goggles and Spikes Hair"/>
+            </imgdir>
+            <imgdir name="46516">
+                <string name="name" value="Goggles and Spikes Hair"/>
+            </imgdir>
+            <imgdir name="46517">
+                <string name="name" value="Goggles and Spikes Hair"/>
+            </imgdir>
+            <imgdir name="47800">
+                <string name="name" value="Humid Mess Hair"/>
+            </imgdir>
+            <imgdir name="47801">
+                <string name="name" value="Humid Mess Hair"/>
+            </imgdir>
+            <imgdir name="47802">
+                <string name="name" value="Humid Mess Hair"/>
+            </imgdir>
+            <imgdir name="47803">
+                <string name="name" value="Humid Mess Hair"/>
+            </imgdir>
+            <imgdir name="47804">
+                <string name="name" value="Humid Mess Hair"/>
+            </imgdir>
+            <imgdir name="47805">
+                <string name="name" value="Humid Mess Hair"/>
+            </imgdir>
+            <imgdir name="47806">
+                <string name="name" value="Humid Mess Hair"/>
+            </imgdir>
+            <imgdir name="47807">
+                <string name="name" value="Humid Mess Hair"/>
+            </imgdir>
+            <imgdir name="60120">
+                <string name="name" value="Crescendo Hair"/>
+            </imgdir>
+            <imgdir name="60121">
+                <string name="name" value="Crescendo Hair"/>
+            </imgdir>
+            <imgdir name="60122">
+                <string name="name" value="Crescendo Hair"/>
+            </imgdir>
+            <imgdir name="60123">
+                <string name="name" value="Crescendo Hair"/>
+            </imgdir>
+            <imgdir name="60124">
+                <string name="name" value="Crescendo Hair"/>
+            </imgdir>
+            <imgdir name="60125">
+                <string name="name" value="Crescendo Hair"/>
+            </imgdir>
+            <imgdir name="60126">
+                <string name="name" value="Crescendo Hair"/>
+            </imgdir>
+            <imgdir name="60127">
+                <string name="name" value="Crescendo Hair"/>
+            </imgdir>
+            <imgdir name="60480">
+                <string name="name" value="Short Poofy Hair"/>
+            </imgdir>
+            <imgdir name="60481">
+                <string name="name" value="Short Poofy Hair"/>
+            </imgdir>
+            <imgdir name="60482">
+                <string name="name" value="Short Poofy Hair"/>
+            </imgdir>
+            <imgdir name="60483">
+                <string name="name" value="Short Poofy Hair"/>
+            </imgdir>
+            <imgdir name="60484">
+                <string name="name" value="Short Poofy Hair"/>
+            </imgdir>
+            <imgdir name="60485">
+                <string name="name" value="Short Poofy Hair"/>
+            </imgdir>
+            <imgdir name="60486">
+                <string name="name" value="Short Poofy Hair"/>
+            </imgdir>
+            <imgdir name="60487">
+                <string name="name" value="Short Poofy Hair"/>
+            </imgdir>
+            <imgdir name="61130">
+                <string name="name" value="Powerful Hair"/>
+            </imgdir>
+            <imgdir name="61131">
+                <string name="name" value="Powerful Hair"/>
+            </imgdir>
+            <imgdir name="61132">
+                <string name="name" value="Powerful Hair"/>
+            </imgdir>
+            <imgdir name="61133">
+                <string name="name" value="Powerful Hair"/>
+            </imgdir>
+            <imgdir name="61134">
+                <string name="name" value="Powerful Hair"/>
+            </imgdir>
+            <imgdir name="61135">
+                <string name="name" value="Powerful Hair"/>
+            </imgdir>
+            <imgdir name="61136">
+                <string name="name" value="Powerful Hair"/>
+            </imgdir>
+            <imgdir name="61137">
+                <string name="name" value="Powerful Hair"/>
+            </imgdir>
+            <imgdir name="38880">
+                <string name="name" value="Black Cygnus Buddy Hair"/>
+            </imgdir>
+            <imgdir name="38881">
+                <string name="name" value="Red Cygnus Buddy Hair"/>
+            </imgdir>
+            <imgdir name="38882">
+                <string name="name" value="Orange Cygnus Buddy Hair"/>
+            </imgdir>
+            <imgdir name="38883">
+                <string name="name" value="Blonde Cygnus Buddy Hair"/>
+            </imgdir>
+            <imgdir name="38884">
+                <string name="name" value="Green Cygnus Buddy Hair"/>
+            </imgdir>
+            <imgdir name="38885">
+                <string name="name" value="Blue Cygnus Buddy Hair"/>
+            </imgdir>
+            <imgdir name="38886">
+                <string name="name" value="Purple Cygnus Buddy Hair"/>
+            </imgdir>
+            <imgdir name="38887">
+                <string name="name" value="Brown Cygnus Buddy Hair"/>
+            </imgdir>
+            <imgdir name="38580">
+                <string name="name" value="Black Marigold Hair"/>
+            </imgdir>
+            <imgdir name="38581">
+                <string name="name" value="Red Marigold Hair"/>
+            </imgdir>
+            <imgdir name="38582">
+                <string name="name" value="Orange Marigold Hair"/>
+            </imgdir>
+            <imgdir name="38583">
+                <string name="name" value="Yellow Marigold Hair"/>
+            </imgdir>
+            <imgdir name="38584">
+                <string name="name" value="Green Marigold Hair"/>
+            </imgdir>
+            <imgdir name="38585">
+                <string name="name" value="Blue Marigold Hair"/>
+            </imgdir>
+            <imgdir name="38586">
+                <string name="name" value="Purple Marigold Hair"/>
+            </imgdir>
+            <imgdir name="38587">
+                <string name="name" value="Brown Marigold Hair"/>
+            </imgdir>
+            <imgdir name="44310">
+                <string name="name" value="Black Sweet Fairy Hair"/>
+            </imgdir>
+            <imgdir name="44311">
+                <string name="name" value="Red Sweet Fairy Hair"/>
+            </imgdir>
+            <imgdir name="44312">
+                <string name="name" value="Orange Sweet Fairy Hair"/>
+            </imgdir>
+            <imgdir name="44314">
+                <string name="name" value="Green Sweet Fairy Hair"/>
+            </imgdir>
+            <imgdir name="44313">
+                <string name="name" value="Yellow Sweet Fairy Hair"/>
+            </imgdir>
+            <imgdir name="44315">
+                <string name="name" value="Blue Sweet Fairy Hair"/>
+            </imgdir>
+            <imgdir name="44316">
+                <string name="name" value="Purple Sweet Fairy Hair"/>
+            </imgdir>
+            <imgdir name="44317">
+                <string name="name" value="Brown Sweet Fairy Hair"/>
+            </imgdir>
+            <imgdir name="45310">
+                <string name="name" value="Humid Mess Hair"/>
+            </imgdir>
+            <imgdir name="45311">
+                <string name="name" value="Humid Mess Hair"/>
+            </imgdir>
+            <imgdir name="45312">
+                <string name="name" value="Humid Mess Hair"/>
+            </imgdir>
+            <imgdir name="45313">
+                <string name="name" value="Humid Mess Hair"/>
+            </imgdir>
+            <imgdir name="45314">
+                <string name="name" value="Humid Mess Hair"/>
+            </imgdir>
+            <imgdir name="45315">
+                <string name="name" value="Humid Mess Hair"/>
+            </imgdir>
+            <imgdir name="45316">
+                <string name="name" value="Humid Mess Hair"/>
+            </imgdir>
+            <imgdir name="45317">
+                <string name="name" value="Humid Mess Hair"/>
+            </imgdir>
+            <imgdir name="47740">
+                <string name="name" value="Long Hair with Blunt Bangs"/>
+            </imgdir>
+            <imgdir name="47741">
+                <string name="name" value="Long Hair with Blunt Bangs"/>
+            </imgdir>
+            <imgdir name="47742">
+                <string name="name" value="Long Hair with Blunt Bangs"/>
+            </imgdir>
+            <imgdir name="47743">
+                <string name="name" value="Long Hair with Blunt Bangs"/>
+            </imgdir>
+            <imgdir name="47744">
+                <string name="name" value="Long Hair with Blunt Bangs"/>
+            </imgdir>
+            <imgdir name="47745">
+                <string name="name" value="Long Hair with Blunt Bangs"/>
+            </imgdir>
+            <imgdir name="47746">
+                <string name="name" value="Long Hair with Blunt Bangs"/>
+            </imgdir>
+            <imgdir name="47747">
+                <string name="name" value="Long Hair with Blunt Bangs"/>
+            </imgdir>
+            <imgdir name="47830">
+                <string name="name" value="Ellen Hair"/>
+            </imgdir>
+            <imgdir name="47831">
+                <string name="name" value="Ellen Hair"/>
+            </imgdir>
+            <imgdir name="47832">
+                <string name="name" value="Ellen Hair"/>
+            </imgdir>
+            <imgdir name="47833">
+                <string name="name" value="Ellen Hair"/>
+            </imgdir>
+            <imgdir name="47834">
+                <string name="name" value="Ellen Hair"/>
+            </imgdir>
+            <imgdir name="47835">
+                <string name="name" value="Ellen Hair"/>
+            </imgdir>
+            <imgdir name="47836">
+                <string name="name" value="Ellen Hair"/>
+            </imgdir>
+            <imgdir name="47837">
+                <string name="name" value="Ellen Hair"/>
+            </imgdir>
+            <imgdir name="47910">
+                <string name="name" value="Coy Braided Pigtails"/>
+            </imgdir>
+            <imgdir name="47911">
+                <string name="name" value="Coy Braided Pigtails"/>
+            </imgdir>
+            <imgdir name="47912">
+                <string name="name" value="Coy Braided Pigtails"/>
+            </imgdir>
+            <imgdir name="47913">
+                <string name="name" value="Coy Braided Pigtails"/>
+            </imgdir>
+            <imgdir name="47914">
+                <string name="name" value="Coy Braided Pigtails"/>
+            </imgdir>
+            <imgdir name="47915">
+                <string name="name" value="Coy Braided Pigtails"/>
+            </imgdir>
+            <imgdir name="47916">
+                <string name="name" value="Coy Braided Pigtails"/>
+            </imgdir>
+            <imgdir name="47917">
+                <string name="name" value="Coy Braided Pigtails"/>
+            </imgdir>
+            <imgdir name="48000">
+                <string name="name" value="&apos;90s Long Bob"/>
+            </imgdir>
+            <imgdir name="48001">
+                <string name="name" value="&apos;90s Long Bob"/>
+            </imgdir>
+            <imgdir name="48002">
+                <string name="name" value="&apos;90s Long Bob"/>
+            </imgdir>
+            <imgdir name="48003">
+                <string name="name" value="&apos;90s Long Bob"/>
+            </imgdir>
+            <imgdir name="48004">
+                <string name="name" value="&apos;90s Long Bob"/>
+            </imgdir>
+            <imgdir name="48005">
+                <string name="name" value="&apos;90s Long Bob"/>
+            </imgdir>
+            <imgdir name="48006">
+                <string name="name" value="&apos;90s Long Bob"/>
+            </imgdir>
+            <imgdir name="48007">
+                <string name="name" value="&apos;90s Long Bob"/>
+            </imgdir>
+            <imgdir name="48180">
+                <string name="name" value="Half-Pony Summer Fringe"/>
+            </imgdir>
+            <imgdir name="48181">
+                <string name="name" value="Half-Pony Summer Fringe"/>
+            </imgdir>
+            <imgdir name="48182">
+                <string name="name" value="Half-Pony Summer Fringe"/>
+            </imgdir>
+            <imgdir name="48183">
+                <string name="name" value="Half-Pony Summer Fringe"/>
+            </imgdir>
+            <imgdir name="48184">
+                <string name="name" value="Half-Pony Summer Fringe"/>
+            </imgdir>
+            <imgdir name="48185">
+                <string name="name" value="Half-Pony Summer Fringe"/>
+            </imgdir>
+            <imgdir name="48186">
+                <string name="name" value="Half-Pony Summer Fringe"/>
+            </imgdir>
+            <imgdir name="48187">
+                <string name="name" value="Half-Pony Summer Fringe"/>
+            </imgdir>
+            <imgdir name="48640">
+                <string name="name" value="Magic Ella Hair"/>
+            </imgdir>
+            <imgdir name="48641">
+                <string name="name" value="Magic Ella Hair"/>
+            </imgdir>
+            <imgdir name="48642">
+                <string name="name" value="Magic Ella Hair"/>
+            </imgdir>
+            <imgdir name="48643">
+                <string name="name" value="Magic Ella Hair"/>
+            </imgdir>
+            <imgdir name="48644">
+                <string name="name" value="Magic Ella Hair"/>
+            </imgdir>
+            <imgdir name="48645">
+                <string name="name" value="Magic Ella Hair"/>
+            </imgdir>
+            <imgdir name="48646">
+                <string name="name" value="Magic Ella Hair"/>
+            </imgdir>
+            <imgdir name="48647">
+                <string name="name" value="Magic Ella Hair"/>
+            </imgdir>
+            <imgdir name="48790">
+                <string name="name" value="Princess Ponytail Hair"/>
+            </imgdir>
+            <imgdir name="48791">
+                <string name="name" value="Princess Ponytail Hair"/>
+            </imgdir>
+            <imgdir name="48792">
+                <string name="name" value="Princess Ponytail Hair"/>
+            </imgdir>
+            <imgdir name="48793">
+                <string name="name" value="Princess Ponytail Hair"/>
+            </imgdir>
+            <imgdir name="48794">
+                <string name="name" value="Princess Ponytail Hair"/>
+            </imgdir>
+            <imgdir name="48795">
+                <string name="name" value="Princess Ponytail Hair"/>
+            </imgdir>
+            <imgdir name="48796">
+                <string name="name" value="Princess Ponytail Hair"/>
+            </imgdir>
+            <imgdir name="48797">
+                <string name="name" value="Princess Ponytail Hair"/>
+            </imgdir>
+            <imgdir name="61020">
+                <string name="name" value="Autumn Lady Hair"/>
+            </imgdir>
+            <imgdir name="61021">
+                <string name="name" value="Autumn Lady Hair"/>
+            </imgdir>
+            <imgdir name="61022">
+                <string name="name" value="Autumn Lady Hair"/>
+            </imgdir>
+            <imgdir name="61023">
+                <string name="name" value="Autumn Lady Hair"/>
+            </imgdir>
+            <imgdir name="61024">
+                <string name="name" value="Autumn Lady Hair"/>
+            </imgdir>
+            <imgdir name="61025">
+                <string name="name" value="Autumn Lady Hair"/>
+            </imgdir>
+            <imgdir name="61026">
+                <string name="name" value="Autumn Lady Hair"/>
+            </imgdir>
+            <imgdir name="61027">
+                <string name="name" value="Autumn Lady Hair"/>
+            </imgdir>
+            <imgdir name="61070">
+                <string name="name" value="Cindy Hair"/>
+            </imgdir>
+            <imgdir name="61071">
+                <string name="name" value="Cindy Hair"/>
+            </imgdir>
+            <imgdir name="61072">
+                <string name="name" value="Cindy Hair"/>
+            </imgdir>
+            <imgdir name="61073">
+                <string name="name" value="Cindy Hair"/>
+            </imgdir>
+            <imgdir name="61074">
+                <string name="name" value="Cindy Hair"/>
+            </imgdir>
+            <imgdir name="61075">
+                <string name="name" value="Cindy Hair"/>
+            </imgdir>
+            <imgdir name="61076">
+                <string name="name" value="Cindy Hair"/>
+            </imgdir>
+            <imgdir name="61077">
+                <string name="name" value="Cindy Hair"/>
+            </imgdir>
+            <imgdir name="61650">
+                <string name="name" value="Sweet Lily Hair"/>
+            </imgdir>
+            <imgdir name="61651">
+                <string name="name" value="Sweet Lily Hair"/>
+            </imgdir>
+            <imgdir name="61652">
+                <string name="name" value="Sweet Lily Hair"/>
+            </imgdir>
+            <imgdir name="61653">
+                <string name="name" value="Sweet Lily Hair"/>
+            </imgdir>
+            <imgdir name="61654">
+                <string name="name" value="Sweet Lily Hair"/>
+            </imgdir>
+            <imgdir name="61655">
+                <string name="name" value="Sweet Lily Hair"/>
+            </imgdir>
+            <imgdir name="61656">
+                <string name="name" value="Sweet Lily Hair"/>
+            </imgdir>
+            <imgdir name="61657">
+                <string name="name" value="Sweet Lily Hair"/>
+            </imgdir>
+            <imgdir name="61700">
+                <string name="name" value="Braided Locks Hair"/>
+            </imgdir>
+            <imgdir name="61701">
+                <string name="name" value="Braided Locks Hair"/>
+            </imgdir>
+            <imgdir name="61702">
+                <string name="name" value="Braided Locks Hair"/>
+            </imgdir>
+            <imgdir name="61703">
+                <string name="name" value="Braided Locks Hair"/>
+            </imgdir>
+            <imgdir name="61704">
+                <string name="name" value="Braided Locks Hair"/>
+            </imgdir>
+            <imgdir name="61705">
+                <string name="name" value="Braided Locks Hair"/>
+            </imgdir>
+            <imgdir name="61706">
+                <string name="name" value="Braided Locks Hair"/>
+            </imgdir>
+            <imgdir name="61707">
+                <string name="name" value="Braided Locks Hair"/>
+            </imgdir>
+            <imgdir name="61760">
+                <string name="name" value="Lop-eared Ponytail Hair"/>
+            </imgdir>
+            <imgdir name="61761">
+                <string name="name" value="Lop-eared Ponytail Hair"/>
+            </imgdir>
+            <imgdir name="61762">
+                <string name="name" value="Lop-eared Ponytail Hair"/>
+            </imgdir>
+            <imgdir name="61763">
+                <string name="name" value="Lop-eared Ponytail Hair"/>
+            </imgdir>
+            <imgdir name="61764">
+                <string name="name" value="Lop-eared Ponytail Hair"/>
+            </imgdir>
+            <imgdir name="61765">
+                <string name="name" value="Lop-eared Ponytail Hair"/>
+            </imgdir>
+            <imgdir name="61766">
+                <string name="name" value="Lop-eared Ponytail Hair"/>
+            </imgdir>
+            <imgdir name="61767">
+                <string name="name" value="Lop-eared Ponytail Hair"/>
+            </imgdir>
+            <imgdir name="47150">
+                <string name="name" value="Summer Story Hair"/>
+            </imgdir>
+            <imgdir name="47151">
+                <string name="name" value="Summer Story Hair"/>
+            </imgdir>
+            <imgdir name="47152">
+                <string name="name" value="Summer Story Hair"/>
+            </imgdir>
+            <imgdir name="47153">
+                <string name="name" value="Summer Story Hair"/>
+            </imgdir>
+            <imgdir name="47154">
+                <string name="name" value="Summer Story Hair"/>
+            </imgdir>
+            <imgdir name="47155">
+                <string name="name" value="Summer Story Hair"/>
+            </imgdir>
+            <imgdir name="47156">
+                <string name="name" value="Summer Story Hair"/>
+            </imgdir>
+            <imgdir name="47157">
+                <string name="name" value="Summer Story Hair"/>
+            </imgdir>
+            <imgdir name="43350">
+                <string name="name" value="Black Pompom Hair"/>
+            </imgdir>
+            <imgdir name="43351">
+                <string name="name" value="Red Pompom Hair"/>
+            </imgdir>
+            <imgdir name="43352">
+                <string name="name" value="Orange Pompom Hair"/>
+            </imgdir>
+            <imgdir name="43353">
+                <string name="name" value="Blonde Pompom Hair"/>
+            </imgdir>
+            <imgdir name="43354">
+                <string name="name" value="Green Pompom Hair"/>
+            </imgdir>
+            <imgdir name="43355">
+                <string name="name" value="Blue Pompom Hair"/>
+            </imgdir>
+            <imgdir name="43356">
+                <string name="name" value="Purple Pompom Hair"/>
+            </imgdir>
+            <imgdir name="43357">
+                <string name="name" value="Brown Pompom Hair"/>
+            </imgdir>
+            <imgdir name="60000">
+                <string name="name" value="Hitman Hair"/>
+            </imgdir>
+            <imgdir name="60001">
+                <string name="name" value="Hitman Hair"/>
+            </imgdir>
+            <imgdir name="60002">
+                <string name="name" value="Hitman Hair"/>
+            </imgdir>
+            <imgdir name="60003">
+                <string name="name" value="Hitman Hair"/>
+            </imgdir>
+            <imgdir name="60004">
+                <string name="name" value="Hitman Hair"/>
+            </imgdir>
+            <imgdir name="60005">
+                <string name="name" value="Hitman Hair"/>
+            </imgdir>
+            <imgdir name="60006">
+                <string name="name" value="Hitman Hair"/>
+            </imgdir>
+            <imgdir name="60007">
+                <string name="name" value="Hitman Hair"/>
+            </imgdir>
+            <imgdir name="60070">
+                <string name="name" value="Cool Lucid Hair"/>
+            </imgdir>
+            <imgdir name="60071">
+                <string name="name" value="Cool Lucid Hair"/>
+            </imgdir>
+            <imgdir name="60072">
+                <string name="name" value="Cool Lucid Hair"/>
+            </imgdir>
+            <imgdir name="60073">
+                <string name="name" value="Cool Lucid Hair"/>
+            </imgdir>
+            <imgdir name="60074">
+                <string name="name" value="Cool Lucid Hair"/>
+            </imgdir>
+            <imgdir name="60075">
+                <string name="name" value="Cool Lucid Hair"/>
+            </imgdir>
+            <imgdir name="60076">
+                <string name="name" value="Cool Lucid Hair"/>
+            </imgdir>
+            <imgdir name="60077">
+                <string name="name" value="Cool Lucid Hair"/>
+            </imgdir>
+            <imgdir name="60420">
+                <string name="name" value="Camellia Hair"/>
+            </imgdir>
+            <imgdir name="60421">
+                <string name="name" value="Camellia Hair"/>
+            </imgdir>
+            <imgdir name="60422">
+                <string name="name" value="Camellia Hair"/>
+            </imgdir>
+            <imgdir name="60423">
+                <string name="name" value="Camellia Hair"/>
+            </imgdir>
+            <imgdir name="60424">
+                <string name="name" value="Camellia Hair"/>
+            </imgdir>
+            <imgdir name="60425">
+                <string name="name" value="Camellia Hair"/>
+            </imgdir>
+            <imgdir name="60426">
+                <string name="name" value="Camellia Hair"/>
+            </imgdir>
+            <imgdir name="60427">
+                <string name="name" value="Camellia Hair"/>
+            </imgdir>
+            <imgdir name="60430">
+                <string name="name" value="Strobilanthes Oligantha Hair"/>
+            </imgdir>
+            <imgdir name="60431">
+                <string name="name" value="Strobilanthes Oligantha Hair"/>
+            </imgdir>
+            <imgdir name="60432">
+                <string name="name" value="Strobilanthes Oligantha Hair"/>
+            </imgdir>
+            <imgdir name="60433">
+                <string name="name" value="Strobilanthes Oligantha Hair"/>
+            </imgdir>
+            <imgdir name="60434">
+                <string name="name" value="Strobilanthes Oligantha Hair"/>
+            </imgdir>
+            <imgdir name="60435">
+                <string name="name" value="Strobilanthes Oligantha Hair"/>
+            </imgdir>
+            <imgdir name="60436">
+                <string name="name" value="Strobilanthes Oligantha Hair"/>
+            </imgdir>
+            <imgdir name="60437">
+                <string name="name" value="Strobilanthes Oligantha Hair"/>
+            </imgdir>
+            <imgdir name="60490">
+                <string name="name" value="Crescent Bangs Hair"/>
+            </imgdir>
+            <imgdir name="60491">
+                <string name="name" value="Crescent Bangs Hair"/>
+            </imgdir>
+            <imgdir name="60492">
+                <string name="name" value="Crescent Bangs Hair"/>
+            </imgdir>
+            <imgdir name="60493">
+                <string name="name" value="Crescent Bangs Hair"/>
+            </imgdir>
+            <imgdir name="60494">
+                <string name="name" value="Crescent Bangs Hair"/>
+            </imgdir>
+            <imgdir name="60495">
+                <string name="name" value="Crescent Bangs Hair"/>
+            </imgdir>
+            <imgdir name="60496">
+                <string name="name" value="Crescent Bangs Hair"/>
+            </imgdir>
+            <imgdir name="60497">
+                <string name="name" value="Crescent Bangs Hair"/>
+            </imgdir>
+            <imgdir name="60500">
+                <string name="name" value="Baby-Soft Hair"/>
+            </imgdir>
+            <imgdir name="60501">
+                <string name="name" value="Baby-Soft Hair"/>
+            </imgdir>
+            <imgdir name="60502">
+                <string name="name" value="Baby-Soft Hair"/>
+            </imgdir>
+            <imgdir name="60503">
+                <string name="name" value="Baby-Soft Hair"/>
+            </imgdir>
+            <imgdir name="60504">
+                <string name="name" value="Baby-Soft Hair"/>
+            </imgdir>
+            <imgdir name="60505">
+                <string name="name" value="Baby-Soft Hair"/>
+            </imgdir>
+            <imgdir name="60506">
+                <string name="name" value="Baby-Soft Hair"/>
+            </imgdir>
+            <imgdir name="60507">
+                <string name="name" value="Baby-Soft Hair"/>
+            </imgdir>
+            <imgdir name="60510">
+                <string name="name" value="Short Silky Hair"/>
+            </imgdir>
+            <imgdir name="60511">
+                <string name="name" value="Short Silky Hair"/>
+            </imgdir>
+            <imgdir name="60512">
+                <string name="name" value="Short Silky Hair"/>
+            </imgdir>
+            <imgdir name="60513">
+                <string name="name" value="Short Silky Hair"/>
+            </imgdir>
+            <imgdir name="60514">
+                <string name="name" value="Short Silky Hair"/>
+            </imgdir>
+            <imgdir name="60515">
+                <string name="name" value="Short Silky Hair"/>
+            </imgdir>
+            <imgdir name="60516">
+                <string name="name" value="Short Silky Hair"/>
+            </imgdir>
+            <imgdir name="60517">
+                <string name="name" value="Short Silky Hair"/>
+            </imgdir>
+            <imgdir name="60520">
+                <string name="name" value="Short Smooth Curls Hair"/>
+            </imgdir>
+            <imgdir name="60521">
+                <string name="name" value="Short Smooth Curls Hair"/>
+            </imgdir>
+            <imgdir name="60522">
+                <string name="name" value="Short Smooth Curls Hair"/>
+            </imgdir>
+            <imgdir name="60523">
+                <string name="name" value="Short Smooth Curls Hair"/>
+            </imgdir>
+            <imgdir name="60524">
+                <string name="name" value="Short Smooth Curls Hair"/>
+            </imgdir>
+            <imgdir name="60525">
+                <string name="name" value="Short Smooth Curls Hair"/>
+            </imgdir>
+            <imgdir name="60526">
+                <string name="name" value="Short Smooth Curls Hair"/>
+            </imgdir>
+            <imgdir name="60527">
+                <string name="name" value="Short Smooth Curls Hair"/>
+            </imgdir>
+            <imgdir name="60530">
+                <string name="name" value="Jerome Hair"/>
+            </imgdir>
+            <imgdir name="60531">
+                <string name="name" value="Jerome Hair"/>
+            </imgdir>
+            <imgdir name="60532">
+                <string name="name" value="Jerome Hair"/>
+            </imgdir>
+            <imgdir name="60533">
+                <string name="name" value="Jerome Hair"/>
+            </imgdir>
+            <imgdir name="60534">
+                <string name="name" value="Jerome Hair"/>
+            </imgdir>
+            <imgdir name="60535">
+                <string name="name" value="Jerome Hair"/>
+            </imgdir>
+            <imgdir name="60536">
+                <string name="name" value="Jerome Hair"/>
+            </imgdir>
+            <imgdir name="60537">
+                <string name="name" value="Jerome Hair"/>
+            </imgdir>
+            <imgdir name="60540">
+                <string name="name" value="New Rondo Hair"/>
+            </imgdir>
+            <imgdir name="60541">
+                <string name="name" value="New Rondo Hair"/>
+            </imgdir>
+            <imgdir name="60542">
+                <string name="name" value="New Rondo Hair"/>
+            </imgdir>
+            <imgdir name="60543">
+                <string name="name" value="New Rondo Hair"/>
+            </imgdir>
+            <imgdir name="60544">
+                <string name="name" value="New Rondo Hair"/>
+            </imgdir>
+            <imgdir name="60545">
+                <string name="name" value="New Rondo Hair"/>
+            </imgdir>
+            <imgdir name="60546">
+                <string name="name" value="New Rondo Hair"/>
+            </imgdir>
+            <imgdir name="60547">
+                <string name="name" value="New Rondo Hair"/>
+            </imgdir>
+            <imgdir name="60550">
+                <string name="name" value="New Tess Hair"/>
+            </imgdir>
+            <imgdir name="60551">
+                <string name="name" value="New Tess Hair"/>
+            </imgdir>
+            <imgdir name="60552">
+                <string name="name" value="New Tess Hair"/>
+            </imgdir>
+            <imgdir name="60553">
+                <string name="name" value="New Tess Hair"/>
+            </imgdir>
+            <imgdir name="60554">
+                <string name="name" value="New Tess Hair"/>
+            </imgdir>
+            <imgdir name="60555">
+                <string name="name" value="New Tess Hair"/>
+            </imgdir>
+            <imgdir name="60556">
+                <string name="name" value="New Tess Hair"/>
+            </imgdir>
+            <imgdir name="60557">
+                <string name="name" value="New Tess Hair"/>
+            </imgdir>
+            <imgdir name="61030">
+                <string name="name" value="Twisted Hair"/>
+            </imgdir>
+            <imgdir name="61031">
+                <string name="name" value="Twisted Hair"/>
+            </imgdir>
+            <imgdir name="61032">
+                <string name="name" value="Twisted Hair"/>
+            </imgdir>
+            <imgdir name="61033">
+                <string name="name" value="Twisted Hair"/>
+            </imgdir>
+            <imgdir name="61034">
+                <string name="name" value="Twisted Hair"/>
+            </imgdir>
+            <imgdir name="61035">
+                <string name="name" value="Twisted Hair"/>
+            </imgdir>
+            <imgdir name="61036">
+                <string name="name" value="Twisted Hair"/>
+            </imgdir>
+            <imgdir name="61037">
+                <string name="name" value="Twisted Hair"/>
+            </imgdir>
+            <imgdir name="61050">
+                <string name="name" value="Melody Hair"/>
+            </imgdir>
+            <imgdir name="61051">
+                <string name="name" value="Melody Hair"/>
+            </imgdir>
+            <imgdir name="61052">
+                <string name="name" value="Melody Hair"/>
+            </imgdir>
+            <imgdir name="61053">
+                <string name="name" value="Melody Hair"/>
+            </imgdir>
+            <imgdir name="61054">
+                <string name="name" value="Melody Hair"/>
+            </imgdir>
+            <imgdir name="61055">
+                <string name="name" value="Melody Hair"/>
+            </imgdir>
+            <imgdir name="61056">
+                <string name="name" value="Melody Hair"/>
+            </imgdir>
+            <imgdir name="61057">
+                <string name="name" value="Melody Hair"/>
+            </imgdir>
+            <imgdir name="61060">
+                <string name="name" value="Cool Lucid Hair"/>
+            </imgdir>
+            <imgdir name="61061">
+                <string name="name" value="Cool Lucid Hair"/>
+            </imgdir>
+            <imgdir name="61062">
+                <string name="name" value="Cool Lucid Hair"/>
+            </imgdir>
+            <imgdir name="61063">
+                <string name="name" value="Cool Lucid Hair"/>
+            </imgdir>
+            <imgdir name="61064">
+                <string name="name" value="Cool Lucid Hair"/>
+            </imgdir>
+            <imgdir name="61065">
+                <string name="name" value="Cool Lucid Hair"/>
+            </imgdir>
+            <imgdir name="61066">
+                <string name="name" value="Cool Lucid Hair"/>
+            </imgdir>
+            <imgdir name="61067">
+                <string name="name" value="Cool Lucid Hair"/>
+            </imgdir>
+            <imgdir name="61080">
+                <string name="name" value="Cutie Sour Hair"/>
+            </imgdir>
+            <imgdir name="61081">
+                <string name="name" value="Cutie Sour Hair"/>
+            </imgdir>
+            <imgdir name="61082">
+                <string name="name" value="Cutie Sour Hair"/>
+            </imgdir>
+            <imgdir name="61083">
+                <string name="name" value="Cutie Sour Hair"/>
+            </imgdir>
+            <imgdir name="61084">
+                <string name="name" value="Cutie Sour Hair"/>
+            </imgdir>
+            <imgdir name="61085">
+                <string name="name" value="Cutie Sour Hair"/>
+            </imgdir>
+            <imgdir name="61086">
+                <string name="name" value="Cutie Sour Hair"/>
+            </imgdir>
+            <imgdir name="61087">
+                <string name="name" value="Cutie Sour Hair"/>
+            </imgdir>
+            <imgdir name="61090">
+                <string name="name" value="Pigtails Hair"/>
+            </imgdir>
+            <imgdir name="61091">
+                <string name="name" value="Pigtails Hair"/>
+            </imgdir>
+            <imgdir name="61092">
+                <string name="name" value="Pigtails Hair"/>
+            </imgdir>
+            <imgdir name="61093">
+                <string name="name" value="Pigtails Hair"/>
+            </imgdir>
+            <imgdir name="61094">
+                <string name="name" value="Pigtails Hair"/>
+            </imgdir>
+            <imgdir name="61095">
+                <string name="name" value="Pigtails Hair"/>
+            </imgdir>
+            <imgdir name="61096">
+                <string name="name" value="Pigtails Hair"/>
+            </imgdir>
+            <imgdir name="61097">
+                <string name="name" value="Pigtails Hair"/>
+            </imgdir>
+            <imgdir name="61100">
+                <string name="name" value="Puff Pigtails Hair"/>
+            </imgdir>
+            <imgdir name="61101">
+                <string name="name" value="Puff Pigtails Hair"/>
+            </imgdir>
+            <imgdir name="61102">
+                <string name="name" value="Puff Pigtails Hair"/>
+            </imgdir>
+            <imgdir name="61103">
+                <string name="name" value="Puff Pigtails Hair"/>
+            </imgdir>
+            <imgdir name="61104">
+                <string name="name" value="Puff Pigtails Hair"/>
+            </imgdir>
+            <imgdir name="61105">
+                <string name="name" value="Puff Pigtails Hair"/>
+            </imgdir>
+            <imgdir name="61106">
+                <string name="name" value="Puff Pigtails Hair"/>
+            </imgdir>
+            <imgdir name="61107">
+                <string name="name" value="Puff Pigtails Hair"/>
+            </imgdir>
+            <imgdir name="61110">
+                <string name="name" value="Wavy Short Hair"/>
+            </imgdir>
+            <imgdir name="61111">
+                <string name="name" value="Wavy Short Hair"/>
+            </imgdir>
+            <imgdir name="61112">
+                <string name="name" value="Wavy Short Hair"/>
+            </imgdir>
+            <imgdir name="61113">
+                <string name="name" value="Wavy Short Hair"/>
+            </imgdir>
+            <imgdir name="61114">
+                <string name="name" value="Wavy Short Hair"/>
+            </imgdir>
+            <imgdir name="61115">
+                <string name="name" value="Wavy Short Hair"/>
+            </imgdir>
+            <imgdir name="61116">
+                <string name="name" value="Wavy Short Hair"/>
+            </imgdir>
+            <imgdir name="61117">
+                <string name="name" value="Wavy Short Hair"/>
+            </imgdir>
+            <imgdir name="61530">
+                <string name="name" value="Youthful Romantic Hair"/>
+            </imgdir>
+            <imgdir name="61531">
+                <string name="name" value="Youthful Romantic Hair"/>
+            </imgdir>
+            <imgdir name="61532">
+                <string name="name" value="Youthful Romantic Hair"/>
+            </imgdir>
+            <imgdir name="61533">
+                <string name="name" value="Youthful Romantic Hair"/>
+            </imgdir>
+            <imgdir name="61534">
+                <string name="name" value="Youthful Romantic Hair"/>
+            </imgdir>
+            <imgdir name="61535">
+                <string name="name" value="Youthful Romantic Hair"/>
+            </imgdir>
+            <imgdir name="61536">
+                <string name="name" value="Youthful Romantic Hair"/>
+            </imgdir>
+            <imgdir name="61537">
+                <string name="name" value="Youthful Romantic Hair"/>
+            </imgdir>
+            <imgdir name="61550">
+                <string name="name" value="Plum Blossom Hair"/>
+            </imgdir>
+            <imgdir name="61551">
+                <string name="name" value="Plum Blossom Hair"/>
+            </imgdir>
+            <imgdir name="61552">
+                <string name="name" value="Plum Blossom Hair"/>
+            </imgdir>
+            <imgdir name="61553">
+                <string name="name" value="Plum Blossom Hair"/>
+            </imgdir>
+            <imgdir name="61554">
+                <string name="name" value="Plum Blossom Hair"/>
+            </imgdir>
+            <imgdir name="61555">
+                <string name="name" value="Plum Blossom Hair"/>
+            </imgdir>
+            <imgdir name="61556">
+                <string name="name" value="Plum Blossom Hair"/>
+            </imgdir>
+            <imgdir name="61557">
+                <string name="name" value="Plum Blossom Hair"/>
+            </imgdir>
+            <imgdir name="61560">
+                <string name="name" value="Strobilanthes Oligantha Hair"/>
+            </imgdir>
+            <imgdir name="61561">
+                <string name="name" value="Strobilanthes Oligantha Hair"/>
+            </imgdir>
+            <imgdir name="61562">
+                <string name="name" value="Strobilanthes Oligantha Hair"/>
+            </imgdir>
+            <imgdir name="61563">
+                <string name="name" value="Strobilanthes Oligantha Hair"/>
+            </imgdir>
+            <imgdir name="61564">
+                <string name="name" value="Strobilanthes Oligantha Hair"/>
+            </imgdir>
+            <imgdir name="61565">
+                <string name="name" value="Strobilanthes Oligantha Hair"/>
+            </imgdir>
+            <imgdir name="61566">
+                <string name="name" value="Strobilanthes Oligantha Hair"/>
+            </imgdir>
+            <imgdir name="61567">
+                <string name="name" value="Strobilanthes Oligantha Hair"/>
+            </imgdir>
+            <imgdir name="61570">
+                <string name="name" value="Selena Hair"/>
+            </imgdir>
+            <imgdir name="61571">
+                <string name="name" value="Selena Hair"/>
+            </imgdir>
+            <imgdir name="61572">
+                <string name="name" value="Selena Hair"/>
+            </imgdir>
+            <imgdir name="61573">
+                <string name="name" value="Selena Hair"/>
+            </imgdir>
+            <imgdir name="61574">
+                <string name="name" value="Selena Hair"/>
+            </imgdir>
+            <imgdir name="61575">
+                <string name="name" value="Selena Hair"/>
+            </imgdir>
+            <imgdir name="61576">
+                <string name="name" value="Selena Hair"/>
+            </imgdir>
+            <imgdir name="61577">
+                <string name="name" value="Selena Hair"/>
+            </imgdir>
+            <imgdir name="61660">
+                <string name="name" value="Long Silky Locks Hair"/>
+            </imgdir>
+            <imgdir name="61661">
+                <string name="name" value="Long Silky Locks Hair"/>
+            </imgdir>
+            <imgdir name="61662">
+                <string name="name" value="Long Silky Locks Hair"/>
+            </imgdir>
+            <imgdir name="61663">
+                <string name="name" value="Long Silky Locks Hair"/>
+            </imgdir>
+            <imgdir name="61664">
+                <string name="name" value="Long Silky Locks Hair"/>
+            </imgdir>
+            <imgdir name="61665">
+                <string name="name" value="Long Silky Locks Hair"/>
+            </imgdir>
+            <imgdir name="61666">
+                <string name="name" value="Long Silky Locks Hair"/>
+            </imgdir>
+            <imgdir name="61667">
+                <string name="name" value="Long Silky Locks Hair"/>
+            </imgdir>
+            <imgdir name="30011">
+                <string name="name" value="Zeta"/>
+            </imgdir>
+            <imgdir name="30012">
+                <string name="name" value="Zeta"/>
+            </imgdir>
+            <imgdir name="30013">
+                <string name="name" value="Zeta"/>
+            </imgdir>
+            <imgdir name="30014">
+                <string name="name" value="Zeta"/>
+            </imgdir>
+            <imgdir name="30015">
+                <string name="name" value="Zeta"/>
+            </imgdir>
+            <imgdir name="30016">
+                <string name="name" value="Zeta"/>
+            </imgdir>
+            <imgdir name="30017">
+                <string name="name" value="Zeta"/>
+            </imgdir>
         </imgdir>
         <imgdir name="Longcoat">
             <imgdir name="1050000">
@@ -53397,9 +55712,6 @@
                 <string name="name" value="Lunar New Year Pudgy Piggy Outfit (F)"/>
                 <string name="desc" value="A Lunar New Year Pudgy Piggy Outfit (F) designed by the China MapleStory player moyang."/>
             </imgdir>
-            <imgdir name="1050477">
-                <string name="name" value="Soft Mist"/>
-            </imgdir>
             <imgdir name="1050481">
                 <string name="name" value="Snow Blossom Coat"/>
             </imgdir>
@@ -54219,6 +56531,132 @@
             </imgdir>
             <imgdir name="1053640">
                 <string name="name" value="Love Swan"/>
+            </imgdir>
+            <imgdir name="1053656">
+                <string name="name" value="Dreamy-cute Outfit (Black)"/>
+            </imgdir>
+            <imgdir name="1053657">
+                <string name="name" value="Dreamy-cute Outfit (Blue)"/>
+            </imgdir>
+            <imgdir name="1053658">
+                <string name="name" value="Dreamy-cute Outfit (Green)"/>
+            </imgdir>
+            <imgdir name="1053659">
+                <string name="name" value="Dreamy-cute Outfit (Orange)"/>
+            </imgdir>
+            <imgdir name="1053660">
+                <string name="name" value="Dreamy-cute Outfit (Pink)"/>
+            </imgdir>
+            <imgdir name="1053661">
+                <string name="name" value="Dreamy-cute Outfit (Purple)"/>
+            </imgdir>
+            <imgdir name="1050596">
+                <string name="name" value="Blue Beachwave"/>
+            </imgdir>
+            <imgdir name="1051670">
+                <string name="name" value="Blue Oceanwave"/>
+            </imgdir>
+            <imgdir name="1053543">
+                <string name="name" value="Fog Admiral"/>
+            </imgdir>
+            <imgdir name="1053822">
+                <string name="name" value="Crimson Hush Uniform"/>
+            </imgdir>
+            <imgdir name="1053851">
+                <string name="name" value="Cozy Black Sheep Pajamas"/>
+                <string name="desc" value="A Cozy Black Sheep Pajamas designed by the China MapleStory player criceto."/>
+            </imgdir>
+            <imgdir name="1053852">
+                <string name="name" value="Cozy White Sheep Pajamas"/>
+                <string name="desc" value="A set of Cozy White Sheep Pajamas designed by the China MapleStory player criceto."/>
+            </imgdir>
+            <imgdir name="1053855">
+                <string name="name" value="Flowerful Scent Outfit"/>
+                <string name="desc" value="Designed by the China MapleStory player Criceto."/>
+            </imgdir>
+            <imgdir name="1053856">
+                <string name="name" value="Flowerful Scent Dress"/>
+                <string name="desc" value="Designed by the China MapleStory player Criceto."/>
+            </imgdir>
+            <imgdir name="1053857">
+                <string name="name" value="Baby Seal Outfit"/>
+                <string name="desc" value="Designed by the China MapleStory player Criceto."/>
+            </imgdir>
+            <imgdir name="1053858">
+                <string name="name" value="Baby Seal Dress"/>
+                <string name="desc" value="Designed by the China MapleStory player Criceto."/>
+            </imgdir>
+            <imgdir name="1053859">
+                <string name="name" value="Daisy Vacation Outfit"/>
+                <string name="desc" value="Designed by the China MapleStory player xiashengsheng."/>
+            </imgdir>
+            <imgdir name="1053860">
+                <string name="name" value="Daisy Vacation Dress"/>
+                <string name="desc" value="Designed by the China MapleStory player xiashengsheng."/>
+            </imgdir>
+            <imgdir name="1053764">
+                <string name="name" value="Competent Problem Solver"/>
+            </imgdir>
+            <imgdir name="1053765">
+                <string name="name" value="All-Round Problem Solver"/>
+            </imgdir>
+            <imgdir name="1053612">
+                <string name="name" value="Combat Military Academy Uniform Pants"/>
+            </imgdir>
+            <imgdir name="1053613">
+                <string name="name" value="Combat Military Academy Uniform Dress"/>
+            </imgdir>
+            <imgdir name="1053865">
+                <string name="name" value="Beige Picnic Outfit"/>
+                <string name="desc" value="A Beige Picnic Outfit designed by the China MapleStory player pipi."/>
+            </imgdir>
+            <imgdir name="1053866">
+                <string name="name" value="Brown Picnic Outfit"/>
+                <string name="desc" value="A Brown Picnic Outfit designed by the China MapleStory player pipi."/>
+            </imgdir>
+            <imgdir name="1053714">
+                <string name="name" value="Sweetest Dream Overcoat"/>
+                <string name="desc" value="A Sweetest Dream Overcoat designed by the China MapleStory player pipi."/>
+            </imgdir>
+            <imgdir name="1053715">
+                <string name="name" value="Sweetest Dream Hoodie"/>
+                <string name="desc" value="A Sweetest Dream Hoodie designed by the China MapleStory player pipi."/>
+            </imgdir>
+            <imgdir name="1053842">
+                <string name="name" value="Bear Pajamas Outfit"/>
+                <string name="desc" value="An outfit from the Bear Pajama set which won a Silver Hand Award for its design."/>
+            </imgdir>
+            <imgdir name="1053538">
+                <string name="name" value="Showa Grandpa Outfit"/>
+            </imgdir>
+            <imgdir name="1053539">
+                <string name="name" value="Showa Grandma Outfit"/>
+            </imgdir>
+            <imgdir name="1053828">
+                <string name="name" value="Goddess&apos;s Grace Outfit"/>
+            </imgdir>
+            <imgdir name="1053841">
+                <string name="name" value="Starlight Ensemble Uniform"/>
+            </imgdir>
+            <imgdir name="1053314">
+                <string name="name" value="Maple Gumshoe&apos;s Coat"/>
+            </imgdir>
+            <imgdir name="1053575">
+                <string name="name" value="Monochrome Movie Protagonist"/>
+            </imgdir>
+            <imgdir name="1050604">
+                <string name="name" value="Slayer Black Clothes"/>
+                <string name="desc" value="Outfit (M) of the Golden Hand Item, Revenant Hunter Set."/>
+            </imgdir>
+            <imgdir name="1051677">
+                <string name="name" value="Hunter Black Clothes"/>
+                <string name="desc" value="Outfit (F) of the Golden Hand Item, Revenant Hunter Set."/>
+            </imgdir>
+            <imgdir name="1052746">
+                <string name="name" value="Chef Overall"/>
+            </imgdir>
+            <imgdir name="1052749">
+                <string name="name" value="Nurse Dress"/>
             </imgdir>
         </imgdir>
         <imgdir name="Pants">
@@ -55661,6 +58099,26 @@
             <imgdir name="1062282">
                 <string name="name" value="Deep Purple"/>
             </imgdir>
+            <imgdir name="1061207">
+                <string name="name" value="Star Skirt"/>
+            </imgdir>
+            <imgdir name="1060181">
+                <string name="name" value="Star Shorts"/>
+            </imgdir>
+            <imgdir name="1060188">
+                <string name="name" value="White Hot Pants"/>
+                <string name="desc" value="A pair of white-hot pants. Designed by the China MapleStory player Xiaoshu."/>
+            </imgdir>
+            <imgdir name="1060187">
+                <string name="name" value="Green Rolled-Up Shorts"/>
+            </imgdir>
+            <imgdir name="1061212">
+                <string name="name" value="White Hot Skirt"/>
+                <string name="desc" value="White-hot skirt. Designed by the China MapleStory player Xiaoshu."/>
+            </imgdir>
+            <imgdir name="1061211">
+                <string name="name" value="Green Skirt"/>
+            </imgdir>
         </imgdir>
         <imgdir name="Ring">
             <imgdir name="1112000">
@@ -56860,6 +59318,98 @@
             <imgdir name="1115347">
                 <string name="name" value="Black Cat Label Ring"/>
                 <string name="desc" value="A Black Cat Label Ring designed by the China MapleStory player gezimang."/>
+            </imgdir>
+            <imgdir name="1115065">
+                <string name="name" value="Clockwork Knight Chat Ring"/>
+                <string name="desc" value="Talk in clockwork knight-themed chat bubbles."/>
+            </imgdir>
+            <imgdir name="1115202">
+                <string name="name" value="Tropical Fruit Chat Ring"/>
+            </imgdir>
+            <imgdir name="1115303">
+                <string name="name" value="Tropical Fruit Label Ring"/>
+            </imgdir>
+            <imgdir name="1115221">
+                <string name="name" value="Whalesong Chat Ring"/>
+                <string name="desc" value="A Whalesong Chat Ring designed by China MapleStory player gezimang."/>
+            </imgdir>
+            <imgdir name="1115323">
+                <string name="name" value="Whalesong Label Ring"/>
+                <string name="desc" value="A Whalesong Label Ring designed by China MapleStory player gezimang."/>
+            </imgdir>
+            <imgdir name="1115247">
+                <string name="name" value="Stuffed White Bunny Chat Ring"/>
+                <string name="desc" value="A Stuffed White Bunny Chat Ring designed by the China MapleStory player criceto."/>
+            </imgdir>
+            <imgdir name="1115248">
+                <string name="name" value="Stuffed Black Bunny Chat Ring"/>
+                <string name="desc" value="A Stuffed Black Bunny Chat Ring designed by the China MapleStory player criceto."/>
+            </imgdir>
+            <imgdir name="1115348">
+                <string name="name" value="Stuffed White Bunny Label Ring"/>
+                <string name="desc" value="A Stuffed White Bunny Label Ring designed by the China MapleStory player criceto."/>
+            </imgdir>
+            <imgdir name="1115349">
+                <string name="name" value="Black Stuffed Bunny Label Ring"/>
+                <string name="desc" value="A Stuffed Black Bunny Label Ring designed by the China MapleStory player criceto."/>
+            </imgdir>
+            <imgdir name="1115252">
+                <string name="name" value="Flowery Fox Chat Ring (Pink)"/>
+                <string name="desc" value="Designed by the China MapleStory player Circeto."/>
+            </imgdir>
+            <imgdir name="1115249">
+                <string name="name" value="Flowery Fox Chat Ring (Blue)"/>
+                <string name="desc" value="Designed by the China MapleStory player Circeto."/>
+            </imgdir>
+            <imgdir name="1115353">
+                <string name="name" value="Flowerful Fox Label Ring (Pink)"/>
+                <string name="desc" value="Designed by the China MapleStory player Circeto."/>
+            </imgdir>
+            <imgdir name="1115350">
+                <string name="name" value="Flowerful Fox Label Ring (Blue)"/>
+                <string name="desc" value="Designed by the China MapleStory player Circeto."/>
+            </imgdir>
+            <imgdir name="1112830">
+                <string name="name" value="Friendship Ring: Soap Bubble"/>
+                <string name="desc" value="If a nearby player is equipped with Friendship Ring: Soap Bubble a soap bubble effect will trigger."/>
+            </imgdir>
+            <imgdir name="1115344">
+                <string name="name" value="Dreaming of Adventure Label Ring"/>
+                <string name="desc" value="Applies a Dreaming of Adventure theme to your nametag while equipped. "/>
+            </imgdir>
+            <imgdir name="1115343">
+                <string name="name" value="Solaria Label Ring"/>
+                <string name="desc" value="Designed by MapleSEA player, Scarlett. Displays your name on a Solaria label."/>
+            </imgdir>
+            <imgdir name="1115342">
+                <string name="name" value="Budding Pot Label Ring"/>
+                <string name="desc" value="Applies a Budding Pot theme to your nametag while equipped. "/>
+            </imgdir>
+            <imgdir name="1115340">
+                <string name="name" value="Maple Pop Star Label Ring"/>
+                <string name="desc" value="Applies a Maple Pop Star theme to your nametag while equipped."/>
+            </imgdir>
+            <imgdir name="1115318">
+                <string name="name" value="Maple Cafe Label Ring"/>
+            </imgdir>
+            <imgdir name="1115243">
+                <string name="name" value="Dreaming of Adventure Chat Ring"/>
+                <string name="desc" value="Makes Dreaming of Adventure bubbles appear while you chat."/>
+            </imgdir>
+            <imgdir name="1115242">
+                <string name="name" value="Solaria Chat Ring"/>
+                <string name="desc" value="Designed by MapleSEA player, Scarlett. Displays your chat messages in Solaria quotes."/>
+            </imgdir>
+            <imgdir name="1115241">
+                <string name="name" value="Budding Pot Chat Ring"/>
+                <string name="desc" value="Makes Budding Pot bubbles appear while you chat."/>
+            </imgdir>
+            <imgdir name="1115239">
+                <string name="name" value="Maple Pop Star Chat Ring"/>
+                <string name="desc" value="Makes Maple Pop Star bubbles appear while you chat."/>
+            </imgdir>
+            <imgdir name="1115217">
+                <string name="name" value="Maple Cafe Chat Ring"/>
             </imgdir>
         </imgdir>
         <imgdir name="Shield">
@@ -59177,6 +61727,68 @@
             <imgdir name="1073628">
                 <string name="name" value="Road of Adventure"/>
             </imgdir>
+            <imgdir name="1073498">
+                <string name="name" value="Dreamy-cute Shoes (Black)"/>
+            </imgdir>
+            <imgdir name="1073499">
+                <string name="name" value="Dreamy-cute Shoes (Blue)"/>
+            </imgdir>
+            <imgdir name="1073500">
+                <string name="name" value="Dreamy-cute Shoes (Green)"/>
+            </imgdir>
+            <imgdir name="1073501">
+                <string name="name" value="Dreamy-cute Shoes (Orange)"/>
+            </imgdir>
+            <imgdir name="1073502">
+                <string name="name" value="Dreamy-cute Shoes (Pink)"/>
+            </imgdir>
+            <imgdir name="1073503">
+                <string name="name" value="Dreamy-cute Shoes (Purple)"/>
+            </imgdir>
+            <imgdir name="1073303">
+                <string name="name" value="Starry Summer Night Shoes"/>
+                <string name="desc" value="A pair of Starry Summer Night Shoes designed by China MapleStory player Criceto."/>
+            </imgdir>
+            <imgdir name="1073428">
+                <string name="name" value="Fog Admiral Boots"/>
+            </imgdir>
+            <imgdir name="1073564">
+                <string name="name" value="Excited Beginning"/>
+            </imgdir>
+            <imgdir name="1073613">
+                <string name="name" value="Crimson Hush Boots"/>
+            </imgdir>
+            <imgdir name="1073645">
+                <string name="name" value="Black Sheep Sleep Socks"/>
+                <string name="desc" value="A pair of Black Sheep Sleep Socks designed by the China MapleStory player criceto."/>
+            </imgdir>
+            <imgdir name="1073646">
+                <string name="name" value="White Sheep Sleep Socks"/>
+                <string name="desc" value="A pair of White Sheep Sleep Socks designed by the China MapleStory player criceto."/>
+            </imgdir>
+            <imgdir name="1073462">
+                <string name="name" value="Combat Military Academy Shoes"/>
+            </imgdir>
+            <imgdir name="1073281">
+                <string name="name" value="Maple Gumshoe&apos;s Gumshoes"/>
+            </imgdir>
+            <imgdir name="1073439">
+                <string name="name" value="Monochrome Movie Shoes"/>
+            </imgdir>
+            <imgdir name="1072923">
+                <string name="name" value="Contemporary Chic Shoes"/>
+                <string name="desc" value="Part of an outfit favored by modern gals on the go. These shoes are perfect for a day on the town or a dinner party."/>
+            </imgdir>
+            <imgdir name="1073593">
+                <string name="name" value="Immortal Walk"/>
+                <string name="desc" value="Shoes of the Golden Hand Item, Revenant Hunter Set."/>
+            </imgdir>
+            <imgdir name="1072922">
+                <string name="name" value="Chef Shoes"/>
+            </imgdir>
+            <imgdir name="1072924">
+                <string name="name" value="Nurse Boots"/>
+            </imgdir>
         </imgdir>
         <imgdir name="Taming">
             <imgdir name="1902010">
@@ -59691,6 +62303,24 @@
             </imgdir>
             <imgdir name="1912106">
                 <string name="name" value="Mystic Tiger Saddle"/>
+            </imgdir>
+            <imgdir name="1902091">
+                <string name="name" value="Classic Car"/>
+            </imgdir>
+            <imgdir name="1902092">
+                <string name="name" value="Pushchair"/>
+            </imgdir>
+            <imgdir name="1902093">
+                <string name="name" value="Honey Cat"/>
+            </imgdir>
+            <imgdir name="1912107">
+                <string name="name" value="Classic Car Saddle"/>
+            </imgdir>
+            <imgdir name="1912108">
+                <string name="name" value="Pushchair Saddle"/>
+            </imgdir>
+            <imgdir name="1912109">
+                <string name="name" value="Honey Cat Saddle"/>
             </imgdir>
         </imgdir>
         <imgdir name="Weapon">
@@ -63250,10 +65880,6 @@
                 <string name="name" value="Winter Deer Tambourine"/>
                 <string name="desc" value="A Winter Deer Tambourine weapon skin that can be equipped over #cany weapon.#"/>
             </imgdir>
-            <imgdir name="1702792">
-                <string name="name" value="Blood Oath Weapon"/>
-                <string name="desc" value="A weapon skin that can be equipped over #cany weapon except a Knuckle or Gun.#"/>
-            </imgdir>
             <imgdir name="1702865">
                 <string name="name" value="Reflection of Truth"/>
                 <string name="desc" value="Stare long enough, and you may just see the truth was right under your nose. A weapon skin that can be equipped over #cany weapon except a Gun.#"/>
@@ -63990,6 +66616,97 @@
             <imgdir name="1703141">
                 <string name="name" value="Thousand-Year Promise"/>
                 <string name="desc" value="A weapon skin, and a Golden Hand Item from the Garden Sage Outfit Set, that can be equipped over#c any type of weapon.#"/>
+            </imgdir>
+            <imgdir name="1702965">
+                <string name="name" value="Ice Cream Lover"/>
+                <string name="desc" value="An Ice Cream Lover&apos;s weapon skin that can be equipped over#c any weapon.# Designed by the China MapleStory player Pipi."/>
+            </imgdir>
+            <imgdir name="1702981">
+                <string name="name" value="Black Wave"/>
+                <string name="desc" value="A weapon skin that can be equipped over#c any weapon.#"/>
+            </imgdir>
+            <imgdir name="1703117">
+                <string name="name" value="Pearl-colored Memory"/>
+                <string name="desc" value="This weapon skin can be equipped over#c any type of weapon.#"/>
+            </imgdir>
+            <imgdir name="1703170">
+                <string name="name" value="Crimson Hush"/>
+                <string name="desc" value="A weapon skin that can be equipped over#c any weapon.#"/>
+            </imgdir>
+            <imgdir name="1703184">
+                <string name="name" value="Enchanting Scent"/>
+                <string name="desc" value="A weapon skin that can be equipped over#c any weapon.#"/>
+            </imgdir>
+            <imgdir name="1703214">
+                <string name="name" value="Black Sword"/>
+                <string name="desc" value="A Black Sword that can be equipped over#c any weapon.#"/>
+            </imgdir>
+            <imgdir name="1703215">
+                <string name="name" value="Aurora Sword"/>
+                <string name="desc" value="An Aurora Sword that can be equipped over#c any weapon.#"/>
+            </imgdir>
+            <imgdir name="1703213">
+                <string name="name" value="Dozing Lamb Cushion"/>
+                <string name="desc" value="A Dozing Lamb Cushion that can be equipped over#c any weapon.#"/>
+            </imgdir>
+            <imgdir name="1703221">
+                <string name="name" value="Crystal Rose"/>
+                <string name="desc" value="A weapon skin that can be equipped over#c any weapon.# Designed by the China MapleStory player &quot;Criceto&quot;."/>
+            </imgdir>
+            <imgdir name="1703125">
+                <string name="name" value="Case Closed"/>
+                <string name="desc" value="This weapon skin can be equipped over #cany weapon.#"/>
+            </imgdir>
+            <imgdir name="1703021">
+                <string name="name" value="Combat Military Academy Weapon"/>
+                <string name="desc" value="A Combat Military Academy weapon skin that can be equipped over #cany weapon.#"/>
+            </imgdir>
+            <imgdir name="1703226">
+                <string name="name" value="Picnic Day"/>
+                <string name="desc" value="A Picnic Day &quot;weapon&quot; designed by the China MapleStory player pipi. Can be equipped over #cany weapon.#"/>
+            </imgdir>
+            <imgdir name="1703090">
+                <string name="name" value="Sweetest Dream Weapon"/>
+                <string name="desc" value="An Sweetest Dream weapon skin that can be equipped over #cany weapon.#"/>
+            </imgdir>
+            <imgdir name="1703186">
+                <string name="name" value="Goddess&apos;s Grace Weapon"/>
+                <string name="desc" value="A weapon skin that can be equipped over #cany weapon.#"/>
+            </imgdir>
+            <imgdir name="1703197">
+                <string name="name" value="Starlight Ensemble Baton"/>
+                <string name="desc" value="A weapon skin that can be equipped over #cany weapon.#"/>
+            </imgdir>
+            <imgdir name="1702836">
+                <string name="name" value="Maple Gumshoe&apos;s Tablet"/>
+                <string name="desc" value="A weapon skin that can be equipped over#c any weapon.#"/>
+            </imgdir>
+            <imgdir name="1702998">
+                <string name="name" value="Monochrome Movie Cane"/>
+                <string name="desc" value="A weapon skin that can be equipped over #cany weapon.#"/>
+            </imgdir>
+            <imgdir name="1702507">
+                <string name="name" value="Contemporary Chic Fan"/>
+                <string name="desc" value="Part of an outfit favored by modern gals on the go. This fan is the perfect accessory to show off your status. Can be equipped over #cany weapon.#"/>
+            </imgdir>
+            <imgdir name="1702506">
+                <string name="name" value="Perfect Cooking "/>
+                <string name="desc" value="A weapon skin that can be equipped over #cany weapon.#"/>
+            </imgdir>
+            <imgdir name="1703142">
+                <string name="name" value="Eastern Black Blade"/>
+                <string name="desc" value="A weapon skin, and a Golden Hand Item from the Revenant Hunter Set, that can be equipped over #cany weapon.#"/>
+            </imgdir>
+            <imgdir name="1492900">
+                <string name="name" value="Magical Pistol"/>
+            </imgdir>
+            <imgdir name="1702371">
+                <string name="name" value="Pimp Stick"/>
+                <string name="desc" value="A weapon skin that can be equipped over#c any weapon#."/>
+            </imgdir>
+            <imgdir name="1702372">
+                <string name="name" value="Pimp Chalice"/>
+                <string name="desc" value="A weapon skin that can be equipped over#c any weapon#."/>
             </imgdir>
         </imgdir>
         <imgdir name="PetEquip">
@@ -64816,6 +67533,42 @@ Can be equipped by #cToto, Thumpy, Jr. Orchid, Jr. Sierra, Jr. Ryan, Stickman, a
             <imgdir name="1802769">
                 <string name="name" value="Balloon Tail"/>
                 <string name="desc" value="To #cBalloon Dog#, this tail represents life itself."/>
+            </imgdir>
+            <imgdir name="1802829">
+                <string name="name" value="Peach Bubble Star"/>
+                <string name="desc" value="Lovely #cPeach Bubble#&apos;s shimmering stars."/>
+            </imgdir>
+            <imgdir name="1802830">
+                <string name="name" value="Leaf Bubble Star"/>
+                <string name="desc" value="Fresh #cLeaf Bubble#&apos;s shimmering stars."/>
+            </imgdir>
+            <imgdir name="1802831">
+                <string name="name" value="Mint Bubble Star"/>
+                <string name="desc" value="Calm #cMint Bubble#&apos;s shimmering stars."/>
+            </imgdir>
+            <imgdir name="1802800">
+                <string name="name" value="Snow Meow Snowflake"/>
+                <string name="desc" value="Snow Fluffs! #cSnow Meow&apos;s# glittering snowflakes."/>
+            </imgdir>
+            <imgdir name="1802801">
+                <string name="name" value="Bunny Meow Snowflake"/>
+                <string name="desc" value="Snow Fluffs! #cBunny Meow&apos;s# glittering snowflakes."/>
+            </imgdir>
+            <imgdir name="1802802">
+                <string name="name" value="Panda Meow Snowflake"/>
+                <string name="desc" value="Snow Fluffs! #cPanda Meow&apos;s# glittering snowflakes."/>
+            </imgdir>
+            <imgdir name="1802893">
+                <string name="name" value="Sparkling Heart"/>
+                <string name="desc" value="#cHappy Heart&apos;s# sparkle."/>
+            </imgdir>
+            <imgdir name="1802894">
+                <string name="name" value="Lightning Flash"/>
+                <string name="desc" value="#cAngerbolt&apos;s# flash."/>
+            </imgdir>
+            <imgdir name="1802895">
+                <string name="name" value="Moist Droplets"/>
+                <string name="desc" value="#cSad Cloud&apos;s# tears."/>
             </imgdir>
         </imgdir>
     </imgdir>

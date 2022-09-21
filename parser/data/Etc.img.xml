@@ -11025,5 +11025,25 @@
             <string name="desc" value="A guide that contains all the commands for Pudgycat.\n#cDouble-click on the item to open the guide.#"/>
             <string name="name" value="Pet Command Guide: Pudgycat"/>
         </imgdir>
+        <imgdir name="4009993">
+            <string name="desc" value="Increases the amount of Experience gained by 20%"/>
+            <string name="name" value="1.2x Exp Coupon"/>
+        </imgdir>
+        <imgdir name="4009994">
+            <string name="desc" value="Increases the amount of Drops and Mesos gained by 20%"/>
+            <string name="name" value="1.2x Drop/Mesos Coupon"/>
+        </imgdir>
+        <imgdir name="4160518">
+            <string name="name" value="Pet Command Guide: Bubble Pets"/>
+            <string name="desc" value="A guide that contains all the commands for Bubble Pets.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160519">
+            <string name="name" value="Pet Command Guide: Meow Pets"/>
+            <string name="desc" value="A guide that contains all the commands for Meow Pets.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4160520">
+            <string name="name" value="Pet Command Guide: Emotional Speech Bubble Pets"/>
+            <string name="desc" value="A guide that contains all the commands for Emotional Speech Bubble Pets.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
     </imgdir>
 </imgdir>

@@ -2637,4 +2637,16 @@
         <string name="desc" value="A raw fish which the #cDalsoo# pet enjoys.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
         <string name="name" value="Raw Fish"/>
     </imgdir>
+    <imgdir name="5240313">
+        <string name="desc" value="Food the #cBubble# pets enjoy.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+        <string name="name" value="Bubble Pet Food"/>
+    </imgdir>
+    <imgdir name="5240314">
+        <string name="desc" value="Food the #cMeow# pets enjoy.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+        <string name="name" value="Meow Pet Food"/>
+    </imgdir>
+    <imgdir name="5240315">
+        <string name="desc" value="Food the #cEmotional Speech Bubble# pets enjoy.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
+        <string name="name" value="Emoji Cookie"/>
+    </imgdir>
 </imgdir>

@@ -1683,64 +1683,64 @@
         <string name="desc" value="Improves MaxHP on face accessories.\nSuccess rate:70%, MaxHP +15 \nIf failed, the item will be destroyed at a 50% rate."/>
     </imgdir>
     <imgdir name="2040105">
-        <string name="name" value="Scroll for Face Accessory for Avoidability 10%"/>
-        <string name="desc" value="Improves avoidability on face accessories.\nSuccess rate:10%, Avoidability +2, DEX +2. "/>
+        <string name="name" value="Scroll for Face Accessory for DEX 10%"/>
+        <string name="desc" value="Improves DEX on face accessories.\nSuccess rate:10%, Accuracy +2, DEX +2. "/>
     </imgdir>
     <imgdir name="2040106">
-        <string name="name" value="Scroll for Face Accessory for Avoidability 60%"/>
-        <string name="desc" value="Improves avoidability on face accessories.\nSuccess rate:60%, Avoidability +1, DEX +1. "/>
+        <string name="name" value="Scroll for Face Accessory for DEX 60%"/>
+        <string name="desc" value="Improves DEX on face accessories.\nSuccess rate:60%, Accuracy +1, DEX +1. "/>
     </imgdir>
     <imgdir name="2040107">
-        <string name="name" value="Scroll for Face Accessory for Avoidability 100%"/>
-        <string name="desc" value="Improves avoidability on face accessories.\nSuccess rate:100%, Avoidability +1"/>
+        <string name="name" value="Scroll for Face Accessory for DEX 100%"/>
+        <string name="desc" value="Improves DEX on face accessories.\nSuccess rate:100%, Accuracy +1"/>
     </imgdir>
     <imgdir name="2040108">
-        <string name="name" value="Dark Scroll for Face Accessory for Avoidability 30%"/>
-        <string name="desc" value="Improves avoidability on face accessories.\nSuccess rate:30%, Avoidability +2, DEX +2 \nIf failed, the item will be destroyed at a 50% rate."/>
+        <string name="name" value="Dark Scroll for Face Accessory for DEX 30%"/>
+        <string name="desc" value="Improves DEX on face accessories.\nSuccess rate:30%, Accuracy +2, DEX +2 \nIf failed, the item will be destroyed at a 50% rate."/>
     </imgdir>
     <imgdir name="2040109">
-        <string name="name" value="Dark Scroll for Face Accessory for Avoidability 70%"/>
-        <string name="desc" value="Improves avoidability on face accessories.\nSuccess rate:70%, Avoidability +1, DEX +1 \nIf failed, the item will be destroyed at a 50% rate."/>
+        <string name="name" value="Dark Scroll for Face Accessory for DEX 70%"/>
+        <string name="desc" value="Improves DEX on face accessories.\nSuccess rate:70%, Accuracy +1, DEX +1 \nIf failed, the item will be destroyed at a 50% rate."/>
     </imgdir>
     <imgdir name="2040200">
-        <string name="name" value="Scroll for Eye Accessory for Accuracy 10%"/>
-        <string name="desc" value="Improves accuracy on eye accessories.\nSuccess rate:10%, Accuracy +3, DEX +1. "/>
+        <string name="name" value="Scroll for Eye Accessory for HP 10%"/>
+        <string name="desc" value="Improves MaxHP on eye accessories.\nSuccess rate:10%, MaxHP +30. "/>
     </imgdir>
     <imgdir name="2040201">
-        <string name="name" value="Scroll for Eye Accessory for Accuracy 60%"/>
-        <string name="desc" value="Improves accuracy on eye accessories.\nSuccess rate:60%, Accuracy +2. "/>
+        <string name="name" value="Scroll for Eye Accessory for HP 60%"/>
+        <string name="desc" value="Improves MaxHP on eye accessories.\nSuccess rate:60%, MaxHP +15. "/>
     </imgdir>
     <imgdir name="2040202">
-        <string name="name" value="Scroll for Eye Accessory for Accuracy 100%"/>
-        <string name="desc" value="Improves accuracy on eye accessories.\nSuccess rate:100%, Accuracy +1"/>
+        <string name="name" value="Scroll for Eye Accessory for HP 100%"/>
+        <string name="desc" value="Improves MaxHP on eye accessories.\nSuccess rate:100%, MaxHP +5"/>
     </imgdir>
     <imgdir name="2040203">
-        <string name="name" value="Dark Scroll for Eye Accessory for Accuracy 30%"/>
-        <string name="desc" value="Improves accuracy on eye accessories.\nSuccess rate:30%, Accuracy +3, DEX +1 \nIf failed, the item will be destroyed at a 50% rate."/>
+        <string name="name" value="Dark Scroll for Eye Accessory for HP 30%"/>
+        <string name="desc" value="Improves MaxHP on eye accessories.\nSuccess rate:30%, MaxHP +30.\nIf failed, the item will be destroyed at a 50% rate."/>
     </imgdir>
     <imgdir name="2040204">
-        <string name="name" value="Dark Scroll for Eye Accessory for Accuracy 70%"/>
-        <string name="desc" value="Improves accuracy on eye accessories.\nSuccess rate:70%, Accuracy +2 \nIf failed, the item will be destroyed at a 50% rate."/>
+        <string name="name" value="Dark Scroll for Eye Accessory for HP 70%"/>
+        <string name="desc" value="Improves MaxHP on eye accessories.\nSuccess rate:70%, MaxHP +15 \nIf failed, the item will be destroyed at a 50% rate."/>
     </imgdir>
     <imgdir name="2040205">
         <string name="name" value="Scroll for Eye Accessory for INT 10%"/>
-        <string name="desc" value="Improves INT on eye accessories.\nSuccess rate:10%, INT +3, Magic Def. +2. "/>
+        <string name="desc" value="Improves INT on eye accessories.\nSuccess rate:10%, INT +2, Magic Attack +1."/>
     </imgdir>
     <imgdir name="2040206">
         <string name="name" value="Scroll for Eye Accessory for INT 60%"/>
-        <string name="desc" value="Improves INT on eye accessories.\nSuccess rate:60%, INT +1, Magic Def. +1. "/>
+        <string name="desc" value="Improves INT on eye accessories.\nSuccess rate:60%, INT +1, Magic Attack +1."/>
     </imgdir>
     <imgdir name="2040207">
         <string name="name" value="Scroll for Eye Accessory for INT 100%"/>
-        <string name="desc" value="Improves INT on eye accessories.\nSuccess rate:100%, INT +1"/>
+        <string name="desc" value="Improves INT on eye accessories.\nSuccess rate:100%, Magic Attack +1."/>
     </imgdir>
     <imgdir name="2040208">
         <string name="name" value="Dark Scroll for Eye Accessory for INT 30%"/>
-        <string name="desc" value="Improves INT on eye accessories.\nSuccess rate:30%, INT +3, Magic Def. +2 \nIf failed, the item will be destroyed at a 50% rate."/>
+        <string name="desc" value="Improves INT on eye accessories.\nSuccess rate:30%, INT +2, Magic Attack +1.\nIf failed, the item will be destroyed at a 50% rate."/>
     </imgdir>
     <imgdir name="2040209">
         <string name="name" value="Dark Scroll for Eye Accessory for INT 70%"/>
-        <string name="desc" value="Improves INT on eye accessories.\nSuccess rate:70%, INT +1, Magic Def. +1 \nIf failed, the item will be destroyed at a 50% rate."/>
+        <string name="desc" value="Improves INT on eye accessories.\nSuccess rate:70%, INT +1, Magic Attack +1.\nIf failed, the item will be destroyed at a 50% rate."/>
     </imgdir>
     <imgdir name="2040300">
         <string name="name" value="Scroll for Earring for INT 100%"/>
@@ -3802,30 +3802,6 @@
         <string name="name" value="Toy Trojan Sack"/>
         <string name="desc" value="A sack full of toy trojans."/>
     </imgdir>
-    <imgdir name="2100020">
-        <string name="name" value="Moon Sack"/>
-        <string name="desc" value="Make your wish in front of the full moon."/>
-    </imgdir>
-    <imgdir name="2100021">
-        <string name="name" value="Moon Sack"/>
-        <string name="desc" value="Make your wish in front of the full moon."/>
-    </imgdir>
-    <imgdir name="2100022">
-        <string name="name" value="Moon Sack"/>
-        <string name="desc" value="Make your wish in front of the full moon."/>
-    </imgdir>
-    <imgdir name="2100023">
-        <string name="name" value="Moon Sack"/>
-        <string name="desc" value="Make your wish in front of the full moon."/>
-    </imgdir>
-    <imgdir name="2100024">
-        <string name="name" value="Moon Sack"/>
-        <string name="desc" value="Make your wish in front of the full moon."/>
-    </imgdir>
-    <imgdir name="2100025">
-        <string name="name" value="Moon Sack"/>
-        <string name="desc" value="Make your wish in front of the full moon."/>
-    </imgdir>
     <imgdir name="2100026">
         <string name="name" value="Penalty Monster Sack 1"/>
         <string name="desc" value="Summons Black Knight."/>
@@ -3833,18 +3809,6 @@
     <imgdir name="2100027">
         <string name="name" value="Penalty Monster Sack 2"/>
         <string name="desc" value="Summons Myst Knight."/>
-    </imgdir>
-    <imgdir name="2100028">
-        <string name="name" value="Summoning Three-Tail Fox"/>
-        <string name="desc" value="A peculiar summon sack that summons Three-Tail Fox"/>
-    </imgdir>
-    <imgdir name="2100029">
-        <string name="name" value="Summoning Ghosts"/>
-        <string name="desc" value="A peculiar summon sack that summons ghosts. No way to tell which one, though..."/>
-    </imgdir>
-    <imgdir name="2100030">
-        <string name="name" value="Summoning Goblins"/>
-        <string name="desc" value="A peculiar summon sack that summons goblins. No way to tell which one, though..."/>
     </imgdir>
     <imgdir name="2100031">
         <string name="name" value="Summoning Horntail A"/>
@@ -3869,22 +3833,6 @@
     <imgdir name="2100036">
         <string name="name" value="Monster Sack 11"/>
         <string name="desc" value="Summons high-leveled monsters between levels 100 and 110"/>
-    </imgdir>
-    <imgdir name="2100037">
-        <string name="name" value="Summon Master Monsters 1"/>
-        <string name="desc" value="Summon the Event-only Mano &amp; Stumpy."/>
-    </imgdir>
-    <imgdir name="2100038">
-        <string name="name" value="Summon Master Monsters 2"/>
-        <string name="desc" value="Summon the Event-only Faust, King Clang, Timer, and Dyle."/>
-    </imgdir>
-    <imgdir name="2100039">
-        <string name="name" value="Summon Master Monsters 3"/>
-        <string name="desc" value="Summon the Event-only Nine-Tailed Fox, Tae Roon, and King Sage Cat."/>
-    </imgdir>
-    <imgdir name="2100040">
-        <string name="name" value="Summon Master Monsters 4"/>
-        <string name="desc" value="Summon the Event-only Elliza, and Snowman."/>
     </imgdir>
     <imgdir name="2100041">
         <string name="name" value="Summoning Lord Pirate"/>
@@ -3962,30 +3910,6 @@
         <string name="name" value="Summon Romeo and Juliet PQ Mob"/>
         <string name="desc" value="Summon Angry Frankenroid"/>
     </imgdir>
-    <imgdir name="2100060">
-        <string name="name" value="Weird Sack"/>
-        <string name="desc" value="Summon Halloween Monster!"/>
-    </imgdir>
-    <imgdir name="2100061">
-        <string name="name" value="Strange Sack"/>
-        <string name="desc" value="Summon Halloween Monster!!"/>
-    </imgdir>
-    <imgdir name="2100062">
-        <string name="name" value="Interesting Sack"/>
-        <string name="desc" value="Summon Halloween Monster!!!"/>
-    </imgdir>
-    <imgdir name="2100063">
-        <string name="name" value="Summon Ghost"/>
-        <string name="desc" value="Summon Mirror Ghost"/>
-    </imgdir>
-    <imgdir name="2100064">
-        <string name="name" value="Summon Ghost  2"/>
-        <string name="desc" value="Summon Mirror Ghost"/>
-    </imgdir>
-    <imgdir name="2100065">
-        <string name="name" value="Summon Ghost  3"/>
-        <string name="desc" value="Summon Mirror Ghost"/>
-    </imgdir>
     <imgdir name="2100066">
         <string name="name" value="Summon Slime"/>
         <string name="desc" value="A summoning sack to summon 10 Slimes."/>
@@ -3993,14 +3917,6 @@
     <imgdir name="2100067">
         <string name="name" value="Bombs for Hunting Competition"/>
         <string name="desc" value="A bomb used for the Hunting Competition. If hit with the bomb, the victim will lose the Spirit Jewel."/>
-    </imgdir>
-    <imgdir name="2100068">
-        <string name="name" value="Snowman Summon Sack"/>
-        <string name="desc" value="A sack that summons small Snowman made with hands. After 3 minutes, the summoned snowman will melt and disappear."/>
-    </imgdir>
-    <imgdir name="2100069">
-        <string name="name" value="Event Box"/>
-        <string name="desc" value="For Events"/>
     </imgdir>
     <imgdir name="2100070">
         <string name="name" value="1st Monster Marble"/>
@@ -4050,22 +3966,6 @@
         <string name="name" value="Summoning Dark Yeti &amp; Pepe"/>
         <string name="desc" value="Summons a set of Dark Yeti &amp; Pepe."/>
     </imgdir>
-    <imgdir name="2101009">
-        <string name="name" value="Summon Red Boogie"/>
-        <string name="desc" value="Summons Red Boogies."/>
-    </imgdir>
-    <imgdir name="2101010">
-        <string name="name" value="Summon Blue Boogie"/>
-        <string name="desc" value="Summons Blue Boogies."/>
-    </imgdir>
-    <imgdir name="2101011">
-        <string name="name" value="Summon Green Boogie"/>
-        <string name="desc" value="Summons Green Boogies."/>
-    </imgdir>
-    <imgdir name="2101012">
-        <string name="name" value="Summon Black Boogie"/>
-        <string name="desc" value="Summons Black Boogies."/>
-    </imgdir>
     <imgdir name="2101013">
         <string name="name" value="Summon Showa Boss"/>
         <string name="desc" value="Summons Showa Boss."/>
@@ -4102,14 +4002,6 @@
     </imgdir>
     <imgdir name="2101022">
         <string name="name" value="Monster Sack (Golden Egg)"/>
-    </imgdir>
-    <imgdir name="2101023">
-        <string name="name" value="Monster Sack (Slime Gold)"/>
-        <string name="desc" value="Summons 3 Slime Gold."/>
-    </imgdir>
-    <imgdir name="2101024">
-        <string name="name" value="Monster Sack (Slime Silver)"/>
-        <string name="desc" value="Summons 1 Slime Silver."/>
     </imgdir>
     <imgdir name="2101025">
         <string name="name" value="Monster Sack (Slime Red)"/>
@@ -4151,10 +4043,6 @@
         <string name="name" value="Amoria Penalty Monster Sack7"/>
         <string name="desc" value="Summons some monsters."/>
     </imgdir>
-    <imgdir name="2101050">
-        <string name="name" value="GM event Sack1"/>
-        <string name="desc" value="Summons some monsters. Slime Storm."/>
-    </imgdir>
     <imgdir name="2101051">
         <string name="name" value="GM event Sack2"/>
         <string name="desc" value="Summons some monsters. Mushroom Boom"/>
@@ -4174,10 +4062,6 @@
     <imgdir name="2101055">
         <string name="name" value="GM event Sack6"/>
         <string name="desc" value="Summons some monsters. Toying Around"/>
-    </imgdir>
-    <imgdir name="2101056">
-        <string name="name" value="GM event Sack7"/>
-        <string name="desc" value="Summons some monsters. Crimson Crash"/>
     </imgdir>
     <imgdir name="2101057">
         <string name="name" value="Amoria Penalty Monster Sack8"/>
@@ -4283,14 +4167,6 @@
         <string name="name" value="Cross (Hard) Sack"/>
         <string name="desc" value="A monster sack that summons Cross."/>
     </imgdir>
-    <imgdir name="2101130">
-        <string name="name" value="Summon Christmas Socks"/>
-        <string name="desc" value="Summons Christmas Sock monsters."/>
-    </imgdir>
-    <imgdir name="2101131">
-        <string name="name" value="Summon Luck Sack"/>
-        <string name="desc" value="Summons luck sack."/>
-    </imgdir>
     <imgdir name="2101137">
         <string name="name" value="Masteria Summoning Bag-Jungle Jam"/>
         <string name="desc" value="A mysterious black sack that calls forth monsters from the Krakian Jungle."/>
@@ -4329,66 +4205,6 @@
     </imgdir>
     <imgdir name="2101148">
         <string name="name" value="MasteriaPQ Summon Bag9"/>
-    </imgdir>
-    <imgdir name="2101158">
-        <string name="name" value="Big Puff Daddy Sack"/>
-        <string name="desc" value="A sack filled with Big Puff Daddys"/>
-    </imgdir>
-    <imgdir name="2102000">
-        <string name="name" value="Monster Attack Lvl 1"/>
-        <string name="desc" value="Summons 3 Slimes, Pigs, Orange Mushrooms, Bubblings, Octopuses, Green Mushrooms, and Horny Mushrooms each."/>
-    </imgdir>
-    <imgdir name="2102001">
-        <string name="name" value="Monster Attack Lvl 2"/>
-        <string name="desc" value="Summons 3 Drumming Bunnies, Ligators, Ratz, Star Pixie&apos;s, Jr. Wraith&apos;s, and Jr. Pepe&apos;s each."/>
-    </imgdir>
-    <imgdir name="2102002">
-        <string name="name" value="Monster Attack Lvl 3"/>
-        <string name="desc" value="Summons 3 Panda Teddy&apos;s, King Bloctopuses, Lorangs, Zombie Lupins, Hellies, and Tweeters each."/>
-    </imgdir>
-    <imgdir name="2102003">
-        <string name="name" value="Monster Attack Lvl 4"/>
-        <string name="desc" value="Summons 3 Toy Trojans, King Block Golems, Wraiths, Cheif Grey&apos;s, and Mixed Golems each."/>
-    </imgdir>
-    <imgdir name="2102004">
-        <string name="name" value="Monster Attack Lvl 5"/>
-        <string name="desc" value="Summons 3 Mushmoms, Red Drakes, Ice Drakes, Master Soul Teddy&apos;s, and Dark Yeti&apos;s each."/>
-    </imgdir>
-    <imgdir name="2102005">
-        <string name="name" value="Monster Attack Lvl 6"/>
-        <string name="desc" value="Summons 3 Taurospears, King Blue Goblins, Lucida, Werewolves, and Yeti &amp; Pepes each."/>
-    </imgdir>
-    <imgdir name="2102006">
-        <string name="name" value="Monster Attack Lvl 7"/>
-        <string name="desc" value="Summons 3 Lycanthropes, Death Teddy&apos;s, Gigantic Spirit Vikings, and G. Phantom Watches each."/>
-    </imgdir>
-    <imgdir name="2102007">
-        <string name="name" value="Monster Attack Lvl 8"/>
-        <string name="desc" value="Summons 5 Bains, 2 Jr. Balrogs, and 1 Crimson Balrog."/>
-    </imgdir>
-    <imgdir name="2102008">
-        <string name="name" value="Monster Attack Package 1"/>
-        <string name="desc" value="Summons one of each monsters featured in Monster Attack Level 1 ~ Level 3."/>
-    </imgdir>
-    <imgdir name="2102009">
-        <string name="name" value="Monster Attack Package 2"/>
-        <string name="desc" value="Summons one of each monsters featured in Monster Attack Level 4 ~ Level 7."/>
-    </imgdir>
-    <imgdir name="2109000">
-        <string name="name" value="Monster Marble"/>
-        <string name="desc" value="A marble that contains poisoned monsters. Use it to bring out the poisoned monster from the marble."/>
-    </imgdir>
-    <imgdir name="2109001">
-        <string name="name" value="1st Monster Marble"/>
-        <string name="desc" value="A marble that contains poisoned monsters on the 1st floor. Use it to bring out the poisoned monster from the marble."/>
-    </imgdir>
-    <imgdir name="2109002">
-        <string name="name" value="2nd Monster Marble"/>
-        <string name="desc" value="A marble that contains poisoned monsters on the 2nd floor. Use it to bring out the poisoned monster from the marble."/>
-    </imgdir>
-    <imgdir name="2109003">
-        <string name="name" value="3rd Monster Marble"/>
-        <string name="desc" value="A marble that contains poisoned monsters on the 3rd floor. Use it to bring out the poisoned monster from the marble."/>
     </imgdir>
     <imgdir name="2120000">
         <string name="name" value="Pet Food"/>
@@ -5899,38 +5715,6 @@
         <string name="name" value="Maple Ambush Sack"/>
         <string name="desc" value="Unwrap this sack, and the aliens will bring doom to the world of Maple."/>
     </imgdir>
-    <imgdir name="2100105">
-        <string name="name" value="Maze Snail Set"/>
-        <string name="desc" value="A Maze Snail set, including 5 types of snails for a total of 25 snails."/>
-    </imgdir>
-    <imgdir name="2100106">
-        <string name="name" value="Maze Transformation Snail Set"/>
-        <string name="desc" value="A Maze Transformation Snail Set, including 3 types of snails for a total of 3, but they change their look every 3 seconds."/>
-    </imgdir>
-    <imgdir name="2100107">
-        <string name="name" value="Maze Transformation Snail Set2"/>
-        <string name="desc" value="A Maze Transformation Snail Set, including 2 types of snails for a total of 2, but they change their look every 10 seconds."/>
-    </imgdir>
-    <imgdir name="2100112">
-        <string name="name" value="Summon Flying Monsters (Mark)"/>
-        <string name="desc" value="Summons marked monsters"/>
-    </imgdir>
-    <imgdir name="2100116">
-        <string name="name" value="Summon Maze Pigs"/>
-        <string name="desc" value="Summons Maze Pig."/>
-    </imgdir>
-    <imgdir name="2100117">
-        <string name="name" value="Summon Maze Rash"/>
-        <string name="desc" value="Summons Maze Rash"/>
-    </imgdir>
-    <imgdir name="2100118">
-        <string name="name" value="Dr. Kim&apos;s Anti-Virus Project"/>
-        <string name="desc" value="Eliminates Chief Greys."/>
-    </imgdir>
-    <imgdir name="2100119">
-        <string name="name" value="Summons Maze Sand Bunny"/>
-        <string name="desc" value="Summons Maze Sand Bunnies."/>
-    </imgdir>
     <imgdir name="2210017">
         <string name="name" value="Moon Photo"/>
         <string name="desc" value="The more you look at it, the more you feel lightheaded… and you feel closer to the moon."/>
@@ -6126,18 +5910,6 @@
     <imgdir name="2040042">
         <string name="name" value="Scroll for Helmet for HP 100%"/>
         <string name="desc" value="Improves MaxHP on hats.\nSuccess rate:100%, MaxHP+15"/>
-    </imgdir>
-    <imgdir name="2101200">
-        <string name="name" value="GMEvent_Horntail&apos;s Left Head"/>
-        <string name="desc" value="GMEvent_Horntail&apos;s Left Head"/>
-    </imgdir>
-    <imgdir name="2101201">
-        <string name="name" value="GMEvent_Horntail&apos;s Right Head"/>
-        <string name="desc" value="GMEvent_Horntail&apos;s Right Head"/>
-    </imgdir>
-    <imgdir name="2101202">
-        <string name="name" value="GMEvent_Pink Bean"/>
-        <string name="desc" value="GMEvent_Pink Bean"/>
     </imgdir>
     <imgdir name="2022481">
         <string name="name" value="Mysterious Maple"/>
@@ -6595,26 +6367,6 @@
         <string name="name" value="[6th Anniversary] Dark Scroll for Gloves for DEX 70%"/>
         <string name="desc" value="Improves DEX on Gloves. \nSuccess rate: 70%, Accuracy +2, DEX +1\nIf unsuccessful, item has a 50% chance of being destroyed."/>
     </imgdir>
-    <imgdir name="2100108">
-        <string name="name" value="Master of Disguise Summoning Sack"/>
-        <string name="desc" value="Summons the Master of Disguise."/>
-    </imgdir>
-    <imgdir name="2100109">
-        <string name="name" value="Black Witch Summoning Summoning Sack"/>
-        <string name="desc" value="Summons the Black Witch."/>
-    </imgdir>
-    <imgdir name="2100110">
-        <string name="name" value="Blue Mushroom Summoning Sack"/>
-        <string name="desc" value="Summons a group of Blue Mushrooms."/>
-    </imgdir>
-    <imgdir name="2100111">
-        <string name="name" value="Puppeteer Summoning Sack"/>
-        <string name="desc" value="Summons the Puppeteer."/>
-    </imgdir>
-    <imgdir name="2100113">
-        <string name="name" value="Tristan&apos;s Balrog Summon"/>
-        <string name="desc" value="Summons Tristan&apos;s Balrog."/>
-    </imgdir>
     <imgdir name="2100120">
         <string name="name" value="Snail Summoning Sack"/>
         <string name="desc" value="Summons a snail."/>
@@ -6659,45 +6411,9 @@
         <string name="name" value="Blue Mushroom Summoning Sack"/>
         <string name="desc" value="Summons a group of Blue Mushrooms"/>
     </imgdir>
-    <imgdir name="2100131">
-        <string name="name" value="Tristan&apos;s Balrog Summoning Sack"/>
-        <string name="desc" value="Summons Tristan&apos;s Balrog."/>
-    </imgdir>
-    <imgdir name="2100132">
-        <string name="name" value="Balrog Summoning Sack"/>
-        <string name="desc" value="Balrog Summoning Sack"/>
-    </imgdir>
-    <imgdir name="2100133">
-        <string name="name" value="Balrog&apos;s Spirit"/>
-        <string name="desc" value="Balrog&apos;s Spirit"/>
-    </imgdir>
     <imgdir name="2100134">
         <string name="name" value="Rescued Gaga Summoning Sack"/>
         <string name="desc" value="Summons Gaga, who has been rescued."/>
-    </imgdir>
-    <imgdir name="2100135">
-        <string name="name" value="Test MOB Summoning Sack"/>
-        <string name="desc" value="Test MOB Summoning Sack"/>
-    </imgdir>
-    <imgdir name="2100136">
-        <string name="name" value="Easy Mode Balrog Summoning Sack"/>
-        <string name="desc" value="Easy Mode Balrog Summoning Sack"/>
-    </imgdir>
-    <imgdir name="2100137">
-        <string name="name" value="Easy Mode Balrog&apos;s Spirit"/>
-        <string name="desc" value="Easy Mode Balrog&apos;s Spirit"/>
-    </imgdir>
-    <imgdir name="2100138">
-        <string name="name" value="Puppeteer Summoning Sack"/>
-        <string name="desc" value="Summons the Puppeteer."/>
-    </imgdir>
-    <imgdir name="2100139">
-        <string name="name" value="Puppeteer Summoning Sack"/>
-        <string name="desc" value="Summons the Puppeteer."/>
-    </imgdir>
-    <imgdir name="2100140">
-        <string name="name" value="Puppeteer Summong Sack"/>
-        <string name="desc" value="Summons the Puppeteer."/>
     </imgdir>
     <imgdir name="2101110">
         <string name="name" value="Monster Summoning Sack(Leviathan)"/>
@@ -6915,34 +6631,6 @@
         <string name="name" value="Scroll for Helmet for HP 50%"/>
         <string name="desc" value="Improves MaxHP on hats.\nSuccess rate:50%, MaxHP+35"/>
     </imgdir>
-    <imgdir name="2101207">
-        <string name="name" value="A Parasite Summoning Sack"/>
-        <string name="Desc" value="Summons A Parasite"/>
-    </imgdir>
-    <imgdir name="2101208">
-        <string name="name" value="Andras Summoning Sack"/>
-        <string name="Desc" value="Summons Andras"/>
-    </imgdir>
-    <imgdir name="2101209">
-        <string name="name" value="Marbas Summoning Sack"/>
-        <string name="Desc" value="Summons Marbas"/>
-    </imgdir>
-    <imgdir name="2101210">
-        <string name="name" value="Amdusias Summoning Sack"/>
-        <string name="Desc" value="Summons Amdusias"/>
-    </imgdir>
-    <imgdir name="2101211">
-        <string name="name" value="Valefor Summoning Sack"/>
-        <string name="Desc" value="Summons Valefor"/>
-    </imgdir>
-    <imgdir name="2101212">
-        <string name="name" value="Crocell Summoning Sack"/>
-        <string name="Desc" value="Summons Crocell"/>
-    </imgdir>
-    <imgdir name="2101213">
-        <string name="name" value="Astaroth Summoning Sack"/>
-        <string name="Desc" value="Summons Astaroth"/>
-    </imgdir>
     <imgdir name="2022623">
         <string name="name" value="Seasoned Frog Eggs and Mushrooms"/>
         <string name="desc" value="A stinky dish made with Cursed Frog Eggs. Increases 400 HP if eaten."/>
@@ -7002,10 +6690,6 @@
     <imgdir name="2022634">
         <string name="name" value="Turkey Leg"/>
         <string name="desc" value="A huge roasted turkey leg. It&apos;s so big that it seems like it would take all day to finish eating.\n[Gives +30 Physical Attack for 3 minutes]"/>
-    </imgdir>
-    <imgdir name="2101236">
-        <string name="name" value="GMEvent_Pink Bean2"/>
-        <string name="desc" value="GMEvent_Pink Bean2"/>
     </imgdir>
     <imgdir name="2000022">
         <string name="name" value="Special Rien Red Potion"/>
@@ -7410,34 +7094,6 @@
     <imgdir name="2430031">
         <string name="name" value="Instant Camera"/>
         <string name="desc" value="An instant camera that can be used to take a picture of the moon. To take a picture of the moon, double-click on the moon that can be seen from town. If you fail to capture the picture, return to the Moon Bunny for another instant camera."/>
-    </imgdir>
-    <imgdir name="2100164">
-        <string name="name" value="Black Wing Henchman Summoning Sack"/>
-        <string name="desc" value="Summons the Black Wing&apos;s Henchman"/>
-    </imgdir>
-    <imgdir name="2100165">
-        <string name="name" value="Hiver Summoning Sack"/>
-        <string name="desc" value="Summons Hiver"/>
-    </imgdir>
-    <imgdir name="2100152">
-        <string name="name" value="Giant Summoning Sack"/>
-        <string name="desc" value="Summons the Giant"/>
-    </imgdir>
-    <imgdir name="2100153">
-        <string name="name" value="Shadow Knight Summoning Sack"/>
-        <string name="desc" value="Summons the Shadow Knight"/>
-    </imgdir>
-    <imgdir name="2100154">
-        <string name="name" value="Gentleman Summoning Sack"/>
-        <string name="desc" value="Summons the Gentleman"/>
-    </imgdir>
-    <imgdir name="2100155">
-        <string name="name" value="Master of Disguise Summoning Sack"/>
-        <string name="desc" value="Summons the Master of Disguise"/>
-    </imgdir>
-    <imgdir name="2100159">
-        <string name="name" value="Transformed Tru Summoning Sack"/>
-        <string name="desc" value="Summons Transformed Tru"/>
     </imgdir>
     <imgdir name="2049200">
         <string name="name" value="Dark Scroll for Accessory for STR 70%  "/>
@@ -9722,19 +9378,19 @@ Attack +30"/>
     </imgdir>
     <imgdir name="2040033">
         <string name="name" value="Scroll for Auf Haven Circlet for STR 60%"/>
-        <string name="desc" value="A scroll that can only be used on Auf Haven Circlet. STR+3. If failed, the item will be destroyed at a 30% rate."/>
+        <string name="desc" value="A scroll that can only be used on Auf Haven Circlet. STR+3. If failed, the item will be destroyed at a 5% rate."/>
     </imgdir>
     <imgdir name="2040034">
         <string name="name" value="Scroll for Auf Haven Circlet for INT 60%"/>
-        <string name="desc" value="A scroll that can only be used on Auf Haven Circlet. INT+3. If failed, the item will be destroyed at a 30% rate."/>
+        <string name="desc" value="A scroll that can only be used on Auf Haven Circlet. INT+3. If failed, the item will be destroyed at a 5% rate."/>
     </imgdir>
     <imgdir name="2040035">
         <string name="name" value="Scroll for Auf Haven Circlet for DEX 60%"/>
-        <string name="desc" value="A scroll that can only be used on Auf Haven Circlet. DEX+3. If failed, the item will be destroyed at a 30% rate."/>
+        <string name="desc" value="A scroll that can only be used on Auf Haven Circlet. DEX+3. If failed, the item will be destroyed at a 5% rate."/>
     </imgdir>
     <imgdir name="2040036">
         <string name="name" value="Scroll for Auf Haven Circlet for LUK 60%"/>
-        <string name="desc" value="A scroll that can only be used on Auf Haven Circlet. LUK+3. If failed, the item will be destroyed at a 30% rate."/>
+        <string name="desc" value="A scroll that can only be used on Auf Haven Circlet. LUK+3. If failed, the item will be destroyed at a 5% rate."/>
     </imgdir>
     <imgdir name="2040037">
         <string name="name" value="Miracle Scroll for Auf Haven Circlet 10%"/>
@@ -9846,7 +9502,7 @@ Attack +30"/>
     </imgdir>
     <imgdir name="2388073">
         <string name="name" value="Dunas B Card"/>
-        <string name="desc" value="A card featuring Dunas B. \n#cIgnores Physical Resistance/Magic Resistance with a 50% chance while hunting at Neo Tokyo.#"/>
+        <string name="desc" value="A card featuring Dunas B. \n#cItem and Meso drop rate +50% while hunting at Neo Tokyo.#"/>
     </imgdir>
     <imgdir name="2388074">
         <string name="name" value="Core Blaze Card"/>
@@ -9858,7 +9514,7 @@ Attack +30"/>
     </imgdir>
     <imgdir name="2388049">
         <string name="name" value="Nameless Magic Monster Card"/>
-        <string name="desc" value="A card that features an Nameless magic monster. \n#cIgnores Physical Resistance/Magic Resistance with a 50% chance while hunting at Neo Tokyo.#"/>
+        <string name="desc" value="A card that features an Nameless magic monster. \n#cItem and Meso drop rate +50% while hunting at Neo Tokyo.#"/>
     </imgdir>
     <imgdir name="2388050">
         <string name="name" value="Dunas Card"/>
@@ -10115,8 +9771,8 @@ Open it to see what&apos;s inside."/>
         <string name="desc" value="A freaky icecream cone that looks like a slime. Recovers 7000 MP."/>
     </imgdir>
     <imgdir name="2439008">
-        <string name="desc" value="Warp all players on current map to Rising Tides event"/>
-        <string name="name" value="Start Rising Tides"/>
+        <string name="desc" value="Warp all players on current map to Rising Tides or Seahorse Race"/>
+        <string name="name" value="GM Event Warp"/>
     </imgdir>
     <imgdir name="2439009">
         <string name="name" value="GM Event Dice"/>
@@ -10142,5 +9798,169 @@ Open it to see what&apos;s inside."/>
     <imgdir name="2431694">
         <string name="name" value="9th Anniversary Mystery Box"/>
         <string name="desc" value="A special mystery gift box made just for 9th anniversary. #cDouble-Click# to open."/>
+    </imgdir>
+    <imgdir name="2040140">
+        <string name="name" value="Scroll for Face Accessory for STR 10%"/>
+        <string name="desc" value="Improves STR on face accessories.\nSuccess rate:10%, STR +2, Weapon Def. +2. "/>
+    </imgdir>
+    <imgdir name="2040141">
+        <string name="desc" value="Improves STR on face accessories.\nSuccess rate:60%, STR +1, Weapon Def. +1. "/>
+        <string name="name" value="Scroll for Face Accessory for STR 60%"/>
+    </imgdir>
+    <imgdir name="2040142">
+        <string name="desc" value="Improves STR on face accessories.\nSuccess rate:100%, Weapon Def. +1"/>
+        <string name="name" value="Scroll for Face Accessory for STR 100%"/>
+    </imgdir>
+    <imgdir name="2040143">
+        <string name="desc" value="Improves STR on face accessories.\nSuccess rate:30%, STR +2, Weapon Def. +2 \nIf failed, the item will be destroyed at a 50% rate."/>
+        <string name="name" value="Dark Scroll for Face Accessory for STR 30%"/>
+    </imgdir>
+    <imgdir name="2040144">
+        <string name="desc" value="Improves STR on face accessories.\nSuccess rate:70%, STR +1, Weapon Def. +1 \nIf failed, the item will be destroyed at a 50% rate."/>
+        <string name="name" value="Dark Scroll for Face Accessory for STR 70%"/>
+    </imgdir>
+    <imgdir name="2040145">
+        <string name="desc" value="Improves INT on face accessories.\nSuccess rate:10%, INT +2, Magic Attack +1. "/>
+        <string name="name" value="Scroll for Face Accessory for INT 10%"/>
+    </imgdir>
+    <imgdir name="2040146">
+        <string name="desc" value="Improves INT on face accessories.\nSuccess rate:60%, INT +1, Magic Attack +1. "/>
+        <string name="name" value="Scroll for Face Accessory for INT 60%"/>
+    </imgdir>
+    <imgdir name="2040147">
+        <string name="desc" value="Improves INT on face accessories.\nSuccess rate:100%, Magic Attack +1."/>
+        <string name="name" value="Scroll for Face Accessory for INT 100%"/>
+    </imgdir>
+    <imgdir name="2040148">
+        <string name="desc" value="Improves INT on face accessories.\nSuccess rate:30%, INT +2, Magic Attack +1.\nIf failed, the item will be destroyed at a 50% rate."/>
+        <string name="name" value="Dark Scroll for Face Accessory for INT 30%"/>
+    </imgdir>
+    <imgdir name="2040149">
+        <string name="desc" value="Improves INT on face accessories.\nSuccess rate:70%, INT +1, Magic Attack +1.\nIf failed, the item will be destroyed at a 50% rate."/>
+        <string name="name" value="Dark Scroll for Face Accessory for INT 70%"/>
+    </imgdir>
+    <imgdir name="2040150">
+        <string name="desc" value="Improves LUK on face accessories.\nSuccess rate:10%, LUK +2, Avoidability +2. "/>
+        <string name="name" value="Scroll for Face Accessory for LUK 10%"/>
+    </imgdir>
+    <imgdir name="2040151">
+        <string name="desc" value="Improves LUK on face accessories.\nSuccess rate:60%, LUK +1, Avoidability +1. "/>
+        <string name="name" value="Scroll for Face Accessory for LUK 60%"/>
+    </imgdir>
+    <imgdir name="2040152">
+        <string name="desc" value="Improves LUK on face accessories.\nSuccess rate:100%, Avoidability +1."/>
+        <string name="name" value="Scroll for Face Accessory for LUK 100%"/>
+    </imgdir>
+    <imgdir name="2040153">
+        <string name="desc" value="Improves LUK on face accessories.\nSuccess rate:30%, LUK +2, Avoidability +2. \nIf failed, the item will be destroyed at a 50% rate."/>
+        <string name="name" value="Dark Scroll for Face Accessory for LUK 30%"/>
+    </imgdir>
+    <imgdir name="2040154">
+        <string name="desc" value="Improves LUK on face accessories.\nSuccess rate:70%, LUK +1, Avoidability +1. \nIf failed, the item will be destroyed at a 50% rate."/>
+        <string name="name" value="Dark Scroll for Face Accessory for LUK 70%"/>
+    </imgdir>
+    <imgdir name="2040210">
+        <string name="desc" value="Improves STR on eye accessories.\nSuccess rate:10%, STR +2, Weapon Def. +2."/>
+        <string name="name" value="Scroll for Eye Accessory for STR 10%"/>
+    </imgdir>
+    <imgdir name="2040211">
+        <string name="desc" value="Improves STR on eye accessories.\nSuccess rate:60%, STR +1, Weapon Def. +1."/>
+        <string name="name" value="Scroll for Eye Accessory for STR 60%"/>
+    </imgdir>
+    <imgdir name="2040212">
+        <string name="desc" value="Improves STR on eye accessories.\nSuccess rate:100%, Weapon Def. +1."/>
+        <string name="name" value="Scroll for Eye Accessory for STR 100%"/>
+    </imgdir>
+    <imgdir name="2040213">
+        <string name="desc" value="Improves STR on eye accessories.\nSuccess rate:30%, STR +2, Weapon Def. +2. \nIf failed, the item will be destroyed at a 50% rate."/>
+        <string name="name" value="Dark Scroll for Eye Accessory for STR 30%"/>
+    </imgdir>
+    <imgdir name="2040214">
+        <string name="desc" value="Improves STR on eye accessories.\nSuccess rate:70%, STR +1, Weapon Def. +1. \nIf failed, the item will be destroyed at a 50% rate."/>
+        <string name="name" value="Dark Scroll for Eye Accessory for STR 70%"/>
+    </imgdir>
+    <imgdir name="2040215">
+        <string name="desc" value="Improves DEX on eye accessories.\nSuccess rate:10%, DEX +2, Accuracy +2."/>
+        <string name="name" value="Scroll for Eye Accessory for DEX 10%"/>
+    </imgdir>
+    <imgdir name="2040216">
+        <string name="desc" value="Improves DEX on eye accessories.\nSuccess rate:60%, DEX +1, Accuracy +1."/>
+        <string name="name" value="Scroll for Eye Accessory for DEX 60%"/>
+    </imgdir>
+    <imgdir name="2040217">
+        <string name="desc" value="Improves DEX on eye accessories.\nSuccess rate:100%, Accuracy +1."/>
+        <string name="name" value="Scroll for Eye Accessory for DEX 100%"/>
+    </imgdir>
+    <imgdir name="2040218">
+        <string name="desc" value="Improves DEX on eye accessories.\nSuccess rate:30%, DEX +2, Accuracy +2. \nIf failed, the item will be destroyed at a 50% rate."/>
+        <string name="name" value="Dark Scroll for Eye Accessory for DEX 30%"/>
+    </imgdir>
+    <imgdir name="2040219">
+        <string name="desc" value="Improves DEX on eye accessories.\nSuccess rate:70%, DEX +1, Accuracy +1. \nIf failed, the item will be destroyed at a 50% rate."/>
+        <string name="name" value="Dark Scroll for Eye Accessory for DEX 70%"/>
+    </imgdir>
+    <imgdir name="2040220">
+        <string name="desc" value="Improves LUK on eye accessories.\nSuccess rate:10%, LUK +2, Avoidability +2."/>
+        <string name="name" value="Scroll for Eye Accessory for LUK 10%"/>
+    </imgdir>
+    <imgdir name="2040221">
+        <string name="desc" value="Improves LUK on eye accessories.\nSuccess rate:60%, LUK +1, Avoidability +1."/>
+        <string name="name" value="Scroll for Eye Accessory for LUK 60%"/>
+    </imgdir>
+    <imgdir name="2040222">
+        <string name="desc" value="Improves LUK on eye accessories.\nSuccess rate:100%, Avoidability +1."/>
+        <string name="name" value="Scroll for Eye Accessory for LUK 100%"/>
+    </imgdir>
+    <imgdir name="2040223">
+        <string name="desc" value="Improves LUK on eye accessories.\nSuccess rate:30%, LUK +2, Avoidability +2. \nIf failed, the item will be destroyed at a 50% rate."/>
+        <string name="name" value="Dark Scroll for Eye Accessory for LUK 30%"/>
+    </imgdir>
+    <imgdir name="2040224">
+        <string name="desc" value="Improves LUK on eye accessories.\nSuccess rate:70%, LUK +1, Avoidability +1. \nIf failed, the item will be destroyed at a 50% rate."/>
+        <string name="name" value="Dark Scroll for Eye Accessory for LUK 70%"/>
+    </imgdir>
+    <imgdir name="2382200">
+        <string name="name" value="Boogie Card"/>
+        <string name="desc" value="A card that features Boogie."/>
+    </imgdir>
+    <imgdir name="2384200">
+        <string name="desc" value="A card that features Jr. Gargoyle."/>
+        <string name="name" value="Jr. Gargoyle Card"/>
+    </imgdir>
+    <imgdir name="2384201">
+        <string name="desc" value="A card that features Puco."/>
+        <string name="name" value="Puco Card"/>
+    </imgdir>
+    <imgdir name="2384202">
+        <string name="desc" value="A card that features Punco."/>
+        <string name="name" value="Punco Card"/>
+    </imgdir>
+    <imgdir name="2384203">
+        <string name="desc" value="A card that features Cuzco."/>
+        <string name="name" value="Cuzco Card"/>
+    </imgdir>
+    <imgdir name="2384204">
+        <string name="desc" value="A card that features Opachu."/>
+        <string name="name" value="Opachu Card"/>
+    </imgdir>
+    <imgdir name="2385200">
+        <string name="desc" value="A card that features Mingu."/>
+        <string name="name" value="Mingu Card"/>
+    </imgdir>
+    <imgdir name="2386200">
+        <string name="desc" value="A card that features Black Bird."/>
+        <string name="name" value="Black Bird Card"/>
+    </imgdir>
+    <imgdir name="2387210">
+        <string name="desc" value="A card that features Toad."/>
+        <string name="name" value="Toad Card"/>
+    </imgdir>
+    <imgdir name="2388206">
+        <string name="desc" value="A card that features Summoned Auf Haven."/>
+        <string name="name" value="Summoned Auf Haven Card"/>
+    </imgdir>
+    <imgdir name="2388146">
+        <string name="name" value="Von Leon Card "/>
+        <string name="desc" value="A card featuring Von Leon."/>
     </imgdir>
 </imgdir>
