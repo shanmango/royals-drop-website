@@ -3199,22 +3199,13 @@
         <string name="name" value="Kunoichi"/>
     </imgdir>
     <imgdir name="9400407">
-        <string name="name" value="Toad"/>
+        <string name="name" value="Kaede Toad"/>
     </imgdir>
     <imgdir name="9400408">
         <string name="name" value="Castellan"/>
     </imgdir>
     <imgdir name="9400409">
         <string name="name" value="Castellan Toad"/>
-    </imgdir>
-    <imgdir name="9400920">
-        <string name="name" value="Ripe Zompkin"/>
-    </imgdir>
-    <imgdir name="9400921">
-        <string name="name" value="Unripe Zompkin"/>
-    </imgdir>
-    <imgdir name="9400922">
-        <string name="name" value="Sophisticated Gentledead"/>
     </imgdir>
     <imgdir name="9500576">
         <string name="name" value="Oversized Jack-o-Lantern"/>
@@ -3225,14 +3216,8 @@
     <imgdir name="8900000">
         <string name="name" value="Pierre"/>
     </imgdir>
-    <imgdir name="9400797">
-        <string name="name" value="Wicked Witch of the Right-Side"/>
-    </imgdir>
     <imgdir name="9500554">
         <string name="name" value="Masked Gentleman"/>
-    </imgdir>
-    <imgdir name="9400923">
-        <string name="name" value="Emperor Zombora"/>
     </imgdir>
     <imgdir name="4230401">
         <string name="name" value="Blind Eye"/>
@@ -3755,5 +3740,26 @@
     </imgdir>
     <imgdir name="9410013">
         <string name="name" value="Doll Vending Machine"/>
+    </imgdir>
+    <imgdir name="9300298">
+        <string name="name" value="Demon Gargoyle"/>
+    </imgdir>
+    <imgdir name="8840011">
+        <string name="name" value="Von Leon"/>
+    </imgdir>
+    <imgdir name="8840012">
+        <string name="name" value="Von Leon"/>
+    </imgdir>
+    <imgdir name="9999998">
+        <string name="name" value="Aggro Test"/>
+    </imgdir>
+    <imgdir name="9990000">
+        <string name="name" value="Test Dummy Plain"/>
+    </imgdir>
+    <imgdir name="9990001">
+        <string name="name" value="Test Dummy Weak"/>
+    </imgdir>
+    <imgdir name="9990002">
+        <string name="name" value="Test Dummy Strong"/>
     </imgdir>
 </imgdir>

@@ -1993,7 +1993,7 @@
     </imgdir>
     <imgdir name="5390006">
         <string name="name" value="Roaring Tiger Messenger"/>
-        <string name="desc" value="Shout to everyone in the world your character is on with this megaphone. Now available with your avatar on the top of everyone&apos;s screen! Comes with a screen shaked."/>
+        <string name="desc" value="Shout to everyone in the world your character is on with this megaphone. Now available with your avatar on the top of everyone&apos;s screen! Comes with a screen shake."/>
     </imgdir>
     <imgdir name="5120034">
         <string name="name" value="Cloudy Meatballs"/>
@@ -2623,15 +2623,15 @@
     </imgdir>
     <imgdir name="5156001">
         <string name="name" value="Royal Salon Expansion Coupon"/>
-        <string name="desc" value="A coupon used at #cBig Headward# in the Free Market Entrance or Amherst to #cincrease the amount of saved hair or face slots by 1#. You can change to any saved hair or face style free of charge. #cYou cannot have more than 5 save slots for hair and 5 save slots for faces.#."/>
+        <string name="desc" value="A coupon used at #cBig Headward# in the Free Market Entrance or Amherst to #cincrease the amount of saved hair or face slots by 1#. You can change to any saved hair or face style free of charge. #cYou cannot have more than 20 save slots for hair and 20 save slots for faces.#."/>
     </imgdir>
     <imgdir name="5240311">
         <string name="desc" value="A tank of helium to fill up the #cBalloon Dog# pet.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
         <string name="name" value="Helium Tank"/>
     </imgdir>
     <imgdir name="5030050">
-        <string name="desc" value="Set up this special store on the Free Market, and this Horse working as the Hired Merchant, will sell the items for the owner, even if the owner does not log on to the game."/>
-        <string name="name" value="Anniversary Mushroom Store"/>
+        <string name="desc" value="Set up this special store on the Free Market, and the santa girl working as the Hired Merchant, will sell the items for the owner, even if the owner does not log on to the game."/>
+        <string name="name" value="Festive Mushroom Store"/>
     </imgdir>
     <imgdir name="5240312">
         <string name="desc" value="A raw fish which the #cDalsoo# pet enjoys.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
@@ -2648,5 +2648,22 @@
     <imgdir name="5240315">
         <string name="desc" value="Food the #cEmotional Speech Bubble# pets enjoy.\nCompletely restores Fullness and #cincreases Closeness by 100#."/>
         <string name="name" value="Emoji Cookie"/>
+    </imgdir>
+    <imgdir name="5390004">
+        <string name="name" value="Fortune Megaphone"/>
+        <string name="desc" value="Use this item to broadcast your character spreading luck and a message to the entire world. "/>
+    </imgdir>
+    <imgdir name="5390007">
+        <string name="name" value="Goal! Messenger"/>
+        <string name="desc" value="Shout to everyone in the world your character is on with this. Now available with your avatar on the top of everyone&apos;s screen!"/>
+    </imgdir>
+    <imgdir name="5391000">
+        <string name="name" value="Winter Messenger"/>
+        <string name="desc" value="Use this item to send a message to the whole world! It&apos;ll be seen with your character on a wintery background! "/>
+    </imgdir>
+    <imgdir name="5121100">
+        <string name="desc" value="When this weather effect is on, everyone in the map is buffed with weapon attack +100 and magic attack +100 for 2 minutes. Enter a message of your choice before spreading this holiday joy to everyone."/>
+        <string name="msg" value="%s &apos;s message : %s"/>
+        <string name="name" value="Powerful Snowy Snowman"/>
     </imgdir>
 </imgdir>

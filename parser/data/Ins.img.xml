@@ -3261,19 +3261,19 @@ Recovers 60 HP and MP every 10 seconds. "/>
     </imgdir>
     <imgdir name="3017056">
         <string name="name" value="Lunar New Year Xing Cube Chair"/>
-        <string name="desc" value="This chairs commemorates the Lunar New Year. You can complete the Lunar New Year Anniversary Message by collecting the other 3 chairs in the set. It restores HP +88 and MP +88 every 10 seconds."/>
+        <string name="desc" value="This chair commemorates the Lunar New Year. It restores HP +88 and MP +88 every 10 seconds."/>
     </imgdir>
     <imgdir name="3017057">
         <string name="name" value="Lunar New Year Nian Cube Chair"/>
-        <string name="desc" value="This chairs commemorates the Lunar New Year. You can complete the Lunar New Year Anniversary Message by collecting the other 3 chairs in the set. It restores HP +88 and MP +88 every 10 seconds."/>
+        <string name="desc" value="This chair commemorates the Lunar New Year. It restores HP +88 and MP +88 every 10 seconds."/>
     </imgdir>
     <imgdir name="3017058">
         <string name="name" value="Lunar New Year Kuai Cube Chair"/>
-        <string name="desc" value="This chairs commemorates the Lunar New Year. You can complete the Lunar New Year Anniversary Message by collecting the other 3 chairs in the set. It restores HP +88 and MP +88 every 10 seconds."/>
+        <string name="desc" value="This chair commemorates the Lunar New Year. It restores HP +88 and MP +88 every 10 seconds."/>
     </imgdir>
     <imgdir name="3017059">
         <string name="name" value="Lunar New Year Le Cube Chair"/>
-        <string name="desc" value="This chairs commemorates the Lunar New Year. You can complete the Lunar New Year Anniversary Message by collecting the other 3 chairs in the set. It restores HP +88 and MP +88 every 10 seconds."/>
+        <string name="desc" value="This chair commemorates the Lunar New Year. It restores HP +88 and MP +88 every 10 seconds."/>
     </imgdir>
     <imgdir name="3010609">
         <string name="name" value="All the Single Ladies"/>
@@ -3294,5 +3294,81 @@ Recovers 60 HP and MP every 10 seconds. "/>
     <imgdir name="3019914">
         <string name="desc" value="You&apos;ll be on the edge of your seat with this riveting chair! Restores 100 HP and 100 MP every 10 seconds."/>
         <string name="name" value="Movie Night Chair"/>
+    </imgdir>
+    <imgdir name="3017022">
+        <string name="name" value="Crimson Stirge Cube Chair"/>
+        <string name="desc" value="A chair obtained from the Monster Collection.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+    </imgdir>
+    <imgdir name="3017028">
+        <string name="name" value="Halloween Skull Cube Chair"/>
+        <string name="desc" value="It&apos;s a Halloween Skull Cube Chair.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+    </imgdir>
+    <imgdir name="3017029">
+        <string name="name" value="Halloween Zombie Cube Chair"/>
+        <string name="desc" value="It&apos;s a Halloween Zombie Cube Chair.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+    </imgdir>
+    <imgdir name="3017030">
+        <string name="name" value="Halloween Vampire Cube Chair"/>
+        <string name="desc" value="It&apos;s a Halloween Vampire Cube Chair.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+    </imgdir>
+    <imgdir name="3017031">
+        <string name="name" value="Halloween Pumpkin Cube Chair"/>
+        <string name="desc" value="It&apos;s a Halloween Pumpkin Cube Chair.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+    </imgdir>
+    <imgdir name="3017032">
+        <string name="name" value="Halloween Cat Cube Chair"/>
+        <string name="desc" value="It&apos;s a Halloween Cat Cube Chair.\r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+    </imgdir>
+    <imgdir name="3017033">
+        <string name="name" value="Dorothy Cube Chair"/>
+        <string name="desc" value="A chair obtained from the Monster Collection. \r\n#cRestores 50 HP and 50 MP every 10 seconds.#"/>
+    </imgdir>
+    <imgdir name="3019915">
+        <string name="desc" value="This chair came in 1st place in \nthe MapleRoyals Design A Chair event. \nChair designed by &apos;Yakamoz&apos;."/>
+        <string name="name" value="Subspace Crack"/>
+    </imgdir>
+    <imgdir name="3019916">
+        <string name="desc" value="This chair came in 2nd place in \nthe MapleRoyals Design A Chair event. \nChair designed by &apos;Devastated&apos;."/>
+        <string name="name" value="Always With Me"/>
+    </imgdir>
+    <imgdir name="3019917">
+        <string name="desc" value="This chair came in 3rd place in \nthe MapleRoyals Design A Chair event. \nChair designed by &apos;Succubus&apos;."/>
+        <string name="name" value="Quest Specialist"/>
+    </imgdir>
+    <imgdir name="3019918">
+        <string name="desc" value="This chair was a runner-up in the MapleRoyals Design A Chair event. \nChair designed by &apos;Jooon&apos;."/>
+        <string name="name" value="It&apos;s Sparkling!"/>
+    </imgdir>
+    <imgdir name="3019919">
+        <string name="desc" value="This chair was a runner-up in the MapleRoyals Design A Chair event. \nChair designed by &apos;Inugami&apos;."/>
+        <string name="name" value="Ducky&apos;s Ramen"/>
+    </imgdir>
+    <imgdir name="3019920">
+        <string name="desc" value="This chair was a runner-up in the MapleRoyals Design A Chair event. \nChair designed by &apos;wrosie&apos;."/>
+        <string name="name" value="Sweet Sugar Shop"/>
+    </imgdir>
+    <imgdir name="3019921">
+        <string name="desc" value="This chair was a runner-up in the MapleRoyals Design A Chair event. \nChair designed by &apos;CitizenLenny&apos;."/>
+        <string name="name" value="A Bigger Splash"/>
+    </imgdir>
+    <imgdir name="3019922">
+        <string name="desc" value="This chair was a runner-up in the MapleRoyals Design A Chair event. \nChair designed by &apos;BigCat&apos;."/>
+        <string name="name" value="Kitty and Husky"/>
+    </imgdir>
+    <imgdir name="3019923">
+        <string name="desc" value="This chair was a runner-up in the MapleRoyals Design A Chair event. \nChair designed by &apos;bamh&apos;."/>
+        <string name="name" value="The Piece"/>
+    </imgdir>
+    <imgdir name="3019924">
+        <string name="desc" value="This chair was a runner-up in the MapleRoyals Design A Chair event. \nChair designed by &apos;yeyicheng&apos;."/>
+        <string name="name" value="Skeleton Corps"/>
+    </imgdir>
+    <imgdir name="3019925">
+        <string name="desc" value="This chair was a runner-up in the MapleRoyals Design A Chair event. \nChair designed by &apos;Becca&apos;."/>
+        <string name="name" value="Garden of Three Colors"/>
+    </imgdir>
+    <imgdir name="3017047">
+        <string name="desc" value="A chair commemorating the Zodiac Rabbit! #cRestores 50 HP and 50 MP every 10 seconds.#"/>
+        <string name="name" value="Chinese Zodiac Cube Chair: Rabbit"/>
     </imgdir>
 </imgdir>

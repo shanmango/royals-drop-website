@@ -185,7 +185,7 @@
             <int name="3" value="103010001"/>
             <int name="4" value="103030000"/>
         </imgdir>
-        <string name="episode" value="Lv. :  12\nForm : Animal\nSpecial Trait : Vulnerable (+50%) to Electricity Attribute Attacks.\n\nHardly an octopus, this mutated octopus-like monster is a strange-looking creature that looks like it escaped from a research lab on some other planet after being relentlessly tested on. There&apos;s apparently some people who like to cook fried meatballs with the legs from these creatures. They are often found around swamps and in the deep forest, but have been spotted lately around construction sites and other high altitude areas, which seems to support the whole alien theory of their origins."/>
+        <string name="episode" value="Lv. :  12\nForm : Animal\nSpecial Trait : Vulnerable (+50%) to Lightning Attribute Attacks.\n\nHardly an octopus, this mutated octopus-like monster is a strange-looking creature that looks like it escaped from a research lab on some other planet after being relentlessly tested on. There&apos;s apparently some people who like to cook fried meatballs with the legs from these creatures. They are often found around swamps and in the deep forest, but have been spotted lately around construction sites and other high altitude areas, which seems to support the whole alien theory of their origins."/>
         <imgdir name="reward">
             <int name="0" value="4000006"/>
             <int name="1" value="2060000"/>
@@ -880,7 +880,7 @@
             <int name="18" value="104030000"/>
             <int name="19" value="107000001"/>
         </imgdir>
-        <string name="episode" value=" Lv. :  6\nForm : Spirit\nSpecial Trait : Vulnerable (+50%) to Electricity Attribute Attacks.\n\nA monster made of a gelatinous substance that uses its own viscosity to jump around everywhere. The cuteness of its look makes the Slime a beloved monster amongst adventurers, which is why you&apos;ll often come across all sorts of Slime paraphernalia such as hats and earrings that are being sold. When you hunt the Slime, you&apos;ll end up with small pockets of liquid which have a very pleasant apple scent. The scented liquid can be used in cooking as well! Sometimes, it will give the pompom on its head to the adventurers."/>
+        <string name="episode" value=" Lv. :  6\nForm : Spirit\nSpecial Trait : Vulnerable (+50%) to Lightning Attribute Attacks.\n\nA monster made of a gelatinous substance that uses its own viscosity to jump around everywhere. The cuteness of its look makes the Slime a beloved monster amongst adventurers, which is why you&apos;ll often come across all sorts of Slime paraphernalia such as hats and earrings that are being sold. When you hunt the Slime, you&apos;ll end up with small pockets of liquid which have a very pleasant apple scent. The scented liquid can be used in cooking as well! Sometimes, it will give the pompom on its head to the adventurers."/>
         <imgdir name="reward">
             <int name="0" value="4000004"/>
             <int name="1" value="2060000"/>
@@ -1617,7 +1617,7 @@
             <int name="0" value="230020200"/>
             <int name="1" value="230020300"/>
         </imgdir>
-        <string name="episode" value=" Lv. :  28\nForm : Fish\nSpecial Trait : Resistant (-50%) to Fire Attribute Attacks. Vulnerable (+50%) to Electricity and Poison Attribute Attacks.\n\nA monster that appears in the form of a fish near the sea east of Aqua Road. It was born in the midst of huge sea bubbles, hence the name &apos;Bubble Fish&apos;. Like a bubble, its body is translucent, often used as a defense mechanism to hide from its enemies."/>
+        <string name="episode" value=" Lv. :  28\nForm : Fish\nSpecial Trait : Resistant (-50%) to Fire Attribute Attacks. Vulnerable (+50%) to Lightning and Poison Attribute Attacks.\n\nA monster that appears in the form of a fish near the sea east of Aqua Road. It was born in the midst of huge sea bubbles, hence the name &apos;Bubble Fish&apos;. Like a bubble, its body is translucent, often used as a defense mechanism to hide from its enemies."/>
         <imgdir name="reward">
             <int name="0" value="4000164"/>
             <int name="1" value="2060000"/>
@@ -1805,7 +1805,7 @@
             <int name="2" value="200080700"/>
             <int name="3" value="200080800"/>
         </imgdir>
-        <string name="episode" value=" Lv. :  30\nForm : Enchanted\nSpecial Trait : Resistant (-50%) to Electricity and Holy Attribute Attacks. Vulnerable (+50%) to Ice Attribute Attacks.\n\nA round monster that can be frequently seen in the old tower near Orbis. It was created for the purpose of guarding the tower. Its body is covered in a firm layer comprised of stone, and its ability to quickly separate its body to use a hidden apparatus to shoot a laser render it a challenging monster to defeat. It is resistant to attacks of sanctity and electricity attribute but vulnerable to attacks of ice attribute, so attack this monster using magic of ice attribute."/>
+        <string name="episode" value=" Lv. :  30\nForm : Enchanted\nSpecial Trait : Resistant (-50%) to Lightning and Holy Attribute Attacks. Vulnerable (+50%) to Ice Attribute Attacks.\n\nA round monster that can be frequently seen in the old tower near Orbis. It was created for the purpose of guarding the tower. Its body is covered in a firm layer comprised of stone, and its ability to quickly separate its body to use a hidden apparatus to shoot a laser render it a challenging monster to defeat. It is resistant to attacks of sanctity and electricity attribute but vulnerable to attacks of ice attribute, so attack this monster using magic of ice attribute."/>
         <imgdir name="reward">
             <int name="0" value="4000063"/>
             <int name="1" value="2060000"/>
@@ -2345,7 +2345,7 @@
             <int name="0" value="200010100"/>
             <int name="1" value="200010120"/>
         </imgdir>
-        <string name="episode" value=" Lv. :  33\nForm : Mammal\nSpecial Trait : Resistant (-50%) to Electricity Attribute Attacks. Vulnerable (+50%) to Ice Attribute Attacks.\n\nA monster that lives in the Garden of Yellow in Orbis. Stay away from its inviting coat of soft white fur that is gold at the tips, as it is saturated with the attribute of electricity! It is still too young to know how to attack with its element, so it uses its small horn.  However, it has the attribute of lightning which can be dangerous in the future!"/>
+        <string name="episode" value=" Lv. :  33\nForm : Mammal\nSpecial Trait : Resistant (-50%) to Lightning Attribute Attacks. Vulnerable (+50%) to Ice Attribute Attacks.\n\nA monster that lives in the Garden of Yellow in Orbis. Stay away from its inviting coat of soft white fur that is gold at the tips, as it is saturated with the attribute of electricity! It is still too young to know how to attack with its element, so it uses its small horn.  However, it has the attribute of lightning which can be dangerous in the future!"/>
         <imgdir name="reward">
             <int name="0" value="4000073"/>
             <int name="1" value="4003004"/>
@@ -2922,7 +2922,7 @@
             <int name="3" value="110030000"/>
             <int name="4" value="110030001"/>
         </imgdir>
-        <string name="episode" value=" Lv. :  37\nForm : Fish\nSpecial Trait : Vulnerable (+50%) to Electricity Attribute Attacks.\n\nA crab monster that appears in the sand near the shores of Florina Beach. Lorang&apos;s speed and high defense rate render this monster difficult to hunt, but since it lives by the water, it is vulnerable to attacks with the lightning attribute."/>
+        <string name="episode" value=" Lv. :  37\nForm : Fish\nSpecial Trait : Vulnerable (+50%) to Lightning Attribute Attacks.\n\nA crab monster that appears in the sand near the shores of Florina Beach. Lorang&apos;s speed and high defense rate render this monster difficult to hunt, but since it lives by the water, it is vulnerable to attacks with the lightning attribute."/>
         <imgdir name="reward">
             <int name="0" value="4000043"/>
             <int name="1" value="2000002"/>
@@ -3920,7 +3920,7 @@
             <int name="1" value="110030001"/>
             <int name="2" value="110040000"/>
         </imgdir>
-        <string name="episode" value=" Lv. :  48\nForm : Fish\nSpecial Trait : Vulnerable (+50%) to Electricity Attribute Attacks.\n\nA crab monster that mainly lives near the sand by the shores of Florina Beach. Clang is superior to Lorang in every aspect including speed and defense rate. It is encouraged that you don&apos;t attack this monster hastily, as it dashes along the seashore at the speed which rivals that of Lupin. But since it lives near the sea like Lorang, it is very vulnerable to lightning as a result. Try attacking this monster with the electricity attribute."/>
+        <string name="episode" value=" Lv. :  48\nForm : Fish\nSpecial Trait : Vulnerable (+50%) to Lightning Attribute Attacks.\n\nA crab monster that mainly lives near the sand by the shores of Florina Beach. Clang is superior to Lorang in every aspect including speed and defense rate. It is encouraged that you don&apos;t attack this monster hastily, as it dashes along the seashore at the speed which rivals that of Lupin. But since it lives near the sea like Lorang, it is very vulnerable to lightning as a result. Try attacking this monster with the electricity attribute."/>
         <imgdir name="reward">
             <int name="0" value="4000044"/>
             <int name="1" value="2000003"/>
@@ -4111,7 +4111,7 @@
             <int name="4" value="221020800"/>
             <int name="5" value="221020900"/>
         </imgdir>
-        <string name="episode" value=" Lv. :  42\nForm : Enchanted\nSpecial Trait : Resistant (-50%) to Ice and Electricity Attribute Attacks. Vulnerable (+50%) to Fire Attribute Attacks.\n\nA group of Bloctopus that crossed through dimensions during the Temporal Schism were combined with mysterious blocks, transforming them into Block Golems. However, the combining process was not completely successful, so one can carefully break off and acquire block fragments from these creatures."/>
+        <string name="episode" value=" Lv. :  42\nForm : Enchanted\nSpecial Trait : Resistant (-50%) to Ice and Lightning Attribute Attacks. Vulnerable (+50%) to Fire Attribute Attacks.\n\nA group of Bloctopus that crossed through dimensions during the Temporal Schism were combined with mysterious blocks, transforming them into Block Golems. However, the combining process was not completely successful, so one can carefully break off and acquire block fragments from these creatures."/>
         <imgdir name="reward">
             <int name="0" value="4000101"/>
             <int name="1" value="2060000"/>
@@ -4456,7 +4456,7 @@
             <int name="1" value="221040301"/>
             <int name="2" value="221040400"/>
         </imgdir>
-        <string name="episode" value=" Lv. :  45\nForm : Spirit\nSpecial Trait : Resistant (-50%) to Electricity Attribute Attacks.\n\nThese Grays are unique in that they did not come from another planet but were created here on Earth instead. They are the product of Grays who cloned themselves in the hopes of enhancing their abilities. Possessing the supernatural abilities of all Grays, the Ultra Grays use these powers to attack. Dr. Kim of Omega Sector, who claims to have communicated with the Ultra Grays, says that they are rather aloof and condescending."/>
+        <string name="episode" value=" Lv. :  45\nForm : Spirit\nSpecial Trait : Resistant (-50%) to Lightning Attribute Attacks.\n\nThese Grays are unique in that they did not come from another planet but were created here on Earth instead. They are the product of Grays who cloned themselves in the hopes of enhancing their abilities. Possessing the supernatural abilities of all Grays, the Ultra Grays use these powers to attack. Dr. Kim of Omega Sector, who claims to have communicated with the Ultra Grays, says that they are rather aloof and condescending."/>
         <imgdir name="reward">
             <int name="0" value="4000119"/>
             <int name="1" value="2060000"/>
@@ -4619,7 +4619,7 @@
             <int name="0" value="230010300"/>
             <int name="1" value="230010400"/>
         </imgdir>
-        <string name="episode" value=" Lv. :  43\nForm : Mammal\n\nSpecial Trait : Resistant (-50%) to Fire and Electricity Attribute Attacks.\n\nA fully grown male seal monster that lives in the waters west of Aqua Road. It possesses electricity attribute and has a mark on its chest that signifies electricity. Sparkers do not usually travel together; they remain solitary to avoid reaching a dangerously high level of electricity flow. However, the recent pollution in the Aqua Road has altered their behavior. No one has discovered how the Jr. Seal becomes a Sparker."/>
+        <string name="episode" value=" Lv. :  43\nForm : Mammal\n\nSpecial Trait : Resistant (-50%) to Fire and Lightning Attribute Attacks.\n\nA fully grown male seal monster that lives in the waters west of Aqua Road. It possesses electricity attribute and has a mark on its chest that signifies electricity. Sparkers do not usually travel together; they remain solitary to avoid reaching a dangerously high level of electricity flow. However, the recent pollution in the Aqua Road has altered their behavior. No one has discovered how the Jr. Seal becomes a Sparker."/>
         <imgdir name="reward">
             <int name="0" value="4000156"/>
             <int name="1" value="4000157"/>
@@ -5501,7 +5501,7 @@
             <int name="0" value="200010121"/>
             <int name="1" value="200010200"/>
         </imgdir>
-        <string name="episode" value=" Lv. :  53\nForm : Mammal\nSpecial Trait : Resistant (-50%) to Electricity Attribute Attack. Vulnerable (+50%) to Ice Attribute Attacks.\n\nThe form that a full grown Jr. Lioner takes. It can be found in the Garden of Yellow in Orbis, and this mature Lioner concentrates all of its lightning attribute into the horn on its head to attack. This monster is highly resistant to attacks of lightning attribute. Let&apos;s try defeating the Lioner using attacks of ice attribute."/>
+        <string name="episode" value=" Lv. :  53\nForm : Mammal\nSpecial Trait : Resistant (-50%) to Lightning Attribute Attack. Vulnerable (+50%) to Ice Attribute Attacks.\n\nThe form that a full grown Jr. Lioner takes. It can be found in the Garden of Yellow in Orbis, and this mature Lioner concentrates all of its lightning attribute into the horn on its head to attack. This monster is highly resistant to attacks of lightning attribute. Let&apos;s try defeating the Lioner using attacks of ice attribute."/>
         <imgdir name="reward">
             <int name="0" value="4000071"/>
             <int name="1" value="4003005"/>
@@ -7345,7 +7345,7 @@
         <imgdir name="map">
             <int name="0" value="220070000"/>
         </imgdir>
-        <string name="episode" value=" Lv. :  63\nForm : Devil\nSpecial Trait : Resistant (-50%) to Ice and Electricity Attribute Attacks. Vulnerable (+50%) Holy Attribute Attacks. Affected by Heal\n\nA teddy bear that was brought to life by the commands of cursed spirits during the Dimensional Schism. Said curse has consumed the coziness and warmth this teddy bear once possessed, only leaving an eternal grudge against humans, which serves as the Soul Teddy&apos;s source of hatred and subsequent attack."/>
+        <string name="episode" value=" Lv. :  63\nForm : Devil\nSpecial Trait : Resistant (-50%) to Ice and Lightning Attribute Attacks. Vulnerable (+50%) Holy Attribute Attacks. Affected by Heal\n\nA teddy bear that was brought to life by the commands of cursed spirits during the Dimensional Schism. Said curse has consumed the coziness and warmth this teddy bear once possessed, only leaving an eternal grudge against humans, which serves as the Soul Teddy&apos;s source of hatred and subsequent attack."/>
         <imgdir name="reward">
             <int name="0" value="4000143"/>
             <int name="1" value="2000002"/>
@@ -7406,7 +7406,7 @@
         <imgdir name="map">
             <int name="0" value="220070000"/>
         </imgdir>
-        <string name="episode" value=" Lv. :  67\nForm : Devil\nSpecial Trait : Resistant (-50%) to Electricity Attribute Attacks. Vulnerable (+50%) to Holy Attribute Attacks. Immune to Ice Attribute Attacks. Affected by Heal.\n\nA teddy bear that was brought to life by the commands of cursed spirits during the Dimensional Schism. Said curse has consumed the coziness and warmth this teddy bear once possessed, only leaving an eternal grudge against humans which serves as its source of hatred and subsequent attack. The Master Soul Teddy harbors the deepest grievance and resentment than any other teddy bears, hence it was endowed with the most powerful force of damnation."/>
+        <string name="episode" value=" Lv. :  67\nForm : Devil\nSpecial Trait : Resistant (-50%) to Lightning Attribute Attacks. Vulnerable (+50%) to Holy Attribute Attacks. Immune to Ice Attribute Attacks. Affected by Heal.\n\nA teddy bear that was brought to life by the commands of cursed spirits during the Dimensional Schism. Said curse has consumed the coziness and warmth this teddy bear once possessed, only leaving an eternal grudge against humans which serves as its source of hatred and subsequent attack. The Master Soul Teddy harbors the deepest grievance and resentment than any other teddy bears, hence it was endowed with the most powerful force of damnation."/>
         <imgdir name="reward">
             <int name="0" value="4000144"/>
             <int name="1" value="4000021"/>
@@ -7938,7 +7938,7 @@
             <int name="0" value="240010901"/>
             <int name="1" value="240011000"/>
         </imgdir>
-        <string name="episode" value=" Lv. :  72\nForm : Insect\nSpecial Trait : Resistant (-50%) to Electricity Attribute Attacks.\n\nA big beetle that lives in Minar Forest, where trees and leaves are abundant. It is protected by a thick outer layer that minimizes the external impact, and the sizable horn it sports on its head can toss any threatening enemy far away."/>
+        <string name="episode" value=" Lv. :  72\nForm : Insect\nSpecial Trait : Resistant (-50%) to Lightning Attribute Attacks.\n\nA big beetle that lives in Minar Forest, where trees and leaves are abundant. It is protected by a thick outer layer that minimizes the external impact, and the sizable horn it sports on its head can toss any threatening enemy far away."/>
         <imgdir name="reward">
             <int name="0" value="4000236"/>
             <int name="1" value="2000006"/>
@@ -7968,7 +7968,7 @@
             <int name="0" value="240010900"/>
             <int name="1" value="240010901"/>
         </imgdir>
-        <string name="episode" value=" Lv. :  76\nForm : Insect\nSpecial Trait : Resistant (-50%) to Electricity Attribute Attacks.\n\nA big beetle that lives in Minar Forest which acquired a steel-like firm, silver outer layer when it underwent ecdysis. It threatens its enemies with even more powerful attacks than a regular Beetle."/>
+        <string name="episode" value=" Lv. :  76\nForm : Insect\nSpecial Trait : Resistant (-50%) to Lightning Attribute Attacks.\n\nA big beetle that lives in Minar Forest which acquired a steel-like firm, silver outer layer when it underwent ecdysis. It threatens its enemies with even more powerful attacks than a regular Beetle."/>
         <imgdir name="reward">
             <int name="0" value="4000237"/>
             <int name="1" value="2000006"/>
@@ -8160,7 +8160,7 @@
             <int name="0" value="105090700"/>
             <int name="1" value="105090800"/>
         </imgdir>
-        <string name="episode" value=" Lv. :  75\nForm : Devil\nSpecial Trait : Resistant (-50%) to Fire and Electricity Attribute Attacks. Immune to Poison Attribute Attacks\n\nAn intimidating monster that guards the Sanctuary in the deepest areas of the Sleepywood Dungeon. It dashes towards the adventurers with a huge spear, and has extremely high defense and attack rate. Furthermore, it moves at an impressively high speed, which renders this monster a bigger challenge than the Jr. Balrog to some adventurers. It guards the entrance of the cursed Sanctuary to prevent adventurers from entering. Although there is a rumor that the Taurospear became a gate keeper to the Sanctuary as a punishment for a crime it has committed, no one knows what the crime was or by whom this monster is being punished."/>
+        <string name="episode" value=" Lv. :  75\nForm : Devil\nSpecial Trait : Resistant (-50%) to Fire and Lightning Attribute Attacks. Immune to Poison Attribute Attacks\n\nAn intimidating monster that guards the Sanctuary in the deepest areas of the Sleepywood Dungeon. It dashes towards the adventurers with a huge spear, and has extremely high defense and attack rate. Furthermore, it moves at an impressively high speed, which renders this monster a bigger challenge than the Jr. Balrog to some adventurers. It guards the entrance of the cursed Sanctuary to prevent adventurers from entering. Although there is a rumor that the Taurospear became a gate keeper to the Sanctuary as a punishment for a crime it has committed, no one knows what the crime was or by whom this monster is being punished."/>
         <imgdir name="reward">
             <int name="0" value="4000046"/>
             <int name="1" value="2000005"/>
@@ -8378,7 +8378,7 @@
         <imgdir name="map">
             <int name="0" value="220070201"/>
         </imgdir>
-        <string name="episode" value=" Lv. :  89\nForm : Devil\nSpecial Trait : Resistant (-50%) to Ice and Electricity Attribute Attacks. Vulnerable (+50%) to Holy Attribute Attacks. Affected by Heal.\n\nA teddy bear that was brought to life by the commands of cursed spirits during the Dimensional Schism. Said curse has consumed the coziness and warmth this teddy bear once possessed, only leaving an eternal grudge against humans which serves as the Master Death Teddy&apos;s source of hatred and subsequent attack. The Master Death Teddy, having lost most of its physical characteristics of a teddy bear, exudes a powerful evil aura. The chain around the teddy has turned gold, signifying that the teddy has lost all of its original traits and has become an empty shell and a stray of time."/>
+        <string name="episode" value=" Lv. :  89\nForm : Devil\nSpecial Trait : Resistant (-50%) to Ice and Lightning Attribute Attacks. Vulnerable (+50%) to Holy Attribute Attacks. Affected by Heal.\n\nA teddy bear that was brought to life by the commands of cursed spirits during the Dimensional Schism. Said curse has consumed the coziness and warmth this teddy bear once possessed, only leaving an eternal grudge against humans which serves as the Master Death Teddy&apos;s source of hatred and subsequent attack. The Master Death Teddy, having lost most of its physical characteristics of a teddy bear, exudes a powerful evil aura. The chain around the teddy has turned gold, signifying that the teddy has lost all of its original traits and has become an empty shell and a stray of time."/>
         <imgdir name="reward">
             <int name="0" value="4000148"/>
             <int name="1" value="2000004"/>
@@ -9546,7 +9546,7 @@
         <imgdir name="map">
             <int name="0" value="240030200"/>
         </imgdir>
-        <string name="episode" value=" Lv. :  95\nForm : Reptile\nSpecial Trait : Vulnerable (+50%) to Electricity and Poison Attribute Attacks.\n\nA dragon monster that can be found in the Dragon Forest. It is considered a dragon of intermediate strength, but has relatively low intelligence; hence, it is controlled by an unidentifiable creature that hides inside the egg on its back, which many people have suspected to be Horntail. Compared to its well-developed hind legs, its front legs are pitifully weak."/>
+        <string name="episode" value=" Lv. :  95\nForm : Reptile\nSpecial Trait : Vulnerable (+50%) to Lightning and Poison Attribute Attacks.\n\nA dragon monster that can be found in the Dragon Forest. It is considered a dragon of intermediate strength, but has relatively low intelligence; hence, it is controlled by an unidentifiable creature that hides inside the egg on its back, which many people have suspected to be Horntail. Compared to its well-developed hind legs, its front legs are pitifully weak."/>
         <imgdir name="reward">
             <int name="0" value="4000264"/>
             <int name="1" value="2000006"/>
@@ -9611,7 +9611,7 @@
         <imgdir name="map">
             <int name="0" value="220060300"/>
         </imgdir>
-        <string name="episode" value=" Lv. :  93\nForm : Devil\nSpecial Trait : Resistant (-50%) to Fire Attribute Attacks. Vulnerable (+50%) to Electricity Attribute Attacks.\n\nThere are particular entities that linger the infinitude of the space-time continuum, where no ordinary creature can reach by ordinary means; the Spirit Viking is one of them. The Spirit Viking has reached the Clocktower while wandering in the lost time, and wishes to go back to the world from which it came. It attacks people, believing that they are the ones responsible for the confusion which the Temporal Schism has created."/>
+        <string name="episode" value=" Lv. :  93\nForm : Devil\nSpecial Trait : Resistant (-50%) to Fire Attribute Attacks. Vulnerable (+50%) to Lightning Attribute Attacks.\n\nThere are particular entities that linger the infinitude of the space-time continuum, where no ordinary creature can reach by ordinary means; the Spirit Viking is one of them. The Spirit Viking has reached the Clocktower while wandering in the lost time, and wishes to go back to the world from which it came. It attacks people, believing that they are the ones responsible for the confusion which the Temporal Schism has created."/>
         <imgdir name="reward">
             <int name="0" value="4000134"/>
             <int name="1" value="4031193"/>
@@ -9654,7 +9654,7 @@
         <imgdir name="map">
             <int name="0" value="220060301"/>
         </imgdir>
-        <string name="episode" value=" Lv. :  98\nForm : Devil\n\nSpecial Trait : Resistant (-50%) to Fire Attribute Attacks. Vulnerable (+50%) to Electricity Attribute Attacks.\n\nThere are particular entities that linger the infinitude of the space-time continuum, where no ordinary creature can reach by ordinary means; the Gigantic Spirit Viking is one of them. The Gigantic Spirit Viking has reached the Clocktower while wandering in the lost time, and wishes to go back to the world from which it came. It wears a flag on its back to find its lost family, and attacks any person it encounters, believing that they are responsible for the confusion which the Temporal Schism has created."/>
+        <string name="episode" value=" Lv. :  98\nForm : Devil\n\nSpecial Trait : Resistant (-50%) to Fire Attribute Attacks. Vulnerable (+50%) to Lightning Attribute Attacks.\n\nThere are particular entities that linger the infinitude of the space-time continuum, where no ordinary creature can reach by ordinary means; the Gigantic Spirit Viking is one of them. The Gigantic Spirit Viking has reached the Clocktower while wandering in the lost time, and wishes to go back to the world from which it came. It wears a flag on its back to find its lost family, and attacks any person it encounters, believing that they are responsible for the confusion which the Temporal Schism has created."/>
         <imgdir name="reward">
             <int name="0" value="4000135"/>
             <int name="1" value="2000006"/>
@@ -9776,7 +9776,7 @@
         <imgdir name="map">
             <int name="0" value="230040300"/>
         </imgdir>
-        <string name="episode" value=" Lv. :  97\nForm : Fish\nSpecial Trait : Resistant (-50%) to Fire and Electricity Attribute Attacks.\n\nA monster that appears in the form of a squid near the gorge deep in the waters of Aqua Road. They were believed to be extinct due to the function of purifying force in Aqua Road, but they have reappeared as the said force weakened. It can charge electricity using its two ocelli, attacking its enemies with electricity attribute. If attacked by its electricity, your body may stiffen due to the shock."/>
+        <string name="episode" value=" Lv. :  97\nForm : Fish\nSpecial Trait : Resistant (-50%) to Fire and Lightning Attribute Attacks.\n\nA monster that appears in the form of a squid near the gorge deep in the waters of Aqua Road. They were believed to be extinct due to the function of purifying force in Aqua Road, but they have reappeared as the said force weakened. It can charge electricity using its two ocelli, attacking its enemies with electricity attribute. If attacked by its electricity, your body may stiffen due to the shock."/>
         <imgdir name="reward">
             <int name="0" value="4000184"/>
             <int name="1" value="2000006"/>
@@ -10180,7 +10180,7 @@
         <imgdir name="map">
             <int name="0" value="220060400"/>
         </imgdir>
-        <string name="episode" value=" Lv. :  108\nForm : Devil\nSpecial Trait : Resistant (-50%) to Electricity Attribute Attacks.\n\nA powerful gate guardian that Papulatus summoned to prevent any form of intrusion into the operation room at the core of the Clocktower. It will make everyone and everything shiver in fear should anyone try to step into the warped corridor of the Clocktower. With a variety of powerful magic attacks, including stun, some victims will be unable to defend themselves as they wait for the inevitable strike from The Gatekeeper&apos;s phantom blade."/>
+        <string name="episode" value=" Lv. :  108\nForm : Devil\nSpecial Trait : Resistant (-50%) to Lightning Attribute Attacks.\n\nA powerful gate guardian that Papulatus summoned to prevent any form of intrusion into the operation room at the core of the Clocktower. It will make everyone and everything shiver in fear should anyone try to step into the warped corridor of the Clocktower. With a variety of powerful magic attacks, including stun, some victims will be unable to defend themselves as they wait for the inevitable strike from The Gatekeeper&apos;s phantom blade."/>
         <imgdir name="reward">
             <int name="0" value="4000151"/>
             <int name="1" value="2022003"/>
@@ -10335,7 +10335,7 @@
         <imgdir name="map">
             <int name="0" value="240020101"/>
         </imgdir>
-        <string name="episode" value=" Lv. :  105\nForm : Animal\nSpecial Trait : Resistant (-50%) to Electricity Attribute Attacks. Vulnerable (+50%) to Poison Attribute Attacks.\n\nA strange race of creatures that live in Griffey Forest deep within the Minar Forest. They have the wings and head of an eagle, the tail of a lion and the body of a unicorn, along with the signature horn. They rival the strength of the dignified dragons, and they have set their nests in Leafre, which is considered to be the land of the dragons. As a race of high intelligence level and respect, the Griffeys, according to a hafring legend, are said to be loyal to heroes."/>
+        <string name="episode" value=" Lv. :  105\nForm : Animal\nSpecial Trait : Resistant (-50%) to Lightning Attribute Attacks. Vulnerable (+50%) to Poison Attribute Attacks.\n\nA strange race of creatures that live in Griffey Forest deep within the Minar Forest. They have the wings and head of an eagle, the tail of a lion and the body of a unicorn, along with the signature horn. They rival the strength of the dignified dragons, and they have set their nests in Leafre, which is considered to be the land of the dragons. As a race of high intelligence level and respect, the Griffeys, according to a hafring legend, are said to be loyal to heroes."/>
         <imgdir name="reward">
             <int name="0" value="2022345"/>
             <int name="1" value="4000243"/>
@@ -10626,7 +10626,7 @@
         <imgdir name="map">
             <int name="0" value="270010100"/>
         </imgdir>
-        <string name="episode" value="Lv. :  91\nForm : Spirit\nSpecial Trait : Resistant (-50%) to Electricity and Poison Attribute Attacks.\n\nThe Memory Monks stand at Memory Lane beyond the Gate of the Past, inside the Temple of Time. They serve Rhinne, the Goddess of Time. They wear a smiley mask that hints at nothing but happy memories, but no one really knows what they are feeling beneath those masks."/>
+        <string name="episode" value="Lv. :  91\nForm : Spirit\nSpecial Trait : Resistant (-50%) to Lightning and Poison Attribute Attacks.\n\nThe Memory Monks stand at Memory Lane beyond the Gate of the Past, inside the Temple of Time. They serve Rhinne, the Goddess of Time. They wear a smiley mask that hints at nothing but happy memories, but no one really knows what they are feeling beneath those masks."/>
         <imgdir name="reward">
             <int name="0" value="4000444"/>
             <int name="1" value="2000006"/>
@@ -10655,7 +10655,7 @@
         <imgdir name="map">
             <int name="0" value="270010200"/>
         </imgdir>
-        <string name="episode" value="Lv. :  94\nForm : Spirit\nSpecial Trait : Resistant (-50%) to Electricity and Poison Attribute Attacks.\n\nThe Memory Monks stand at Memory Lane beyond the Gate of the Past, inside the Temple of Time. They serve Rhinne, the Goddess of Time. They wear a smiley mask that hints at nothing but happy memories, but no one really knows what they are feeling beneath those masks.\nThey are a level above the Memory Monks and often have a trainee following them on each side. The Monk trainees wear gray masks because they are not skilled enough to wear the smiley mask."/>
+        <string name="episode" value="Lv. :  94\nForm : Spirit\nSpecial Trait : Resistant (-50%) to Lightning and Poison Attribute Attacks.\n\nThe Memory Monks stand at Memory Lane beyond the Gate of the Past, inside the Temple of Time. They serve Rhinne, the Goddess of Time. They wear a smiley mask that hints at nothing but happy memories, but no one really knows what they are feeling beneath those masks.\nThey are a level above the Memory Monks and often have a trainee following them on each side. The Monk trainees wear gray masks because they are not skilled enough to wear the smiley mask."/>
         <imgdir name="reward">
             <int name="0" value="4000445"/>
             <int name="1" value="2000006"/>
@@ -10688,7 +10688,7 @@
             <int name="0" value="270010300"/>
             <int name="1" value="270010400"/>
         </imgdir>
-        <string name="episode" value="Lv. :  98\nForm : Spirit\nSpecial Trait : Resistant (-50%) to Electricity and Poison Attribute Attacks.\n\nThe Memory Guardians stand watch along the Memory Lanes, beyond the Gate of the Past, inside the Temple of Time. Its sole purpose is to protect Rhinne, the Goddess of Time. It once was a human knight, but throughout the many years of protecting the Goddess inside the Temple, it has cast off its humanness, leaving only its green spirit, its sword and the armor it once wore. Now, it only exists to serve the Goddess."/>
+        <string name="episode" value="Lv. :  98\nForm : Spirit\nSpecial Trait : Resistant (-50%) to Lightning and Poison Attribute Attacks.\n\nThe Memory Guardians stand watch along the Memory Lanes, beyond the Gate of the Past, inside the Temple of Time. Its sole purpose is to protect Rhinne, the Goddess of Time. It once was a human knight, but throughout the many years of protecting the Goddess inside the Temple, it has cast off its humanness, leaving only its green spirit, its sword and the armor it once wore. Now, it only exists to serve the Goddess."/>
         <imgdir name="reward">
             <int name="0" value="4000447"/>
             <int name="1" value="2000006"/>
@@ -10720,7 +10720,7 @@
             <int name="0" value="270010400"/>
             <int name="1" value="270010500"/>
         </imgdir>
-        <string name="episode" value="Lv. :  101\nForm : Spirit\nSpecial Trait : Resistant (-50%) to Electricity and Poison Attribute Attacks.\n\nThe Chiefs of the Memory Guardians stand watch along the Memory Lanes, beyond the Gate of the Past, inside the Temple of Time. Its sole purpose is to protect Rhinne, the Goddess of Time. Compared to the other guardians, its armor seems more sturdy and brilliantly decorated. It once was a high ranking human knight, but throughout the many years of protecting the Goddess inside the Temple, it has cast off its humanness. Now it only exists to serve the Goddess. The only evidence left that it was once human is its heart that contains beautiful memories."/>
+        <string name="episode" value="Lv. :  101\nForm : Spirit\nSpecial Trait : Resistant (-50%) to Lightning and Poison Attribute Attacks.\n\nThe Chiefs of the Memory Guardians stand watch along the Memory Lanes, beyond the Gate of the Past, inside the Temple of Time. Its sole purpose is to protect Rhinne, the Goddess of Time. Compared to the other guardians, its armor seems more sturdy and brilliantly decorated. It once was a high ranking human knight, but throughout the many years of protecting the Goddess inside the Temple, it has cast off its humanness. Now it only exists to serve the Goddess. The only evidence left that it was once human is its heart that contains beautiful memories."/>
         <imgdir name="reward">
             <int name="0" value="4000448"/>
             <int name="1" value="2000006"/>
@@ -10752,7 +10752,7 @@
         <imgdir name="map">
             <int name="0" value="270020100"/>
         </imgdir>
-        <string name="episode" value="Lv. :  106\nForm : Spirit\nSpecial Trait : Resistant (-50%) to Ice Attribute Attacks. Vulnerable (+50%) to Fire and Electricity Attribute Attacks.\n\nThe Qualm Monks stand at the Road of Regrets, beyond the Gate of the Past, inside the Temple of Time. They serve Rhinne, the Goddess of Time. In order to never have any regrets, they wear a neutral mask to restrain all emotions. However, no one knows what they are really feeling beneath those masks."/>
+        <string name="episode" value="Lv. :  106\nForm : Spirit\nSpecial Trait : Resistant (-50%) to Ice Attribute Attacks. Vulnerable (+50%) to Fire and Lightning Attribute Attacks.\n\nThe Qualm Monks stand at the Road of Regrets, beyond the Gate of the Past, inside the Temple of Time. They serve Rhinne, the Goddess of Time. In order to never have any regrets, they wear a neutral mask to restrain all emotions. However, no one knows what they are really feeling beneath those masks."/>
         <imgdir name="reward">
             <int name="0" value="4000449"/>
             <int name="1" value="2000006"/>
@@ -10780,7 +10780,7 @@
         <imgdir name="map">
             <int name="0" value="270020200"/>
         </imgdir>
-        <string name="episode" value="Lv. :  109\nForm : Spirit\nSpecial Trait : Resistant (-50%) to Ice Attribute Attacks. Vulnerable (+50%) to Fire and Electricity Attribute Attacks.\n\nThe Qualm Monks stand at the Road of Regrets, beyond the Gate of the Past, inside the Temple of Time. They serve Rhinne, the Goddess of Time. In order to never have any regrets, they wear a neutral mask to restrain all emotions. However, no one knows what they are really feeling beneath those masks.\nThey are a level above Qualm Monks and often have a trainee following them on each side. Monk trainees wear gray masks because they are not skilled enough to wear the neutral mask."/>
+        <string name="episode" value="Lv. :  109\nForm : Spirit\nSpecial Trait : Resistant (-50%) to Ice Attribute Attacks. Vulnerable (+50%) to Fire and Lightning Attribute Attacks.\n\nThe Qualm Monks stand at the Road of Regrets, beyond the Gate of the Past, inside the Temple of Time. They serve Rhinne, the Goddess of Time. In order to never have any regrets, they wear a neutral mask to restrain all emotions. However, no one knows what they are really feeling beneath those masks.\nThey are a level above Qualm Monks and often have a trainee following them on each side. Monk trainees wear gray masks because they are not skilled enough to wear the neutral mask."/>
         <imgdir name="reward">
             <int name="0" value="4000450"/>
             <int name="1" value="2000006"/>
@@ -10811,7 +10811,7 @@
             <int name="0" value="270020300"/>
             <int name="1" value="270020400"/>
         </imgdir>
-        <string name="episode" value="Lv. :  113\nForm : Spirit\nSpecial Trait : Resistant (-50%) to Ice Attribute Attacks. Vulnerable (+50%) to Fire and Electricity Attribute Attacks.\n\nThe Qualm Guardians stand at the Road of Regrets, beyond the Gate of the Past, inside the Temple of Time. Its sole purpose is to protect Rhinne, the Goddess of Time. It once was a human knight, but throughout the many years of protecting the Goddess inside the Temple, it has cast off its humanness, leaving only its blue spirit, its spear and the armor it once wore. Now, it only exists to serve the Goddess."/>
+        <string name="episode" value="Lv. :  113\nForm : Spirit\nSpecial Trait : Resistant (-50%) to Ice Attribute Attacks. Vulnerable (+50%) to Fire and Lightning Attribute Attacks.\n\nThe Qualm Guardians stand at the Road of Regrets, beyond the Gate of the Past, inside the Temple of Time. Its sole purpose is to protect Rhinne, the Goddess of Time. It once was a human knight, but throughout the many years of protecting the Goddess inside the Temple, it has cast off its humanness, leaving only its blue spirit, its spear and the armor it once wore. Now, it only exists to serve the Goddess."/>
         <imgdir name="reward">
             <int name="0" value="4000452"/>
             <int name="1" value="2000006"/>
@@ -10841,7 +10841,7 @@
             <int name="0" value="270020400"/>
             <int name="1" value="270020500"/>
         </imgdir>
-        <string name="episode" value="Lv. :  116\nForm : Spirit\nSpecial Trait : Resistant (-50%) to Ice Attribute Attacks. Vulnerable (+50%) to Fire and Electricity Attribute Attacks.\n\nThe Chiefs of the Qualm Guardians stand at the Road of Regrets, beyond the Gate of the Past, inside the Temple of Time. Its sole purpose is to protect Rhinne, the Goddess of Time. Compared to other guardians, its armor seems more sturdy and brilliantly decorated. It once was a high ranking human knight, but throughout the many years of protecting the Goddess inside the Temple, it has cast off its humanness. Now it only exists to serve the Goddess.  The only evidence left of its lost humanity is its hardened heart that contains bitter memories."/>
+        <string name="episode" value="Lv. :  116\nForm : Spirit\nSpecial Trait : Resistant (-50%) to Ice Attribute Attacks. Vulnerable (+50%) to Fire and Lightning Attribute Attacks.\n\nThe Chiefs of the Qualm Guardians stand at the Road of Regrets, beyond the Gate of the Past, inside the Temple of Time. Its sole purpose is to protect Rhinne, the Goddess of Time. Compared to other guardians, its armor seems more sturdy and brilliantly decorated. It once was a high ranking human knight, but throughout the many years of protecting the Goddess inside the Temple, it has cast off its humanness. Now it only exists to serve the Goddess.  The only evidence left of its lost humanity is its hardened heart that contains bitter memories."/>
         <imgdir name="reward">
             <int name="0" value="4000453"/>
             <int name="1" value="2000006"/>
@@ -11205,7 +11205,7 @@
         <imgdir name="map">
             <int name="0" value="270010500"/>
         </imgdir>
-        <string name="episode" value="Lv. :  121\nForm : Fish\nSpecial Traits : Resistant (-50%) to Ice, Electricity and Poison Attribute Attacks. Vulnerable (+50%) to Fire Attribute Attacks.\n\nA very rare giant whale that only lives along the Memory Lanes inside the Temple of Time. With its thick fins, Dodo swims through the air instead of the water, eating pieces of memory that float around. It is said that it only eats happy memories so it is always in a good mood. It often gives the Temple Keeper a headache because it even eats the memories of those visiting the Temple of Time, but because it is an endangered species, there&apos;s nothing he can do about it."/>
+        <string name="episode" value="Lv. :  121\nForm : Fish\nSpecial Traits : Resistant (-50%) to Ice, Lightning and Poison Attribute Attacks. Vulnerable (+50%) to Fire Attribute Attacks.\n\nA very rare giant whale that only lives along the Memory Lanes inside the Temple of Time. With its thick fins, Dodo swims through the air instead of the water, eating pieces of memory that float around. It is said that it only eats happy memories so it is always in a good mood. It often gives the Temple Keeper a headache because it even eats the memories of those visiting the Temple of Time, but because it is an endangered species, there&apos;s nothing he can do about it."/>
         <imgdir name="reward">
             <int name="0" value="4031530"/>
             <int name="1" value="4031531"/>
@@ -11244,7 +11244,7 @@
         <imgdir name="map">
             <int name="0" value="270020500"/>
         </imgdir>
-        <string name="episode" value="Lv. :  131\nForm : Spirit\nSpecial Traits : Resistant (-50%) to Ice Attribute Attacks. Vulnerable (+50%) to Electricity Attribute Attacks.\n\nThey say Lilynouch was a well known and respected human knight in the past. He couldn&apos;t find a lord he wanted to serve, so he decided to offer his services to the Goddess Rhinne and live his life outside of the flow of time. Since he was positioned to guard the Road of Regrets, he hardened his heart to protect it from having any regrets. By doing this, he eventually lost his humanness and is now known as the Ice Knight. He is known to be too strict and too serious, even attacking approved visitors, believing they are in the Temple to disturb the Goddess&apos;s sleep. As a result, he doesn&apos;t get along with the Temple Keeper."/>
+        <string name="episode" value="Lv. :  131\nForm : Spirit\nSpecial Traits : Resistant (-50%) to Ice Attribute Attacks. Vulnerable (+50%) to Lightning Attribute Attacks.\n\nThey say Lilynouch was a well known and respected human knight in the past. He couldn&apos;t find a lord he wanted to serve, so he decided to offer his services to the Goddess Rhinne and live his life outside of the flow of time. Since he was positioned to guard the Road of Regrets, he hardened his heart to protect it from having any regrets. By doing this, he eventually lost his humanness and is now known as the Ice Knight. He is known to be too strict and too serious, even attacking approved visitors, believing they are in the Temple to disturb the Goddess&apos;s sleep. As a result, he doesn&apos;t get along with the Temple Keeper."/>
         <imgdir name="reward">
             <int name="0" value="4031530"/>
             <int name="1" value="4031531"/>
@@ -11360,7 +11360,7 @@
         <imgdir name="map">
             <int name="0" value="220080001"/>
         </imgdir>
-        <string name="episode" value=" Lv. :  125\nForm : Enchanted\nSpecial Traits : 1st Form: Vulnerable (+50%) to Electricity Attribute Attacks.\n2nd Form: Vulnerable (+50%) to Holy Attribute Attacks.\n\nA monster from another world who landed here as a result of the Dimensional Schism. It may have numerous personalities, but all of those personalities are uniformly evil. It contributed to the progression of the Dimensional Schism with the force of Ludibrium, and turned all the toys of Ludibrium into monsters. They say that Papulatus is increasingly endowed with more and more power from the forces of the other world as the Dimensional Schism slowly grows larger and larger over time."/>
+        <string name="episode" value=" Lv. :  125\nForm : Enchanted\nSpecial Traits : 1st Form: Vulnerable (+50%) to Lightning Attribute Attacks.\n2nd Form: Vulnerable (+50%) to Holy Attribute Attacks.\n\nA monster from another world who landed here as a result of the Dimensional Schism. It may have numerous personalities, but all of those personalities are uniformly evil. It contributed to the progression of the Dimensional Schism with the force of Ludibrium, and turned all the toys of Ludibrium into monsters. They say that Papulatus is increasingly endowed with more and more power from the forces of the other world as the Dimensional Schism slowly grows larger and larger over time."/>
         <imgdir name="reward">
             <int name="0" value="4001084"/>
             <int name="1" value="4031530"/>
@@ -11530,7 +11530,7 @@
         <imgdir name="map">
             <int name="0" value="280030000"/>
         </imgdir>
-        <string name="episode" value="Lv. :  140\nForm : Devil\nSpecial Trait : 1st Body: Vulnerable (+50%) to Electricity Attribute Attacks.\n2nd Body: Vulnerable (+50%) to Ice Attribute Attacks.\n3rd Body: Vulnerable (+50%) to Fire Attribute Attacks.\n\nA dormant spirit of the Zakum tree which previously was without any intellect or malevolent notions. The tree started to show signs of life when it began to be fueled by the greed of the ancient miners who dug into the mountain looking for gold. The ancient town within the lava region, despite being built in the midst of all the darkness, burning flames and scorching heat of the El Nath volcanoes, survived because of the greedy passions of its residents. Apparently, the dark and shady emotions of the humans living in the area were somehow absorbed by Zakum over time. Zakum used to be a small, neglected tree, but has now grown extremely powerful thanks to the darkness, greed and negative energy of the human residents who once lived in the lava region. As its power grew, it began to take control of the miners and townsfolk, forcing them to build a Statue of it and worship it as their God. The spirit of Zakum, now locked inside the giant statue deep in the lava caves, anxiously waits for adventures to challenge it so that it may continue to feed on their desires and greed and become even stronger..."/>
+        <string name="episode" value="Lv. :  140\nForm : Devil\nSpecial Trait : 1st Body: Vulnerable (+50%) to Lightning Attribute Attacks.\n2nd Body: Vulnerable (+50%) to Ice Attribute Attacks.\n3rd Body: Vulnerable (+50%) to Fire Attribute Attacks.\n\nA dormant spirit of the Zakum tree which previously was without any intellect or malevolent notions. The tree started to show signs of life when it began to be fueled by the greed of the ancient miners who dug into the mountain looking for gold. The ancient town within the lava region, despite being built in the midst of all the darkness, burning flames and scorching heat of the El Nath volcanoes, survived because of the greedy passions of its residents. Apparently, the dark and shady emotions of the humans living in the area were somehow absorbed by Zakum over time. Zakum used to be a small, neglected tree, but has now grown extremely powerful thanks to the darkness, greed and negative energy of the human residents who once lived in the lava region. As its power grew, it began to take control of the miners and townsfolk, forcing them to build a Statue of it and worship it as their God. The spirit of Zakum, now locked inside the giant statue deep in the lava caves, anxiously waits for adventures to challenge it so that it may continue to feed on their desires and greed and become even stronger..."/>
         <imgdir name="reward">
             <int name="0" value="1002357"/>
             <int name="1" value="2000004"/>
@@ -11693,7 +11693,7 @@
         <imgdir name="map">
             <int name="0" value="103000804"/>
         </imgdir>
-        <string name="episode" value=" Lv. :  40\nForm : Spirit\nSpecial Trait : Resistant (-50%) to Ice, Fire, Electricity and Holy Attribute Attacks.\n\nIt is a mutated slime which once was a regular slime before transforming into a King Slime due to Lakelis and her sisters experimenting with magic. Though it looks like a regular slime of jelly-like substance, it can probably turn the world upside down with its gigantic, heavy body. Lakelis and her sisters are now recruiting adventurers who can defeat this King Slime before it causes too much havoc."/>
+        <string name="episode" value=" Lv. :  40\nForm : Spirit\nSpecial Trait : Resistant (-50%) to Ice, Fire, Lightning and Holy Attribute Attacks.\n\nIt is a mutated slime which once was a regular slime before transforming into a King Slime due to Lakelis and her sisters experimenting with magic. Though it looks like a regular slime of jelly-like substance, it can probably turn the world upside down with its gigantic, heavy body. Lakelis and her sisters are now recruiting adventurers who can defeat this King Slime before it causes too much havoc."/>
         <imgdir name="reward">
             <int name="0" value="4001008"/>
             <int name="1" value="1072634"/>
@@ -11758,7 +11758,7 @@
         <imgdir name="map">
             <int name="0" value="926100401"/>
         </imgdir>
-        <string name="episode" value=" Lv. :  81/84\nForm : Enchanted\nSpecial Trait : 2nd Form: Resistant (-50%) to Electricity and Poison Attribute Attacks.\n\nA powerful Roid created by combining Zenumist magic and Alcadno technology, the Frankenroid is made of steel limbs and a body that carries all sorts of weapons inside, not to mention a brain that is equivalent in intelligence to that of a human. This exquisite machinery was created by an alchemist, whose name, however, is being purposely witheld by the heads of both Societies."/>
+        <string name="episode" value=" Lv. :  81/84\nForm : Enchanted\nSpecial Trait : 2nd Form: Resistant (-50%) to Lightning and Poison Attribute Attacks.\n\nA powerful Roid created by combining Zenumist magic and Alcadno technology, the Frankenroid is made of steel limbs and a body that carries all sorts of weapons inside, not to mention a brain that is equivalent in intelligence to that of a human. This exquisite machinery was created by an alchemist, whose name, however, is being purposely witheld by the heads of both Societies."/>
         <imgdir name="reward">
             <int name="0" value="2000002"/>
             <int name="1" value="2000004"/>
@@ -12106,7 +12106,7 @@
             <int name="1" value="800020100"/>
             <int name="2" value="800020101"/>
         </imgdir>
-        <string name="episode" value="Lv. :  25 \nForm : Bird\nSpecial Trait : Vulnerable (+50%) to Electricity Attribute Attacks.\n\nCrows can be found living in the prairies outside Mushroom Shrine. They are a local nuisance to the citizens of Mushroom Shrine and fly back and forth in an attempt to drive people away."/>
+        <string name="episode" value="Lv. :  25 \nForm : Bird\nSpecial Trait : Vulnerable (+50%) to Lightning Attribute Attacks.\n\nCrows can be found living in the prairies outside Mushroom Shrine. They are a local nuisance to the citizens of Mushroom Shrine and fly back and forth in an attempt to drive people away."/>
         <imgdir name="reward">
             <int name="0" value="4000064"/>
             <int name="1" value="2060001"/>
@@ -12234,7 +12234,7 @@
             <int name="0" value="800020110"/>
             <int name="1" value="800020200"/>
         </imgdir>
-        <string name="episode" value="Lv. :  45 \nForm : Animal\nSpecial Trait : Vulnerable (+50%) to Electricity Attribute Attacks.\n\nThese wild foxes live in the farther outskirts of the Mushroom Shrine, closer to the Desolate Cemetery. The darkness of the cemetery has begun to affect the Dark Cloud Fox, and it is stronger than the Cloud Fox. They also believe the leaf on their heads help them camouflage and confuse people."/>
+        <string name="episode" value="Lv. :  45 \nForm : Animal\nSpecial Trait : Vulnerable (+50%) to Lightning Attribute Attacks.\n\nThese wild foxes live in the farther outskirts of the Mushroom Shrine, closer to the Desolate Cemetery. The darkness of the cemetery has begun to affect the Dark Cloud Fox, and it is stronger than the Cloud Fox. They also believe the leaf on their heads help them camouflage and confuse people."/>
         <imgdir name="reward">
             <int name="0" value="4000077"/>
             <int name="1" value="2022022"/>
@@ -12358,7 +12358,7 @@
         <imgdir name="map">
             <int name="0" value="800020130"/>
         </imgdir>
-        <string name="episode" value="Lv  :  115 \nForm : Demon\nSpecial Trait : Vulnerable (+50%) to Electricity Attribute Attacks.\n\nA monk who lost his conscience while pursuing ancient knowledge out in the far wilderness of the Mushroom Shrine. Likely corrupted by the same ancient God the Dreamy Ghosts were once sacrificed to, the Tengu, also known as Black Crow, will attack anyone who disturbs their constant search for knowledge without mercy. They retain powerful spells from their lives as monks, and can easily vanquish any traveler who is unfortunate enough to interrupt them."/>
+        <string name="episode" value="Lv  :  115 \nForm : Demon\nSpecial Trait : Vulnerable (+50%) to Lightning Attribute Attacks.\n\nA monk who lost his conscience while pursuing ancient knowledge out in the far wilderness of the Mushroom Shrine. Likely corrupted by the same ancient God the Dreamy Ghosts were once sacrificed to, the Tengu, also known as Black Crow, will attack anyone who disturbs their constant search for knowledge without mercy. They retain powerful spells from their lives as monks, and can easily vanquish any traveler who is unfortunate enough to interrupt them."/>
         <imgdir name="reward">
             <int name="0" value="4031530"/>
             <int name="1" value="4031531"/>
@@ -12585,7 +12585,7 @@
         <imgdir name="map">
             <int name="0" value="801030000"/>
         </imgdir>
-        <string name="episode" value="Lv  :  95 \nForm : Human\nSpecial Trait : Vulnerable (+50%) to Fire and Electricity Attribute Attacks.\n\nHe is the owner of the Hideout building in Showa Town&apos;s industrial district. Despite knowing that The Boss is a monster, he continues to deal with the Flaming Raccoon, possibly out of fear. He is married to the Female Boss."/>
+        <string name="episode" value="Lv  :  95 \nForm : Human\nSpecial Trait : Vulnerable (+50%) to Fire and Lightning Attribute Attacks.\n\nHe is the owner of the Hideout building in Showa Town&apos;s industrial district. Despite knowing that The Boss is a monster, he continues to deal with the Flaming Raccoon, possibly out of fear. He is married to the Female Boss."/>
         <imgdir name="reward">
             <int name="0" value="4000094"/>
             <int name="1" value="2000005"/>
@@ -12615,7 +12615,7 @@
         <imgdir name="map">
             <int name="0" value="801040003"/>
         </imgdir>
-        <string name="episode" value="Lv  :  130 \nForm : Human\nSpecial Trait : Vulnerable (+50%) to Electricity and Holy Attribute Attacks.\n\nThe wife of the Male Boss. Before she became involved with the Flaming Raccoon, she owned a restaurant. Like many other business owners, she was more or less forced to cooperate with The Boss. Now she is in it for the money, although she knows that The Boss is a monster. She is much stronger and far more dangerous than her husband."/>
+        <string name="episode" value="Lv  :  130 \nForm : Human\nSpecial Trait : Vulnerable (+50%) to Lightning and Holy Attribute Attacks.\n\nThe wife of the Male Boss. Before she became involved with the Flaming Raccoon, she owned a restaurant. Like many other business owners, she was more or less forced to cooperate with The Boss. Now she is in it for the money, although she knows that The Boss is a monster. She is much stronger and far more dangerous than her husband."/>
         <imgdir name="reward">
             <int name="0" value="4031530"/>
             <int name="1" value="4031531"/>
@@ -12688,7 +12688,7 @@
         <imgdir name="map">
             <int name="0" value="800040410"/>
         </imgdir>
-        <string name="episode" value="Lv. :  180\nForm : Human\nSpecial Trait : Human Form: Vulnerable (+50%) to Holy and Poison Attribute Attacks. Toad Form: Vulnerable (+50%) to Electricity Attribute Attacks. Immune to Poison Attribute Attacks.\n\nA toad monster that has extended its life for an unfathomably long time. The Toad has enticed the real Emperor of the Ninja Castle to go along with his scheme, and has been in control of the Castle ever since. Mimicking the form of the former Emperor, the Castellan Toad will show its true form if it receives enough damage. No one has yet to spot the real Emperor."/>
+        <string name="episode" value="Lv. :  180\nForm : Human\nSpecial Trait : Human Form: Vulnerable (+50%) to Holy and Poison Attribute Attacks. Toad Form: Vulnerable (+50%) to Lightning Attribute Attacks. Immune to Poison Attribute Attacks.\n\nA toad monster that has extended its life for an unfathomably long time. The Toad has enticed the real Emperor of the Ninja Castle to go along with his scheme, and has been in control of the Castle ever since. Mimicking the form of the former Emperor, the Castellan Toad will show its true form if it receives enough damage. No one has yet to spot the real Emperor."/>
         <imgdir name="reward">
             <int name="0" value="1022270"/>
             <int name="1" value="4000345"/>
@@ -12722,7 +12722,7 @@
         </imgdir>
     </imgdir>
     <imgdir name="9400288">
-        <string name="episode" value="Level : Lv.160\nType : Mechanical\nSpecial Trait : Vulnerable (+50%) to Electricity Attribute Attacks. Immune to Holy and Poison Attribute Attacks.\n\nA fierce human-like robot registered under the Grosswall unit under the Army of Blaze. It is usually stationed inside the Roppongi Mall building to protect the headquarters of the Army. However, in the past, this unit went on violent rampages against the residents of Tokyo, seemingly for no purpose other than pure evil. Unlike other robots, this robot is equipped with a giant shield that is big enough to cover its whole body, and uses it to block most attacks of regular level. It&apos;s a far more advanced model than the Imperial Guard, and is usually seen commanding legions of Imperial Guards stationed in various parts of future Zipangu."/>
+        <string name="episode" value="Level : Lv.160\nType : Mechanical\nSpecial Trait : Vulnerable (+50%) to Lightning Attribute Attacks. Immune to Holy and Poison Attribute Attacks.\n\nA fierce human-like robot registered under the Grosswall unit under the Army of Blaze. It is usually stationed inside the Roppongi Mall building to protect the headquarters of the Army. However, in the past, this unit went on violent rampages against the residents of Tokyo, seemingly for no purpose other than pure evil. Unlike other robots, this robot is equipped with a giant shield that is big enough to cover its whole body, and uses it to block most attacks of regular level. It&apos;s a far more advanced model than the Imperial Guard, and is usually seen commanding legions of Imperial Guards stationed in various parts of future Zipangu."/>
         <imgdir name="map">
             <int name="0" value="802000801"/>
         </imgdir>
@@ -12850,7 +12850,7 @@
         </imgdir>
     </imgdir>
     <imgdir name="9400296">
-        <string name="episode" value="Level : Lv.170\nType : Mechanical\nSpecial Trait : Vulnerable (+50%) to Fire and Electricity Attribute Attacks. Immune to Holy and Poison Attribute Attacks.\n\nA marvel of science. A machine equipped with artificial intelligence so great that it grew sentient, and seized control of the whole Army of Blaze. It was initially produced to maintain peace in Zipangu, but when Marr fell into a coma as a result of pollution, it offered to become her life support. While serving as the life support, it conducted its own research on how the pollution came about, and when it realized that the pollution had come as a direct result of humanity&apos;s crimes against the planet and all other lifeforms on it, as well as the slow reaction from the residents of Zipangu, it came up with the conclusion of destroying Zipangu and its population as the only solution. Since then, it has waged war against mankind, directing the Army towards the destruction of Zipangu while standing patiently by the girl that has yet to wake up. It is unprotected, and possesses no weaponry of its own, as it views itself as a creation of peace and balance. Instead, it calls upon hordes of enraged soldiers from the Army of Blaze to its assistance when threatened."/>
+        <string name="episode" value="Level : Lv.170\nType : Mechanical\nSpecial Trait : Vulnerable (+50%) to Fire and Lightning Attribute Attacks. Immune to Holy and Poison Attribute Attacks.\n\nA marvel of science. A machine equipped with artificial intelligence so great that it grew sentient, and seized control of the whole Army of Blaze. It was initially produced to maintain peace in Zipangu, but when Marr fell into a coma as a result of pollution, it offered to become her life support. While serving as the life support, it conducted its own research on how the pollution came about, and when it realized that the pollution had come as a direct result of humanity&apos;s crimes against the planet and all other lifeforms on it, as well as the slow reaction from the residents of Zipangu, it came up with the conclusion of destroying Zipangu and its population as the only solution. Since then, it has waged war against mankind, directing the Army towards the destruction of Zipangu while standing patiently by the girl that has yet to wake up. It is unprotected, and possesses no weaponry of its own, as it views itself as a creation of peace and balance. Instead, it calls upon hordes of enraged soldiers from the Army of Blaze to its assistance when threatened."/>
         <imgdir name="map">
             <int name="0" value="802000803"/>
         </imgdir>
@@ -13012,7 +13012,7 @@
         <imgdir name="map">
             <int name="0" value="540020100"/>
         </imgdir>
-        <string name="episode" value="Lv. :  48\nForm : Devil\nSpecial Trait : Vulnerable (+50%) to Electricity Attribute Attacks.\n\nThe pollutants accumulated in the CBD were gathered together and brought to life by a hidden force of evil. Trucker is bolder than the others and steals trucks from the carparks and even from the loading bays. It sometimes hides under the hood of the truck to check if the truck&apos;s owner is around."/>
+        <string name="episode" value="Lv. :  48\nForm : Devil\nSpecial Trait : Vulnerable (+50%) to Lightning Attribute Attacks.\n\nThe pollutants accumulated in the CBD were gathered together and brought to life by a hidden force of evil. Trucker is bolder than the others and steals trucks from the carparks and even from the loading bays. It sometimes hides under the hood of the truck to check if the truck&apos;s owner is around."/>
         <imgdir name="reward">
             <int name="0" value="4000375"/>
             <int name="1" value="4000376"/>
@@ -13096,7 +13096,7 @@
             <int name="1" value="541000301"/>
             <int name="2" value="541010010"/>
         </imgdir>
-        <string name="episode" value="Lv. :  63\nForm : Devil\nSpecial Trait : Vulnerable (+50%) to Electricity and Holy Attribute Attacks. Affected by Heal.\n\nSlimy is the lowest ranked of the ghostly sailors aboard the Ghost Ship, charged with the task of cleaning the ship. It wears a sad expression on its face because of its long and fruitless job, and can also be found outside the ship."/>
+        <string name="episode" value="Lv. :  63\nForm : Devil\nSpecial Trait : Vulnerable (+50%) to Lightning and Holy Attribute Attacks. Affected by Heal.\n\nSlimy is the lowest ranked of the ghostly sailors aboard the Ghost Ship, charged with the task of cleaning the ship. It wears a sad expression on its face because of its long and fruitless job, and can also be found outside the ship."/>
         <imgdir name="reward">
             <int name="0" value="4000379"/>
             <int name="1" value="2000006"/>
@@ -13862,7 +13862,7 @@
         <imgdir name="map">
             <int name="0" value="551030000"/>
         </imgdir>
-        <string name="episode" value="Lv. :  87\nForm : Devil\nSpecial Trait : Vulnerable (+50%) to Fire and Electricity Attribute Attacks.\n\nWhen a pair of mysterious monsters infiltrated the theme park, they brought the mascot dolls of the theme park to life. Vikerola admires the Vikings so much that it dressed up and got itself a wooden boat to row in. It actually looks very convincing as one."/>
+        <string name="episode" value="Lv. :  87\nForm : Devil\nSpecial Trait : Vulnerable (+50%) to Fire and Lightning Attribute Attacks.\n\nWhen a pair of mysterious monsters infiltrated the theme park, they brought the mascot dolls of the theme park to life. Vikerola admires the Vikings so much that it dressed up and got itself a wooden boat to row in. It actually looks very convincing as one."/>
         <imgdir name="reward">
             <int name="0" value="4000477"/>
             <int name="1" value="2000006"/>
@@ -14014,7 +14014,7 @@
         <imgdir name="map">
             <int name="0" value="551030200"/>
         </imgdir>
-        <string name="episode" value="Lv. :  140\nForm : Devil\nSpecial Trait : Resistant (-50%) to Ice and Electricity Attribute Attacks. Vulnerable (+50%) to Fire Attribute Attacks. \n\nWith its real name unknown, this mysterious being is a naive spirit who lives on the mountain that the Fantasy Theme Park is built on. It led a lonely life until it met it&apos;s best friend, and then wanted to make more friends. After observing the theme park for a while, this spirit and its best friend decided to visit. Its real form is too inconvenient so it imitated the form of one of the mascots from the theme park, Scarlion. Although it is deeply saddened because the people keep running away from it, the rides are so fun that it will easily become distracted from its sadness. Recently though, there have been people armed with weapons attacking it and it has taken to disguising itself as a statue with its best friend to hide from them. However, as it takes more damage, it slowly becomes angry, then furious and will attack back in earnest."/>
+        <string name="episode" value="Lv. :  140\nForm : Devil\nSpecial Trait : Resistant (-50%) to Ice and Lightning Attribute Attacks. Vulnerable (+50%) to Fire Attribute Attacks. \n\nWith its real name unknown, this mysterious being is a naive spirit who lives on the mountain that the Fantasy Theme Park is built on. It led a lonely life until it met it&apos;s best friend, and then wanted to make more friends. After observing the theme park for a while, this spirit and its best friend decided to visit. Its real form is too inconvenient so it imitated the form of one of the mascots from the theme park, Scarlion. Although it is deeply saddened because the people keep running away from it, the rides are so fun that it will easily become distracted from its sadness. Recently though, there have been people armed with weapons attacking it and it has taken to disguising itself as a statue with its best friend to hide from them. However, as it takes more damage, it slowly becomes angry, then furious and will attack back in earnest."/>
         <imgdir name="reward">
             <int name="0" value="1003026"/>
             <int name="1" value="4001242"/>
@@ -14130,7 +14130,7 @@
             <int name="0" value="800040202"/>
             <int name="1" value="800040314"/>
         </imgdir>
-        <string name="episode" value="Lv. :  50\nForm : Human\nSpecial Trait : Vulnerable (+50%) to Fire and Electricity Attribute Attacks.\n\nA Mid-tier Ninja that worked himself up from Low-tier Ninja. Chunin is an expert at threatening the masses with blow darts. Watch out for a black, shadowy figure behind. your. back."/>
+        <string name="episode" value="Lv. :  50\nForm : Human\nSpecial Trait : Vulnerable (+50%) to Fire and Lightning Attribute Attacks.\n\nA Mid-tier Ninja that worked himself up from Low-tier Ninja. Chunin is an expert at threatening the masses with blow darts. Watch out for a black, shadowy figure behind. your. back."/>
         <imgdir name="reward">
             <int name="0" value="4000338"/>
             <int name="1" value="2000002"/>
@@ -14194,7 +14194,7 @@
             <int name="1" value="800040302"/>
             <int name="2" value="800040400"/>
         </imgdir>
-        <string name="episode" value="Lv. :  100\nForm : Human\nSpecial Trait : Vulnerable (+50%) to Electricity Attribute Attacks. Immune to Fire, Ice, Poison and Holy Attribute Attacks.\n\nNinto is the head of the Ninjas. Due to a number of past battles within the Ninja Castle, he encountered a number of life and death situations, and... no one can confirm whether he&apos;s really alive or not. He is an incredibly dangerous ninja who can manipulate the energy in the environment around him and use it at will, with devastating power. He has also trained extensively in defensive techniques and is completely immune to various forms of elemental energy."/>
+        <string name="episode" value="Lv. :  100\nForm : Human\nSpecial Trait : Vulnerable (+50%) to Lightning Attribute Attacks. Immune to Fire, Ice, Poison and Holy Attribute Attacks.\n\nNinto is the head of the Ninjas. Due to a number of past battles within the Ninja Castle, he encountered a number of life and death situations, and... no one can confirm whether he&apos;s really alive or not. He is an incredibly dangerous ninja who can manipulate the energy in the environment around him and use it at will, with devastating power. He has also trained extensively in defensive techniques and is completely immune to various forms of elemental energy."/>
         <imgdir name="reward">
             <int name="0" value="4000340"/>
             <int name="1" value="2060003"/>
@@ -14249,7 +14249,7 @@
         <imgdir name="map">
             <int name="0" value="800040208"/>
         </imgdir>
-        <string name="episode" value="Lv. :  120\nForm : Immortal\nSpecial Trait : Resistant (-50%) to Fire Attribute Attacks. Vulnerable (+50%) to Ice, Electricity and Holy Attribute Attacks. Immune to Poison Attribute Attacks. Affected by Heal.\n\nA powerful ninja that perished years ago in a chaotic battle in the confines of the Ninja Castle. He now wanders around the castle as a ghost, unable to let go of the past. He moves slow because of the heavy armor he wears, but will move with frightning speed when attacking with his katana."/>
+        <string name="episode" value="Lv. :  120\nForm : Immortal\nSpecial Trait : Resistant (-50%) to Fire Attribute Attacks. Vulnerable (+50%) to Ice, Lightning and Holy Attribute Attacks. Immune to Poison Attribute Attacks. Affected by Heal.\n\nA powerful ninja that perished years ago in a chaotic battle in the confines of the Ninja Castle. He now wanders around the castle as a ghost, unable to let go of the past. He moves slow because of the heavy armor he wears, but will move with frightning speed when attacking with his katana."/>
         <imgdir name="reward">
             <int name="0" value="4000342"/>
             <int name="1" value="4031530"/>
@@ -14283,7 +14283,7 @@
             <int name="0" value="802000209"/>
             <int name="1" value="802000210"/>
         </imgdir>
-        <string name="episode" value="Lv. :  135\nForm : Mechanical\nSpecial Trait : Resistant (-50%) to Fire, Ice and Holy Attribute Attacks. Vulnerable (+50%) to Electricity Attribute Attacks. Immune to Poison Attribute Attacks.\n\nA transportation vehicle registered under the Grosswall unit under the Army of Blaze. Its main duty is transportation, but it usually works around the area of battle, so the Afterlords are also equipped with cannons and heavy artillery should it see combat. It is also equipped with small robots, which examine and perform maintenance on other machines."/>
+        <string name="episode" value="Lv. :  135\nForm : Mechanical\nSpecial Trait : Resistant (-50%) to Fire, Ice and Holy Attribute Attacks. Vulnerable (+50%) to Lightning Attribute Attacks. Immune to Poison Attribute Attacks.\n\nA transportation vehicle registered under the Grosswall unit under the Army of Blaze. Its main duty is transportation, but it usually works around the area of battle, so the Afterlords are also equipped with cannons and heavy artillery should it see combat. It is also equipped with small robots, which examine and perform maintenance on other machines."/>
         <imgdir name="reward">
             <int name="0" value="4032155"/>
             <int name="1" value="4031203"/>
@@ -14324,7 +14324,7 @@
             <int name="0" value="802000209"/>
             <int name="1" value="802000301"/>
         </imgdir>
-        <string name="episode" value="Lv. :  137\nForm : Mechanical\nSpecial Trait : Resistant (-50%) to Fire, Ice and Holy Attribute Attacks. Vulnerable (+50%) to Electricity Attribute Attacks. Immune to Poison Attribute Attacks.\n\nA weapon of intelligence registered under the Grosswall unit under the Army of Blaze. The Overlord observes the battlefield from the sky, which allows the headquarters to gather up valuable information on the progress of the war. It is equiped with a powerful laser and machine gun to attack opposition from the skies. It is also equipped with a very high-performance lens that can spot a speck of dust from a few hundred meters above ground, so it also performs the duty of patrolling around Tokyo."/>
+        <string name="episode" value="Lv. :  137\nForm : Mechanical\nSpecial Trait : Resistant (-50%) to Fire, Ice and Holy Attribute Attacks. Vulnerable (+50%) to Lightning Attribute Attacks. Immune to Poison Attribute Attacks.\n\nA weapon of intelligence registered under the Grosswall unit under the Army of Blaze. The Overlord observes the battlefield from the sky, which allows the headquarters to gather up valuable information on the progress of the war. It is equiped with a powerful laser and machine gun to attack opposition from the skies. It is also equipped with a very high-performance lens that can spot a speck of dust from a few hundred meters above ground, so it also performs the duty of patrolling around Tokyo."/>
         <imgdir name="reward">
             <int name="0" value="4032156"/>
             <int name="1" value="4031203"/>
@@ -14367,7 +14367,7 @@
             <int name="0" value="802000301"/>
             <int name="1" value="802000302"/>
         </imgdir>
-        <string name="episode" value="Lv. :  132\nForm : Mechanical\nSpecial Trait : Resistant (-50%) to Fire, Ice and Holy Attribute Attacks. Vulnerable (+50%) to Electricity Attribute Attacks. Immune to Poison Attribute Attacks.\n\nA factory robot developed by Zipangu Tech Lab, but was then remodeled to a combat robot with help from Mavericks from the future. The Protolord is very slow due to its treads, but it is ruthless in combat. Be careful, as its hidden cutter blades will be pre-aimed for you."/>
+        <string name="episode" value="Lv. :  132\nForm : Mechanical\nSpecial Trait : Resistant (-50%) to Fire, Ice and Holy Attribute Attacks. Vulnerable (+50%) to Lightning Attribute Attacks. Immune to Poison Attribute Attacks.\n\nA factory robot developed by Zipangu Tech Lab, but was then remodeled to a combat robot with help from Mavericks from the future. The Protolord is very slow due to its treads, but it is ruthless in combat. Be careful, as its hidden cutter blades will be pre-aimed for you."/>
         <imgdir name="reward">
             <int name="0" value="4032159"/>
             <int name="1" value="4032181"/>
@@ -14407,7 +14407,7 @@
             <int name="0" value="802000601"/>
             <int name="1" value="802000602"/>
         </imgdir>
-        <string name="episode" value="Lv. :  141\nForm : Mechanical\nSpecial Trait : Resistant (-50%) to Fire, Ice and Holy Attribute Attacks. Vulnerable (+50%) to Electricity Attribute Attacks. Immune to Poison Attribute Attacks.\n\nA patrol unit with humanoid features under the armored division of Crosol. It is used for complex duties such as battling indoors and pursuing a target. It has very high level of combat abilities. It can even change its appearance, and is also able to ride on Nibergen. Mavericks can also perform duties independent of the order. The Maverick A is very efficient in melee-combat situations."/>
+        <string name="episode" value="Lv. :  141\nForm : Mechanical\nSpecial Trait : Resistant (-50%) to Fire, Ice and Holy Attribute Attacks. Vulnerable (+50%) to Lightning Attribute Attacks. Immune to Poison Attribute Attacks.\n\nA patrol unit with humanoid features under the armored division of Crosol. It is used for complex duties such as battling indoors and pursuing a target. It has very high level of combat abilities. It can even change its appearance, and is also able to ride on Nibergen. Mavericks can also perform duties independent of the order. The Maverick A is very efficient in melee-combat situations."/>
         <imgdir name="reward">
             <int name="0" value="4032160"/>
             <int name="1" value="2050002"/>
@@ -14450,7 +14450,7 @@
             <int name="0" value="802000601"/>
             <int name="1" value="802000602"/>
         </imgdir>
-        <string name="episode" value="Lv. :  143\nForm : Mechanical\nSpecial Trait : Resistant (-50%) to Fire, Ice and Holy Attribute Attacks. Vulnerable (+50%) to Electricity Attribute Attacks. Immune to Poison Attribute Attacks.\n\nA patrol unit with humanoid features under the armored division of Crosol. It is used for complex duties such as battling indoors and pursuing a target. It has very high level of combat abilities. It can even change its appearance, and is also able to ride on Nibergen. Mavericks can also perform duties independent of the order. Maverick Y has a booster attached to it, which allows it to cover more area quicker than the model A."/>
+        <string name="episode" value="Lv. :  143\nForm : Mechanical\nSpecial Trait : Resistant (-50%) to Fire, Ice and Holy Attribute Attacks. Vulnerable (+50%) to Lightning Attribute Attacks. Immune to Poison Attribute Attacks.\n\nA patrol unit with humanoid features under the armored division of Crosol. It is used for complex duties such as battling indoors and pursuing a target. It has very high level of combat abilities. It can even change its appearance, and is also able to ride on Nibergen. Mavericks can also perform duties independent of the order. Maverick Y has a booster attached to it, which allows it to cover more area quicker than the model A."/>
         <imgdir name="reward">
             <int name="0" value="4032163"/>
             <int name="1" value="2050004"/>
@@ -14490,7 +14490,7 @@
         <imgdir name="map">
             <int name="0" value="802000601"/>
         </imgdir>
-        <string name="episode" value="Lv. :  143\nForm : Mechanical\nSpecial Trait : Resistant (-50%) to Fire, Ice and Holy Attribute Attacks. Vulnerable (+50%) to Electricity Attribute Attacks. Immune to Poison Attribute Attacks.\n\nA patrol unit with humanoid features under the armored division of Crosol. It is used for complex duties such as battling indoors and pursuing a target. It has very high level of combat abilities. It can even change its appearance, and is also able to ride on Nibergen. Mavericks can also perform duties independent of the order. Maverick V features excellent flying abilities, and is often used to attack and steal enemy vessels."/>
+        <string name="episode" value="Lv. :  143\nForm : Mechanical\nSpecial Trait : Resistant (-50%) to Fire, Ice and Holy Attribute Attacks. Vulnerable (+50%) to Lightning Attribute Attacks. Immune to Poison Attribute Attacks.\n\nA patrol unit with humanoid features under the armored division of Crosol. It is used for complex duties such as battling indoors and pursuing a target. It has very high level of combat abilities. It can even change its appearance, and is also able to ride on Nibergen. Mavericks can also perform duties independent of the order. Maverick V features excellent flying abilities, and is often used to attack and steal enemy vessels."/>
         <imgdir name="reward">
             <int name="0" value="4032163"/>
             <int name="1" value="4031203"/>
@@ -14537,7 +14537,7 @@
             <int name="0" value="802000401"/>
             <int name="1" value="802000409"/>
         </imgdir>
-        <string name="episode" value="Lv. :  145\nForm : Mechanical\nSpecial Trait : Resistant (-50%) to Fire, Ice and Holy Attribute Attacks. Vulnerable (+50%) to Electricity Attribute Attacks. Immune to Poison Attribute Attacks.\n\nConsidered one of the ultimate robots developed by the Zipangu Army to combat the Army of Blaze, the Eruwater was a humanoid mech which contained human-like emotions, and was programmed to love peace. Unfortunately, the prototype was stolen by the Army of Blaze right before its completion, and the Eruwater had its programs on emotion deleted. Since then, this female robot has never smiled. It currently serves as one of the reserves for the independent unit of Blaze. Its beautiful appearence has taken many soldiers off-guard, and it has capitalized on this by slaughtering hundreds of the defenders of Zipangu."/>
+        <string name="episode" value="Lv. :  145\nForm : Mechanical\nSpecial Trait : Resistant (-50%) to Fire, Ice and Holy Attribute Attacks. Vulnerable (+50%) to Lightning Attribute Attacks. Immune to Poison Attribute Attacks.\n\nConsidered one of the ultimate robots developed by the Zipangu Army to combat the Army of Blaze, the Eruwater was a humanoid mech which contained human-like emotions, and was programmed to love peace. Unfortunately, the prototype was stolen by the Army of Blaze right before its completion, and the Eruwater had its programs on emotion deleted. Since then, this female robot has never smiled. It currently serves as one of the reserves for the independent unit of Blaze. Its beautiful appearence has taken many soldiers off-guard, and it has capitalized on this by slaughtering hundreds of the defenders of Zipangu."/>
         <imgdir name="reward">
             <int name="0" value="4032161"/>
             <int name="1" value="2050004"/>
@@ -14577,7 +14577,7 @@
         <imgdir name="map">
             <int name="0" value="802000211"/>
         </imgdir>
-        <string name="episode" value="Lv. :  145\nForm : Mechanical\nSpecial Trait : 1st Body: Resistant (-50%) to Fire Attribute Attacks. Vulnerable (+50%) to Ice and Electricity Attribute Attacks. Immune to Poison Attribute Attacks.\n2nd Body: Resistant (-50%) to Ice and Electricity Attribute Attacks. Vulnerable (+50%) to Fire Attribute Attacks. Immune to Poison Attribute Attacks.\n3rd Body: Resistant (-50%) to Fire and Ice Attribute Attacks. Vulnerable (+50%) to Electricity Attribute Attacks. Immune to Poison Attribute Attacks.\n\nVergamot is the head of the Grosswall Unit, and is the central controller of all the ground units in the Army of Blaze. Only Core Blaze is above it in the strict chain of command. It was originally designed to merely control the units in the Army, but as it had freedom to call its own shots, it equipped itself with giant missiles and cannons, now holding its own as a very powerful and deadly combat robot."/>
+        <string name="episode" value="Lv. :  145\nForm : Mechanical\nSpecial Trait : 1st Body: Resistant (-50%) to Fire Attribute Attacks. Vulnerable (+50%) to Ice and Lightning Attribute Attacks. Immune to Poison Attribute Attacks.\n2nd Body: Resistant (-50%) to Ice and Lightning Attribute Attacks. Vulnerable (+50%) to Fire Attribute Attacks. Immune to Poison Attribute Attacks.\n3rd Body: Resistant (-50%) to Fire and Ice Attribute Attacks. Vulnerable (+50%) to Lightning Attribute Attacks. Immune to Poison Attribute Attacks.\n\nVergamot is the head of the Grosswall Unit, and is the central controller of all the ground units in the Army of Blaze. Only Core Blaze is above it in the strict chain of command. It was originally designed to merely control the units in the Army, but as it had freedom to call its own shots, it equipped itself with giant missiles and cannons, now holding its own as a very powerful and deadly combat robot."/>
         <imgdir name="reward">
             <int name="0" value="4032157"/>
             <int name="1" value="4032181"/>
@@ -14657,7 +14657,7 @@
         <imgdir name="map">
             <int name="0" value="802000111"/>
         </imgdir>
-        <string name="episode" value="Lv. :  160\nForm : Immortal\nSpecial Trait : Resistant (-50%) to Ice Attribute Attacks. Vulnerable (+50%) to Electricity Attribute Attacks.\n\nOnce one of the protectors of Zipangu, Dunas&apos;s activities directly correlate to the destruction of Zipangu, which made it imperative for him to defeat Asia. With Dunas&apos;s ability to resurrect, even if he gets defeated in battle, he will simply rise again, in a new body in a new place. Asia was able to seal up Dunas&apos;s spirit by trapping him in Kamuna, where his spirit morphed into a strange magic monster, which cannot be named. In Kamuna, time stands still, which prevents his death, and therefore, his resurrection."/>
+        <string name="episode" value="Lv. :  160\nForm : Immortal\nSpecial Trait : Resistant (-50%) to Ice Attribute Attacks. Vulnerable (+50%) to Lightning Attribute Attacks.\n\nOnce one of the protectors of Zipangu, Dunas&apos;s activities directly correlate to the destruction of Zipangu, which made it imperative for him to defeat Asia. With Dunas&apos;s ability to resurrect, even if he gets defeated in battle, he will simply rise again, in a new body in a new place. Asia was able to seal up Dunas&apos;s spirit by trapping him in Kamuna, where his spirit morphed into a strange magic monster, which cannot be named. In Kamuna, time stands still, which prevents his death, and therefore, his resurrection."/>
         <imgdir name="reward">
             <int name="0" value="4032150"/>
             <int name="1" value="4032181"/>
@@ -14809,7 +14809,7 @@
         <imgdir name="map">
             <int name="0" value="802000611"/>
         </imgdir>
-        <string name="episode" value="Lv. :  158\nForm : Mechanical\nSpecial Trait : Resistant (-50%) to Fire Attribute Attacks. Vulnerable (+50%) to Ice and Electricity Attribute Attacks. Immune to Poison Attribute Attacks.\n\nA battleship that contains the central system that controls all of the aircraft in the Army of Blaze. Vergamot takes charge of the soldiers on land, and Nibergen takes charge of the Tokyo skies. The battleship carries various forms of weaponry, and its combat abilities rival that of Vergamot."/>
+        <string name="episode" value="Lv. :  158\nForm : Mechanical\nSpecial Trait : Resistant (-50%) to Fire Attribute Attacks. Vulnerable (+50%) to Ice and Lightning Attribute Attacks. Immune to Poison Attribute Attacks.\n\nA battleship that contains the central system that controls all of the aircraft in the Army of Blaze. Vergamot takes charge of the soldiers on land, and Nibergen takes charge of the Tokyo skies. The battleship carries various forms of weaponry, and its combat abilities rival that of Vergamot."/>
         <imgdir name="reward">
             <int name="0" value="4032165"/>
             <int name="1" value="4032181"/>
@@ -14891,7 +14891,7 @@
             <int name="0" value="802000701"/>
             <int name="1" value="802000801"/>
         </imgdir>
-        <string name="episode" value="Level : Lv.143\nType : Mechanical\nSpecial Trait : Resistant (-50%) to Fire, Ice and Holy Attribute Attacks. Vulnerable (+50%) to Electricity Attribute Attacks. Immune to Poison Attribute Attacks.\n\nA human-like robot registered under the Grosswall unit under the Army of Blaze. It is usually stationed inside the headquarters of the Army, which is the Roppongi Mall. Unlike other robots, this robot is equipped with a giant shield that is big enough to cover its whole body, and uses it to not only block attacks, but as a weapon too. It is also quick on its feet, which comes in handy when ambushing the opposition. The Imperial Guard is very well designed, and it can withstand a lot of punishment."/>
+        <string name="episode" value="Level : Lv.143\nType : Mechanical\nSpecial Trait : Resistant (-50%) to Fire, Ice and Holy Attribute Attacks. Vulnerable (+50%) to Lightning Attribute Attacks. Immune to Poison Attribute Attacks.\n\nA human-like robot registered under the Grosswall unit under the Army of Blaze. It is usually stationed inside the headquarters of the Army, which is the Roppongi Mall. Unlike other robots, this robot is equipped with a giant shield that is big enough to cover its whole body, and uses it to not only block attacks, but as a weapon too. It is also quick on its feet, which comes in handy when ambushing the opposition. The Imperial Guard is very well designed, and it can withstand a lot of punishment."/>
         <imgdir name="reward">
             <int name="0" value="4032355"/>
         </imgdir>
@@ -15867,7 +15867,7 @@
             <int name="1" value="600010400"/>
             <int name="2" value="600020500"/>
         </imgdir>
-        <string name="episode" value="Lv. :  41 \nForm : Mammal\nSpecial Trait : Resistant (-50%) to Electricity Attribute Attacks. Vulnerable (+50%) to Fire Attribute Attacks. Immune to Ice Attribute Attacks.\n\nA great blue Elephant, which can be found lumbering around the outskirts of the Krakian Jungle and inside the dark MesoGears. Like its relative, the Fire Tusk, it has had its body modified with cybernetic implants. It wears a special headpiece from which it can shoot bursts of electricity. It is powerful, so it is best to avoid this beast."/>
+        <string name="episode" value="Lv. :  41 \nForm : Mammal\nSpecial Trait : Resistant (-50%) to Lightning Attribute Attacks. Vulnerable (+50%) to Fire Attribute Attacks. Immune to Ice Attribute Attacks.\n\nA great blue Elephant, which can be found lumbering around the outskirts of the Krakian Jungle and inside the dark MesoGears. Like its relative, the Fire Tusk, it has had its body modified with cybernetic implants. It wears a special headpiece from which it can shoot bursts of electricity. It is powerful, so it is best to avoid this beast."/>
         <imgdir name="reward">
             <int name="0" value="1002176"/>
             <int name="1" value="1002143"/>
@@ -16038,7 +16038,7 @@
             <int name="6" value="610010013"/>
             <int name="7" value="610010005"/>
         </imgdir>
-        <string name="episode" value="Lv. :  101 \nForm : Enchanted\nSpecial Trait : Vulnerable (+50%) to Electricity Attribute Attacks.\n\nA very fierce monster that is sometimes seen walking the haunted paths of the Phantom Forest. The Headless Horseman is an ancient, possibly several thousand years old ghost of a man who was once named Killian. Killian was known for his mastery of fire, and he was in love with a sorceress named LeFay. One day, very long ago, both LeFay and Killian were captured by a great evil Alchemist who transformed LeFay into a pink horse. When Killian, who could not stand to live any longer after witnessing what was done to LeFay, tried to burn his own head off, the Alchemist simply replaced it with a pumpkin. Later on, a powerful Magician would cast a spell on the Horseman, which cursed him to wander the Phantom Forest, riding on the pink horse who was once his love, in an eternal, fruitless search for a head that no longer exists."/>
+        <string name="episode" value="Lv. :  101 \nForm : Enchanted\nSpecial Trait : Vulnerable (+50%) to Lightning Attribute Attacks.\n\nA very fierce monster that is sometimes seen walking the haunted paths of the Phantom Forest. The Headless Horseman is an ancient, possibly several thousand years old ghost of a man who was once named Killian. Killian was known for his mastery of fire, and he was in love with a sorceress named LeFay. One day, very long ago, both LeFay and Killian were captured by a great evil Alchemist who transformed LeFay into a pink horse. When Killian, who could not stand to live any longer after witnessing what was done to LeFay, tried to burn his own head off, the Alchemist simply replaced it with a pumpkin. Later on, a powerful Magician would cast a spell on the Horseman, which cursed him to wander the Phantom Forest, riding on the pink horse who was once his love, in an eternal, fruitless search for a head that no longer exists."/>
         <imgdir name="reward">
             <int name="0" value="4031530"/>
             <int name="1" value="4031531"/>
@@ -16350,7 +16350,7 @@
             <int name="8" value="610030521"/>
             <int name="9" value="610030522"/>
         </imgdir>
-        <string name="episode" value="Lv. :  80 \nForm : Enchanted\nSpecial Trait : Immune to Electricity Attribute Attacks.\n\nThe Stormbreakers make up one of the factions of the Corrupt Army. They are trained by the Twisted Masters in the disciplines of the ancient Stormcasters, but without their strict moral codes. As a result, they are dangerous and unpredictable. They fight with spears, from which they can also shoot lightning."/>
+        <string name="episode" value="Lv. :  80 \nForm : Enchanted\nSpecial Trait : Immune to Lightning Attribute Attacks.\n\nThe Stormbreakers make up one of the factions of the Corrupt Army. They are trained by the Twisted Masters in the disciplines of the ancient Stormcasters, but without their strict moral codes. As a result, they are dangerous and unpredictable. They fight with spears, from which they can also shoot lightning."/>
         <imgdir name="reward">
             <int name="0" value="4032006"/>
             <int name="1" value="1102012"/>
@@ -16366,7 +16366,7 @@
             <int name="1" value="610030015"/>
             <int name="2" value="610030510"/>
         </imgdir>
-        <string name="episode" value="Lv. :  120 \nForm : Enchanted\nSpecial Trait : Resistant (-50%) to Fire, Ice, Electricity and Poison Attribute Attacks. Immune to Holy Attribute Attacks.\n\nA truly marvelous and equally mysterious creature. They seem to combine the fighting tactics of each of the ancient Crimsonwood factions, wielding four different weapons at the same time. It is unknown whether they are humanoid in nature, or robotic. They seem to be the only creatures in Crimsonwood not under the influence of the Twisted Masters, as the Guardians are said to have existed even before the fall of the Keep. The hearts that power them are composed of a material unlike anything seen in Maple World. They have both very high attack and defense skills, resistance to all elemental damage, and can disable a person&apos;s skills, making them extremely dangerous in combat."/>
+        <string name="episode" value="Lv. :  120 \nForm : Enchanted\nSpecial Trait : Resistant (-50%) to Fire, Ice, Lightning and Poison Attribute Attacks. Immune to Holy Attribute Attacks.\n\nA truly marvelous and equally mysterious creature. They seem to combine the fighting tactics of each of the ancient Crimsonwood factions, wielding four different weapons at the same time. It is unknown whether they are humanoid in nature, or robotic. They seem to be the only creatures in Crimsonwood not under the influence of the Twisted Masters, as the Guardians are said to have existed even before the fall of the Keep. The hearts that power them are composed of a material unlike anything seen in Maple World. They have both very high attack and defense skills, resistance to all elemental damage, and can disable a person&apos;s skills, making them extremely dangerous in combat."/>
         <imgdir name="reward">
             <int name="0" value="4032012"/>
             <int name="1" value="2000005"/>
@@ -16444,8 +16444,9 @@
     </imgdir>
     <imgdir name="9400590">
         <imgdir name="map">
+            <int name="0" value="610030600"/>
         </imgdir>
-        <string name="episode" value="Lv. :  130 \nForm : Enchanted\nSpecial Trait : Resistant (-50%) to Fire, Ice and Electricity Attribute Attacks. Vulnerable (+50%) to Holy Attribute Attacks.\n\nOne of the Twisted Masters of Versal. Margana is the most enigmatic of the five Masters, and not much is known about her. She seems to be taking direct orders from the demon Naricain. She is extremely powerful, and she is in charge of training the entire magic-faction of the Corrupt Army. Her powers alone far exceed the combined forces of the army she is training."/>
+        <string name="episode" value="Lv. :  130 \nForm : Enchanted\nSpecial Trait : Resistant (-50%) to Fire, Ice and Lightning Attribute Attacks. Vulnerable (+50%) to Holy Attribute Attacks.\n\nOne of the Twisted Masters of Versal. Margana is the most enigmatic of the five Masters, and not much is known about her. She seems to be taking direct orders from the demon Naricain. She is extremely powerful, and she is in charge of training the entire magic-faction of the Corrupt Army. Her powers alone far exceed the combined forces of the army she is training."/>
         <imgdir name="reward">
             <int name="0" value="1122059"/>
             <int name="1" value="1002947"/>
@@ -16453,8 +16454,9 @@
     </imgdir>
     <imgdir name="9400591">
         <imgdir name="map">
+            <int name="0" value="610030600"/>
         </imgdir>
-        <string name="episode" value="Lv. :  130 \nForm : Enchanted\nSpecial Trait : Vulnerble (+50%) to Electricity Attribute Attacks.\n\nOne of the Twisted Masters of Versal. Tribalistic in nature, the giant beast Red Nirg&apos;s origins are largely unknown. His raw physical strength is far greater than any of the other Twisted Master&apos;s, and his stamina is formidable. He wields a giant axe in each hand, which he swings around furiously with apparent ease. Red Nirg seems to be taking direct orders from the demon Naricain too."/>
+        <string name="episode" value="Lv. :  130 \nForm : Enchanted\nSpecial Trait : Vulnerble (+50%) to Lightning Attribute Attacks.\n\nOne of the Twisted Masters of Versal. Tribalistic in nature, the giant beast Red Nirg&apos;s origins are largely unknown. His raw physical strength is far greater than any of the other Twisted Master&apos;s, and his stamina is formidable. He wields a giant axe in each hand, which he swings around furiously with apparent ease. Red Nirg seems to be taking direct orders from the demon Naricain too."/>
         <imgdir name="reward">
             <int name="0" value="1122059"/>
             <int name="1" value="1002949"/>
@@ -16462,6 +16464,7 @@
     </imgdir>
     <imgdir name="9400592">
         <imgdir name="map">
+            <int name="0" value="610030600"/>
         </imgdir>
         <string name="episode" value="Lv. :  130 \nForm : Enchanted\nSpecial Trait : Vulnerable (+50%) to Fire Attribute Attacks. Immune to Holy Attribute Attacks.\n\nOne of the Twisted Masters of Versal. Rellik is the Quiet One. He attacks using a crossbow and wears goggles which are believed to grant him the ability to see into several dimensions at once. Not much is known of Rellik&apos;s past or origins, but he slays his opponents without showing any sign of emotion. He may have been a lone-wolf mercenary in Versal, but he is now strictly under the control of demon Naricain."/>
         <imgdir name="reward">
@@ -16471,6 +16474,7 @@
     </imgdir>
     <imgdir name="9400593">
         <imgdir name="map">
+            <int name="0" value="610030600"/>
         </imgdir>
         <string name="episode" value="Lv. :  130 \nForm : Enchanted\nSpecial Trait : Vulnerable (+50%) to Ice Attribute Attacks. Immune to Holy Attribute Attacks.\n\nOne of the Twisted Masters of Versal. He is the most vicious and aggressive of the Masters, seemingly enjoying violence and playing with his victims. He is exceptionally fast and agile, and wields claws and knives. He is taking orders from Naricain himself, although it is unknown how, or why."/>
         <imgdir name="reward">
@@ -16480,8 +16484,9 @@
     </imgdir>
     <imgdir name="9300776">
         <imgdir name="map">
+            <int name="0" value="610030600"/>
         </imgdir>
-        <string name="episode" value="Lv. :  120 \nForm : Enchanted\n\nOne of the Twisted Masters of Versal. Once a mighty Pirate King in Versal (or so the legend says), Gawyllacs controls the forces of the dark depths, and the tremendous powers of the Raging Versalian Sea. Whether or not his origin-story is true, one thing is certain: Gawyllacs is now under the control of the demon Naricain, and is training part of the Corrupt Army."/>
+        <string name="episode" value="Lv. :  130 \nForm : Enchanted\n\nOne of the Twisted Masters of Versal. Once a mighty Pirate King in Versal (or so the legend says), Gawyllacs controls the forces of the dark depths, and the tremendous powers of the Raging Versalian Sea. Whether or not his origin-story is true, one thing is certain: Gawyllacs is now under the control of the demon Naricain, and is training part of the Corrupt Army."/>
         <imgdir name="reward">
             <int name="0" value="1122059"/>
             <int name="1" value="1002946"/>
@@ -16944,7 +16949,7 @@
         </imgdir>
     </imgdir>
     <imgdir name="5250000">
-        <string name="episode" value="Lv.: 109\nForm : Plant\nSpecial Trait : Resistant (-50%) to Holy Attribute Attacks. Vulnerable (+50%) to Electricity Attribute Attacks.\n\nGiant mushrooms that live in Ellin Forest. The Mossy Mushrooms are much bigger, bulkier and more vicious than the green mushrooms of the present day. They will slam the ground and release a cloud of spores at anyone who threatens them."/>
+        <string name="episode" value="Lv.: 109\nForm : Plant\nSpecial Trait : Resistant (-50%) to Holy Attribute Attacks. Vulnerable (+50%) to Lightning Attribute Attacks.\n\nGiant mushrooms that live in Ellin Forest. The Mossy Mushrooms are much bigger, bulkier and more vicious than the green mushrooms of the present day. They will slam the ground and release a cloud of spores at anyone who threatens them."/>
         <imgdir name="map">
             <int name="0" value="300020100"/>
             <int name="1" value="300020200"/>
@@ -17020,7 +17025,7 @@
         </imgdir>
     </imgdir>
     <imgdir name="5250004">
-        <string name="episode" value="Lv.: 120\nForm : Mammal\nSpecial Trait : Resistant (-50%) to Electricity Attribute Attacks. Vulnerable (+50%) to Fire and Holy Attribute Attacks. Immune to Ice Attribute Attacks.\n\nLarge, tough and old, Chao is the strongest Boar in Ellin Forest. Chao bears many scars from his encounters with various creatures (and trees) in Ellin Forest. He&apos;s mostly blind, but makes up for it with his vicious anger, so don&apos;t underestimate him. Like the smaller boars, he will pick up and throw rocks at anyone who comes into his cave, but he will also jump high into the air and slam the ground, with devastating consequences. He also likes truffles."/>
+        <string name="episode" value="Lv.: 120\nForm : Mammal\nSpecial Trait : Resistant (-50%) to Lightning Attribute Attacks. Vulnerable (+50%) to Fire and Holy Attribute Attacks. Immune to Ice Attribute Attacks.\n\nLarge, tough and old, Chao is the strongest Boar in Ellin Forest. Chao bears many scars from his encounters with various creatures (and trees) in Ellin Forest. He&apos;s mostly blind, but makes up for it with his vicious anger, so don&apos;t underestimate him. Like the smaller boars, he will pick up and throw rocks at anyone who comes into his cave, but he will also jump high into the air and slam the ground, with devastating consequences. He also likes truffles."/>
         <imgdir name="map">
             <int name="0" value="300010420"/>
         </imgdir>
@@ -17123,7 +17128,7 @@
         </imgdir>
     </imgdir>
     <imgdir name="5250007">
-        <string name="episode" value="Lv.: 125\nForm : Spirit\nSpecial Trait : Resistant (-50%) to Electricity Attribute Attacks. Vulnerable (+50%) to Fire and Holy Attribute Attacks. Immune to Ice Attribute Attacks.\n\nThe Queen of the Fairies of Ellin Forest. Though her underlings are not very cultured, Ephenia herself is more reminiscent of modern day fairies. However, not long ago she fell under a dark spell, which instilled in her a violent hatred toward all humans. She is a powerful magician and knows a variety of spells that she won&apos;t hesitate to use on any human who would dare enter the Fairy Forest."/>
+        <string name="episode" value="Lv.: 125\nForm : Spirit\nSpecial Trait : Resistant (-50%) to Lightning Attribute Attacks. Vulnerable (+50%) to Fire and Holy Attribute Attacks. Immune to Ice Attribute Attacks.\n\nThe Queen of the Fairies of Ellin Forest. Though her underlings are not very cultured, Ephenia herself is more reminiscent of modern day fairies. However, not long ago she fell under a dark spell, which instilled in her a violent hatred toward all humans. She is a powerful magician and knows a variety of spells that she won&apos;t hesitate to use on any human who would dare enter the Fairy Forest."/>
         <imgdir name="map">
             <int name="0" value="300030500"/>
         </imgdir>
@@ -17162,7 +17167,7 @@
         </imgdir>
     </imgdir>
     <imgdir name="8210000">
-        <string name="episode" value="Lv. :  125\nForm : Reptile\nSpecial Trait : Resistant (+50%) to Ice Attribute Attacks. Vulnerable (-50%) to Fire Attribute Attacks.\n\nThese crocodile soldiers can be found around the outermost walls of Lionheart Castle. Loyal beyond the grave, they guard the gates to the castle, shackled by a terrible curse, and unaware that the kingdom fell into ruin hundreds of years ago. They will attack anyone, and anything, that trespasses within the castle."/>
+        <string name="episode" value="Lv. :  125\nForm : Reptile\nSpecial Trait : Resistant (-50%) to Ice Attribute Attacks. Vulnerable (+50%) to Fire Attribute Attacks.\n\nThese crocodile soldiers can be found around the outermost walls of Lionheart Castle. Loyal beyond the grave, they guard the gates to the castle, shackled by a terrible curse, and unaware that the kingdom fell into ruin hundreds of years ago. They will attack anyone, and anything, that trespasses within the castle."/>
         <imgdir name="map">
             <int name="0" value="270030400"/>
             <int name="1" value="270030500"/>
@@ -17383,7 +17388,7 @@
         </imgdir>
     </imgdir>
     <imgdir name="8210005">
-        <string name="episode" value="Lv. :  152\nForm : Enchanted\nSpecial Trait : Vulnerable (+50%) to Lightning Attribute Attacks.\n\nThese golems rose out of the rubble of the crumbling castle walls over the centuries. Guarding the innermost walls of the castle, a strange magical fire has seeped into the rock, and breathed life into it. These unnatural soldiers make up the strongest legions in the Lion King&apos;s armies, despite not being actively recruited. It&apos;s as if these beings are the very embodiments of keeping the Lion King safe. If the adventurer gets too close, they will strike the ground with such a tremendous force that all around are sent flying."/>
+        <string name="episode" value="Lv. :  152\nForm : Enchanted\nSpecial Trait : Vulnerable (+50%) to Holy Attribute Attacks.\n\nThese golems rose out of the rubble of the crumbling castle walls over the centuries. Guarding the innermost walls of the castle, a strange magical fire has seeped into the rock, and breathed life into it. These unnatural soldiers make up the strongest legions in the Lion King&apos;s armies, despite not being actively recruited. It&apos;s as if these beings are the very embodiments of keeping the Lion King safe. If the adventurer gets too close, they will strike the ground with such a tremendous force that all around are sent flying."/>
         <imgdir name="map">
             <int name="0" value="270030400"/>
             <int name="1" value="270030500"/>
@@ -17437,81 +17442,121 @@
         </imgdir>
     </imgdir>
     <imgdir name="6130104">
-        <string name="episode" value=" "/>
+        <string name="episode" value="Lv. : 35\nForm : Spirit\nSpecial Trait : Resistant (-50%) to Holy Attribute Attacks.\n\nThe Boogie is a creature from an ancient time, only found deep inside the volcanoes of El Nath. Why it resides in such a place is unknown. It seems to be attracted to Zakum, perhaps due to its penchant for corruption and destruction. It is often found near Zakum, acting as a guard and willfully attacks adventurers who would challenge Zakum. It can raise the attack power of Zakum and its other minions, and its touch can stun, leaving the adventurer at the mercy of Zakum&apos;s wrath."/>
         <imgdir name="map">
+            <int name="0" value="280030000"/>
         </imgdir>
         <imgdir name="reward">
         </imgdir>
     </imgdir>
     <imgdir name="9300035">
-        <string name="episode" value=" "/>
+        <string name="episode" value="Lv. : 62\nForm : Enchanted\n\nOnce decorative statues found in the ancient kingdom of Sharenian, the corruption of Ergoth has animated them and given them life. It now guards the ruins of the underground ancient kingdom, from treasure hunters and adventurers alike, serving Ergoth unquestionably."/>
         <imgdir name="map">
+            <int name="0" value="990000900"/>
         </imgdir>
         <imgdir name="reward">
         </imgdir>
     </imgdir>
     <imgdir name="6230101">
-        <string name="episode" value=" "/>
+        <string name="episode" value="Lv. : 63\nForm : Enchanted\n\nOnce simple pottery made by the ancient villagers who used to reside in the El Nath mountains, the power of Zakum has shaped the pottery into animated clay guardians. The Puco is a simple mindless servent, who only exists to serve Zakum&apos;s will."/>
         <imgdir name="map">
+            <int name="0" value="280030000"/>
         </imgdir>
         <imgdir name="reward">
         </imgdir>
     </imgdir>
     <imgdir name="6300003">
-        <string name="episode" value=" "/>
+        <string name="episode" value="Lv. : 67\nForm : Enchanted\nSpecial Trait : Resistant (-50%) to Holy Attribute Attacks.\n\nOnce simple pottery made by the ancient villagers who used to reside in the El Nath mountains, the power of Zakum has shaped the pottery into animated clay guardians. Punco has hands that hold magical orbs, and it can use the power in the orbs to cast magical spells to attack invaders into Zakum&apos;s Altar."/>
         <imgdir name="map">
+            <int name="0" value="280030000"/>
         </imgdir>
         <imgdir name="reward">
         </imgdir>
     </imgdir>
     <imgdir name="6400003">
-        <string name="episode" value=" "/>
+        <string name="episode" value="Lv. : 69\nForm : Enchanted\nSpecial Trait : Resistant (-50%) to Holy Attribute Attacks.\n\nOnce simple pottery made by the ancient villagers who used to reside in the El Nath mountains, the power of Zakum has shaped the pottery into animated clay guardians. Cuzco contains four hands, and strikes an eerily similar resemblence to Zakum itself. Like Punco, it can use the orbs it holds to cast strong magical spells to attack anyone who would challenge Zakum."/>
         <imgdir name="map">
+            <int name="0" value="280030000"/>
         </imgdir>
         <imgdir name="reward">
         </imgdir>
     </imgdir>
     <imgdir name="6400004">
-        <string name="episode" value=" "/>
+        <string name="episode" value="Lv. : 70\nForm : Enchanted\nSpecial Trait : Resistant (-50%) to Lightning, Holy and Poison Attribute Attacks. Vulnerable (+50%) to Fire Attribute Attacks. Immune to Ice Attribute Attacks\n\nCountless weapons, armor and gear litter Zakum&apos;s Altar, a chilling reminder of the fate of those unfortunate or unlucky souls who were too weak or simply too foolish who challenged Zakum and failed. The magical energy within this lost and forgotten gear has been utilized by Zakum to help animate this guardian; and in a cruel twist of fate, the souls of those who once worshipped Zakum have been binded to these guardians, a reminder of the greed and cuelty Zakum embodies. Opachu is Zakum&apos;s most powerful guardian, and will separate into two Pachu after sustaining significant damage, who will continue to protect Zakum."/>
         <imgdir name="map">
+            <int name="0" value="280030000"/>
         </imgdir>
         <imgdir name="reward">
         </imgdir>
     </imgdir>
     <imgdir name="9300270">
-        <string name="episode" value=" "/>
+        <string name="episode" value="Lv. : 80\nForm : Mammal\n\nYoung panda cubs who have demonstrated significant potential to become master martial artists are hand picked by Mu Gong Mertis himself to train at the top of his tower. Still only a cub, Mingu has high hopes for its future under Mu Gong&apos;s tutelage, and rolls around the Dojo with unbridled determination!"/>
         <imgdir name="map">
+            <int name="0" value="925023800"/>
         </imgdir>
         <imgdir name="reward">
         </imgdir>
     </imgdir>
     <imgdir name="9400599">
-        <string name="episode" value=" "/>
+        <string name="episode" value="Lv. : 100\nForm : Enchanted\n\nWild birds of all types once roamed the ancient continent of Masteria, coexisting peacefully with the inhabitants of that time. Many of the archers of that time raised these wild birds as pets, training them to become powerful companions that would help defend the continent from invaders. This legacy of archer and bird companion was recorded in the ancient Masterian texts, which were later discovered by the corrupted Versal invaders. Rellik, the Twisted Master Archer of Versal, using this text as a guide, created his own twisted version of the once noble bird companions of the ancient Masterian acrhers. The Black Bird is now his servant, and it will attack by striking it&apos;s enemies with the dark fire that embodies it."/>
         <imgdir name="map">
+            <int name="0" value="610030600"/>
         </imgdir>
         <imgdir name="reward">
         </imgdir>
     </imgdir>
     <imgdir name="9400407">
-        <string name="episode" value=" "/>
+        <string name="episode" value="Lv. : 130\nForm : Reptile\nSpecial Trait : Resistant (-50%) to Fire Attribute Attacks. Vulnerable (+50%) to Lightning Attribute Attacks\n\nThe Kaede Toad is an underling of the Castellan Toad, the usurper of the Ninja Castle throne. Small and menacing, it will come to the aid of Castellan Toad whenever it is threatened. It is covered in a strange oil, which can be very valuable if traded to the right people."/>
         <imgdir name="map">
+            <int name="0" value="800040410"/>
+        </imgdir>
+        <imgdir name="reward">
+            <int name="0" value="4000343"/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="9400290">
+        <string name="episode" value="Lv. : 170\nForm : Spirit\nSpecial Trait : Resistant (-50%) to Fire and Poison Attribute Attacks. Vulnerable (+50%) to Holy Attribute Attacks\n\nOne of Auf Haven&apos;s powers is the ability to create clones of itself. Although the clone pales in comparison in power to the original, it is still a formiddable opponent, and will cause havoc when attacking in tandem with the real one."/>
+        <imgdir name="map">
+            <int name="0" value="802000806"/>
         </imgdir>
         <imgdir name="reward">
         </imgdir>
     </imgdir>
-    <imgdir name="9400290">
-        <string name="episode" value=" "/>
+    <imgdir name="8840005">
+        <string name="episode" value="Lv. : 150\nForm : Enchanted\nSpecial Trait : Vulnerable (+50%) to Holy Attribute Attacks.\n\nThe inside of Von Leon&apos;s throne room bore witness to the anguish and heartberak Von Leon felt when the old Alliance destroyed his kingdom, killed his subjects, and murdered his wife. As the sole survivor of the old Alliance attack on his kingdom, that palpable feeing of gutwrenching agony was absorbed by the stone walls of the throne room. When the Black Mage granted Von Leon his new powers, that agony was given life, and now resides inside the Mini Castle Golem. This mobile stone contains a creature of heartbreak and revenge made manifest in the form of a blood red spirit. The anger and sorrow within this creature is so concentrated, it can be felt by anyone near it. Von Leon will summon a group of these creatures to help defend the throne room. It does not have a special attack, but it is dangerous due to how Von Leon will use it. If it is not destroyed quickly, Von Leon will make it self-destruct, which will free the spirit of anger locked within. Von Leon will then absorb the spirit and use that anger to heal himself."/>
         <imgdir name="map">
+            <int name="0" value="211070100"/>
+        </imgdir>
+        <imgdir name="reward">
+        </imgdir>
+    </imgdir>
+    <imgdir name="8840001">
+        <string name="episode" value="Lv. : 150\nForm : Enchanted\nSpecial Trait : Vulnerable (+50%) to Holy Attribute Attacks. Immune to Poison Attribute Attacks.\n\nA gift to Von Leon from the Black Mage, the Demon Gargoyle is a fierce defender of the King&apos;s throne room, and will come to Von Leon&apos;s aid when he commands it. It has the ability to maipulate the magma inside the throne room and can summon slabs of molten rock from the lava to pierce and burn any unwelcome visitors. The gargoyle&apos;s ability to manipulate magma makes it a dangerous guardian, and it will protect Von Leon to the death."/>
+        <imgdir name="map">
+            <int name="0" value="211070100"/>
         </imgdir>
         <imgdir name="reward">
         </imgdir>
     </imgdir>
     <imgdir name="8840000">
+        <string name="episode" value="Lv. : 180\nForm : Spirit\nSpecial Trait : Resistant (-50%) to Fire and Ice Attribute Attacks. Vulnerable (+50%) to Holy, Lightning and Poison Attribute Attacks\n\nVon Leon was once the king of an ancient kingdom in the El Nath Mountains. When the Black Mage first began his destruction upon the Maple World, Von Leon decided not to get involved. The old Alliance that was forged to fight the Black Mage went to Von Leon to ask for his help, but Von Leon declined. Since his kingdom was small and remote, he didn&apos;t expect it to be a target of the Black Mage. The old Alliance saw Von Leon&apos;s refusal to join them as a sign that he was already corrupted by the Black Mage, and decided to raid his kingdom. Every citizen in the kingdom, including Von Leon&apos;s wife Ifia, were slain by the old Alliance soldiers, except for Von Leon himself.\n\nVon Leon, having lost his kingdom, his people and most importantly his wife, joined the Black Mage out of despair and the promise of revenge. With the new power granted to him by the Black Mage, Von Leon easily enacted his revenge upon the old Alliance, destroying them with ease.\n\nCenturies later, Von Leon still lingers in his throne room, wallowing in his madness, grief and despair. Anyone who steps foot into his castle will be met with extreme resistance from his corrupted guards. Von Leon himself was a very skilled swordsman in life, and his power has grown exponentially thanks to the Black Mage. He is an extremely powerful opponent, with devastating power, stamina and magical abilities. An expedition of strong willed Maple Heroes will be needed to topple this once-great King."/>
         <imgdir name="map">
-            <int name="0" value="271040100"/>
+            <int name="0" value="211070100"/>
         </imgdir>
         <imgdir name="reward">
+            <int name="0" value="4031533"/>
+            <int name="1" value="4009905"/>
+            <int name="2" value="4009904"/>
+            <int name="3" value="1132094"/>
+            <int name="4" value="2000005"/>
+            <int name="5" value="2000004"/>
+            <int name="6" value="2002037"/>
+            <int name="7" value="1072471"/>
+            <int name="8" value="4039054"/>
+            <int name="9" value="4039055"/>
+            <int name="10" value="4039056"/>
+            <int name="11" value="2299000"/>
+            <int name="12" value="2049003"/>
         </imgdir>
-        <string name="episode" value=""/>
     </imgdir>
 </imgdir>

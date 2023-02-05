@@ -9132,9 +9132,9 @@
             <string name="desc" value="A sheet of sketch paper that has a rainbow drawing.  \r\n#cYou can open it with your mouse by double-clicking.#"/>
         </imgdir>
         <imgdir name="4310000">
-            <string name="desc" value="Coin released in celebration of MapleRoyals&apos; 9th Anniversary. Only used during 9th Anniversary, this can be used to purchase special items from Inkie.
+            <string name="desc" value="A nice, shiny coin said to bring good fortune! It is earned by participating in the event, and can be used to get various special items!
 #cExpires when the event is over.#"/>
-            <string name="name" value="9th Anniversary Coin"/>
+            <string name="name" value="Lucky Coin"/>
         </imgdir>
         <imgdir name="4001434">
             <string name="name" value="Gachapon Food Coupon"/>
@@ -9957,8 +9957,8 @@
             <string name="desc" value="A wallet that belonged to Emperor Toad. It&apos;s bursting with riches."/>
         </imgdir>
         <imgdir name="4039005">
-            <string name="name" value="Plump Pumpkin Box"/>
-            <string name="desc" value="A Pumpkin shaped box.\n#cGive it to Witchy Woman for a reward#."/>
+            <string name="name" value="Pierre&apos;s Surprise Box"/>
+            <string name="desc" value="Pierre&apos;s Surprise Box.\n#cBring it to Malady to find out what&apos;s inside!#."/>
         </imgdir>
         <imgdir name="4031532">
             <string name="name" value="NX Cash Card - 1000 Points"/>
@@ -11044,6 +11044,34 @@
         <imgdir name="4160520">
             <string name="name" value="Pet Command Guide: Emotional Speech Bubble Pets"/>
             <string name="desc" value="A guide that contains all the commands for Emotional Speech Bubble Pets.\n#cDouble-click on the item to open the guide.#"/>
+        </imgdir>
+        <imgdir name="4009904">
+            <string name="desc" value="According to rumors, this golden medallion contains a part of Von Leon&apos;s soul."/>
+            <string name="name" value="Von Leon&apos;s Medallion"/>
+        </imgdir>
+        <imgdir name="4009905">
+            <string name="name" value="Von Leon&apos;s Parchment"/>
+            <string name="desc" value="A parchment containing indecipherable ancient scriptures."/>
+        </imgdir>
+        <imgdir name="4001528">
+            <string name="name" value="Prison Key"/>
+            <string name="desc" value="A key that can open the gates of the Aerial Prison."/>
+        </imgdir>
+        <imgdir name="4039053">
+            <string name="name" value="Burning Energy"/>
+            <string name="desc" value="Burning energy obtained from Castle Golems. A bizarre string of letters glows within the blaze."/>
+        </imgdir>
+        <imgdir name="4039054">
+            <string name="name" value="Royal Quiver Forging Manual"/>
+            <string name="desc" value="This ancient manuscript contains a language you cannot understand."/>
+        </imgdir>
+        <imgdir name="4039055">
+            <string name="name" value="Royal Throwing-Knives Forging Manual"/>
+            <string name="desc" value="This ancient manuscript contains a language you cannot understand."/>
+        </imgdir>
+        <imgdir name="4039056">
+            <string name="name" value="Royal Bullet Forging Manual"/>
+            <string name="desc" value="This ancient manuscript contains a language you cannot understand."/>
         </imgdir>
     </imgdir>
 </imgdir>

@@ -362,11 +362,11 @@
     </imgdir>
     <imgdir name="2020022">
         <string name="name" value="White Chocolate"/>
-        <string name="desc" value="A very delicious, home-made white chocolate. Attack + 5 for 30 minutes."/>
+        <string name="desc" value="A very delicious, home-made white chocolate. Attack + 30 for 30 minutes."/>
     </imgdir>
     <imgdir name="2020023">
         <string name="name" value="Dark Chocolate"/>
-        <string name="desc" value="A very delicious, home-made dark chocolate. Magic Attack + 5 for 30 minutes."/>
+        <string name="desc" value="A very delicious, home-made dark chocolate. Magic Attack + 40 for 30 minutes."/>
     </imgdir>
     <imgdir name="2020024">
         <string name="name" value="Chocolate Basket"/>
@@ -3644,51 +3644,51 @@
     </imgdir>
     <imgdir name="2070000">
         <string name="name" value="Subi Throwing-Stars"/>
-        <string name="desc" value="A throwing-star made out of steel. Once they run out, they need to be recharged.\nLevel Limit : 10, Attack + 15"/>
+        <string name="desc" value="A throwing-star made out of steel. Once they run out, they need to be recharged.\nAttack + 15"/>
     </imgdir>
     <imgdir name="2070001">
         <string name="name" value="Wolbi Throwing-Stars"/>
-        <string name="desc" value="A throwing-star made out of steel. Once they run out, they need to be recharged.\nLevel Limit : 10, Attack + 17"/>
+        <string name="desc" value="A throwing-star made out of steel. Once they run out, they need to be recharged.\nAttack + 17"/>
     </imgdir>
     <imgdir name="2070002">
         <string name="name" value="Mokbi Throwing-Stars"/>
-        <string name="desc" value="A throwing-star made out of steel. Once they run out, they need to be recharged.\nLevel Limit : 10, Attack + 19"/>
+        <string name="desc" value="A throwing-star made out of steel. Once they run out, they need to be recharged.\nAttack + 19"/>
     </imgdir>
     <imgdir name="2070003">
         <string name="name" value="Kumbi Throwing-Stars"/>
-        <string name="desc" value="A throwing-star made out of steel. Once they run out, they need to be recharged.\nLevel Limit : 10, Attack + 21"/>
+        <string name="desc" value="A throwing-star made out of steel. Once they run out, they need to be recharged.\nAttack + 21"/>
     </imgdir>
     <imgdir name="2070004">
         <string name="name" value="Tobi Throwing-Stars"/>
-        <string name="desc" value="A throwing-star made out of steel. Once they run out, they need to be recharged.\nLevel Limit : 10, Attack + 23"/>
+        <string name="desc" value="A throwing-star made out of steel. Once they run out, they need to be recharged.\nAttack + 23"/>
     </imgdir>
     <imgdir name="2070005">
         <string name="name" value="Steely Throwing-Knives"/>
-        <string name="desc" value="A throwing-star made out of steel. Once they run out, they need to be recharged.\nLevel Limit : 10, Attack + 25"/>
+        <string name="desc" value="A throwing-star made out of steel. Once they run out, they need to be recharged.\nAttack + 25"/>
     </imgdir>
     <imgdir name="2070006">
         <string name="name" value="Ilbi Throwing-Stars"/>
-        <string name="desc" value="A throwing-star made out of steel. Once they run out, they need to be recharged.\nLevel Limit : 10, Attack + 27"/>
+        <string name="desc" value="A throwing-star made out of steel. Once they run out, they need to be recharged.\nAttack + 26"/>
     </imgdir>
     <imgdir name="2070007">
         <string name="name" value="Hwabi Throwing-Stars"/>
-        <string name="desc" value="A throwing-star made out of steel. Once they run out, they need to be recharged.\nLevel Limit : 10, Attack + 27"/>
+        <string name="desc" value="A throwing-star made out of steel. Once they run out, they need to be recharged.\nAttack + 27"/>
     </imgdir>
     <imgdir name="2070008">
         <string name="name" value="Snowball"/>
-        <string name="desc" value="A well-packed snowball. Once they run out, they need to be recharged.\nLevel Limit : 10, Attack + 17"/>
+        <string name="desc" value="A well-packed snowball. Once they run out, they need to be recharged.\nAttack + 17"/>
     </imgdir>
     <imgdir name="2070009">
         <string name="name" value="Wooden Top"/>
-        <string name="desc" value="When thrown, it spins fast and flies at great speed. Once they are all used up, they need to be recharged.\nLevel Limit : 10, Attack + 19"/>
+        <string name="desc" value="When thrown, it spins fast and flies at great speed. Once they are all used up, they need to be recharged.\nAttack + 19"/>
     </imgdir>
     <imgdir name="2070010">
         <string name="name" value="Icicle"/>
-        <string name="desc" value="Sharp icicles. Once they run out, they need to be recharged.\nLevel Limit : 10, Attack + 21"/>
+        <string name="desc" value="Sharp icicles. Once they run out, they need to be recharged.\nAttack + 21"/>
     </imgdir>
     <imgdir name="2070011">
         <string name="name" value="Maple Throwing-Stars"/>
-        <string name="desc" value="Maple-shaped steel throwing-stars. Once they run out, they need to be recharged.\nLevel Limit : 10, Attack + 21"/>
+        <string name="desc" value="Maple-shaped steel throwing-stars. Once they run out, they need to be recharged.\nAttack + 21"/>
     </imgdir>
     <imgdir name="2070012">
         <string name="name" value="Paper Fighter Plane"/>
@@ -3712,7 +3712,7 @@
     </imgdir>
     <imgdir name="2070018">
         <string name="name" value="Balanced Fury"/>
-        <string name="desc" value="Ancient Shadowknight throwing stars made from black crystal.  These can be recharged when used up. \nOnly rechargeable in New Leaf City.\nAttack + 30"/>
+        <string name="desc" value="Ancient Shadowknight throwing stars made from black crystal.  These can be recharged when used up. \nAttack + 30"/>
     </imgdir>
     <imgdir name="2083000">
         <string name="name" value="Heart Megaphone"/>
@@ -9372,9 +9372,8 @@ When consumed, it permanently increases MaxHP by 200."/>
         <string name="desc" value="A bullet made out of special armors used by the Army of Robots. Mainly consists of a mysterious form of energy from space. The surface of the bullet features a unique design.\r\nAttack +22"/>
     </imgdir>
     <imgdir name="2070019">
-        <string name="name" value="Magic Throwing Knife"/>
-        <string name="desc" value="A throwing knife made out of a mysterious form of energy from outer space. Once they run out, they need to be recharged. 
-Attack +30"/>
+        <string name="name" value="Magic Throwing-Knives"/>
+        <string name="desc" value="A throwing knife made out of a mysterious form of energy from outer space. Once they run out, they need to be recharged. \nAttack + 31\n#cOnly rechargeable in Zipangu.#"/>
     </imgdir>
     <imgdir name="2040033">
         <string name="name" value="Scroll for Auf Haven Circlet for STR 60%"/>
@@ -9627,8 +9626,8 @@ Open it to see what&apos;s inside."/>
         <string name="desc" value="A card that features Bacal\n#cJump +10, Speed +10"/>
     </imgdir>
     <imgdir name="2029001">
-        <string name="name" value="Auf Haven&apos;s Cuirse"/>
-        <string name="desc" value="Auf Haven&apos;s Curse is upon you. Reducing your movement speed and blocking certain skills from functioning."/>
+        <string name="name" value="Auf Haven Squad : Victory"/>
+        <string name="desc" value="Weapon Attack +30, Magic Attack +40, Weapon Defense +200, Magic Defense +200 for one hour."/>
     </imgdir>
     <imgdir name="2386088">
         <string name="desc" value="A card that features Mossy Snail.\n#cWhen hunting at Ellin Forest\nSpeed +20, Jump +10"/>
@@ -9712,7 +9711,7 @@ Open it to see what&apos;s inside."/>
     </imgdir>
     <imgdir name="2030021">
         <string name="name" value="The Knight&apos;s Magic Scroll"/>
-        <string name="desc" value="A scroll that the Red Lion King gave to his knights. When used, you will move to the Audience Room of the Red Lion King."/>
+        <string name="desc" value="A scroll that the Lion King gave to his knights. When used, you will move to the Audience Room Coridoor of the Lion King."/>
     </imgdir>
     <imgdir name="2430159">
         <string name="name" value="Alcaster&apos;s Crystal"/>
@@ -9771,7 +9770,7 @@ Open it to see what&apos;s inside."/>
         <string name="desc" value="A freaky icecream cone that looks like a slime. Recovers 7000 MP."/>
     </imgdir>
     <imgdir name="2439008">
-        <string name="desc" value="Warp all players on current map to Rising Tides or Seahorse Race"/>
+        <string name="desc" value="Warp all players on current map to specific GM event maps."/>
         <string name="name" value="GM Event Warp"/>
     </imgdir>
     <imgdir name="2439009">
@@ -9781,12 +9780,6 @@ Open it to see what&apos;s inside."/>
     <imgdir name="2439010">
         <string name="name" value="GM Event Jukebox"/>
         <string name="desc" value="Broadcast a song to the map."/>
-    </imgdir>
-    <imgdir name="2109504">
-        <string name="name" value="Summon Von Leon 1"/>
-    </imgdir>
-    <imgdir name="2109505">
-        <string name="name" value="Summon Von Leon 2"/>
     </imgdir>
     <imgdir name="2439011">
         <string name="name" value="Christmas Present"/>
@@ -9961,6 +9954,67 @@ Open it to see what&apos;s inside."/>
     </imgdir>
     <imgdir name="2388146">
         <string name="name" value="Von Leon Card "/>
-        <string name="desc" value="A card featuring Von Leon."/>
+        <string name="desc" value="A card featuring Von Leon.\n#cWhen hunting at El Nath Mts and Lionheart Castle\nItem/Meso Drop rate will be increased by 50%"/>
+    </imgdir>
+    <imgdir name="2049115">
+        <string name="name" value="Von Leon&apos;s Chaos Scroll"/>
+        <string name="desc" value="A scroll which can only be used on Von Leon&apos;s Belt.\nSuccess rate: 60%\nIf successful, stats will increase or decrease by a maximum of 2."/>
+    </imgdir>
+    <imgdir name="2109400">
+        <string name="name" value="Summon Von Leon 1"/>
+    </imgdir>
+    <imgdir name="2109401">
+        <string name="name" value="Summon Von Leon 2"/>
+    </imgdir>
+    <imgdir name="2109402">
+        <string name="name" value="Summon Von Leon 3"/>
+    </imgdir>
+    <imgdir name="2041320">
+        <string name="desc" value="A stone containing powerful forces of Von Leon. Can only be used on Von Leon&apos;s Belt.\nSuccess rate:100%, W.Atk +2, M.Atk +8.\n#cCan only be used when 5 upgrade slots are remaining.#"/>
+        <string name="name" value="Von Leon&apos;s Soul"/>
+    </imgdir>
+    <imgdir name="2060007">
+        <string name="name" value="Royal Bow Quiver"/>
+        <string name="desc" value="A bow quiver made using a secret method known only to the King of Lionheart Castle. These can be recharged when used up.\nAttack + 12"/>
+    </imgdir>
+    <imgdir name="2061005">
+        <string name="name" value="Royal Crossbow Quiver"/>
+        <string name="desc" value="A crossbow quiver made using a secret method known only to the King of Lionheart Castle. These can be recharged when used up.\nAttack + 12"/>
+    </imgdir>
+    <imgdir name="2070024">
+        <string name="name" value="Royal Throwing-Knives"/>
+        <string name="desc" value="A throwing-knife made using a secret method known only to the King of Lionheart Castle. These can be recharged when used up. \nAttack + 32"/>
+    </imgdir>
+    <imgdir name="2330008">
+        <string name="name" value="Royal Bullet"/>
+        <string name="desc" value="A bullet made using a secret method known only to the King of Lionheart Castle. These can be recharged when used up.\nAttack + 24"/>
+    </imgdir>
+    <imgdir name="2029002">
+        <string name="name" value="Von Leon Squad : Victory"/>
+        <string name="desc" value="Weapon Attack +40, Magic Attack +60, Weapon Defense +250, Magic Defense +250 for one hour."/>
+    </imgdir>
+    <imgdir name="2387211">
+        <string name="name" value="Demon Gargoyle Card"/>
+        <string name="desc" value="A card that features Demon Gargoyle."/>
+    </imgdir>
+    <imgdir name="2387212">
+        <string name="name" value="Mini Castle Golem Card"/>
+        <string name="desc" value="A card that features Mini Castle Golem."/>
+    </imgdir>
+    <imgdir name="2299000">
+        <string name="desc" value="With a 50% success rate, raises the Mastery Level of #cHero&apos;s Will# to 10.\nJob: All\nCondition: Min Skill Lv. 5"/>
+        <string name="name" value="[Mastery Book] Hero&apos;s Will 10"/>
+    </imgdir>
+    <imgdir name="2002037">
+        <string name="desc" value="Have a taste of the dark matter that transformed Von Leon into his raging lion form yourself. [Gives +140 Weapon Attack for 15 minutes]"/>
+        <string name="name" value="Von Leon&apos;s Sippable Soul Substance"/>
+    </imgdir>
+    <imgdir name="2029005">
+        <string name="desc" value="Increases Physical Attack Power by 100 and Magic Attack Power by 100 for 2 minutes."/>
+        <string name="name" value="A Flurry of Powerful Snow"/>
+    </imgdir>
+    <imgdir name="2210999">
+        <string name="name" value="CCTV Transformation"/>
+        <string name="desc" value="Full-featured weatherproof security camera monitored by TimK."/>
     </imgdir>
 </imgdir>
