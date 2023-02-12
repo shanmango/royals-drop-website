@@ -24,7 +24,7 @@ jobs:
           npm run build --omit=dev
           rm -rf ../backend/build
           cp -r build ../backend/build
-        working-directory: ./backend
+        working-directory: ./frontend
       - name: deploy app
         working-directory: ./backend
         run: flyctl deploy --remote-only
