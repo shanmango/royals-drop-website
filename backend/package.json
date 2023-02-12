@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "dev": "nodemon index.js",
     "build:ui": "rm -rf build && cd ../frontend/ && npm run build --prod && cp -r build ../backend/build",
-    "deploy": "cd .. && git add --all && git commit -am \"Update build for heroku \" && git push && git subtree push --prefix backend heroku master",
+    "deploy": "cd .. && git add --all && git commit -am \"Update frontend build \" && git push",
     "deploy:full": "npm run build:ui && npm run deploy"
 
   },
