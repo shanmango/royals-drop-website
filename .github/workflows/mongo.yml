@@ -23,13 +23,5 @@ jobs:
       - name: Start Express server
         run: |
           npm install
-          npm start &
-        working-directory: ./parser/parser-backend
-
-      - name: Wait for server
-        run: npx wait-on http://127.0.0.1:3000
-
-      - name: Upload data
-        run: |
-          curl -X POST http://127.0.0.1:3000/api/mobs/ci/
-          curl -X POST http://127.0.0.1:3000/api/items/ci/
+          npm start
+        working-directory: ./parser/parser-backend  
