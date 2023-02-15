@@ -21,7 +21,6 @@ server.listen(config.PORT, () => {
 
     const body = JSON.parse(data)
     await Item.collection.drop()
-    console.log(body)
     await Mob.insertMany(body)
     console.log('mass insertion of items complete')
   })
@@ -35,7 +34,6 @@ server.listen(config.PORT, () => {
 
     const body = JSON.parse(data)
     await Mob.collection.drop()
-    console.log(body)
     await Mob.insertMany(body)
     console.log('mass insertion of mobs complete')
   })
