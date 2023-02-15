@@ -16,8 +16,8 @@ const main = async () => {
   mobs = merger.mergeItemsIntoMobs(mobs, items)
   items = merger.mergeMobsIntoItems(mobsCopy, items)
   const itemArray = itemFormatter.formatObjectsToArray(items)
-  serverWriter.writeToServer(mobs, 'mobs')
-  serverWriter.writeToServer(itemArray, 'items')
+  // serverWriter.writeToServer(mobs, 'mobs')
+  // serverWriter.writeToServer(itemArray, 'items')
 
   
   makeDataFile('./jsondata/mobs.json', mobs)
