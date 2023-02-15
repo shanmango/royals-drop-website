@@ -3,7 +3,7 @@ name: Upload to MongoDB
 on:
   push:
     branches:
-      - main
+      - test-db-upload
     paths:
       - parser/jsondata/**
 
