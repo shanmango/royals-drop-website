@@ -19,10 +19,14 @@ server.listen(config.PORT, () => {
       return
     }
 
-    const body = JSON.parse(data)
-    await Item.collection.drop()
-    await Mob.insertMany(body)
-    console.log('mass insertion of items complete')
+    try {
+      const body = JSON.parse(data)
+      await Item.collection.drop()
+      await Mob.insertMany(body)
+      console.log('mass insertion of items complete')
+    } catch (err) {
+      console.err(err)
+    }
   })
 
   // insert mobs
@@ -31,10 +35,13 @@ server.listen(config.PORT, () => {
       console.err(err);
       return
     }
-
-    const body = JSON.parse(data)
-    await Mob.collection.drop()
-    await Mob.insertMany(body)
-    console.log('mass insertion of mobs complete')
+    try {
+      const body = JSON.parse(data)
+      await Mob.collection.drop()
+      await Mob.insertMany(body)
+      console.log('mass insertion of mobs complete')
+    } catch (err) {
+      console.err(err)
+    }
   })
 })
