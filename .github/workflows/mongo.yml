@@ -8,7 +8,7 @@ on:
       - parser/jsondata/**
 
 env:
-  MONGODB_URI: ${{ secrets.MONGODB_TEST_URI }}
+  MONGODB_TEST_URI: ${{ secrets.MONGODB_TEST_URI }}
 
 jobs:
   build:
