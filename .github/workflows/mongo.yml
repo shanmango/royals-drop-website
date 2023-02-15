@@ -9,6 +9,7 @@ on:
 
 env:
   MONGODB_TEST_URI: ${{ secrets.MONGODB_TEST_URI }}
+  PORT: 3000
 
 jobs:
   build:
