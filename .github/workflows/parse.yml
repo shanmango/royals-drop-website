@@ -2,7 +2,7 @@ name: Parse Data
 on:
   push:
     branches:
-      - main
+      - test-db-upload
     paths:
       - parser/data/**
 
