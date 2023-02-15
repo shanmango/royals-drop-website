@@ -1,0 +1,40 @@
+name: Parse Data
+on:
+  push:
+    branches:
+      - test
+    paths:
+      - parser/data/**
+
+env:
+  EMAIL: ${{ secrets.USER_EMAIL }}
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+jobs:
+  build:
+    name: Parse and generate game data
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+      with:
+        node-version: 16
+      - name: Parse data
+        run: |
+          npm install
+          npm start
+        working-directory: ./parser
+      - name: Configure Git
+        run: |
+          git config --global user.name "shanmango"
+          git config --global user.email $EMAIL
+
+      - name: Push game data to repo
+        run: |
+          git add --all
+          git commit -m "new json files"
+      
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: "test"
