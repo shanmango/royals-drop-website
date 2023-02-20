@@ -15,7 +15,7 @@ server.listen(config.PORT, () => {
   // insert items
   fs.readFile('../jsondata/itemArray.json', 'utf8', async (err, data) => {
     if (err) {
-      console.err(err);
+      console.error(err)
       return
     }
 
@@ -25,14 +25,14 @@ server.listen(config.PORT, () => {
       await Mob.insertMany(body)
       console.log('mass insertion of items complete')
     } catch (err) {
-      console.err(err)
+      console.error(err)
     }
   })
 
   // insert mobs
   fs.readFile('../jsondata/mobs.json', 'utf8', async (err, data) => {
     if (err) {
-      console.err(err);
+      console.error(err)
       return
     }
     try {
@@ -41,7 +41,7 @@ server.listen(config.PORT, () => {
       await Mob.insertMany(body)
       console.log('mass insertion of mobs complete')
     } catch (err) {
-      console.err(err)
+      console.error(err)
     }
   })
 })

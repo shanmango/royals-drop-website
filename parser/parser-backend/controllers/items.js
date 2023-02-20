@@ -21,7 +21,7 @@ itemsRouter.post('/ci', async (req, res) => {
   await Mob.collection.drop()
   fs.readFile('../jsondata/itemArray.json', 'utf8', async (err, data) => {
     if (err) {
-      console.err(err);
+      console.error(err)
       res.status(500).send({ message: 'Cannot read itemArray.json'})
       return
     }
