@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <imgdir name="Mob.img">
     <imgdir name="100100">
-        <string name="name" value="Snails"/>
+        <string name="name" value="Snailz"/>
     </imgdir>
     <imgdir name="100101">
         <string name="name" value="Blue Snail"/>
