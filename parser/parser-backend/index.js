@@ -22,7 +22,7 @@ server.listen(config.PORT, () => {
     try {
       const body = JSON.parse(data)
       await Item.collection.drop()
-      await Mob.insertMany(body)
+      await Item.insertMany(body)
       console.log('mass insertion of items complete')
     } catch (err) {
       console.error(err)
