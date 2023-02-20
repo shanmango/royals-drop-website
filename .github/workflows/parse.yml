@@ -8,7 +8,7 @@ on:
 
 env:
   EMAIL: ${{ secrets.USER_EMAIL }}
-  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 jobs:
   build:
     name: Parse and generate game data
@@ -36,5 +36,5 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GH_TOKEN }}
           branch: "test-db-upload"
